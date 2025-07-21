@@ -639,6 +639,16 @@
             "guid": "NaGt)u6Sb3",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This is a github test",
+                "yes"
+            ],
+            "guid": "v/X8|5a,Zp",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
         }
     ],
     "reviewLimit": null,
