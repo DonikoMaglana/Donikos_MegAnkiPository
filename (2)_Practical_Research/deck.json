@@ -1,0 +1,1095 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "d81d8c54-6617-11f0-8bc1-f5d300799d77",
+    "deck_config_uuid": "54cc010a-6617-11f0-8bc1-f5d300799d77",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "54cc010a-6617-11f0-8bc1-f5d300799d77",
+            "desiredRetention": 0.92,
+            "dyn": false,
+            "easyDaysPercentages": [
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "fsrsParams5": [
+                0.4026,
+                1.1839,
+                3.173,
+                15.691,
+                7.1949,
+                0.5345,
+                1.4604,
+                0.0046,
+                1.5458,
+                0.1192,
+                1.0193,
+                1.9395,
+                0.11,
+                0.2961,
+                2.2698,
+                0.2315,
+                2.9898,
+                0.5166,
+                0.6621
+            ],
+            "fsrsWeights": [],
+            "ignoreRevlogsBeforeDate": "1970-01-01",
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 1174,
+            "name": "Curricular Subs GPT Preset",
+            "new": {
+                "bury": true,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 9999
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 4,
+            "questionAction": 0,
+            "replayq": true,
+            "rev": {
+                "bury": true,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": true,
+            "weightSearch": ""
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [
+        "0176e835beab4ada8390210c5fe0a1ab-ao-1-A.svg",
+        "0176e835beab4ada8390210c5fe0a1ab-ao-1-Q.svg",
+        "0176e835beab4ada8390210c5fe0a1ab-ao-2-A.svg",
+        "0176e835beab4ada8390210c5fe0a1ab-ao-2-Q.svg",
+        "0176e835beab4ada8390210c5fe0a1ab-ao-3-A.svg",
+        "0176e835beab4ada8390210c5fe0a1ab-ao-3-Q.svg",
+        "0176e835beab4ada8390210c5fe0a1ab-ao-4-A.svg",
+        "0176e835beab4ada8390210c5fe0a1ab-ao-4-Q.svg",
+        "0176e835beab4ada8390210c5fe0a1ab-ao-5-A.svg",
+        "0176e835beab4ada8390210c5fe0a1ab-ao-5-Q.svg",
+        "0176e835beab4ada8390210c5fe0a1ab-ao-6-A.svg",
+        "0176e835beab4ada8390210c5fe0a1ab-ao-6-Q.svg",
+        "0176e835beab4ada8390210c5fe0a1ab-ao-O.svg",
+        "6ee5a6f5e843436b961a00f05ebee03d-ao-1-A.svg",
+        "6ee5a6f5e843436b961a00f05ebee03d-ao-1-Q.svg",
+        "6ee5a6f5e843436b961a00f05ebee03d-ao-2-A.svg",
+        "6ee5a6f5e843436b961a00f05ebee03d-ao-2-Q.svg",
+        "6ee5a6f5e843436b961a00f05ebee03d-ao-3-A.svg",
+        "6ee5a6f5e843436b961a00f05ebee03d-ao-3-Q.svg",
+        "6ee5a6f5e843436b961a00f05ebee03d-ao-4-A.svg",
+        "6ee5a6f5e843436b961a00f05ebee03d-ao-4-Q.svg",
+        "6ee5a6f5e843436b961a00f05ebee03d-ao-5-A.svg",
+        "6ee5a6f5e843436b961a00f05ebee03d-ao-5-Q.svg",
+        "6ee5a6f5e843436b961a00f05ebee03d-ao-6-A.svg",
+        "6ee5a6f5e843436b961a00f05ebee03d-ao-6-Q.svg",
+        "6ee5a6f5e843436b961a00f05ebee03d-ao-O.svg",
+        "bdb2bce233624701b86a8410ccc01281-oa-1-A.svg",
+        "bdb2bce233624701b86a8410ccc01281-oa-1-Q.svg",
+        "bdb2bce233624701b86a8410ccc01281-oa-2-A.svg",
+        "bdb2bce233624701b86a8410ccc01281-oa-2-Q.svg",
+        "bdb2bce233624701b86a8410ccc01281-oa-3-A.svg",
+        "bdb2bce233624701b86a8410ccc01281-oa-3-Q.svg",
+        "bdb2bce233624701b86a8410ccc01281-oa-4-A.svg",
+        "bdb2bce233624701b86a8410ccc01281-oa-4-Q.svg",
+        "bdb2bce233624701b86a8410ccc01281-oa-O.svg",
+        "d4c865d7e62947e8a0d89e8d7b9d5716-ao-1-A.svg",
+        "d4c865d7e62947e8a0d89e8d7b9d5716-ao-1-Q.svg",
+        "d4c865d7e62947e8a0d89e8d7b9d5716-ao-2-A.svg",
+        "d4c865d7e62947e8a0d89e8d7b9d5716-ao-2-Q.svg",
+        "d4c865d7e62947e8a0d89e8d7b9d5716-ao-O.svg",
+        "tmp1sx46ae5.jpg",
+        "tmpmf3mxwyd.jpg",
+        "tmpo1uczbfk.jpg",
+        "tmpql2empwx.jpg"
+    ],
+    "name": "(2) Practical Research",
+    "newLimit": null,
+    "newLimitToday": null,
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "6bba29fa-6617-11f0-8bc1-f5d300799d77",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n.cloze {\n    font-weight: bold;\n    color: blue;\n}\n.nightMode .cloze {\n    color: lightblue;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 7523981533223318869,
+                    "name": "Text",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": true,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": 0
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 5761133438547351539,
+                    "name": "Back Extra",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": 1
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Cloze",
+            "originalStockKind": 5,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Back Extra}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": 6736665360465185638,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -3440420830186103260,
+                    "name": "Front",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -2982641992784944465,
+                    "name": "Back",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic",
+            "originalStockKind": 1,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": -4396753340091107072,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 4276830686695405618,
+                    "name": "ID (hidden)",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -8423806317983731171,
+                    "name": "Header",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -8811092638739467370,
+                    "name": "Image",
+                    "ord": 2,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -1459745429132488980,
+                    "name": "Question Mask",
+                    "ord": 3,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 1903848615296631885,
+                    "name": "Footer",
+                    "ord": 4,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 7023939152917691849,
+                    "name": "Remarks",
+                    "ord": 5,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 6839405201044522688,
+                    "name": "Sources",
+                    "ord": 6,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -8086051215513847846,
+                    "name": "Extra 1",
+                    "ord": 7,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 9114646999184513046,
+                    "name": "Extra 2",
+                    "ord": 8,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -2489607952834384889,
+                    "name": "Answer Mask",
+                    "ord": 9,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 2958366801571232280,
+                    "name": "Original Mask",
+                    "ord": 10,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Image Occlusion Enhanced",
+            "originalStockKind": 1,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 1,
+            "tmpls": [
+                {
+                    "afmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n\n<script>\n// Toggle answer mask on clicking the image\nvar toggle = function() {\n  var amask = document.getElementById('io-overlay');\n  if (amask.style.display === 'block' || amask.style.display === '')\n    amask.style.display = 'none';\n  else\n    amask.style.display = 'block'\n}\n\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": 1255219982988685902,
+                    "name": "IO Card",
+                    "ord": 0,
+                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
+                }
+            ],
+            "type": 0
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "RESEARCH is basically the {{c1::systematic study}} to know, understand, or establish the {{c1::TRUTH}}.",
+                ""
+            ],
+            "guid": "x;j*tI3Iv;",
+            "note_model_uuid": "6bba29fa-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What do you call the hierarchy of HOTS?",
+                "Bloom's taxonomy"
+            ],
+            "guid": "pwqeUduK,a",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Give me the 6 components of bloom's taxonomy from lowest to highest",
+                "Remember, Understand, Apply, Analyze, Evaluate, Create"
+            ],
+            "guid": "Bm)lVvEc>{",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Truth that is true to all",
+                "Objective"
+            ],
+            "guid": "Bkg:<ogC~L",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Truth that is true to self only",
+                "Subjective"
+            ],
+            "guid": "r#<<)=m<E>",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The point of doing research is the {{c1::generation}} of knowledge through the {{c1::spiral}}&nbsp;process of involving yourself into intensive critical thinking.",
+                ""
+            ],
+            "guid": "iT+{k:*I`5",
+            "note_model_uuid": "6bba29fa-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Research can be used to look at&nbsp; a solution to&nbsp; a problem that can be used as the basis for?",
+                "Policy formulation"
+            ],
+            "guid": "m5:FZv~jsk",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which characteristic of research is this? Constant review",
+                "Tentative"
+            ],
+            "guid": "tM508gv$Bq",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which characteristic of research is this? researchable",
+                "empirically verifiable"
+            ],
+            "guid": "C$4OYWejZ/",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which characteristic of research is this? what harm or risk involved to respondents; confidentiality and privacy",
+                "ethically neutral"
+            ],
+            "guid": "zZcsS1aj%5",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The responses to quantitative questions are what kind of responses?",
+                "definite responses"
+            ],
+            "guid": "vW2^#h~7?H",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Data taken (and its result) from a sample can be<br>assumed to apply to the population if sampling is<br>done accordingly, i.e., sufficient size and random<br>samples were taken. This cannot be done in a<br>Qualitative research. <br><br>Which characteristic of quanti research is this?",
+                "Generalized Data"
+            ],
+            "guid": "e}JnSq8rf!",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Means being able to measure what you intend to measure",
+                "validity"
+            ],
+            "guid": "x(X|$Vma=K",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This adjective means \"validated thoroughly\"",
+                "standardized"
+            ],
+            "guid": "q(T`~3a>_S",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This term is defined as the consistency of results",
+                "Reliability"
+            ],
+            "guid": "AwP?`[e@Oc",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Refers to quantitative research ability to make inferences",
+                "Predictive ability"
+            ],
+            "guid": "Q+8(N3tUaK",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "bdb2bce233624701b86a8410ccc01281-oa-1",
+                "",
+                "<img src=\"tmpmf3mxwyd.jpg\" />",
+                "<img src=\"bdb2bce233624701b86a8410ccc01281-oa-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"bdb2bce233624701b86a8410ccc01281-oa-1-A.svg\" />",
+                "<img src=\"bdb2bce233624701b86a8410ccc01281-oa-O.svg\">"
+            ],
+            "guid": "Palb>07Hqt",
+            "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "bdb2bce233624701b86a8410ccc01281-oa-2",
+                "",
+                "<img src=\"tmpmf3mxwyd.jpg\" />",
+                "<img src=\"bdb2bce233624701b86a8410ccc01281-oa-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"bdb2bce233624701b86a8410ccc01281-oa-2-A.svg\" />",
+                "<img src=\"bdb2bce233624701b86a8410ccc01281-oa-O.svg\">"
+            ],
+            "guid": "Q3R5MgKm/0",
+            "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "bdb2bce233624701b86a8410ccc01281-oa-3",
+                "",
+                "<img src=\"tmpmf3mxwyd.jpg\" />",
+                "<img src=\"bdb2bce233624701b86a8410ccc01281-oa-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"bdb2bce233624701b86a8410ccc01281-oa-3-A.svg\">",
+                "<img src=\"bdb2bce233624701b86a8410ccc01281-oa-O.svg\" />"
+            ],
+            "guid": "pg^`8H9t@!",
+            "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "bdb2bce233624701b86a8410ccc01281-oa-4",
+                "",
+                "<img src=\"tmpmf3mxwyd.jpg\" />",
+                "<img src=\"bdb2bce233624701b86a8410ccc01281-oa-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"bdb2bce233624701b86a8410ccc01281-oa-4-A.svg\">",
+                "<img src=\"bdb2bce233624701b86a8410ccc01281-oa-O.svg\" />"
+            ],
+            "guid": "NDtfD5KD%+",
+            "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A variable is a variation within the {{c1::class of objects}}",
+                ""
+            ],
+            "guid": "K.orpHi8Y@",
+            "note_model_uuid": "6bba29fa-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A {{c1::categorical}} variable does not vary in degree, amount, or quantity, but are qualitatively different",
+                ""
+            ],
+            "guid": "f.EF_iKjbX",
+            "note_model_uuid": "6bba29fa-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A {{c1::quantitative}} variable is conceptualized and analyzed in distant categories, with no continuum implied",
+                ""
+            ],
+            "guid": "PG~F4j>mZ8",
+            "note_model_uuid": "6bba29fa-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Defined as the presumed/possible cause",
+                "Independent variable"
+            ],
+            "guid": "PGJGs+#JDq",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Defined as the presumed results",
+                "Dependent variable"
+            ],
+            "guid": "n-m%%u*yJD",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "d4c865d7e62947e8a0d89e8d7b9d5716-ao-1",
+                "",
+                "<img src=\"tmpql2empwx.jpg\" />",
+                "<img src=\"d4c865d7e62947e8a0d89e8d7b9d5716-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"d4c865d7e62947e8a0d89e8d7b9d5716-ao-1-A.svg\" />",
+                "<img src=\"d4c865d7e62947e8a0d89e8d7b9d5716-ao-O.svg\">"
+            ],
+            "guid": "C_=8x#stUA",
+            "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "d4c865d7e62947e8a0d89e8d7b9d5716-ao-2",
+                "",
+                "<img src=\"tmpql2empwx.jpg\" />",
+                "<img src=\"d4c865d7e62947e8a0d89e8d7b9d5716-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"d4c865d7e62947e8a0d89e8d7b9d5716-ao-2-A.svg\" />",
+                "<img src=\"d4c865d7e62947e8a0d89e8d7b9d5716-ao-O.svg\" />"
+            ],
+            "guid": "ey|%~.Wf3,",
+            "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A precise, testable statement of what the researcher(s) predict will be the<br>outcome of the study.",
+                "Hypothesis"
+            ],
+            "guid": "C!Ap7^}VGl",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A hypothesis usually involves proposing a {{c1::possible relationship between two variables}}.",
+                ""
+            ],
+            "guid": "bM!,#s!K=G",
+            "note_model_uuid": "6bba29fa-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This states that there is a relationship between the two variables being studied",
+                "Alternative hypothesis"
+            ],
+            "guid": "B]v3/%U_F9",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This hypothesis states that there is no relationship between<br>the two variables being studied",
+                "Null hypothesis"
+            ],
+            "guid": "s&I-77N[0N",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the 3 main parts of a research title?",
+                "Cause + Effect + Possible Respondents"
+            ],
+            "guid": "B|L55LnKg7",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "6ee5a6f5e843436b961a00f05ebee03d-ao-1",
+                "",
+                "<img src=\"tmpo1uczbfk.jpg\" />",
+                "<img src=\"6ee5a6f5e843436b961a00f05ebee03d-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"6ee5a6f5e843436b961a00f05ebee03d-ao-1-A.svg\">",
+                "<img src=\"6ee5a6f5e843436b961a00f05ebee03d-ao-O.svg\">"
+            ],
+            "guid": "L6ZvwK#e{C",
+            "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "6ee5a6f5e843436b961a00f05ebee03d-ao-2",
+                "",
+                "<img src=\"tmpo1uczbfk.jpg\" />",
+                "<img src=\"6ee5a6f5e843436b961a00f05ebee03d-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"6ee5a6f5e843436b961a00f05ebee03d-ao-2-A.svg\" />",
+                "<img src=\"6ee5a6f5e843436b961a00f05ebee03d-ao-O.svg\" />"
+            ],
+            "guid": "IY}&GoN+7+",
+            "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "6ee5a6f5e843436b961a00f05ebee03d-ao-3",
+                "",
+                "<img src=\"tmpo1uczbfk.jpg\" />",
+                "<img src=\"6ee5a6f5e843436b961a00f05ebee03d-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"6ee5a6f5e843436b961a00f05ebee03d-ao-3-A.svg\">",
+                "<img src=\"6ee5a6f5e843436b961a00f05ebee03d-ao-O.svg\" />"
+            ],
+            "guid": "Pif^2C)H7",
+            "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "6ee5a6f5e843436b961a00f05ebee03d-ao-4",
+                "",
+                "<img src=\"tmpo1uczbfk.jpg\" />",
+                "<img src=\"6ee5a6f5e843436b961a00f05ebee03d-ao-4-Q.svg\">",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"6ee5a6f5e843436b961a00f05ebee03d-ao-4-A.svg\">",
+                "<img src=\"6ee5a6f5e843436b961a00f05ebee03d-ao-O.svg\">"
+            ],
+            "guid": "+<=GW{w5$",
+            "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "6ee5a6f5e843436b961a00f05ebee03d-ao-5",
+                "",
+                "<img src=\"tmpo1uczbfk.jpg\" />",
+                "<img src=\"6ee5a6f5e843436b961a00f05ebee03d-ao-5-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"6ee5a6f5e843436b961a00f05ebee03d-ao-5-A.svg\">",
+                "<img src=\"6ee5a6f5e843436b961a00f05ebee03d-ao-O.svg\" />"
+            ],
+            "guid": "qe*%)4}Bvj",
+            "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "6ee5a6f5e843436b961a00f05ebee03d-ao-6",
+                "",
+                "<img src=\"tmpo1uczbfk.jpg\" />",
+                "<img src=\"6ee5a6f5e843436b961a00f05ebee03d-ao-6-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"6ee5a6f5e843436b961a00f05ebee03d-ao-6-A.svg\">",
+                "<img src=\"6ee5a6f5e843436b961a00f05ebee03d-ao-O.svg\" />"
+            ],
+            "guid": "G;cdyH#rp}",
+            "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "0176e835beab4ada8390210c5fe0a1ab-ao-1",
+                "",
+                "<img src=\"tmp1sx46ae5.jpg\" />",
+                "<img src=\"0176e835beab4ada8390210c5fe0a1ab-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"0176e835beab4ada8390210c5fe0a1ab-ao-1-A.svg\" />",
+                "<img src=\"0176e835beab4ada8390210c5fe0a1ab-ao-O.svg\">"
+            ],
+            "guid": "kuX(BgFcDi",
+            "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "0176e835beab4ada8390210c5fe0a1ab-ao-2",
+                "",
+                "<img src=\"tmp1sx46ae5.jpg\" />",
+                "<img src=\"0176e835beab4ada8390210c5fe0a1ab-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"0176e835beab4ada8390210c5fe0a1ab-ao-2-A.svg\" />",
+                "<img src=\"0176e835beab4ada8390210c5fe0a1ab-ao-O.svg\" />"
+            ],
+            "guid": "iWiG:0}>x|",
+            "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "0176e835beab4ada8390210c5fe0a1ab-ao-3",
+                "",
+                "<img src=\"tmp1sx46ae5.jpg\">",
+                "<img src=\"0176e835beab4ada8390210c5fe0a1ab-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"0176e835beab4ada8390210c5fe0a1ab-ao-3-A.svg\">",
+                "<img src=\"0176e835beab4ada8390210c5fe0a1ab-ao-O.svg\">"
+            ],
+            "guid": "l#$8V^V+H:",
+            "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "0176e835beab4ada8390210c5fe0a1ab-ao-4",
+                "",
+                "<img src=\"tmp1sx46ae5.jpg\" />",
+                "<img src=\"0176e835beab4ada8390210c5fe0a1ab-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"0176e835beab4ada8390210c5fe0a1ab-ao-4-A.svg\" />",
+                "<img src=\"0176e835beab4ada8390210c5fe0a1ab-ao-O.svg\">"
+            ],
+            "guid": "IL>hvs/}2$",
+            "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "0176e835beab4ada8390210c5fe0a1ab-ao-5",
+                "",
+                "<img src=\"tmp1sx46ae5.jpg\" />",
+                "<img src=\"0176e835beab4ada8390210c5fe0a1ab-ao-5-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"0176e835beab4ada8390210c5fe0a1ab-ao-5-A.svg\" />",
+                "<img src=\"0176e835beab4ada8390210c5fe0a1ab-ao-O.svg\" />"
+            ],
+            "guid": "z>&>>u3zD&",
+            "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "0176e835beab4ada8390210c5fe0a1ab-ao-6",
+                "",
+                "<img src=\"tmp1sx46ae5.jpg\" />",
+                "<img src=\"0176e835beab4ada8390210c5fe0a1ab-ao-6-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"0176e835beab4ada8390210c5fe0a1ab-ao-6-A.svg\">",
+                "<img src=\"0176e835beab4ada8390210c5fe0a1ab-ao-O.svg\" />"
+            ],
+            "guid": "L%@8(*!4v<",
+            "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        }
+    ],
+    "reviewLimit": null,
+    "reviewLimitToday": null
+}

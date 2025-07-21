@@ -1,0 +1,556 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "9679ded8-6617-11f0-8bc1-f5d300799d77",
+    "deck_config_uuid": "54cc010a-6617-11f0-8bc1-f5d300799d77",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "54cc010a-6617-11f0-8bc1-f5d300799d77",
+            "desiredRetention": 0.92,
+            "dyn": false,
+            "easyDaysPercentages": [
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "fsrsParams5": [
+                0.4026,
+                1.1839,
+                3.173,
+                15.691,
+                7.1949,
+                0.5345,
+                1.4604,
+                0.0046,
+                1.5458,
+                0.1192,
+                1.0193,
+                1.9395,
+                0.11,
+                0.2961,
+                2.2698,
+                0.2315,
+                2.9898,
+                0.5166,
+                0.6621
+            ],
+            "fsrsWeights": [],
+            "ignoreRevlogsBeforeDate": "1970-01-01",
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 1174,
+            "name": "Curricular Subs GPT Preset",
+            "new": {
+                "bury": true,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 9999
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 4,
+            "questionAction": 0,
+            "replayq": true,
+            "rev": {
+                "bury": true,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": true,
+            "weightSearch": ""
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [],
+    "name": "(2) Pagsulat",
+    "newLimit": null,
+    "newLimitToday": null,
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -3440420830186103260,
+                    "name": "Front",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -2982641992784944465,
+                    "name": "Back",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic",
+            "originalStockKind": 1,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": -4396753340091107072,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "6bba29fa-6617-11f0-8bc1-f5d300799d77",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n.cloze {\n    font-weight: bold;\n    color: blue;\n}\n.nightMode .cloze {\n    color: lightblue;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 7523981533223318869,
+                    "name": "Text",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": true,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": 0
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 5761133438547351539,
+                    "name": "Back Extra",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": 1
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Cloze",
+            "originalStockKind": 5,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Back Extra}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": 6736665360465185638,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ang pagsulat ay pagsasalin (translate) sa papel o sa ano<br>mang kasangkapang maaaring magamit na<br>mapagsasalinan ng mga nabuong salita,<br>simbolo at ilustrasyon ng isang tao o mga tao<br>sa layuning maipahayag ang kanyang/kanilang<br>kaisipan.<br><br>Who said this and when?",
+                "Bernales, 2017"
+            ],
+            "guid": "wlz5yIeu~e",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ang pagsulat ay isang <b>komprehensibong<br>kakayahang </b>naglalaman ng wastong gamit,<br>talasalitaan, pagbubuo ng kaisipan, retorika at<br>iba pang mga elemento.<br><br>Who said this?",
+                "Xing at Jin"
+            ],
+            "guid": "je_jwpJ.{U",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ayon kina Peck at Buckingham, ano ang tatlong kaugnay ng pagsulat?",
+                "pakikinig, pagsasalita, at pagbasa"
+            ],
+            "guid": "B[{z!Q*=:S",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ang kakayahan sa<br>pagsulat nang mabisa ay isang <b>bagay na totoong<br>mailap para sa nakararami</b> sa atin maging ito'y<br>pagsulat sa unang wika o pangalawang wika<br>man.<br><br>Who said this and when?",
+                "Badayos (2000)"
+            ],
+            "guid": "e1f+Y#r/M[",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ang pagsulat ay isang <b>biyaya</b>, isang<br><b>pangangailangan</b> at isang <b>kaligayahan</b> ng<br>nagsasagawa nito.<br><br>Who said this?",
+                "Keller"
+            ],
+            "guid": "p3A(mlv+[`",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ang pagsulat ay <b>ekstensyon<br>ng wika</b> at karanasang natamo ng isang tao<br>mula sa kanyang pakikinig, pagsasalita at<br>pagbabasa<br><br>Who said this?",
+                "Peck at Buckingham"
+            ],
+            "guid": "g:nZH,/Pt3",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Tatlong pananaw sa pagsusulat",
+                "- Mental at sosyal na aktibiti<br>- Intra/interpersonal<br>- Biswal na pakikipag-ugnayan"
+            ],
+            "guid": "d*]6$UX+Ke",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ano ang dalawang dimensyon ng pagsulat?",
+                "Oral at Biswal"
+            ],
+            "guid": "H|>nrsEpi7",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "\"Kapag ang isang indibidwal ay nagbabasa ng isang tekstong<br>iyong isinulat, masasabing nakikinig na rin siya sa iyo.\"<br><br>Anong dimensyon ng pagsulat ito?",
+                "Oral na dimensyon"
+            ],
+            "guid": "w=DQ8@sy7h",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Impormatibong pagsulat}} - ay naghahangad na makapagbigay<br>impormasyon at mga paliwanag. Ang mismong pokus nito ay ang<br>mismong paksang tinatalakay sa teksto.",
+                ""
+            ],
+            "guid": "xK8XT8,4Gc",
+            "note_model_uuid": "6bba29fa-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Mapanghikayat na pagsulat}} - ay naglalayong <b>makumbinsi</b> ang mga<br>mambabasa tungkol sa isang katwiran, opinyon o paniniwala. Ang<br>pangunahing pokus nito ay ang mambabasa na nais<br><b>maimpluwensyahan</b> ng isang awtor nito.",
+                ""
+            ],
+            "guid": "hP<C3f^Nb{",
+            "note_model_uuid": "6bba29fa-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Malikhaing pagsulat}} - Kadalasan, ang pangunahing layunin ng awtor<br>dito ay pagpapahayag lamang ng <b>kathang-isip, imahinasyon, ideya,<br>damdamin o kumbinasyon ng mga ito</b>.&nbsp;",
+                ""
+            ],
+            "guid": "syt4YdsmRG",
+            "note_model_uuid": "6bba29fa-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ang pokus dito ay ang manunulat mismo.<br><br>What type of pagsulat is this?",
+                "Malikhaing pagsulat"
+            ],
+            "guid": "it&Y(2!m)J",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the 3 steps to proseso ng pagsulat?",
+                "1. Pre-writing<br>2. Actual Writing<br>3. Rewriting"
+            ],
+            "guid": "P1:thpC!{~",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Sa hakbang na ito nagaganap ang <b>paghahanda</b> sa<br>pagsulat. Ginagawa rito ang <b>pagpili ng paksang<br>isusulat</b> at ang <b>pangangalap-ng iga datos</b> o<br>impormasyong kailangan sa pagsulat.",
+                "Pre-writing"
+            ],
+            "guid": "jP57DFV5:{",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Sa aklat na {{c1::Mabisang Retorika nina Bernales, et al.<br>(2001)}}&nbsp;at {{c1::Masining no Pagpapahayag nina Bernales, et<br>al. (2006)}}&nbsp;ay nagmungkahi ng iba't ibang pre-writing<br>activities na makatutulong sa isang manunulat lalo na<br>sa mga baguhan.<br><br>Ilan sa mga mungkahing gawaing inilahad sa dalawang<br>aklat ay ang sumusunod: (Give 3) {{c2::pagsulat sa journal,<br>brainstorming, questioning, pagbabasa at pananaliksik,<br>sounding-out friends, pag-iinterbyu, pagsasarbey,<br>obserbasyon, imersyon at eksperimentasyon.}}",
+                ""
+            ],
+            "guid": "HGQa1:P6T%",
+            "note_model_uuid": "6bba29fa-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Nakapaloob dito ang pagsulat ng burador o draft.",
+                "Actual Writing"
+            ],
+            "guid": "ulU8<=xi~_",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ito ang ikatlong hakbang sa pagsulat. Dito nagaganap<br>ang pag-eedit at pagrerebisa ng draft.",
+                "Rewriting"
+            ],
+            "guid": "*kBRJ4,uT",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In the rewriting step, we edit the draft based on?",
+                "wastong gramar, bokabulari, at pagkakasunod-sunod<br>ng mga ideya o lohika."
+            ],
+            "guid": "s6;D:_ZX!b",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ang mga ito ang itinuturing na mga batayan at mahahalagang dahilan kung bakit nagsusulat ang isang tao.",
+                "Uri ng Pagsulat"
+            ],
+            "guid": "Or^v$:!J`T",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Itinuturing din itong isang intelektwal na pagsulat",
+                "Akademiko"
+            ],
+            "guid": "kVMVId_Y4C",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Maaaring<br>maging kritikal na sanaysay, lab report,<br>eksperimento, term paper o pamanahong<br>papel, tesis o disertasyon.<br><br>Anong uri ng pagsulat ito?",
+                "Akademiko"
+            ],
+            "guid": "d_6Hb/dXBc",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ito ay isang espesyalisadong uri ng pagsulat<br>na tumutugon sa mga kognitibo at sikolohikal<br>na pangangailangan ng mga mambabasa,<br>at minsan, maging ng manunulat mismo.",
+                "Teknikal"
+            ],
+            "guid": "iKW7r+lP3U",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Saklaw nito ang pagsulat ng balita,<br>editoryal, kolum, lathalain at iba pang<br>akdang karaniwang makikita sa mga<br>pahayagan o magasin<br><br>Anong uri ng pagsulat ito?",
+                "Journalistic"
+            ],
+            "guid": "bMp9lrm<a,",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Anong uri ng pagsulat ang isang manual?",
+                "Teknikal"
+            ],
+            "guid": "j:1/Xr8eht",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Naglalayong<br>magrekomenda ng iba pang reperens o sors hinggil<br>sa isang paksa.<br><br>Anong uri ng pagsulat ito?",
+                "Reperensyal"
+            ],
+            "guid": "kU=B&e]?fb",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Anong uri ng pagsulat ang isang kritikal na sanaysay?",
+                "Akademiko"
+            ],
+            "guid": "A0i04iT9_*",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ito ang uri ng pagsulat na nakatuon o<br><b>eksklusibo</b> sa isang tiyak na propesyon.",
+                "Propesyonal"
+            ],
+            "guid": "l?niRc2CXU",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ang pokus dito ay ang imahinasyon ng<br>manunulat.&nbsp;<br><br>Anong uri ng pagsulat ito?",
+                "Malikhain"
+            ],
+            "guid": "i(:shieOQ2",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ito ang uri ng pagsulat sa<br>larangan ng literatura.",
+                "Malikhain"
+            ],
+            "guid": "N=&u=301iT",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Dalawang genre ng malikhaing pagsulat",
+                "piksyonal at di-piksyonal"
+            ],
+            "guid": "P%2lwp`a)p",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        }
+    ],
+    "reviewLimit": null,
+    "reviewLimitToday": null
+}

@@ -1,0 +1,91 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "fc533952-6617-11f0-8bc1-f5d300799d77",
+    "deck_config_uuid": "fc533b6e-6617-11f0-8bc1-f5d300799d77",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "fc533b6e-6617-11f0-8bc1-f5d300799d77",
+            "desiredRetention": 0.9,
+            "dyn": false,
+            "easyDaysPercentages": [
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "fsrsParams5": [],
+            "fsrsWeights": [],
+            "ignoreRevlogsBeforeDate": "1970-01-01",
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    16.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 3,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    16.0,
+                    1440.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    6,
+                    8,
+                    0
+                ],
+                "order": 0,
+                "perDay": 9999
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 2,
+            "questionAction": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.4,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 240,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": true,
+            "weightSearch": ""
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [],
+    "name": "(2) PE",
+    "newLimit": null,
+    "newLimitToday": null,
+    "note_models": [],
+    "notes": [],
+    "reviewLimit": null,
+    "reviewLimitToday": null
+}
