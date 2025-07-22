@@ -106,6 +106,73 @@
     "note_models": [
         {
             "__type__": "NoteModel",
+            "crowdanki_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 9205121651523078416,
+                    "name": "Front",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -7001571941991209685,
+                    "name": "Back",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic",
+            "originalStockKind": 1,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": -471929315152782166,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0
+        },
+        {
+            "__type__": "NoteModel",
             "crowdanki_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
             "flds": [
@@ -143,7 +210,7 @@
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "Basic",
+            "name": "Basic-9a0c7",
             "originalStockKind": 1,
             "req": [
                 [
@@ -210,7 +277,7 @@
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "Cloze",
+            "name": "Cloze-f1e26",
             "originalStockKind": 5,
             "req": [
                 [
@@ -237,9 +304,406 @@
                 }
             ],
             "type": 1
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n.cloze {\n    font-weight: bold;\n    color: blue;\n}\n.nightMode .cloze {\n    color: lightblue;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -5999884917947464331,
+                    "name": "Text",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": true,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": 0
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 7159354697063675009,
+                    "name": "Back Extra",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": 1
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Cloze",
+            "originalStockKind": 5,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Back Extra}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": -6628808917458755412,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1
         }
     ],
     "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "Presidential and vice-presidential elections occur every _____ ____ of _____ every ___ year.",
+                "second&nbsp;Monday of May, sixth"
+            ],
+            "guid": "zEmtY8o7TX",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "all elected officials, except those at the barangay level, start (and end) their terms of office on ____ of the election year.",
+                "June 30"
+            ],
+            "guid": "w-zhr0zZ~4",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a social or religious custom prohibiting or forbidding discussion of a particular practice or forbidding association with a particular person, place, or thing.",
+                "Taboo"
+            ],
+            "guid": "m*qq@0t3W,",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "-an activity or behavior that is considered completely unacceptable or forbidden.",
+                "Taboo"
+            ],
+            "guid": "Nm]LWe{V]U",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In Papua New Guinea: older women are also not supposed to eat ___ when pregnant, unmarried young men will receive the best food and do not have many food taboos",
+                "fish eggs"
+            ],
+            "guid": "z8o7E<W/wD",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "______ is a staple of the Brazilian diet. But not all ____are enjoyed by all Brazilians.",
+                "Seafood, fish&nbsp;"
+            ],
+            "guid": "uL.Q*}%)Ms",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "If you happen to be traveling to China, minding your ____ is the same as minding your manners.",
+                "chopsticks"
+            ],
+            "guid": "Bk2q/p77T2",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In ____: After finishing meal at a restaurant, do not leave your chopsticks sticking up in the left-over rice at the bottom of your bowl.",
+                "China"
+            ],
+            "guid": "m0Lmp)5;vJ",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "_____ is not necessarily caring in Japanese culture.",
+                "Sharing"
+            ],
+            "guid": "KZEFIST,,_",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In Japan: If you do plan on sharing your meal, you must place the _____ on a small plate and then pass it to the recipient.",
+                "tasting morsel&nbsp;"
+            ],
+            "guid": "E}8anxUtAV",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In Russia: if you are hoping to court a lady at a restaurant, do not expect to go ____.",
+                "dutch (palibre or kkb)"
+            ],
+            "guid": "f1mQxMBgH/",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Food taboos in India vary according to ____.",
+                "religion"
+            ],
+            "guid": "cno.kiTQ,H",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "For those that practice Hinduism, eating a ___ in prohibited.",
+                "cow&nbsp;"
+            ],
+            "guid": "o;4ZMcu4e!",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Islamic and Muslim families not only avoid ___ for religious reasons, they feel that ____ are bred in absolutely revolting conditions and are not worthy<br>of consumption.",
+                "pork, pigs"
+            ],
+            "guid": "wb|;~Hv#r%",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In ____: it is considered rude to accept the first offering of food. Politely decline at first, but when offered a second time — which you likely will be — feel free to accept.",
+                "Italy"
+            ],
+            "guid": "H#X3!~L~^K",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In Jamaica, It is believed that if children eat ____ before they learn to speak, they will never talk. Eating half an ____ will make the child<br>grow into a thief and drinking ____ from a baby bottle will turn them into a drunkard.",
+                "chicken, egg, milk"
+            ],
+            "guid": "EuA@QMy+lh",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "they also feel particularly strongly about coconut milk. Another widely held belief is that children who drink this type of milk will make them unintelligent.",
+                "Nigerian Taboo"
+            ],
+            "guid": "Fq)-D7i(}A",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It is considered rude to rush through a meal or hurry your order along. You also never want to ask for a doggy-bag or leave food<br>on your plate, the implication being that you did not enjoy your meal.",
+                "French Taboos"
+            ],
+            "guid": "mK$L|TKl)%",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A good leader is a ____ leader.",
+                "self actualized"
+            ],
+            "guid": "hSm3zf[ern",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">A </span><span style=\"font-weight: 400;\">good </span><span style=\"font-weight: 400;\">political </span><span style=\"font-weight: 400;\">leader </span><span style=\"font-weight: 400;\">does </span><span style=\"font-weight: 400;\">not </span><span style=\"font-weight: 400;\">take </span><span style=\"font-weight: 400;\">what </span><span style=\"font-weight: 400;\">is </span><span style=\"font-weight: 400;\">similar </span><span style=\"font-weight: 400;\">to </span><span style=\"font-weight: 400;\">his </span><span style=\"font-weight: 400;\">views </span><span style=\"font-weight: 400;\">as </span><span style=\"font-weight: 400;\">facts </span><span style=\"font-weight: 400;\">and </span><span style=\"font-weight: 400;\">base </span><span style=\"font-weight: 400;\">his </span><span style=\"font-weight: 400;\">decisions </span><span style=\"font-weight: 400;\">on </span><span style=\"font-weight: 400;\">that</span><span style=\"font-weight: 400;\">. </span><span style=\"font-weight: 400;\">He uses </span><span style=\"font-weight: 400;\">reliable </span><span style=\"font-weight: 400;\">and </span><span style=\"font-weight: 400;\">unfiltered </span><span style=\"font-weight: 400;\">information </span><span style=\"font-weight: 400;\">to </span><span style=\"font-weight: 400;\">make </span><span style=\"font-weight: 400;\">judgments </span><span style=\"font-weight: 400;\">and </span><span style=\"font-weight: 400;\">to </span><span style=\"font-weight: 400;\">come </span><span style=\"font-weight: 400;\">up </span><span style=\"font-weight: 400;\">with </span><span style=\"font-weight: 400;\">resolutions</span><span style=\"font-weight: 400;\">.</span></b>",
+                "<b>Is fair and objective.</b>"
+            ],
+            "guid": "mx>`tMDZ(w",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A good leader stands above any specific religious or political views of his own and is independent of any attachment to a specific agenda. His personal beliefs become his private matters and he learns to leave them out the door once he steps into a leadership role. In other words, his belief expands so that it includes everyone's beliefs.",
+                "<b>Is moving above himself and serving the society</b>"
+            ],
+            "guid": "hI{J|7I&5L",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><div><span style=\"font-weight: 400;\">A good </span><span style=\"font-weight: 400;\">leader </span><span style=\"font-weight: 400;\">has </span><span style=\"font-weight: 400;\">been able </span><span style=\"font-weight: 400;\">to </span><span style=\"font-weight: 400;\">move </span><span style=\"font-weight: 400;\">above&nbsp;</span></div><span style=\"font-weight: 400;\">and </span><span style=\"font-weight: 400;\">beyond </span><span style=\"font-weight: 400;\">any egoistic </span><span style=\"font-weight: 400;\">and </span><span style=\"font-weight: 400;\">primitive </span><span style=\"font-weight: 400;\">need </span><span style=\"font-weight: 400;\">for </span><span style=\"font-weight: 400;\">power</span><span style=\"font-weight: 400;\">, </span><span style=\"font-weight: 400;\">attention</span><span style=\"font-weight: 400;\">, </span><span style=\"font-weight: 400;\">or </span><span style=\"font-weight: 400;\">establishing </span><span style=\"font-weight: 400;\">his </span><span style=\"font-weight: 400;\">personal </span><span style=\"font-weight: 400;\">agendas </span><span style=\"font-weight: 400;\">and </span><span style=\"font-weight: 400;\">works </span><span style=\"font-weight: 400;\">with </span><span style=\"font-weight: 400;\">the intention </span><span style=\"font-weight: 400;\">of </span><span style=\"font-weight: 400;\">good</span><span style=\"font-weight: 400;\">-</span><span style=\"font-weight: 400;\">for</span><span style=\"font-weight: 400;\">-</span><span style=\"font-weight: 400;\">all</span><span style=\"font-weight: 400;\">.&nbsp;</span></b><br>",
+                "<b>Is not seeking fame and attention</b>"
+            ],
+            "guid": "l4j}|s_15x",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A good leader says it as it is even if it feels uncomfortable for many to hear it. He is not a people pleaser in a sense that he would say anything to please others even if that means manipulating or misguiding the public. It takes a lot of courage to do this and a good leader has that courage.",
+                "<b><span style=\"font-weight: 400;\">&nbsp;</span>Is not into hiding the truth for the sake of looking good</b>"
+            ],
+            "guid": "eHo;==lP=S",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A good leader is focused and does not get distracted. His goals, whether small or large, are reasonable and achievable and are directed towards the long term results not quick and temporary fixes that may backfire.",
+                "<b><div>Is focused on specific, achievable, and measurable goals and demands&nbsp;</div><div>outcomes</div></b>"
+            ],
+            "guid": "C8qS)^]}w@",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A good leader helps people understand that they are accountable for their society and its outcome and teaches them to make compromises and responsible choices. He does not support a sense of self-serving entitlement that has gone too far and is counter- productive for the society as a whole.",
+                "<b>Encourages people to be accountable for their actions</b>"
+            ],
+            "guid": "Er(:;,g{m1",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A good leader understands that in order for the whole society to be a functional and healthy one, some adjustments need to be made and people need to learn to give some in order to gain some.",
+                "<b>Does not pay attention to being politically correct but ethically so.</b>"
+            ],
+            "guid": "rI^z`W>irw",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A good leader makes a sustainable promise and is a man of his words.",
+                "<b>Does not make idealistic promises but realistic ones<span style=\"font-weight: 400;\">.</span></b>"
+            ],
+            "guid": "hn?Sc5_Tt<",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "People know where they are standing with an authentic leader. He does not hide bad news just because it is uncomfortable to the public's ear.",
+                "<b><span style=\"font-weight: 400;\">Is </span>honest even if it does not get approval</b>"
+            ],
+            "guid": "DR=WClkSY/",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><div><span style=\"font-weight: 400;\">He </span><span style=\"font-weight: 400;\">realizes </span><span style=\"font-weight: 400;\">that </span><span style=\"font-weight: 400;\">in order </span><span style=\"font-weight: 400;\">for </span><span style=\"font-weight: 400;\">us </span><span style=\"font-weight: 400;\">to </span><span style=\"font-weight: 400;\">live </span><span style=\"font-weight: 400;\">in&nbsp;</span></div><span style=\"font-weight: 400;\">prosperity </span><span style=\"font-weight: 400;\">as </span><span style=\"font-weight: 400;\">a </span><span style=\"font-weight: 400;\">powerful </span><span style=\"font-weight: 400;\">and </span><span style=\"font-weight: 400;\">blessed </span><span style=\"font-weight: 400;\">country</span><span style=\"font-weight: 400;\">, </span><span style=\"font-weight: 400;\">reasonable </span><span style=\"font-weight: 400;\">steps </span><span style=\"font-weight: 400;\">need </span><span style=\"font-weight: 400;\">to </span><span style=\"font-weight: 400;\">be </span><span style=\"font-weight: 400;\">taken </span><span style=\"font-weight: 400;\">to </span><span style=\"font-weight: 400;\">make </span><span style=\"font-weight: 400;\">sure </span><span style=\"font-weight: 400;\">others </span><span style=\"font-weight: 400;\">achieve </span><span style=\"font-weight: 400;\">the </span><span style=\"font-weight: 400;\">same </span><span style=\"font-weight: 400;\">goals</span><span style=\"font-weight: 400;\">. </span><span style=\"font-weight: 400;\">He </span><span style=\"font-weight: 400;\">is </span><span style=\"font-weight: 400;\">aware </span><span style=\"font-weight: 400;\">that </span><span style=\"font-weight: 400;\">with </span><span style=\"font-weight: 400;\">power </span><span style=\"font-weight: 400;\">comes </span><span style=\"font-weight: 400;\">responsibility </span><span style=\"font-weight: 400;\">and </span><span style=\"font-weight: 400;\">that </span><span style=\"font-weight: 400;\">now </span><span style=\"font-weight: 400;\">more </span><span style=\"font-weight: 400;\">than </span><span style=\"font-weight: 400;\">ever</span><span style=\"font-weight: 400;\">, </span><span style=\"font-weight: 400;\">through </span><span style=\"font-weight: 400;\">technology</span><span style=\"font-weight: 400;\">, </span><span style=\"font-weight: 400;\">we </span><span style=\"font-weight: 400;\">are </span><span style=\"font-weight: 400;\">becoming </span><span style=\"font-weight: 400;\">more </span><span style=\"font-weight: 400;\">and </span><span style=\"font-weight: 400;\">more </span><span style=\"font-weight: 400;\">inner </span><span style=\"font-weight: 400;\">related</span><span style=\"font-weight: 400;\">, </span><span style=\"font-weight: 400;\">globally</span><span style=\"font-weight: 400;\">.&nbsp;</span></b><br>",
+                "<b>Thinks globally and acts locally</b>"
+            ],
+            "guid": "mzB]mTQwjF",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A good leader is secure enough with himself to take personal responsibility when one is needed. In other words, a good political leader has an internal locus of control while he is aware of the effects of the external forces.",
+                "<b>Takes personal responsibility</b>"
+            ],
+            "guid": "IZeBO:L1wG",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A good political leader has a healthy emotional IQ and has learned to move above his emotions, conditionings, and his fixations to specific outcomes to think logically and globally. In other words, he is rational and in control of his emotions and when the public is going through the emotional roller coaster, he is there to guide them through it.",
+                "<b>Remains level headed and has a sense of humor</b>"
+            ],
+            "guid": "b^Xf-0.dk!",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A good leader is thirsty for factual, expert oriented and unbiased knowledge all the time and on all levels.",
+                "<b>Has a curious mind</b>"
+            ],
+            "guid": "Mkrh0n^;Z^",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A leader that can be trusted does not take others down for himself to go up. He is more of a collaborator than a competitor. He tries to build bridges rather than destroy them. He is a natural mediator rather than one that creates conflict, tension, and separation.",
+                "<b>Does not make himself look good by assaulting others</b>"
+            ],
+            "guid": "mn}a5%]-a:",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
         {
             "__type__": "Note",
             "fields": [
@@ -643,11 +1107,251 @@
         {
             "__type__": "Note",
             "fields": [
-                "This is a github test",
-                "yes"
+                "{{c1::Society}} is universal among human beings",
+                "Society"
             ],
-            "guid": "v/X8|5a,Zp",
-            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "guid": "GD#lT[@rt$",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Society is {{c1::organized}}",
+                ""
+            ],
+            "guid": "mv_T<s5(@g",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Society has performed {{c1::major adaptive functions}}",
+                ""
+            ],
+            "guid": "xDh*+G$rwe",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Culture}} is a powerful force that affects the lives of the people.",
+                ""
+            ],
+            "guid": "L&~2fkz]G^",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How does culture shapes and guides people’s perceptions of reality?",
+                "By providing fundamental avenues to the meaning of existence, rules of proper conduct, among others."
+            ],
+            "guid": "K.aVa;T4*w",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Texting}} is used for information and communication purposes,",
+                ""
+            ],
+            "guid": "NY,x+3!,4`",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the act of composing and sending brief, electronic messages between two or more mobile phones.",
+                "Texting"
+            ],
+            "guid": "ANw$8|frli",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How can texting be used for illegal means?",
+                "to commit a crime or swindling."
+            ],
+            "guid": "Ft#,{J`Cx",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does SMS stand for?",
+                "Short Message Service"
+            ],
+            "guid": "QPUG|Q0^ME",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does MMS stand for?",
+                "Multimedia Messaging Service"
+            ],
+            "guid": "C<kES-vOSz",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "MMS vs SMS?",
+                "SMS - only text message, MMS - includes messages containing image, video, and sound content"
+            ],
+            "guid": "nI1Jk#7]&M",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "limited to text-based messages",
+                "SMS"
+            ],
+            "guid": "bxX;M3hWm>",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "allows for the inclusion of multimedia content like images, videos, and audio, along with tex",
+                "MMS"
+            ],
+            "guid": "ll.i9/4f}j",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "families across borders with one or more family members located in different countries.",
+                "Transnational families"
+            ],
+            "guid": "OI^uxqA1uS",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b>a family consisting of two parents and their children</b>",
+                "Nuclear Family"
+            ],
+            "guid": "KCg,(o5^,W",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a family that extends beyond the nuclear family, including relatives",
+                "Extended family"
+            ],
+            "guid": "FN/_g13{OE",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a feeling of collective welfare and unity",
+                "familyhood"
+            ],
+            "guid": "FNUi9ft-T$",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a form of service provided by local government agencies private companies or by the barangay people for community development",
+                "Local Public Services"
+            ],
+            "guid": "lR63Z;|ICi",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Private associations and barangay leaders undertake local community work to enhance {{c1::peace}} and {{c1::order}}, beautification and sanitation, safety and security of the barangay people.",
+                ""
+            ],
+            "guid": "uhlVT_qJ5&",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Private associations and barangay leaders undertake local community work to enhance peace and order, {{c1::beautification}} and {{c1::sanitation}}, safety and security of the barangay people.",
+                ""
+            ],
+            "guid": "uc6o5xJPS!",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Private associations and barangay&nbsp;leaders undertake local community&nbsp;work to enhance peace and order,&nbsp;beautification and sanitation,&nbsp;{{c1::safety}} and {{c1::security}} of the barangay&nbsp;people.",
+                ""
+            ],
+            "guid": "zww/xoIDo~",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Examples of local public services",
+                "- Brigada-eskwela<br>• Tree planting<br>• Beautification of certain barangay<br>• Barangay activities undertaken by<br>the NSTP/ROTC students"
+            ],
+            "guid": "y11`xG9;#0",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a new trend in socio- cultural change in our present society",
+                "Youth Volunteerism"
+            ],
+            "guid": "C44:QG`o(B",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does everyone benefit when young people have the chance to serve their communities?",
+                "- gain skills necessary to succeed in school, in the workplace, and in life.<br>- community develops strong, diverse groups of inspired, civically-engaged young people."
+            ],
+            "guid": "FeQN5lZ-Ss",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jose Rizal's poem to youth",
+                "A la Juventud Filipina"
+            ],
+            "guid": "n6@iSbX]5k",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": []
         }
     ],
