@@ -99,7 +99,20 @@
     "dyn": 0,
     "extendNew": 0,
     "extendRev": 0,
-    "media_files": [],
+    "media_files": [
+        "bdcbe8c2fab745a5bc9b42b8557f01f8-ao-1-A.svg",
+        "bdcbe8c2fab745a5bc9b42b8557f01f8-ao-1-Q.svg",
+        "bdcbe8c2fab745a5bc9b42b8557f01f8-ao-2-A.svg",
+        "bdcbe8c2fab745a5bc9b42b8557f01f8-ao-2-Q.svg",
+        "bdcbe8c2fab745a5bc9b42b8557f01f8-ao-3-A.svg",
+        "bdcbe8c2fab745a5bc9b42b8557f01f8-ao-3-Q.svg",
+        "bdcbe8c2fab745a5bc9b42b8557f01f8-ao-4-A.svg",
+        "bdcbe8c2fab745a5bc9b42b8557f01f8-ao-4-Q.svg",
+        "bdcbe8c2fab745a5bc9b42b8557f01f8-ao-5-A.svg",
+        "bdcbe8c2fab745a5bc9b42b8557f01f8-ao-5-Q.svg",
+        "bdcbe8c2fab745a5bc9b42b8557f01f8-ao-O.svg",
+        "tmp0x6l9jty.jpg"
+    ],
     "name": "(2) Philosophy",
     "newLimit": null,
     "newLimitToday": null,
@@ -143,7 +156,7 @@
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "Basic",
+            "name": "Basic-9a0c7",
             "originalStockKind": 1,
             "req": [
                 [
@@ -253,6 +266,343 @@
                     "name": "Card 2",
                     "ord": 1,
                     "qfmt": "{{Back}}"
+                }
+            ],
+            "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "6bba29fa-6617-11f0-8bc1-f5d300799d77",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n.cloze {\n    font-weight: bold;\n    color: blue;\n}\n.nightMode .cloze {\n    color: lightblue;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 7523981533223318869,
+                    "name": "Text",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": true,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": 0
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 5761133438547351539,
+                    "name": "Back Extra",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": 1
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Cloze-f1e26",
+            "originalStockKind": 5,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Back Extra}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": 6736665360465185638,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "76606a9f-6705-11f0-bc7f-b4a9fc4c5686",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 5751006971494009716,
+                    "name": "Front",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -1715502509636035469,
+                    "name": "Back",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic (type in the answer)",
+            "originalStockKind": 3,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0,
+                        1
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{Front}}\n\n<hr id=answer>\n\n{{type:Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": -7129598215394108072,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}\n\n{{type:Back}}"
+                }
+            ],
+            "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 4276830686695405618,
+                    "name": "ID (hidden)",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -8423806317983731171,
+                    "name": "Header",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -8811092638739467370,
+                    "name": "Image",
+                    "ord": 2,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -1459745429132488980,
+                    "name": "Question Mask",
+                    "ord": 3,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 1903848615296631885,
+                    "name": "Footer",
+                    "ord": 4,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 7023939152917691849,
+                    "name": "Remarks",
+                    "ord": 5,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 6839405201044522688,
+                    "name": "Sources",
+                    "ord": 6,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -8086051215513847846,
+                    "name": "Extra 1",
+                    "ord": 7,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 9114646999184513046,
+                    "name": "Extra 2",
+                    "ord": 8,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -2489607952834384889,
+                    "name": "Answer Mask",
+                    "ord": 9,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 2958366801571232280,
+                    "name": "Original Mask",
+                    "ord": 10,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Image Occlusion Enhanced",
+            "originalStockKind": 1,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 1,
+            "tmpls": [
+                {
+                    "afmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n\n<script>\n// Toggle answer mask on clicking the image\nvar toggle = function() {\n  var amask = document.getElementById('io-overlay');\n  if (amask.style.display === 'block' || amask.style.display === '')\n    amask.style.display = 'none';\n  else\n    amask.style.display = 'block'\n}\n\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": 1255219982988685902,
+                    "name": "IO Card",
+                    "ord": 0,
+                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
                 }
             ],
             "type": 0
@@ -377,6 +727,1061 @@
             ],
             "guid": "PbP{$}wYJ-",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Defined as genuine understanding of all the most diverse points of view.",
+                "Holistic perspective"
+            ],
+            "guid": "G2H739XIn|",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A narrow provincialism of the mind, limited to ideas and outlook",
+                "Partial Perspective"
+            ],
+            "guid": "P&k^d|oOfY",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "the branch of philosophy that studies the nature<br>of reality, existence, and what it means for something to \"be.",
+                "Metaphysics"
+            ],
+            "guid": "hK:kzdt(Z_",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It explains which part of our experience we call unreal in terms of what we call real.",
+                "Metaphysics"
+            ],
+            "guid": "vD%.:5>ll0",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This metaphysician said reality is water",
+                "Thales of Miletus"
+            ],
+            "guid": "oTe1am&PpF",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Why did Thales believe reality is water",
+                "Because water is the source of all being"
+            ],
+            "guid": "iDC_Hq#an7",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This metaphysician is not&nbsp; known for getting the answer&nbsp; right but gave birth to the question \"What is everything really made of?\"",
+                "Thales"
+            ],
+            "guid": "l^@DcVyG1;",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which metaphysician said that reality is air",
+                "Anaximenes"
+            ],
+            "guid": "z:JZO>>~x[",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Why does anaximenes believe reality is air?",
+                "Just as our breath animates us, air animates the universe"
+            ],
+            "guid": "l;#Q_6.iY<",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who said that reality is fire?",
+                "Heraclitus"
+            ],
+            "guid": "nEw=`a#X3J",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Why did heraclitus say reality is fire?",
+                "Fire represents the essential nature of the universe: ever-<br>changing, dynamic, and governed by a <b>rational order (Logos)</b>."
+            ],
+            "guid": "i5#$:?Ugy^",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who said that reality is made of the 4 elements?",
+                "Empedocles"
+            ],
+            "guid": "t_+wyjxV(h",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Empedocles believed that the elements of reality are combined<br>and separated by the opposing forces of {{c1::Love}} and {{c1::Chaos}}.",
+                ""
+            ],
+            "guid": "n=S1>zql$#",
+            "note_model_uuid": "6bba29fa-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who said that reality comes from the apeiron?",
+                "Anaximander"
+            ],
+            "guid": "Km{n.Ui|EO",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Whose metaphysics defines the ultimate reality as a thing we can neither touch nor see",
+                "Anaximander"
+            ],
+            "guid": "G<%mN(:E[`",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The apeiron is defined as what?",
+                "indefinite, eternal, unlimited substance"
+            ],
+            "guid": "cS(OruBBXu",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who said that reality can only be detected by the intellect",
+                "Plato"
+            ],
+            "guid": "KK(#i44CUJ",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Plato's metaphysics is also known as?",
+                "The theory of forms"
+            ],
+            "guid": "cPF)CyYINb",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Plato believes that only through {{c1::rational thought (not senses)}} can<br>we gain true knowledge of what really exists.",
+                ""
+            ],
+            "guid": "cZ-;E;Hf~~",
+            "note_model_uuid": "6bba29fa-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Known as the study of knowledge",
+                "epistemology"
+            ],
+            "guid": "yL/`-)bH4m",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the 3 questions epistemology explains?",
+                "1. How we know what we claim to know<br>2. How to know what we wish to know<br>3. How we can differentiate truth from falsehood"
+            ],
+            "guid": "J[|MiRGTFI",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A theory of epistemology described as the real knowledge that is based<br>on what our senses tell us is really out there",
+                "Empiricism"
+            ],
+            "guid": "Qrl78$xe^j",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This theory of epistemology describes real knowledge as based on logic, the laws, and the methods that reason develops",
+                "Rationalism"
+            ],
+            "guid": "z)EuJ.b]cx",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This theory of epistemology says that knowledge is constructed by the mind based on experience",
+                "Constructivism"
+            ],
+            "guid": "({N~IK/p-",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This theory of epistemology states that we can't be sure of anything, knowledge is uncertain",
+                "Skepticism"
+            ],
+            "guid": "LQ[1-qAYEC",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This theory of epistemology states that truth is what works in practice, knowledge is based on utility",
+                "Pragmatism"
+            ],
+            "guid": "juh_xgMh{3",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the 2 types of reasoning in epistemology?",
+                "Deductive and Inductive"
+            ],
+            "guid": "K;YkZoM/u-",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which type of reasoning is broad -&gt; specific?",
+                "deductive reasoning"
+            ],
+            "guid": "eDuzQ_%(]p",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "which type of reasoning is specific -&gt; broad?",
+                "inductive reasoning"
+            ],
+            "guid": "m;K)kYQku>",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Defined as the study of valid reasoning",
+                "Logic"
+            ],
+            "guid": "PXw1`hNJh}",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Where does the word \"logic\" come from, and what does that root word mean",
+                "Greek word “Logike” meaning treatise pertaining to the human thought."
+            ],
+            "guid": "Pj0j-=A8@W",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Logic is not interested in what we know, but what?",
+                "the validity of our arguments"
+            ],
+            "guid": "LHp#SIj!*0",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the 5 elements of logical reasoning",
+                "1. Premise<br>2. Conclusion<br>3. Argument<br>4. Validity<br>5. Soundness"
+            ],
+            "guid": "qGjdgygLVh",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This element of logical reasoning is defined as a statement assumed to be true and used to support a conclusion",
+                "Premise"
+            ],
+            "guid": "kvKNZ_ZUlD",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This element of logical reasoning is defined as a statement that follows logically from the premises",
+                "Conclusion"
+            ],
+            "guid": "B.PKVXaRA1",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This element of logical reasoning is defined as a group of statements structured to support a claim",
+                "Argument"
+            ],
+            "guid": "c~sKFHm9)O",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the two components of arguments?",
+                "premises and conclusion"
+            ],
+            "guid": "N.?+}/IM4E",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "An argument is valid when?",
+                "if the conclusion logicall follows the premises"
+            ],
+            "guid": "Lf<o8cxJ`&",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "An argument is sound when?",
+                "If it is valid and the premises are true"
+            ],
+            "guid": "f~Cj5*B,z0",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Attacking the person instead of the argument<br><br>\"You can’t trust anything Sarah says about climate change. She’s just a<br>crazy environmentalist.\"",
+                "Ad Hominem"
+            ],
+            "guid": "ev.[j;5Jf{",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "is the distortion of someone else’s argument to make it<br>easier to attack",
+                "Straw man"
+            ],
+            "guid": "F&!B??.^Ia",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Presenting only two extreme options, excluding others.<br><br>\"You’re either with us or against us.\"",
+                "False Dilemma"
+            ],
+            "guid": "N1(e84g+c|",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Assuming one small step will lead to extreme outcomes<br><br>\"If we allow phones in class, next we’ll cancel school!\"",
+                "Slippery slope"
+            ],
+            "guid": "FsH*0#heY7",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A claim is true because many people do it<br><br>“Everyone is buying iPhone. So, it must be the best phone.",
+                "Bandwagon"
+            ],
+            "guid": "nn!<T+sy>t",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "introducing an irrelevant topic to divert attention.<br><br>“You asked me why I missed the deadline, but let’s talk about how busy I am<br>working on other projects.\"",
+                "Red herring"
+            ],
+            "guid": "HsgdY,Z5*[",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "drawing a conclusion based on insufficient evidence<br><br>“I met a rude person in Nabunturan, so everyone in that place must be rude.\"",
+                "Hasty generalization"
+            ],
+            "guid": "Q_6<YYuQL2",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the two branches of axiology?",
+                "Ethics and Aesthetics"
+            ],
+            "guid": "QVG+uZVYkb",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Defined as the study of moral values?",
+                "ethics"
+            ],
+            "guid": "m5YaEmgfoj",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This branch of philosophy explores how humans should act, why we should act that way, and what it means to live a good and meaningful life.",
+                "Ethics"
+            ],
+            "guid": "z_g19;kqn&",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "According to ethics, is knowledge theoretical or practical?",
+                "practical, we should not only know the rules but live with it."
+            ],
+            "guid": "N:99@%1V{e",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Whose philosophy is this:<br><br>A person has to live a virtuous life",
+                "Socrates"
+            ],
+            "guid": "cRvo^9*1#0",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "According to {{c2::plato}}, the values that constitute a human person are:<br>{{c1::courage, hope, and love.}}",
+                ""
+            ],
+            "guid": "rX*_[X9ayt",
+            "note_model_uuid": "6bba29fa-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are aristotle's 2 main philosophies?",
+                "Eudaimonia and Teleology"
+            ],
+            "guid": "P]+|kwq9&I",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This philosophy states that happiness is the goal of life",
+                "Eudaimonia"
+            ],
+            "guid": "ez5J+])$cw",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This philosophy states that everything has a natural goal or purpose",
+                "Teleology&nbsp;"
+            ],
+            "guid": "clk/5r=Jf]",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This philosophy is also known as ethical hedonism",
+                "Epicureanism"
+            ],
+            "guid": "Gk[Be;un)2",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Whose philosophy is epicureanism?",
+                "Epicurus"
+            ],
+            "guid": "PlG*]I{(U+",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This philosophy states that pleasure is the highest good",
+                "Epicureanism"
+            ],
+            "guid": "B}2d8=nQnw",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who made this contribution to ethics?:<br><br>- Christian ethics",
+                "St. Augustine"
+            ],
+            "guid": "jSP-mw-^3i",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who made this contribution to ethics?:<br><br>-&nbsp;Natural law theory",
+                "St. Thomas Aquinas"
+            ],
+            "guid": "lbo{pdJJ2W",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who made this contribution to ethics?:<br><br>-&nbsp;Influenced liberalism",
+                "John locke"
+            ],
+            "guid": "r/u|YGmsU!",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who made this contribution to ethics?:<br><br>-&nbsp;Ethics is based on emotion",
+                "David Hume"
+            ],
+            "guid": "s{e3;_D(U=",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who made this contribution to ethics?:<br><br>-&nbsp;Deontology",
+                "Immanuel kant"
+            ],
+            "guid": "i]v)j/aO)Z",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "An ethical theory that states actions are good or bad according to a clear set of rules",
+                "Deontology"
+            ],
+            "guid": "FG:z~SE4;<",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who made this contribution to ethics?:<br><br>-&nbsp;Ethics and freedom",
+                "Jean-Jacques Rousseau"
+            ],
+            "guid": "w^.^R?OTV",
+            "note_model_uuid": "76606a9f-6705-11f0-bc7f-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who made this contribution to ethics?:<br><br>-&nbsp;Utilitarianism/Consequentialism",
+                "Jeremy Bentham"
+            ],
+            "guid": "GhB0Y]UASH",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who made this contribution to ethics?:<br><br>-&nbsp;Ethics as a herd instinct",
+                "Friedrich Nietzche"
+            ],
+            "guid": "jvwt~/m,ZI",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who made this contribution to ethics?:<br><br>-&nbsp;The ends justifies the means",
+                "Niccolo Machiavelli"
+            ],
+            "guid": "obL-ThA>/$",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The branch of philosophy that deals with the nature of beauty, art, taste, and the creation and appreciation of beauty.",
+                "Aesthetics"
+            ],
+            "guid": "F-YBnV,gk|",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Why are aesthetics important?",
+                "1. It vitalizes our knowledge<br>2.It helps us to live more deeply and richly.<br>3.It brings us in touch with our culture.<br>4.It allows us to interpret messages."
+            ],
+            "guid": "gFRP5xASC/",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the 3 great centers of philosophy?",
+                "China, Greece, India"
+            ],
+            "guid": "kN-loEe(6j",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This great center of philosophy is the oldest and deeply spiritual",
+                "China"
+            ],
+            "guid": "e6%P4hqmY>",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This center of philosophy is focused on moral society and balance",
+                "India"
+            ],
+            "guid": "qY??@}!-iM",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This great center of philosophy is focused on reason, argument, and the quest for truth",
+                "Greece"
+            ],
+            "guid": "vp*n:}4hJg",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In ancient times, did the west or east have more philosophical activites?",
+                "easet"
+            ],
+            "guid": "bd;[si9%4v",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This philosophy is linear in manner. Western or eastern?",
+                "Western"
+            ],
+            "guid": "jCIs^%b#/_",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This philosophy is circular in manner. Western or eastern?",
+                "Eastern philosophy"
+            ],
+            "guid": "xAWpgov)mQ",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In this type of philosophy, religion is separate. Western or eastern?",
+                "Western"
+            ],
+            "guid": "A/X26BZ|!0",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In this philosophy, religion is synonymous with it. Western or eastern?",
+                "Eastern"
+            ],
+            "guid": "GnHa;dZT9B",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This philosophy is more focused on individualism. Western or eastern?",
+                "Western"
+            ],
+            "guid": "oNSmm|06Fo",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This philosophy is focused more on collectivism. Western or eastern?",
+                "Eastern"
+            ],
+            "guid": "EXucNzB4_P",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In this philosophy, the knower and the known are separated. Western or eastern?",
+                "Western"
+            ],
+            "guid": "nH9U4Porh.",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In this philosophy, the knower and the known unites.",
+                "Western or eastern?"
+            ],
+            "guid": "Ayd@WnNwOw",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the 3 dimensions of Filipino thought?",
+                "1. Loob<br>2. Filipino philosophy of time<br>3. \"Bahala na\""
+            ],
+            "guid": "yQ`P:;_GX`",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This dimension of filipino thought includes Filipino virtues of the golden rule",
+                "Loob: Holistic and interior"
+            ],
+            "guid": "zkN._4P2jJ",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "When does loob:holistic and interior become negative?",
+                "if it becomes utang na loob"
+            ],
+            "guid": "n(XX#yqv0J",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This dimension of filipino faith involves sharing oneself to others",
+                "loob:holistic and interior"
+            ],
+            "guid": "r08x#ZDIDa",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Filipinos believe in \"gulong ng palad\" or wheel of fate. Which dimension of filipino thought is this?",
+                "Filipino philosophy of time"
+            ],
+            "guid": "G#cS<Bhpry",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In the filipino philosophy of time, time is considered {{c1::cyclic}} with 2 parts which are {{c2::Biyaya}} and {{c2::Karma}}",
+                ""
+            ],
+            "guid": "hV|ddxJY}q",
+            "note_model_uuid": "6bba29fa-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In the filipino philosophy of time, {{c1::\"siesta time\"}} must not be viewed as negative.",
+                ""
+            ],
+            "guid": "prF0oGe1O",
+            "note_model_uuid": "6bba29fa-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Where is bathala from?",
+                "Southern tagalog"
+            ],
+            "guid": "tq6iLy5,sU",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This phrase means to put complete trust in <b>divine providence</b>, believing that everything happens according to his will.<br><br>Clue: Tagalog",
+                "Bahala na"
+            ],
+            "guid": "Hi;!w%Pa%r",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This diimension of filipino thought is seen as fatalistic",
+                "Bahala na"
+            ],
+            "guid": "q3VC*fu2Q`",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "1.Abundance is not what we {{c2::gather}} but what<br>we {{c1::scatter}}.<br><br>2.Abundance is not what we {{c2::keep}} but what we<br>give {{c1::away}}.<br><br>3.Abundance is not what we {{c2::hold}} but what we<br>{{c1::share}}.",
+                ""
+            ],
+            "guid": "B5PK39{,`m",
+            "note_model_uuid": "6bba29fa-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the steps for abundance?",
+                "1.Commit!<br><br>2.Be determined!<br><br>3.Persevere!"
+            ],
+            "guid": "t_uN3h/<1N",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "bdcbe8c2fab745a5bc9b42b8557f01f8-ao-1",
+                "",
+                "<img src=\"tmp0x6l9jty.jpg\" />",
+                "<img src=\"bdcbe8c2fab745a5bc9b42b8557f01f8-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"bdcbe8c2fab745a5bc9b42b8557f01f8-ao-1-A.svg\" />",
+                "<img src=\"bdcbe8c2fab745a5bc9b42b8557f01f8-ao-O.svg\" />"
+            ],
+            "guid": "ME](;Nz,tR",
+            "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "bdcbe8c2fab745a5bc9b42b8557f01f8-ao-2",
+                "",
+                "<img src=\"tmp0x6l9jty.jpg\" />",
+                "<img src=\"bdcbe8c2fab745a5bc9b42b8557f01f8-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"bdcbe8c2fab745a5bc9b42b8557f01f8-ao-2-A.svg\" />",
+                "<img src=\"bdcbe8c2fab745a5bc9b42b8557f01f8-ao-O.svg\" />"
+            ],
+            "guid": "l$$i[Ezv`4",
+            "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "bdcbe8c2fab745a5bc9b42b8557f01f8-ao-3",
+                "",
+                "<img src=\"tmp0x6l9jty.jpg\" />",
+                "<img src=\"bdcbe8c2fab745a5bc9b42b8557f01f8-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"bdcbe8c2fab745a5bc9b42b8557f01f8-ao-3-A.svg\" />",
+                "<img src=\"bdcbe8c2fab745a5bc9b42b8557f01f8-ao-O.svg\" />"
+            ],
+            "guid": "LUCf,_?S=i",
+            "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "bdcbe8c2fab745a5bc9b42b8557f01f8-ao-4",
+                "",
+                "<img src=\"tmp0x6l9jty.jpg\" />",
+                "<img src=\"bdcbe8c2fab745a5bc9b42b8557f01f8-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"bdcbe8c2fab745a5bc9b42b8557f01f8-ao-4-A.svg\" />",
+                "<img src=\"bdcbe8c2fab745a5bc9b42b8557f01f8-ao-O.svg\" />"
+            ],
+            "guid": "i{%`&jIyL5",
+            "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "bdcbe8c2fab745a5bc9b42b8557f01f8-ao-5",
+                "",
+                "<img src=\"tmp0x6l9jty.jpg\" />",
+                "<img src=\"bdcbe8c2fab745a5bc9b42b8557f01f8-ao-5-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"bdcbe8c2fab745a5bc9b42b8557f01f8-ao-5-A.svg\" />",
+                "<img src=\"bdcbe8c2fab745a5bc9b42b8557f01f8-ao-O.svg\" />"
+            ],
+            "guid": "K;!1_[XRU:",
+            "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Philosophy helps us ask:<br><br>- For {{c2::whom}}? ({{c1::Ethos}})<br>- At what {{c2::cost}}? ({{c1::Pathos}})<br>- And {{c2::why}}? ({{c1::Logos)}}",
+                ""
+            ],
+            "guid": "Az?;t(ZeDc",
+            "note_model_uuid": "6bba29fa-6617-11f0-8bc1-f5d300799d77",
             "tags": []
         }
     ],
