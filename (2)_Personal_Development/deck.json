@@ -100,6 +100,22 @@
     "extendNew": 0,
     "extendRev": 0,
     "media_files": [],
+    "media_files": [
+        "c4c2d3a924a34dd282f4f32a00d92f60-ao-1-A.svg",
+        "c4c2d3a924a34dd282f4f32a00d92f60-ao-1-Q.svg",
+        "c4c2d3a924a34dd282f4f32a00d92f60-ao-2-A.svg",
+        "c4c2d3a924a34dd282f4f32a00d92f60-ao-2-Q.svg",
+        "c4c2d3a924a34dd282f4f32a00d92f60-ao-3-A.svg",
+        "c4c2d3a924a34dd282f4f32a00d92f60-ao-3-Q.svg",
+        "c4c2d3a924a34dd282f4f32a00d92f60-ao-4-A.svg",
+        "c4c2d3a924a34dd282f4f32a00d92f60-ao-4-Q.svg",
+        "c4c2d3a924a34dd282f4f32a00d92f60-ao-5-A.svg",
+        "c4c2d3a924a34dd282f4f32a00d92f60-ao-5-Q.svg",
+        "c4c2d3a924a34dd282f4f32a00d92f60-ao-6-A.svg",
+        "c4c2d3a924a34dd282f4f32a00d92f60-ao-6-Q.svg",
+        "c4c2d3a924a34dd282f4f32a00d92f60-ao-O.svg",
+        "tmp6khu_eke.jpg"
+    ],
     "name": "(2) Personal Development",
     "newLimit": null,
     "newLimitToday": null,
@@ -237,6 +253,208 @@
                 }
             ],
             "type": 1
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 4276830686695405618,
+                    "name": "ID (hidden)",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -8423806317983731171,
+                    "name": "Header",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -8811092638739467370,
+                    "name": "Image",
+                    "ord": 2,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -1459745429132488980,
+                    "name": "Question Mask",
+                    "ord": 3,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 1903848615296631885,
+                    "name": "Footer",
+                    "ord": 4,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 7023939152917691849,
+                    "name": "Remarks",
+                    "ord": 5,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 6839405201044522688,
+                    "name": "Sources",
+                    "ord": 6,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -8086051215513847846,
+                    "name": "Extra 1",
+                    "ord": 7,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 9114646999184513046,
+                    "name": "Extra 2",
+                    "ord": 8,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -2489607952834384889,
+                    "name": "Answer Mask",
+                    "ord": 9,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 2958366801571232280,
+                    "name": "Original Mask",
+                    "ord": 10,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Image Occlusion Enhanced",
+            "originalStockKind": 1,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 1,
+            "tmpls": [
+                {
+                    "afmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n\n<script>\n// Toggle answer mask on clicking the image\nvar toggle = function() {\n  var amask = document.getElementById('io-overlay');\n  if (amask.style.display === 'block' || amask.style.display === '')\n    amask.style.display = 'none';\n  else\n    amask.style.display = 'block'\n}\n\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": 1255219982988685902,
+                    "name": "IO Card",
+                    "ord": 0,
+                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
+                }
+            ],
+            "type": 0
         }
     ],
     "notes": [
@@ -278,16 +496,6 @@
             ],
             "guid": "v>WSI~9)L2",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "{{c1::Baumeister (1999)}} defined self concept as an {{c2::individual's belief about himself, including personal attributes and who/what the&nbsp;self is}}",
-                ""
-            ],
-            "guid": "n>i&S%sPG0",
-            "note_model_uuid": "6bba29fa-6617-11f0-8bc1-f5d300799d77",
             "tags": []
         },
         {
@@ -417,6 +625,200 @@
                 "\"We are what we repeatedly do, excellence then is not a skill, but a habit\""
             ],
             "guid": "C`~R>9U5&E",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "According to Aristotle, where does wisdom begin?",
+                "With knowing oneself"
+            ],
+            "guid": "kQ-y>m1qJr",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who made Johari's window?",
+                "Joseph Luft and Harry Ingham"
+            ],
+            "guid": "Fp$jIU_Md?",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "When was Johari's window made",
+                "1955"
+            ],
+            "guid": "<wI(m?,u[",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the 2 factors in Johari's window?",
+                "What you know about yourself<br><br>What other people know about you"
+            ],
+            "guid": "ORs`.>Ymk",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "c4c2d3a924a34dd282f4f32a00d92f60-ao-1",
+                "",
+                "<img src=\"tmp6khu_eke.jpg\" />",
+                "<img src=\"c4c2d3a924a34dd282f4f32a00d92f60-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"c4c2d3a924a34dd282f4f32a00d92f60-ao-1-A.svg\" />",
+                "<img src=\"c4c2d3a924a34dd282f4f32a00d92f60-ao-O.svg\" />"
+            ],
+            "guid": "K%v35LF6z=",
+            "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "c4c2d3a924a34dd282f4f32a00d92f60-ao-2",
+                "",
+                "<img src=\"tmp6khu_eke.jpg\" />",
+                "<img src=\"c4c2d3a924a34dd282f4f32a00d92f60-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"c4c2d3a924a34dd282f4f32a00d92f60-ao-2-A.svg\" />",
+                "<img src=\"c4c2d3a924a34dd282f4f32a00d92f60-ao-O.svg\" />"
+            ],
+            "guid": "x(-GVl~k.[",
+            "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "c4c2d3a924a34dd282f4f32a00d92f60-ao-3",
+                "",
+                "<img src=\"tmp6khu_eke.jpg\" />",
+                "<img src=\"c4c2d3a924a34dd282f4f32a00d92f60-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"c4c2d3a924a34dd282f4f32a00d92f60-ao-3-A.svg\" />",
+                "<img src=\"c4c2d3a924a34dd282f4f32a00d92f60-ao-O.svg\" />"
+            ],
+            "guid": "M/Lcc6KvsD",
+            "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "c4c2d3a924a34dd282f4f32a00d92f60-ao-4",
+                "",
+                "<img src=\"tmp6khu_eke.jpg\" />",
+                "<img src=\"c4c2d3a924a34dd282f4f32a00d92f60-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"c4c2d3a924a34dd282f4f32a00d92f60-ao-4-A.svg\" />",
+                "<img src=\"c4c2d3a924a34dd282f4f32a00d92f60-ao-O.svg\" />"
+            ],
+            "guid": "c?H2H:ihT1",
+            "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "c4c2d3a924a34dd282f4f32a00d92f60-ao-5",
+                "",
+                "<img src=\"tmp6khu_eke.jpg\" />",
+                "<img src=\"c4c2d3a924a34dd282f4f32a00d92f60-ao-5-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"c4c2d3a924a34dd282f4f32a00d92f60-ao-5-A.svg\" />",
+                "<img src=\"c4c2d3a924a34dd282f4f32a00d92f60-ao-O.svg\" />"
+            ],
+            "guid": "O;2Bf{2[at",
+            "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "c4c2d3a924a34dd282f4f32a00d92f60-ao-6",
+                "",
+                "<img src=\"tmp6khu_eke.jpg\" />",
+                "<img src=\"c4c2d3a924a34dd282f4f32a00d92f60-ao-6-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"c4c2d3a924a34dd282f4f32a00d92f60-ao-6-A.svg\" />",
+                "<img src=\"c4c2d3a924a34dd282f4f32a00d92f60-ao-O.svg\" />"
+            ],
+            "guid": "O#Z`AT8as,",
+            "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">Anything you know about yourself and are willing to share is part of this area in Johari's window.</span></b>",
+                "Open area"
+            ],
+            "guid": "G79<-JdTQ)",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">Any aspect that you do not know about yourself, but others within the group have become aware of, is in this area of Johari's window.</span></b>",
+                "Blind area"
+            ],
+            "guid": "IVu)3vtjZG",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><div><span style=\"font-weight: 400;\">There are also aspects about yourself that you are aware of but might not want others to know, this quadrant is known as?</span></div></b>",
+                "Hidden area"
+            ],
+            "guid": "HPo[RC/7pJ",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">The area of Johari's window is unknown to you or anyone else.</span></b>",
+                "Unkown area"
+            ],
+            "guid": "dR!s?T3NME",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": []
         }
