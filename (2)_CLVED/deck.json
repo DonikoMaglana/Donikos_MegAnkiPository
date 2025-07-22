@@ -106,6 +106,141 @@
     "note_models": [
         {
             "__type__": "NoteModel",
+            "crowdanki_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 9205121651523078416,
+                    "name": "Front",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -7001571941991209685,
+                    "name": "Back",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic",
+            "originalStockKind": 1,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": -471929315152782166,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "76606a9f-6705-11f0-bc7f-b4a9fc4c5686",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 5751006971494009716,
+                    "name": "Front",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -1715502509636035469,
+                    "name": "Back",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic (type in the answer)",
+            "originalStockKind": 3,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0,
+                        1
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{Front}}\n\n<hr id=answer>\n\n{{type:Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": -7129598215394108072,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}\n\n{{type:Back}}"
+                }
+            ],
+            "type": 0
+        },
+        {
+            "__type__": "NoteModel",
             "crowdanki_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
             "flds": [
@@ -143,7 +278,7 @@
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "Basic",
+            "name": "Basic-9a0c7",
             "originalStockKind": 1,
             "req": [
                 [
@@ -173,6 +308,356 @@
         }
     ],
     "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "The word Church comes from the Greek ____, meaning ______ or ____",
+                "&nbsp;ekklesia&nbsp; assembly or called-out ones"
+            ],
+            "guid": "g2`[0=O0TY",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "_____ represents the community of all baptized believers in Christ, forming the ______ with Jesus as its ____.",
+                "Church, Body of Christ, Head"
+            ],
+            "guid": "hL_]qpa/|o",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The Church is a ______ - guided by the Holy Spirit and built on the foundation of the apostles, the Church is both a ____ institution and an _____ spiritual communion.",
+                "Spiritual Family, visible, invisible"
+            ],
+            "guid": "l=Ze7KsNB7",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<br>Its origins trace back to Jesus Christ, continuing through the apostles and powerfully empowered by the _____ at Pentecost (Acts 2).",
+                "Founded by Christ, Holy Spirit"
+            ],
+            "guid": "bO=6%n4JEC",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Go therefore and make disciples of all nations, baptizing them... and teaching them to obey everything I<br>have commanded you.",
+                "Matthew 28:19320"
+            ],
+            "guid": "p3H}5d5A1f",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "3 Missions of the Church",
+                "Evangelization, Worship &amp; Santification, Service &amp; Justice"
+            ],
+            "guid": "flh3_F~`5(",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Proclaiming the Gospel and calling people to conversion and faith.",
+                "Evangelization"
+            ],
+            "guid": "Q!w|;VoG1r",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Celebrating sacraments and encouraging spiritual growth and holiness.",
+                "Worship &amp; Sanctification"
+            ],
+            "guid": "ck`zy4ZaK$",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Caring for the marginalized and promoting peace and human dignity.",
+                "Service &amp; Justice&nbsp;"
+            ],
+            "guid": "LNNu-E%(5G",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Three Kinds of the Body of Christ",
+                "Physical, Eucharistic, Mystical"
+            ],
+            "guid": "wrEp)V{zdg",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Refers to Jesus' historical human body, born of the Virgin Mary, which suffered, died, and rose in glory. This body reveals God9s love and saves humanity through His Passion. \"The Word became flesh and dwelt among us.\" (John 1:14)",
+                "Physical Body of Christ (Historical)"
+            ],
+            "guid": "rmd3@9R1,0",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Denotes Christ's real presence in the Holy Eucharist.",
+                "The Eucharistic Body of Christ (Sacramental)"
+            ],
+            "guid": "Gv*82c6Jm`",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Through _____, bread and wine become His Body and Blood at Mass, uniting believers intimately with Him. \"This is my Body, which will be given up for you...\" (Luke 22:19)",
+                "Transubstantiation"
+            ],
+            "guid": "F*+$p`8K/|",
+            "note_model_uuid": "76606a9f-6705-11f0-bc7f-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Represents the Church itself, where all baptized members are parts of Christ9s body, with diverse roles united by the Holy<br>Spirit. Christ is the Head, and believers are His unified Body. \"Now you are the Body of Christ, and each one of you is a part of it.\" ( 1 Corinthians 12:27)",
+                "The Mystical Body of Christ"
+            ],
+            "guid": "T8Yh:.*Wq",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Three States of the Church",
+                "Militant, Suffering, Triumphant"
+            ],
+            "guid": "y<)]/s5%xt",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Militant, Suffering, Triumphant in other words",
+                "Earth, Purgatory, Heaven"
+            ],
+            "guid": "n77.D4&S6E",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Living believers fighting the spiritual battle against sin. Their mission is to live in holiness and spread the Gospel.",
+                "Church Militant (Earth)"
+            ],
+            "guid": "gj}:O&wOCN",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Souls undergoing purification before entering Heaven, aided by prayers from Earth.",
+                "The Church Suffering (Purgatory)"
+            ],
+            "guid": "mQ)a?ae?C+",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Saints in Heaven who have triumphed over sin, living in eternal joy with God and interceding for others.",
+                "The Church Triumphant (Heaven)"
+            ],
+            "guid": "J&*l(Ddv4x",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The Church is more than an organization; it is a living mystery rooted in _____. Whether on Earth, in Purgatory, or in Heaven, all are united in one body, with Christ at its ______.",
+                "divine love, center"
+            ],
+            "guid": "dL4i+4In}j",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Our shared mission is to bring ______ to the world and journey towards _____ with Him.",
+                "Christ's love, eternal life"
+            ],
+            "guid": "t>@QhU;f_{",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Living in faith, fighting sin, spreading the Gospel",
+                "Militant Church"
+            ],
+            "guid": "cD4Eht&qen",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Believers on Earth",
+                "Militant Church"
+            ],
+            "guid": "O.B%ZBezAr",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Undergoing purification, aided by prayers of the faithful",
+                "Church Suffering (Purgatory)"
+            ],
+            "guid": "HaAEY.|Ab<",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Souls in Purgatory",
+                "Suffering Church"
+            ],
+            "guid": "t.[y1@@P0H",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "United with God, interceding for others",
+                "Triumphant Church"
+            ],
+            "guid": "K,MGmoaR}t",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Saints in Heaven",
+                "Triumphant Church"
+            ],
+            "guid": "eO]:8dWT)s",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jesus' actual, human body",
+                "Physical Body of Christ"
+            ],
+            "guid": "s.~v+|}6X9",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Incarnation, Passion, Resurrection",
+                "Physical Body of Christ"
+            ],
+            "guid": "BC`tG)hydD",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jesus present in consecrated bread and wine",
+                "Eucharistic Body of Christ"
+            ],
+            "guid": "m>R}?Z:-Pt",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Real Presence in the Eucharist",
+                "Eucharistic Body of Christ"
+            ],
+            "guid": "FT8Q=_+AHJ",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Unity in diversity within the Church",
+                "Mystical Body of Christ"
+            ],
+            "guid": "q*>]CS.IzZ",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "\"The Word became flesh and dwelt among us.\"",
+                "John 1:14"
+            ],
+            "guid": "fgNK-(Cf,4",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "\"This is my Body, which will be given up for you...\"",
+                "Luke 22:19"
+            ],
+            "guid": "QZYiyG/=D;",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "\"Now you are the Body of Christ, and each one of you is a part of it.\"&nbsp;",
+                "1 Corinthians 12:27"
+            ],
+            "guid": "o>LvT-Gos`",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
         {
             "__type__": "Note",
             "fields": [
