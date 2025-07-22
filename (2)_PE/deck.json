@@ -163,6 +163,422 @@
             "guid": "B|(}u^-#0Z",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A sequence of rhythmic steps or movements usually performed to music. ",
+                " DANCE"
+            ],
+            "guid": "Np&bHX]Lt#",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the two main purposes of dance? ",
+                " For pleasure or as a form of social interaction."
+            ],
+            "guid": "cX{q5wqY9W",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Enumerate the four elements of dance. ",
+                " Body, Action, Space, Energy"
+            ],
+            "guid": "u^4HmTJ^wE",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The element of dance that refers to what others see; it can be still or in motion. ",
+                " BODY"
+            ],
+            "guid": "iA+Bwe&uEe",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The element of dance that includes <b>small</b> movements like facial expressions or gestures, and <b>larger</b> movements like lifts or carries. ",
+                " ACTION"
+            ],
+            "guid": "Dg%AOvWsg|",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The element of dance that refers to the space through which the dancer&#x27;s body moves. ",
+                " SPACE"
+            ],
+            "guid": "hc?%8re0X|",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The element of dance that helps us identify how the dancers move, such as with sharp and strong effort, or light and free. ",
+                " ENERGY"
+            ],
+            "guid": "E7;9--Qr_S",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A dance developed by the people on a certain place or region. ",
+                " FOLK DANCE"
+            ],
+            "guid": "K&dQ6V#FX&",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "An indigenous dance from a certain race or country. ",
+                " ETHNIC DANCE"
+            ],
+            "guid": "eWJFIGbi:u",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A type of dance that gives more attention to self-expression and individual creativity. ",
+                " CONTEMPORARY DANCE"
+            ],
+            "guid": "E|rchT>[;g",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A set of partner dances, enjoyed both socially and competitively around the world. ",
+                " BALLROOM DANCE"
+            ],
+            "guid": "igVl>W4(=a",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "An organized sports activity involving short routines to cheer on teams. ",
+                " CHEERDANCE"
+            ],
+            "guid": "r(.w&w37T.",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What three elements are combined in cheerdance? ",
+                " Dance, gymnastics, and stunt elements"
+            ],
+            "guid": "H,l}2zG)F6",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This dance style incorporates locking, popping, breakin, house and krumping. ",
+                " HIPHOP"
+            ],
+            "guid": "vI`&I9|Bo[",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This dance style is described as very energetic, expressive, improvisational and social. ",
+                " HIPHOP"
+            ],
+            "guid": "IMI0,%9MJW",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This dance style&#x27;s name comes from the fact that it originated on the streets and in clubs, not in dance studios. ",
+                " STREET DANCE"
+            ],
+            "guid": "rdlah;bBRx",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Cultural dances performed to strong percussion beats in honor of a Patron Saint or in thanksgiving for a bountiful harvest. ",
+                " FESTIVAL DANCE"
+            ],
+            "guid": "C^T7}n9Kvm",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who is known as the Philippine National Artist and Mother of Philippine Folk Dances? ",
+                " FRANCISCA REYES-AQUINO"
+            ],
+            "guid": "DPe>muTnpQ",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Enumerate the eight natures of folk dance. ",
+                " Occupational, Religious/Ceremonial, Comic, Game, Wedding, Courtship, Festival, War"
+            ],
+            "guid": "H10]1$BnTM",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A type of folk dance that depicts actions of a particular occupation. ",
+                " OCCUPATIONAL DANCE"
+            ],
+            "guid": "Cbud;ikSvW",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A type of folk dance associated with religion, vows, and ceremonies. ",
+                " RELIGIOUS/CEREMONIAL DANCE"
+            ],
+            "guid": "F1M}Kz=j&,",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A type of folk dance that depicts funny movements for entertainment. ",
+                " COMIC DANCE"
+            ],
+            "guid": "C2in/2FA1;",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A type of folk dance that is done with play elements. ",
+                " GAME DANCE"
+            ],
+            "guid": "uAnVnw)?@L",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A type of folk dance performed during weddings. ",
+                " WEDDING DANCE"
+            ],
+            "guid": "xUHtT*&]:j",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A type of folk dance that depicts the art of courtship. ",
+                " COURTSHIP DANCE"
+            ],
+            "guid": "d^KsR1DAiB",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A type of folk dance for festivity and suitable for special occasions. ",
+                " FESTIVAL DANCE"
+            ],
+            "guid": "Mr$7!M}&X1",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A type of folk dance that shows imagery of combat. ",
+                " WAR DANCE"
+            ],
+            "guid": "P#%b3cnsep",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Enumerate the five classifications of Philippine folk dance. ",
+                " Maria Clara Dance, Cordillera Dance, Muslim Dance, Rural Dance, Tribal Dance"
+            ],
+            "guid": "z#@{*ZFJ&3",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A classification of folk dance with Spanish influence, adopted from European dances.",
+                " MARIA CLARA DANCE"
+            ],
+            "guid": "I%[+PT~CTH",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "These dances originate from the Bontoc, Ifugao, Benguet, Apayo, &amp; Kalinga tribes. ",
+                " CORDILLERA DANCE"
+            ],
+            "guid": "c:XXJ!vW-t",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "These dances reflect mysticism, royalty, and beauty. ",
+                " MUSLIM DANCE"
+            ],
+            "guid": "Jp(yl(k<y6",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "These dances reflect the simple life and perseverance of people in the barrio, depicting common work and daily activities. ",
+                " RURAL DANCE"
+            ],
+            "guid": "t2U^H<1Nxa",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "These dances are from T'boli, Bilaan, Manobo, and Bagobo.",
+                " TRIBAL DANCE"
+            ],
+            "guid": "BZ)rRuF~^4",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Tribal dance is also called what?",
+                "Lumad or Ethnic dances"
+            ],
+            "guid": "z*g93N/d=g",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Enumerate the dances in which the maria clara dance originates from",
+                "Jotas, Fandangos and Mazurkas."
+            ],
+            "guid": "lW%8Vgb]_C",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
         }
     ],
     "reviewLimit": null,
