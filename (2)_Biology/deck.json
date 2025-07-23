@@ -100,7 +100,6 @@
     "extendNew": 0,
     "extendRev": 0,
     "media_files": [
-<<<<<<< HEAD
         "0ce3e40dd6094a399be59ccfd309a05a-ao-1-A.svg",
         "0ce3e40dd6094a399be59ccfd309a05a-ao-1-Q.svg",
         "0ce3e40dd6094a399be59ccfd309a05a-ao-10-A.svg",
@@ -194,36 +193,6 @@
         "eeae09c26cf44d91af0aa0b2781253ec-ao-8-A.svg",
         "eeae09c26cf44d91af0aa0b2781253ec-ao-8-Q.svg",
         "eeae09c26cf44d91af0aa0b2781253ec-ao-O.svg"
-=======
-        "ce5e95e0660147b985b0761f60d8c4c8-ao-1-A.svg",
-        "ce5e95e0660147b985b0761f60d8c4c8-ao-1-Q.svg",
-        "ce5e95e0660147b985b0761f60d8c4c8-ao-10-A.svg",
-        "ce5e95e0660147b985b0761f60d8c4c8-ao-10-Q.svg",
-        "ce5e95e0660147b985b0761f60d8c4c8-ao-11-A.svg",
-        "ce5e95e0660147b985b0761f60d8c4c8-ao-11-Q.svg",
-        "ce5e95e0660147b985b0761f60d8c4c8-ao-12-A.svg",
-        "ce5e95e0660147b985b0761f60d8c4c8-ao-12-Q.svg",
-        "ce5e95e0660147b985b0761f60d8c4c8-ao-13-A.svg",
-        "ce5e95e0660147b985b0761f60d8c4c8-ao-13-Q.svg",
-        "ce5e95e0660147b985b0761f60d8c4c8-ao-2-A.svg",
-        "ce5e95e0660147b985b0761f60d8c4c8-ao-2-Q.svg",
-        "ce5e95e0660147b985b0761f60d8c4c8-ao-3-A.svg",
-        "ce5e95e0660147b985b0761f60d8c4c8-ao-3-Q.svg",
-        "ce5e95e0660147b985b0761f60d8c4c8-ao-4-A.svg",
-        "ce5e95e0660147b985b0761f60d8c4c8-ao-4-Q.svg",
-        "ce5e95e0660147b985b0761f60d8c4c8-ao-5-A.svg",
-        "ce5e95e0660147b985b0761f60d8c4c8-ao-5-Q.svg",
-        "ce5e95e0660147b985b0761f60d8c4c8-ao-6-A.svg",
-        "ce5e95e0660147b985b0761f60d8c4c8-ao-6-Q.svg",
-        "ce5e95e0660147b985b0761f60d8c4c8-ao-7-A.svg",
-        "ce5e95e0660147b985b0761f60d8c4c8-ao-7-Q.svg",
-        "ce5e95e0660147b985b0761f60d8c4c8-ao-8-A.svg",
-        "ce5e95e0660147b985b0761f60d8c4c8-ao-8-Q.svg",
-        "ce5e95e0660147b985b0761f60d8c4c8-ao-9-A.svg",
-        "ce5e95e0660147b985b0761f60d8c4c8-ao-9-Q.svg",
-        "ce5e95e0660147b985b0761f60d8c4c8-ao-O.svg",
-        "paste-721913d5185bf8b82b8b3ab5fbacb0322bd4b282.jpg"
->>>>>>> 665520b6f1f7659e072496ca047dd8968dce064d
     ],
     "name": "(2) Biology",
     "newLimit": null,
@@ -231,211 +200,6 @@
     "note_models": [
         {
             "__type__": "NoteModel",
-<<<<<<< HEAD
-=======
-            "crowdanki_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
-            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
-            "flds": [
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": -5071419168950381657,
-                    "name": "ID (hidden)",
-                    "ord": 0,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                },
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": -1416806519625974347,
-                    "name": "Header",
-                    "ord": 1,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                },
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": 4231932225184529037,
-                    "name": "Image",
-                    "ord": 2,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                },
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": 3313230933775286364,
-                    "name": "Question Mask",
-                    "ord": 3,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                },
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": -246043860508779053,
-                    "name": "Footer",
-                    "ord": 4,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                },
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": -2696038442157156437,
-                    "name": "Remarks",
-                    "ord": 5,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                },
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": 6332197848946067322,
-                    "name": "Sources",
-                    "ord": 6,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                },
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": -5773592870699100629,
-                    "name": "Extra 1",
-                    "ord": 7,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                },
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": 1036654290722371043,
-                    "name": "Extra 2",
-                    "ord": 8,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                },
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": -2786803813605736618,
-                    "name": "Answer Mask",
-                    "ord": 9,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                },
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": 1216228632882940507,
-                    "name": "Original Mask",
-                    "ord": 10,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "latexsvg": false,
-            "name": "Image Occlusion Enhanced",
-            "originalStockKind": 1,
-            "req": [
-                [
-                    0,
-                    "any",
-                    [
-                        2
-                    ]
-                ]
-            ],
-            "sortf": 1,
-            "tmpls": [
-                {
-                    "afmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n\n<script>\n// Toggle answer mask on clicking the image\nvar toggle = function() {\n  var amask = document.getElementById('io-overlay');\n  if (amask.style.display === 'block' || amask.style.display === '')\n    amask.style.display = 'none';\n  else\n    amask.style.display = 'block'\n}\n\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n",
-                    "bafmt": "",
-                    "bfont": "",
-                    "bqfmt": "",
-                    "bsize": 0,
-                    "did": null,
-                    "id": 475093554666051936,
-                    "name": "IO Card",
-                    "ord": 0,
-                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
-                }
-            ],
-            "type": 0
-        },
-        {
-            "__type__": "NoteModel",
->>>>>>> 665520b6f1f7659e072496ca047dd8968dce064d
             "crowdanki_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
             "flds": [
@@ -500,7 +264,6 @@
                 }
             ],
             "type": 0
-<<<<<<< HEAD
         },
         {
             "__type__": "NoteModel",
@@ -838,364 +601,72 @@
                 }
             ],
             "type": 0
-=======
->>>>>>> 665520b6f1f7659e072496ca047dd8968dce064d
         }
     ],
     "notes": [
         {
             "__type__": "Note",
             "fields": [
-<<<<<<< HEAD
                 "The notion that life can arise from nonliving matter",
                 "Theory of spontaneous generation"
             ],
             "guid": "PB0Vyj#>q]",
-=======
-                "ce5e95e0660147b985b0761f60d8c4c8-ao-1",
-                "",
-                "<img src=\"paste-721913d5185bf8b82b8b3ab5fbacb0322bd4b282.jpg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-1-Q.svg\">",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-1-A.svg\">",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-O.svg\">"
-            ],
-            "guid": "w0Wdd$]rO*",
-            "note_model_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "ce5e95e0660147b985b0761f60d8c4c8-ao-2",
-                "",
-                "<img src=\"paste-721913d5185bf8b82b8b3ab5fbacb0322bd4b282.jpg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-2-Q.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-2-A.svg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-O.svg\" />"
-            ],
-            "guid": "CjMWa}c;4}",
-            "note_model_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "ce5e95e0660147b985b0761f60d8c4c8-ao-3",
-                "",
-                "<img src=\"paste-721913d5185bf8b82b8b3ab5fbacb0322bd4b282.jpg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-3-Q.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-3-A.svg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-O.svg\" />"
-            ],
-            "guid": "fC*%PT`7um",
-            "note_model_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "ce5e95e0660147b985b0761f60d8c4c8-ao-4",
-                "",
-                "<img src=\"paste-721913d5185bf8b82b8b3ab5fbacb0322bd4b282.jpg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-4-Q.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-4-A.svg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-O.svg\" />"
-            ],
-            "guid": "sv?j6NgU``",
-            "note_model_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "ce5e95e0660147b985b0761f60d8c4c8-ao-5",
-                "",
-                "<img src=\"paste-721913d5185bf8b82b8b3ab5fbacb0322bd4b282.jpg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-5-Q.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-5-A.svg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-O.svg\" />"
-            ],
-            "guid": "c3SWIr.Y{>",
-            "note_model_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "ce5e95e0660147b985b0761f60d8c4c8-ao-6",
-                "",
-                "<img src=\"paste-721913d5185bf8b82b8b3ab5fbacb0322bd4b282.jpg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-6-Q.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-6-A.svg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-O.svg\" />"
-            ],
-            "guid": "eBo6IXf`a0",
-            "note_model_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "ce5e95e0660147b985b0761f60d8c4c8-ao-7",
-                "",
-                "<img src=\"paste-721913d5185bf8b82b8b3ab5fbacb0322bd4b282.jpg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-7-Q.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-7-A.svg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-O.svg\" />"
-            ],
-            "guid": "P9CH9AEQLv",
-            "note_model_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "ce5e95e0660147b985b0761f60d8c4c8-ao-8",
-                "",
-                "<img src=\"paste-721913d5185bf8b82b8b3ab5fbacb0322bd4b282.jpg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-8-Q.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-8-A.svg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-O.svg\" />"
-            ],
-            "guid": "iH~)She+&Q",
-            "note_model_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "ce5e95e0660147b985b0761f60d8c4c8-ao-9",
-                "",
-                "<img src=\"paste-721913d5185bf8b82b8b3ab5fbacb0322bd4b282.jpg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-9-Q.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-9-A.svg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-O.svg\" />"
-            ],
-            "guid": "Kx.dS,$=sv",
-            "note_model_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "ce5e95e0660147b985b0761f60d8c4c8-ao-10",
-                "",
-                "<img src=\"paste-721913d5185bf8b82b8b3ab5fbacb0322bd4b282.jpg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-10-Q.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-10-A.svg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-O.svg\" />"
-            ],
-            "guid": "LOr4;.^UKQ",
-            "note_model_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "ce5e95e0660147b985b0761f60d8c4c8-ao-11",
-                "",
-                "<img src=\"paste-721913d5185bf8b82b8b3ab5fbacb0322bd4b282.jpg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-11-Q.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-11-A.svg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-O.svg\" />"
-            ],
-            "guid": "J,vsB*z*?Q",
-            "note_model_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "ce5e95e0660147b985b0761f60d8c4c8-ao-12",
-                "",
-                "<img src=\"paste-721913d5185bf8b82b8b3ab5fbacb0322bd4b282.jpg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-12-Q.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-12-A.svg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-O.svg\" />"
-            ],
-            "guid": "p#4e#{y{_]",
-            "note_model_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "ce5e95e0660147b985b0761f60d8c4c8-ao-13",
-                "",
-                "<img src=\"paste-721913d5185bf8b82b8b3ab5fbacb0322bd4b282.jpg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-13-Q.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-13-A.svg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-O.svg\" />"
-            ],
-            "guid": "u^0cWT3=@9",
-            "note_model_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "The part you look through the specimen; usually magnifies the image 10x.",
-                "Eyepiece (Ocular Lens)"
-            ],
-            "guid": "plzQ@Z.TUF",
->>>>>>> 665520b6f1f7659e072496ca047dd8968dce064d
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
-<<<<<<< HEAD
                 "Who theorized spontaneous generation",
                 "Aristotle"
             ],
             "guid": "koS&I3jKk=",
-=======
-                "Connects the eyepiece to the objective lenses.",
-                "Body Tube"
-            ],
-            "guid": "b#:vT4c*WJ",
->>>>>>> 665520b6f1f7659e072496ca047dd8968dce064d
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
-<<<<<<< HEAD
                 "Who was the first scientist to refute spontaneous generation",
                 "Francesco Redi"
             ],
             "guid": "BvzhuQ%Q.o",
-=======
-                "Attached to the objective lenses and allows you to switch between magnifications.",
-                "Revolving Nosepiece"
-            ],
-            "guid": "g.eX|$]52-",
->>>>>>> 665520b6f1f7659e072496ca047dd8968dce064d
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
-<<<<<<< HEAD
                 "What was Francesco Redi's experiment that disproves spontaneous generation?",
                 "Three jars of meat, wherein<br><br>One was left open<br>One was left tightly sealed<br>One was covered with gauze"
             ],
             "guid": "QA7DKd%rA",
-=======
-                "Provides different levels of magnification",
-                "Objective lenses"
-            ],
-            "guid": "xj^yabr6+m",
->>>>>>> 665520b6f1f7659e072496ca047dd8968dce064d
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
-<<<<<<< HEAD
                 "Who conducted the swan-neck flask experiment?",
                 "Louis Pasteur"
             ],
             "guid": "A_5C97ZMXH",
-=======
-                "What is the magnification of the <strong>Scanning Objective Lens</strong>?",
-                "4x"
-            ],
-            "guid": "gJ|Ly:4IIA",
->>>>>>> 665520b6f1f7659e072496ca047dd8968dce064d
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
-<<<<<<< HEAD
                 "How was the swan-neck flask experiment conducted?",
                 "A nutrient broth is boiled in a swan-neck flask and it stays sterile as long as the flask isn't broken<br><br><img src=\"Screenshot 2025-07-23 at 6.56.54 PM.png\">"
             ],
             "guid": "cH!3k%Vk=J",
-=======
-                "What is the magnification of the <strong>Low Power Objective Lens</strong>?",
-                "10x"
-            ],
-            "guid": "x*x-A+gZ:.",
->>>>>>> 665520b6f1f7659e072496ca047dd8968dce064d
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
-<<<<<<< HEAD
                 "Pasteur’s set of experiments irrefutably<br>disproved the theory of spontaneous<br>generation and earned him the prestigious<br>{{c2::Alhumbert Prize}} from the (year and name of academy){{c2::Paris Academy of<br>Sciences in 1862.}}",
                 ""
             ],
@@ -1220,36 +691,22 @@
                 "cellulose"
             ],
             "guid": "lI80CcNVDm",
-=======
-                "What is the magnification of the <strong>High Power Objective Lens</strong>?",
-                "40x"
-            ],
-            "guid": "j%p|X0LC5M",
->>>>>>> 665520b6f1f7659e072496ca047dd8968dce064d
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
-<<<<<<< HEAD
                 "What shape/structure looks similar to the thin sections of cork cells",
                 "Honey-comb"
             ],
             "guid": "BM#f_L0=s/",
-=======
-                "What is the magnification of the <strong>Oil Immersion Objective Lens</strong>, and how is it used?",
-                "<strong>100x</strong>, used with <strong>special oil</strong> for clarity at high magnification"
-            ],
-            "guid": "DbBm)bH@(c",
->>>>>>> 665520b6f1f7659e072496ca047dd8968dce064d
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
-<<<<<<< HEAD
                 "The dutch microscopist who invented microscopes with high magnifying power",
                 "Anton van Leeuwenhoek"
             ],
@@ -1264,138 +721,82 @@
                 "Anton Van Leeuwenhoek"
             ],
             "guid": "bLI;%YlPB&",
-=======
-                "The flat platform where you place the slide.",
-                "Specimen Stage"
-            ],
-            "guid": "eqYcYeb8kO",
->>>>>>> 665520b6f1f7659e072496ca047dd8968dce064d
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
-<<<<<<< HEAD
                 "What organisms did anton van leeuwenhoek observe, and what did he call them?",
                 "Animalcules"
             ],
             "guid": "cHr4~[fiM}",
-=======
-                "Holds the slide in place.",
-                "Stage Clips"
-            ],
-            "guid": "C9U(V|AqnJ",
->>>>>>> 665520b6f1f7659e072496ca047dd8968dce064d
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
-<<<<<<< HEAD
                 "What was Robert Brown's occupation?",
                 "Scottish botanist"
             ],
             "guid": "yiGh(7%jb.",
-=======
-                "Provides light so you can see the specimen clearly.",
-                "Light Source/Mirror"
-            ],
-            "guid": "fDrHCCjsnn",
->>>>>>> 665520b6f1f7659e072496ca047dd8968dce064d
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
-<<<<<<< HEAD
                 "Who first recognized the occurence of nuclei?",
                 "Robert Brown"
             ],
             "guid": "o50+mf[mSm",
-=======
-                "Brings the specimen into general focus (used with low power only).",
-                "Coarse Focus Knob"
-            ],
-            "guid": "i@wG{eCWe2",
->>>>>>> 665520b6f1f7659e072496ca047dd8968dce064d
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
-<<<<<<< HEAD
                 "In which organisms did Robert Brown first oberve the nucleus?",
                 "Orchids and milkweeds"
             ],
             "guid": "xM-.9[:34#",
-=======
-                "Used to make very small adjustments to the focus of the specimen",
-                "Fine Focus Knob"
-            ],
-            "guid": "HjmSdJaOV}",
->>>>>>> 665520b6f1f7659e072496ca047dd8968dce064d
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
-<<<<<<< HEAD
                 "Who are the 3 scientists responsible for Cell Theory?",
                 "Theodor Schwann, Matthias Schleiden, Rudolph Virchow"
             ],
             "guid": "Hc7dvCN;Iq",
-=======
-                "Adjust the amount of light that reaches the specimen.",
-                "Diaphragm"
-            ],
-            "guid": "G]UM%=8?87",
->>>>>>> 665520b6f1f7659e072496ca047dd8968dce064d
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
-<<<<<<< HEAD
                 "In which type of organisms did Matthias Schleiden observe cells in?",
                 "Plants"
             ],
             "guid": "C`i:Ve{Qw2",
-=======
-                "Supports the body tube and connects it to the base; used for carrying.",
-                "Arm"
-            ],
-            "guid": "L=;TwlocS@",
->>>>>>> 665520b6f1f7659e072496ca047dd8968dce064d
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
-<<<<<<< HEAD
                 "In which type of organisms did Theodor Schwann made observations on the cell?",
                 "Animals"
             ],
             "guid": "AuJ,nwG==!",
-=======
-                "The bottom part that supports the microscope.",
-                "Base"
-            ],
-            "guid": "gGU9/:MtH#",
->>>>>>> 665520b6f1f7659e072496ca047dd8968dce064d
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
-<<<<<<< HEAD
                 "What is the study of cells called?",
                 "Cytology"
             ],
@@ -2678,12 +2079,6 @@
                 "F, they DO have cytoskeletons"
             ],
             "guid": "upR*m[{;D0",
-=======
-                "Focuses the light onto the specimen.",
-                "Condenser"
-            ],
-            "guid": "wE&8K%$Cf:",
->>>>>>> 665520b6f1f7659e072496ca047dd8968dce064d
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": []
         }
