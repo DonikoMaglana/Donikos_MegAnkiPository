@@ -106,73 +106,6 @@
     "note_models": [
         {
             "__type__": "NoteModel",
-            "crowdanki_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
-            "flds": [
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": 9205121651523078416,
-                    "name": "Front",
-                    "ord": 0,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                },
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": -7001571941991209685,
-                    "name": "Back",
-                    "ord": 1,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "latexsvg": false,
-            "name": "Basic",
-            "originalStockKind": 1,
-            "req": [
-                [
-                    0,
-                    "any",
-                    [
-                        0
-                    ]
-                ]
-            ],
-            "sortf": 0,
-            "tmpls": [
-                {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
-                    "bafmt": "",
-                    "bfont": "",
-                    "bqfmt": "",
-                    "bsize": 0,
-                    "did": null,
-                    "id": -471929315152782166,
-                    "name": "Card 1",
-                    "ord": 0,
-                    "qfmt": "{{Front}}"
-                }
-            ],
-            "type": 0
-        },
-        {
-            "__type__": "NoteModel",
             "crowdanki_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
             "flds": [
@@ -307,6 +240,73 @@
         },
         {
             "__type__": "NoteModel",
+            "crowdanki_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 9205121651523078416,
+                    "name": "Front",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -7001571941991209685,
+                    "name": "Back",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic",
+            "originalStockKind": 1,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": -471929315152782166,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0
+        },
+        {
+            "__type__": "NoteModel",
             "crowdanki_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
             "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n.cloze {\n    font-weight: bold;\n    color: blue;\n}\n.nightMode .cloze {\n    color: lightblue;\n}\n",
             "flds": [
@@ -374,6 +374,416 @@
         }
     ],
     "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "Characteristics of men/women that are socially constructed",
+                "Gender"
+            ],
+            "guid": "MT[Pg%!l^{",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The oldest religion in the world",
+                "Hinduism"
+            ],
+            "guid": "x4H^Nljs8t",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the 3 socio-economic statuses from wealthiest to poorest?",
+                "Upper, Middle, Lower Classes"
+            ],
+            "guid": "fpAgL#f{5)",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who is found in the lower-lower class of society?",
+                "unemployed"
+            ],
+            "guid": "BB0L<N(-(<",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who are found in the upper-lower class?",
+                "Laborers"
+            ],
+            "guid": "y+$B(!!Nb3",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Defined as the status of belonging to a nation",
+                "Nationality"
+            ],
+            "guid": "P>P6nM1<j&",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Defined as the classification of one's physical traits",
+                "Ethnicity"
+            ],
+            "guid": "A=rA7#p6:c",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Another term for \"special needs\" specifically used in UCSP",
+                "Exceptionality"
+            ],
+            "guid": "g]L?%M3In7",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the two kinds of intellectual exceptionalities?",
+                "Superior intelligence &amp; slow learners"
+            ],
+            "guid": "i]Ju_3To+7",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the specific learning disability in the communicative exceptionalities category?",
+                "Dyslexia"
+            ],
+            "guid": "bw|1R}Jvm>",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the two main types of sensory exceptionalities?",
+                "Auditory &amp; Visual"
+            ],
+            "guid": "O3x:Xe3_7J",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the two kinds of behavioral exceptionalities?",
+                "- Emotionally disturbed<br>- Socially maladjusted"
+            ],
+            "guid": "w%vtxkG&yh",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What subtype of behavioral exceptionalities include people with anxiety and depression?",
+                "Emotionally disturbed"
+            ],
+            "guid": "N.5VxD-hJE",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "People who have a hard time interacting with others socially are under what subtype of behavioral exceptionalities?",
+                "Socially maladjusted"
+            ],
+            "guid": "D5m24zMZx&",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the two subtypes of physical exceptionalities",
+                "Orthopedic and Mobility disabilities"
+            ],
+            "guid": "jzk7&BBdpO",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Cerebral palsy is considered a mobility disability. T or F?",
+                "F, Orthopedic disability"
+            ],
+            "guid": "l[pA(rY;Qz",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "(Can be either orthopedic or mobility)<br><br>All {{c1::orthopedic}} disabilities are {{c1::mobility}} disabilities, but not all {{c1::mobility}} disabilities are {{c1::orthopedic}} disabilities",
+                ""
+            ],
+            "guid": "b/5eC$4GKc",
+            "note_model_uuid": "6bba29fa-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Enumerate the 6 kinds of exceptionalities (ICSBPM)",
+                "Intellectual, Communicative, Sensory, Behavioral, Physical, Multiple"
+            ],
+            "guid": "HG_$DH7&sA",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A fad is {{c1::short}} term, while a trend is {{c1::long}} term",
+                ""
+            ],
+            "guid": "joGtfwWlug",
+            "note_model_uuid": "6bba29fa-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Defined as the general conduct exhibited by individuals",
+                "Social Behavior"
+            ],
+            "guid": "G*nPKM#!Ib",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A common kind of social behavior in the Philippines that refers to people who loiter.",
+                "Istambay"
+            ],
+            "guid": "DK@~Wr/Qz3",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Defined as an individuals engagement in politics",
+                "Political Behavior"
+            ],
+            "guid": "LS#2xZc@EZ",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Defined as known political figures because of their outstanding achievements",
+                "Political phenomenon"
+            ],
+            "guid": "F4_8!)S.!G",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A type of dynasty wherein the seats are taken through intergenerational succession",
+                "Thin dynasty"
+            ],
+            "guid": "MiDo^A2<zW",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A type of dynasty wherein the seats are simultaneously monopolized",
+                "Fat dynasty"
+            ],
+            "guid": "mK{yZVa)/M",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the two chambers of the Legislative dept.?",
+                "Senate &amp; The House of Representatives"
+            ],
+            "guid": "bKKD],dv|T",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The senate and the house of reps. are sometimes referred to as?",
+                "The upper and lower chamber of the legislative department"
+            ],
+            "guid": "Q%fFA=3L=o",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This job of the congress involves approving <b>treaties and agreements</b>",
+                "Ratification"
+            ],
+            "guid": "dG&LOlAZ-x",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This job of the congress involves proposing and debating laws",
+                "Legislation"
+            ],
+            "guid": "xoK|h*Qf<-",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This job of the congress involves monitoring and investigating government activities",
+                "Oversight"
+            ],
+            "guid": "Fw[f%q^fYK",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "80% of congressmen are {{c2::district}} reps., while 20% are {{c1::party-list}} reps.",
+                ""
+            ],
+            "guid": "DOuZn#4qEm",
+            "note_model_uuid": "6bba29fa-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This official of the house of reps. presides over the sessions",
+                "Speaker"
+            ],
+            "guid": "o;tFd,&vs0",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This official of the house of reps. decides on all questions of order",
+                "Speaker&nbsp;"
+            ],
+            "guid": "e-@)0xc,Fg",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This official of the house of reps. signs all acts",
+                "Speaker"
+            ],
+            "guid": "exmZQklmQS",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This official of the house of reps. substitutes the speaker when they aren't available",
+                "Deputy speaker"
+            ],
+            "guid": "pn*8<-7hQ&",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This official of the house of reps. carries out the order of the House",
+                "Secretary general"
+            ],
+            "guid": "pD>#(Nf5~d",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This official of the house of reps. keeps a journal of each session",
+                "Secretary General"
+            ],
+            "guid": "Lh;5Ig:7GK",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This official of the house of reps. maintains order and enforces rules",
+                "Sergeant-at-arms"
+            ],
+            "guid": "u9HzJU/fu3",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the precise date when presidential elections begin?",
+                "2nd Monday of May every 6 years"
+            ],
+            "guid": "Le2G/rMaEr",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "When do all elected officials begin their term?",
+                "June 30 of the election year"
+            ],
+            "guid": "NaGt)u6Sb3",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This is a github test",
+                "yes"
+            ],
+            "guid": "v/X8|5a,Zp",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
         {
             "__type__": "Note",
             "fields": [
@@ -707,406 +1117,6 @@
         {
             "__type__": "Note",
             "fields": [
-                "Characteristics of men/women that are socially constructed",
-                "Gender"
-            ],
-            "guid": "MT[Pg%!l^{",
-            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "The oldest religion in the world",
-                "Hinduism"
-            ],
-            "guid": "x4H^Nljs8t",
-            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "What are the 3 socio-economic statuses from wealthiest to poorest?",
-                "Upper, Middle, Lower Classes"
-            ],
-            "guid": "fpAgL#f{5)",
-            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Who is found in the lower-lower class of society?",
-                "unemployed"
-            ],
-            "guid": "BB0L<N(-(<",
-            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Who are found in the upper-lower class?",
-                "Laborers"
-            ],
-            "guid": "y+$B(!!Nb3",
-            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Defined as the status of belonging to a nation",
-                "Nationality"
-            ],
-            "guid": "P>P6nM1<j&",
-            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Defined as the classification of one's physical traits",
-                "Ethnicity"
-            ],
-            "guid": "A=rA7#p6:c",
-            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Another term for \"special needs\" specifically used in UCSP",
-                "Exceptionality"
-            ],
-            "guid": "g]L?%M3In7",
-            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "What are the two kinds of intellectual exceptionalities?",
-                "Superior intelligence &amp; slow learners"
-            ],
-            "guid": "i]Ju_3To+7",
-            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "What is the specific learning disability in the communicative exceptionalities category?",
-                "Dyslexia"
-            ],
-            "guid": "bw|1R}Jvm>",
-            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "What are the two main types of sensory exceptionalities?",
-                "Auditory &amp; Visual"
-            ],
-            "guid": "O3x:Xe3_7J",
-            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "What are the two kinds of behavioral exceptionalities?",
-                "- Emotionally disturbed<br>- Socially maladjusted"
-            ],
-            "guid": "w%vtxkG&yh",
-            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "What subtype of behavioral exceptionalities include people with anxiety and depression?",
-                "Emotionally disturbed"
-            ],
-            "guid": "N.5VxD-hJE",
-            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "People who have a hard time interacting with others socially are under what subtype of behavioral exceptionalities?",
-                "Socially maladjusted"
-            ],
-            "guid": "D5m24zMZx&",
-            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "What are the two subtypes of physical exceptionalities",
-                "Orthopedic and Mobility disabilities"
-            ],
-            "guid": "jzk7&BBdpO",
-            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Cerebral palsy is considered a mobility disability. T or F?",
-                "F, Orthopedic disability"
-            ],
-            "guid": "l[pA(rY;Qz",
-            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "(Can be either orthopedic or mobility)<br><br>All {{c1::orthopedic}} disabilities are {{c1::mobility}} disabilities, but not all {{c1::mobility}} disabilities are {{c1::orthopedic}} disabilities",
-                ""
-            ],
-            "guid": "b/5eC$4GKc",
-            "note_model_uuid": "6bba29fa-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Enumerate the 6 kinds of exceptionalities (ICSBPM)",
-                "Intellectual, Communicative, Sensory, Behavioral, Physical, Multiple"
-            ],
-            "guid": "HG_$DH7&sA",
-            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "A fad is {{c1::short}} term, while a trend is {{c1::long}} term",
-                ""
-            ],
-            "guid": "joGtfwWlug",
-            "note_model_uuid": "6bba29fa-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Defined as the general conduct exhibited by individuals",
-                "Social Behavior"
-            ],
-            "guid": "G*nPKM#!Ib",
-            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "A common kind of social behavior in the Philippines that refers to people who loiter.",
-                "Istambay"
-            ],
-            "guid": "DK@~Wr/Qz3",
-            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Defined as an individuals engagement in politics",
-                "Political Behavior"
-            ],
-            "guid": "LS#2xZc@EZ",
-            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Defined as known political figures because of their outstanding achievements",
-                "Political phenomenon"
-            ],
-            "guid": "F4_8!)S.!G",
-            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "A type of dynasty wherein the seats are taken through intergenerational succession",
-                "Thin dynasty"
-            ],
-            "guid": "MiDo^A2<zW",
-            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "A type of dynasty wherein the seats are simultaneously monopolized",
-                "Fat dynasty"
-            ],
-            "guid": "mK{yZVa)/M",
-            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "What are the two chambers of the Legislative dept.?",
-                "Senate &amp; The House of Representatives"
-            ],
-            "guid": "bKKD],dv|T",
-            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "The senate and the house of reps. are sometimes referred to as?",
-                "The upper and lower chamber of the legislative department"
-            ],
-            "guid": "Q%fFA=3L=o",
-            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "This job of the congress involves approving treaties and agreements",
-                "Ratification"
-            ],
-            "guid": "dG&LOlAZ-x",
-            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "This job of the congress involves proposing and debating laws",
-                "Legislation"
-            ],
-            "guid": "xoK|h*Qf<-",
-            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "This job of the congress involves monitoring and investigating government activities",
-                "Oversight"
-            ],
-            "guid": "Fw[f%q^fYK",
-            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "80% of congressmen are {{c2::district}} reps., while 20% are {{c1::party-list}} reps.",
-                ""
-            ],
-            "guid": "DOuZn#4qEm",
-            "note_model_uuid": "6bba29fa-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "This official of the house of reps. presides over the sessions",
-                "Speaker"
-            ],
-            "guid": "o;tFd,&vs0",
-            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "This official of the house of reps. decides on all questions of order",
-                "Speaker&nbsp;"
-            ],
-            "guid": "e-@)0xc,Fg",
-            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "This official of the house of reps. signs all acts",
-                "Speaker"
-            ],
-            "guid": "exmZQklmQS",
-            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "This official of the house of reps. substitutes the speaker when they aren't available",
-                "Deputy speaker"
-            ],
-            "guid": "pn*8<-7hQ&",
-            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "This official of the house of reps. carries out the order of the House",
-                "Secretary general"
-            ],
-            "guid": "pD>#(Nf5~d",
-            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "This official of the house of reps. keeps a journal of each session",
-                "Secretary General"
-            ],
-            "guid": "Lh;5Ig:7GK",
-            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "This official of the house of reps. maintains order and enforces rules",
-                "Sergeant-at-arms"
-            ],
-            "guid": "u9HzJU/fu3",
-            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "What is the precise date when presidential elections begin?",
-                "2nd Monday of May every 6 years"
-            ],
-            "guid": "Le2G/rMaEr",
-            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "When do all elected officials begin their term?",
-                "June 30 of the election year"
-            ],
-            "guid": "NaGt)u6Sb3",
-            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
                 "{{c1::Society}} is universal among human beings",
                 "Society"
             ],
@@ -1351,6 +1361,56 @@
                 "A la Juventud Filipina"
             ],
             "guid": "n6@iSbX]5k",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Where does the word \"society\" come from, and what does that root word mean?",
+                "Socio = comrade/companion"
+            ],
+            "guid": "wZ4R&t/Pev",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Defined as the customary<br>beliefs, social forms and traits<br>that defines a specific racial,<br>religious or social group.",
+                "Culture"
+            ],
+            "guid": "u/c^{/SFrl",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the etymology of the word \"politics\" (Language + word itself + meaning\"",
+                "Greek word \"politika\" = affairs of the cities"
+            ],
+            "guid": "Gin:ymV`)$",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The individuals, external and<br>social constructions that influence<br>a person’s life and development.",
+                "Social Phenomena"
+            ],
+            "guid": "C*M4I$}u>~",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How many members does the senate have?",
+                "24"
+            ],
+            "guid": "P;{qOcF@8]",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": []
         }
