@@ -143,7 +143,7 @@
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "Cloze",
+            "name": "Cloze-f1e26",
             "originalStockKind": 5,
             "req": [
                 [
@@ -210,7 +210,7 @@
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "Basic",
+            "name": "Basic-9a0c7",
             "originalStockKind": 1,
             "req": [
                 [
@@ -237,6 +237,140 @@
                 }
             ],
             "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 9205121651523078416,
+                    "name": "Front",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -7001571941991209685,
+                    "name": "Back",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic",
+            "originalStockKind": 1,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": -471929315152782166,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n.cloze {\n    font-weight: bold;\n    color: blue;\n}\n.nightMode .cloze {\n    color: lightblue;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -5999884917947464331,
+                    "name": "Text",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": true,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": 0
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 7159354697063675009,
+                    "name": "Back Extra",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": 1
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Cloze",
+            "originalStockKind": 5,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Back Extra}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": -6628808917458755412,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1
         }
     ],
     "notes": [
@@ -631,6 +765,846 @@
             "tags": [
                 "AI"
             ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What separation methods are used for separating solids in liquid mixtures (Homogenous)",
+                "1. Evaporation<br>2. Distillation<br>3. centrifugation"
+            ],
+            "guid": "P#^gsQq{cb",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What separation methods are used for separating solids in liquid mixtures (Heterogenous)",
+                "1. Sedimentation / gravitation<br>2. Filtration<br>3. Magnetic separation<br>4.Fractional distillation"
+            ],
+            "guid": "jWK!dD!MMp",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What separtion techniques are used to separate liquids in liquid mixtures (Homogenous)",
+                "1. Simple or fractional distillation.<br>2. Chromatography"
+            ],
+            "guid": "s,`lPiFtQ<",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What separtion techniques are used to separate liquids in liquid mixtures (Heterogenous)",
+                "1. Partition separation using funnel"
+            ],
+            "guid": "omA(=owG1e",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Common techniques used for purification (for solids)",
+                "Sublimation and crystallization"
+            ],
+            "guid": "iic;u7v_@1",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Common techniques used for purification (for liquids)",
+                "Distillation, Differential Extraction, Chromatography"
+            ],
+            "guid": "kzZN~et>n;",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What method separates compounds in a solution with same properties?",
+                "Chromatography"
+            ],
+            "guid": "nd1?>C!;;G",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What method separates solids or group of solids andliquids in a mixture?",
+                "Filtration"
+            ],
+            "guid": "nb19D2`AuF",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What method separates solids that cannot decompose when heated in a solution?",
+                "Evaporation"
+            ],
+            "guid": "FmKCb`*rCr",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What method separates dissolved solids in a solution?",
+                "Crystallization"
+            ],
+            "guid": "M+&9kIVE{p",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What method separates liquids in a solution?",
+                "Simple Distillation"
+            ],
+            "guid": "nCG5T:TTvy",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What method separates mixture of miscible (dissolved) liquids?",
+                "Fractional Distillation"
+            ],
+            "guid": "f$V5rUT95$",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What method separates immiscible (undissolved) liquids?",
+                "Separating Funnel"
+            ],
+            "guid": "q{tGfUj}^M",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What method separates substances that sublime from two substances?",
+                "Sublimation"
+            ],
+            "guid": "dY4t;c@t@0",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What method separates magnetic substances from non-magnetic ones?",
+                "Magnetic Attraction"
+            ],
+            "guid": "OajJ@jED(g",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What separation method uses solubility with ethanol to separate substances?",
+                "Chromatography"
+            ],
+            "guid": "z3Bs0a=_XG",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What separation method is based on the size of particles?",
+                "Filtration"
+            ],
+            "guid": "mlSj&V6{RQ",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What separation method removes a liquid by heating, leaving solid behind?",
+                "Evaporation"
+            ],
+            "guid": "G:w}mbLrnC",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "“Separating and purifying the components of a mixture of two or more miscible liquids having different boiling points.”",
+                "Fractional Distillation"
+            ],
+            "guid": "iZM=5<3A(;",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A Change from solid to vapour without passing through liquid state",
+                "Sublimation"
+            ],
+            "guid": "Du#Eg(^5k$",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "To separate sublimable compound from non–sublimable impurities",
+                "Sublimation"
+            ],
+            "guid": "j=5.egONsh",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Used to separate volatile organic compounds from non volatile impurities",
+                "Sublimation"
+            ],
+            "guid": "oY<oTvU~?w",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Obtaining solid in pure and crystalline form from its solution.",
+                "Crystallization"
+            ],
+            "guid": "NQbRoesUZL",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Principle of Crystallization?",
+                "Substance is more soluble in a given solvent at higher temperature than at lower temperature"
+            ],
+            "guid": "EE!Ic``E;J",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Crystallization}} is one of the oldest purification techniques applied for solid organic compounds.",
+                ""
+            ],
+            "guid": "JUO@D?@]%?",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is fractional crystallization used for?",
+                "To separate solid mixtures based on different solubilities."
+            ],
+            "guid": "zQXt|F`A5v",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It is a method used to purify an organic solid.",
+                "recrystallization"
+            ],
+            "guid": "Eya9{XX%;K",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Filtration}} is one of the most applied processes in organic and pharmaceutical chemistry practices.",
+                ""
+            ],
+            "guid": "c!$8m#1ju9",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Two categories of filtration",
+                "1. Gravity filtration<br>2. Vacuum filtration"
+            ],
+            "guid": "Nbw+_;BUmx",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Gravity filtration}} is the simple form of filtration.",
+                ""
+            ],
+            "guid": "nk$:Ihp|E^",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Vacuum filtration}} is much faster than gravity filtration. The only difference is the employing of vacuum as a deriving force for filtration.",
+                ""
+            ],
+            "guid": "ga.`4Pu]:`",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Decantation}} is a process to separate mixtures by removing a liquid layer that is free of a precipitate.&nbsp;",
+                ""
+            ],
+            "guid": "rJklnoU$?$",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Decantation}} is a method for separating a mixture of a liquid and a heavier solid.",
+                ""
+            ],
+            "guid": "HPbE;Z*>c]",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Evaporation}} is a physical separation process, which removes a volatile component from a liquid solution or mixture by vaporization, obtaining a concentrated product of the nonvolatile components.",
+                ""
+            ],
+            "guid": "AlbNg5251L",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Centrifuge}} is a device for separating particles from a solution according to there size, shape, density, viscosity of the medium.",
+                ""
+            ],
+            "guid": "cFHe?*7A|]",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Centrifugation}} is a process which involves the use of the centrifugal force for the sedimentation of heterogeneous mixtures with a centrifuge.",
+                ""
+            ],
+            "guid": "vP8j6Va6p6",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This specific method of separation consists of successive centrifugation at increasing rotor speeds .",
+                "Fractional Centrifugation"
+            ],
+            "guid": "l^8?!@iGm9",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Liquid is converted into its vapour phase at its boiling point and vapour is then condensed back to liquid on cooling is known as {{c1::DISTILLATION}}.",
+                ""
+            ],
+            "guid": "PpKTT~dbh$",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Simple distillation}} is designed to evaporate a volatile liquid from a solution of non-volatile substances; the vapor is then condensed in the water condenser and collected in the receiver.",
+                ""
+            ],
+            "guid": "PX+}B)RSr<",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Separation techniques}} are used to separate mixtures into their constituent elements and/or compounds.",
+                ""
+            ],
+            "guid": "v/Gfs`]Ncv",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Examples of Ingredients derived from a natural source",
+                "Oil, Sugar, Ascorbic acid, salt, beeswax"
+            ],
+            "guid": "NtzLt1r3[f",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Mechanical separation}} is a process used typically for the heterogeneous mixture which can be separated by hand.",
+                ""
+            ],
+            "guid": "l;zJ!MWdo?",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Sorting}} is the simplest way to separate heterogeneous mixtures which can be done by physically separating large pieces of a mechanical mixture so that similar pieces are together.",
+                ""
+            ],
+            "guid": "O@ltw?pqUY",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Magnetization or Magnetic Attraction}}&nbsp;is a technique that involves the separation of magnetic substances from non-magnetic substances utilizing a magnet.",
+                ""
+            ],
+            "guid": "c~H@++VtQ@",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The process is called {{c1::floating}} when a “lighter” component that floats on top of a liquid is skimmed or poured off.",
+                ""
+            ],
+            "guid": "If-eH+=;sU",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It is called {{c1::settling}} when a “heavier” component sinks to the bottom of a liquid, and the liquid can be poured off.",
+                ""
+            ],
+            "guid": "G}UBYG0V)6",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A {{c1::centrifuge}} is a motor-driven laboratory apparatus.",
+                ""
+            ],
+            "guid": "Rdm.Ac@9k^",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Centrifugation}} is a process used to speed up the settling of the precipitate.",
+                ""
+            ],
+            "guid": "Qh(rw/~&nl",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The solid particles which are retained in the filter paper are called a {{c1::residue}}, and the clear liquid that passes through is called a {{c1::filtrate}}.",
+                ""
+            ],
+            "guid": "AoWe_]gKrr",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In {{c1::evaporation}}, the solvent is boiled off and escapes into the air while the solute is left behind in the holding container.",
+                ""
+            ],
+            "guid": "t-pa9,/XN?",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Simple Distillation}} is a technique used to separate and collect solvent from a solution of solutes, or in a mixture of two different liquids with different boiling points by the use of heat.",
+                ""
+            ],
+            "guid": "u}Pq(4b>u-",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Fractional distillation}} is a process used to effectively separate a liquid mixture with a range of boiling points near each other.",
+                ""
+            ],
+            "guid": "sqw]rAo;*W",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What type of separation method does crude oil or petroleum products undergo?",
+                "Fractional Distillation&nbsp;"
+            ],
+            "guid": "NX5Jw!O$?*",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Paper Chromatography}} is used to separate a mixture of solutes (or liquid) with different solubility and degrees of adsorption.",
+                ""
+            ],
+            "guid": "o.2P@;$^!C",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What method is used for separating a mixture of dyes in ink?",
+                "Paper Chromatography"
+            ],
+            "guid": "z(51MkvYPa",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What method is used for separating&nbsp;different types of sugars?",
+                "Paper Chromatography"
+            ],
+            "guid": "Bu`v4G1d&;",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Examples of filter mediums",
+                "Filter paper, sieve, colander"
+            ],
+            "guid": "gt#[zN;&4=",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A {{c1::filter}} is a porous material through which the liquid can pass.",
+                ""
+            ],
+            "guid": "QN7j5-rMYW",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How does centrifugation work?",
+                "The spinning creates centripetal force that pushes the solid to the bottom, allowing the liquid (supernatant) to be poured off."
+            ],
+            "guid": "fsqY5V#Q[#",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What method is used to separate blood components?",
+                "Centrifugation"
+            ],
+            "guid": "t%|SR?)+iH",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Applications of Evaporation",
+                "<div><br></div>\n<ul>\n<li>\n<div>Producing bulk drugs</div>\n</li>\n<li>\n<div>Making biological products</div>\n</li>\n<li>\n<div>Food processing (e.g., drying, concentrating)</div>\n</li>\n<li>\n<div>Producing demineralized water</div></li></ul>"
+            ],
+            "guid": "eh,u+-4U-W",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the applications of simple distillation?",
+                "<ul><li><div>Prepares distilled water and water for injection</div>\n</li>\n<li>\n<div>Makes aromatic and volatile waters</div>\n</li>\n<li>\n<div>Purifies organic solvents</div>\n</li>\n<li>\n<div>Used to make compounds like spirit of nitrous ether</div>\n</li>\n<li>\n<div>Separates non-volatile solids from volatile liquids</div>\n</li></ul>"
+            ],
+            "guid": "d/~axh~HC-",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Distillation involves both {{c1::evaporation}} of a liquid and {{c1::condensation}} of its vapour.",
+                ""
+            ],
+            "guid": "k^0|uL29)i",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What method to use in salt dissolved in water?",
+                "Evaporation"
+            ],
+            "guid": "l[h}v6S<!x",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What method used to separate&nbsp;Iron filings mixed with sand?",
+                "Magnetic separation"
+            ],
+            "guid": "tB|-i[ldol",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What separation method do masks use?",
+                "Filtration"
+            ],
+            "guid": "HE&f@2;Aq>",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What separation method would you use in separating ?Vegetable salad (lettuce, tomatoes, cucumbers)",
+                "Manual sorting"
+            ],
+            "guid": "vb/*z4Y/A(",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Accuracy}} is the condition or quality of being true,correct, or exact",
+                ""
+            ],
+            "guid": "kIV*tXt%lw",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Precision}} is the extent to which a given set of measurements of the same sample agree with their mean.",
+                ""
+            ],
+            "guid": "tE]WqCgp(I",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Two factors of uncertainty",
+                "systematic error and&nbsp; random error"
+            ],
+            "guid": "zKZkM;6Vn4",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "the limitation of the measuring instrument",
+                "systematic error"
+            ],
+            "guid": "LD81#ELV_B",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "the skill of the experimenter making the measurements",
+                "random error"
+            ],
+            "guid": "pZpRTf_61?",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Significant Figures}} are digits in the number that are reliable and absolutely necessary to indicate the quantity of something.",
+                ""
+            ],
+            "guid": "K~{rAYL+|#",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Density}} is the measurement of the amount of mass per unit of volume.",
+                ""
+            ],
+            "guid": "JekH4ACZj3",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "All nonzero digits are {{c1::significant}}.",
+                ""
+            ],
+            "guid": "G}6&dhBaWy",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Zeros between significant digits are {{c1::significant}}.",
+                ""
+            ],
+            "guid": "gIK+_S:Z)]",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Zeros to the left of nonzero digits are {{c1::not significant}}.",
+                ""
+            ],
+            "guid": "i6*-e4]r,N",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Zeroes at the end of a number are significant only if they are to the {{c1::right}} of the decimal point",
+                ""
+            ],
+            "guid": "Hdc*dp7SC6",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the phase change from solid to liquid?",
+                "Melting"
+            ],
+            "guid": "rc#Ifk]S$)",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the phase change from liquid to solid?",
+                "Freezing"
+            ],
+            "guid": "L,*Ns/bcbT",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the phase change from gas to liquid?",
+                "Condensation"
+            ],
+            "guid": "qO8}lp:-IM",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the phase change from solid directly to gas?",
+                "Sublimation"
+            ],
+            "guid": "FNS=EAnB8%",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the phase change from gas directly to solid?",
+                "Deposition"
+            ],
+            "guid": "C>X%E3Q8P&",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "process of turning <strong>sugarcane into sugar cubes</strong>",
+                "crystallization"
+            ],
+            "guid": "Iz6AD7F:#N",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
         }
     ],
     "reviewLimit": null,
