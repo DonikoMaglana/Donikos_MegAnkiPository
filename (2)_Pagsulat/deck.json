@@ -237,6 +237,140 @@
                 }
             ],
             "type": 1
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n.cloze {\n    font-weight: bold;\n    color: blue;\n}\n.nightMode .cloze {\n    color: lightblue;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -5999884917947464331,
+                    "name": "Text",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": true,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": 0
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 7159354697063675009,
+                    "name": "Back Extra",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": 1
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Cloze",
+            "originalStockKind": 5,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Back Extra}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": -6628808917458755412,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 9205121651523078416,
+                    "name": "Front",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -7001571941991209685,
+                    "name": "Back",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic",
+            "originalStockKind": 1,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": -471929315152782166,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0
         }
     ],
     "notes": [
@@ -548,6 +682,236 @@
             ],
             "guid": "P%2lwp`a)p",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ang {{c1::abstrak}} ay maikling buod ng artikulong nakabatay sa pananaliksik, tesis,rebyu, o katitikan ng komperensya.",
+                ""
+            ],
+            "guid": "tcuW>UHHFF",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Inilalagay ang abstrak sa {{c1::unahang}} bahagi ng manuskrito na nagsisilbing {{c1::panimulang}} bahagi ng ano mang akademikong papel.",
+                ""
+            ],
+            "guid": "lm(@$=dlaI",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ano ang layunin ng abstrak sa isang sulatin?",
+                "Upang madaling maunawaan ang nilalaman at layunin ng sulatin."
+            ],
+            "guid": "kuIu2VmCI!",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ano ang ibang tawag sa abstrak?",
+                "Sinopsis o presi"
+            ],
+            "guid": "q.IG3C~j&Q",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ano ang kaugnayan ng abstrak sa copyright o patent application?",
+                "Ginagamit ito bilang lagusan sa pagkuha ng eksklusibong karapatan sa isang intelektwal na akda o imbensyon."
+            ],
+            "guid": "MSL]|5(tKL",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Maaari bang magsilbing kapalit ng buong papel ang abstrak? (oo or hindi)",
+                "Oo, maaari itong tumindig bilang hiwalay na teksto o kapalit ng buong papel."
+            ],
+            "guid": "drIN/F[t[e",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Bakit gumagamit ng abstrak ang akademikong papel?",
+                "Upang <b>madaling maipaunawa </b>ang isang malalim at kompleks na pananaliksik."
+            ],
+            "guid": "t^G[o=8+p$",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ano ang nilalaman ng isang abstrak? (general)",
+                "Mahahalagang resulta at kongklusyon, ngunit hindi detalye ng metodolohiya o diskusyon."
+            ],
+            "guid": "xo{Sb$%}zc",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ano ang layunin ng mahusay na abstrak?",
+                "<b>\"Maibenta\"</b> o maipakita ang kabuuan ng pananaliksik at mahikayat ang mambabasa na basahin ang buong artikulo."
+            ],
+            "guid": "C=@lJ*mj+t",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ano ang tatlong (3) uri ng Abstrak?",
+                "Impormatibo, Deskriptibo, at Kritikal."
+            ],
+            "guid": "eUcc{CVv9T",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ano ang pinakakaraniwang uri ng abstrak?",
+                "Impormatibong Abstrak"
+            ],
+            "guid": "crW#hN0A45",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ano ang taglay ng isang impormatibong abstrak? (MSPRK)",
+                "Buod ng buong ideya ng pananaliksik – motibasyon, suliranin, pamamaraan, resulta, at kongklusyon."
+            ],
+            "guid": "EZ/zPS5#(#",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ano ang nilalaman ng <b><em>M</em><em>otibasyon</em></b>&nbsp;sa isang impormatibong abstrak?",
+                "Sinasagot kung bakit pinag-aralan ang paksa at ipinapakita ang kabuluhan ng pananaliksik."
+            ],
+            "guid": "zE&eS`nT%J",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ano ang nilalaman ng <em>Suliranin</em> sa isang impormatibong abstrak?",
+                "Kailangang masagot ng abstrak kung ano ang <b>sentral na suliranin o tanong </b>ng pananaliksik."
+            ],
+            "guid": "iJPGH9g659",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ano ang nilalaman ng <em>Pagdulog at Pamamaraan</em> sa abstrak?",
+                "Maikling paliwanag <b>kung paano kinalap ang datos at metodolohiyang </b>ginamit."
+            ],
+            "guid": "twVq7YAgl2",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ano ang nilalaman ng <em>Resulta</em> sa abstrak?",
+                "Ipinapakita ang <b>kinalabasan</b> at natuklasan ng pag-aaral."
+            ],
+            "guid": "IO}LsQ2?L_",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ano ang nilalaman ng <em>Kongklusyon</em> sa abstrak?",
+                "Mga <b>implikasyon </b>ng pananaliksik batay sa natuklasan."
+            ],
+            "guid": "byVlf%1so>",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ilang salita karaniwang mayroon ang <em>deskriptibong abstrak</em>?",
+                "kadalasang nasa 100 salita lamang"
+            ],
+            "guid": "D*)(KS6uz6",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ano ang nilalaman ng deskriptibong abstrak? (SLMS)",
+                "<b>Suliranin, layunin, metodolohiya, at saklaw ng pananaliksik</b> (hindi kasama ang resulta at kongklusyon)."
+            ],
+            "guid": "Juv^}~?HSC",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Disadvantage ng deskriptibong abstrak?",
+                "<b>Hindi buo ang impormasyong </b>ibinibigay tungkol sa pananaliksik, mas lalong <b>kailangang basahin ang buong artikulo</b>"
+            ],
+            "guid": "Pi_T-O{]{~",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ano ang pinakamahabang uri ng abstrak?",
+                "Kritikal na abstrak"
+            ],
+            "guid": "h>3hg.V?Z7",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ano ang nilalaman ng <em>kritikal na abstrak</em>?&nbsp;",
+                "<div><div><div><div><div><div><div>1. Motibasyon</div><div>2. Suliranin</div><div>3. Pamamaraan</div><div>4. Resulta</div><div>5. Kongklusyon,&nbsp;</div></div></div></div></div></div></div><div></div><div><b>Ebalwasyon ng kabuluhan, kasapatan, at katumpakan</b> ng pananaliksik.</div>"
+            ],
+            "guid": "hDp!0vD)xa",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ano ang dapat makuha ng mambabasa sa pagbasa ng abstrak?",
+                "<b>Pangkalahatang ideya ng pananaliksik </b>at <b>interes</b> na basahin pa ang buong pag-aaral."
+            ],
+            "guid": "b/o`LLQ0M}",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": []
         }
     ],
