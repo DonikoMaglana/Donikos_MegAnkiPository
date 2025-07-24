@@ -100,6 +100,22 @@
     "extendNew": 0,
     "extendRev": 0,
     "media_files": [
+        "2060507d966a4ae7946e5813415eb046-oa-1-A.svg",
+        "2060507d966a4ae7946e5813415eb046-oa-1-Q.svg",
+        "2060507d966a4ae7946e5813415eb046-oa-2-A.svg",
+        "2060507d966a4ae7946e5813415eb046-oa-2-Q.svg",
+        "2060507d966a4ae7946e5813415eb046-oa-3-A.svg",
+        "2060507d966a4ae7946e5813415eb046-oa-3-Q.svg",
+        "2060507d966a4ae7946e5813415eb046-oa-4-A.svg",
+        "2060507d966a4ae7946e5813415eb046-oa-4-Q.svg",
+        "2060507d966a4ae7946e5813415eb046-oa-5-A.svg",
+        "2060507d966a4ae7946e5813415eb046-oa-5-Q.svg",
+        "2060507d966a4ae7946e5813415eb046-oa-6-A.svg",
+        "2060507d966a4ae7946e5813415eb046-oa-6-Q.svg",
+        "2060507d966a4ae7946e5813415eb046-oa-7-A.svg",
+        "2060507d966a4ae7946e5813415eb046-oa-7-Q.svg",
+        "2060507d966a4ae7946e5813415eb046-oa-O.svg",
+        "Screenshot 2025-07-24 at 7.05.26 PM.png",
         "bdcbe8c2fab745a5bc9b42b8557f01f8-ao-1-A.svg",
         "bdcbe8c2fab745a5bc9b42b8557f01f8-ao-1-Q.svg",
         "bdcbe8c2fab745a5bc9b42b8557f01f8-ao-2-A.svg",
@@ -579,7 +595,7 @@
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "Image Occlusion Enhanced",
+            "name": "Image Occlusion Enhanced-22de6",
             "originalStockKind": 1,
             "req": [
                 [
@@ -600,6 +616,208 @@
                     "bsize": 0,
                     "did": null,
                     "id": 1255219982988685902,
+                    "name": "IO Card",
+                    "ord": 0,
+                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
+                }
+            ],
+            "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -279344989441727977,
+                    "name": "ID (hidden)",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -8019144233852573474,
+                    "name": "Header",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -5192177934792951139,
+                    "name": "Image",
+                    "ord": 2,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -996507654485675920,
+                    "name": "Question Mask",
+                    "ord": 3,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -2622217631836698292,
+                    "name": "Footer",
+                    "ord": 4,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 6158505670062219761,
+                    "name": "Remarks",
+                    "ord": 5,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -4411387447535134541,
+                    "name": "Sources",
+                    "ord": 6,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -7688410427295178531,
+                    "name": "Extra 1",
+                    "ord": 7,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 326092553592481837,
+                    "name": "Extra 2",
+                    "ord": 8,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -2552522292509077285,
+                    "name": "Answer Mask",
+                    "ord": 9,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 5776824685556938887,
+                    "name": "Original Mask",
+                    "ord": 10,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Image Occlusion Enhanced",
+            "originalStockKind": 1,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 1,
+            "tmpls": [
+                {
+                    "afmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n\n<script>\n// Toggle answer mask on clicking the image\nvar toggle = function() {\n  var amask = document.getElementById('io-overlay');\n  if (amask.style.display === 'block' || amask.style.display === '')\n    amask.style.display = 'none';\n  else\n    amask.style.display = 'block'\n}\n\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": 2322984612947848412,
                     "name": "IO Card",
                     "ord": 0,
                     "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
@@ -1691,7 +1909,7 @@
                 "",
                 "",
                 "",
-                "<img src=\"bdcbe8c2fab745a5bc9b42b8557f01f8-ao-1-A.svg\" />",
+                "<img src=\"bdcbe8c2fab745a5bc9b42b8557f01f8-ao-1-A.svg\">",
                 "<img src=\"bdcbe8c2fab745a5bc9b42b8557f01f8-ao-O.svg\" />"
             ],
             "guid": "ME](;Nz,tR",
@@ -1710,7 +1928,7 @@
                 "",
                 "",
                 "",
-                "<img src=\"bdcbe8c2fab745a5bc9b42b8557f01f8-ao-2-A.svg\" />",
+                "<img src=\"bdcbe8c2fab745a5bc9b42b8557f01f8-ao-2-A.svg\">",
                 "<img src=\"bdcbe8c2fab745a5bc9b42b8557f01f8-ao-O.svg\" />"
             ],
             "guid": "l$$i[Ezv`4",
@@ -1729,7 +1947,7 @@
                 "",
                 "",
                 "",
-                "<img src=\"bdcbe8c2fab745a5bc9b42b8557f01f8-ao-3-A.svg\" />",
+                "<img src=\"bdcbe8c2fab745a5bc9b42b8557f01f8-ao-3-A.svg\">",
                 "<img src=\"bdcbe8c2fab745a5bc9b42b8557f01f8-ao-O.svg\" />"
             ],
             "guid": "LUCf,_?S=i",
@@ -1768,7 +1986,7 @@
                 "",
                 "",
                 "<img src=\"bdcbe8c2fab745a5bc9b42b8557f01f8-ao-5-A.svg\" />",
-                "<img src=\"bdcbe8c2fab745a5bc9b42b8557f01f8-ao-O.svg\" />"
+                "<img src=\"bdcbe8c2fab745a5bc9b42b8557f01f8-ao-O.svg\">"
             ],
             "guid": "K;!1_[XRU:",
             "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
@@ -1782,6 +2000,139 @@
             ],
             "guid": "Az?;t(ZeDc",
             "note_model_uuid": "6bba29fa-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "2060507d966a4ae7946e5813415eb046-oa-1",
+                "",
+                "<img src=\"Screenshot 2025-07-24 at 7.05.26 PM.png\" />",
+                "<img src=\"2060507d966a4ae7946e5813415eb046-oa-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"2060507d966a4ae7946e5813415eb046-oa-1-A.svg\" />",
+                "<img src=\"2060507d966a4ae7946e5813415eb046-oa-O.svg\" />"
+            ],
+            "guid": "pE^r.#-xZ,",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "2060507d966a4ae7946e5813415eb046-oa-2",
+                "",
+                "<img src=\"Screenshot 2025-07-24 at 7.05.26 PM.png\" />",
+                "<img src=\"2060507d966a4ae7946e5813415eb046-oa-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"2060507d966a4ae7946e5813415eb046-oa-2-A.svg\" />",
+                "<img src=\"2060507d966a4ae7946e5813415eb046-oa-O.svg\" />"
+            ],
+            "guid": "gGLV4l8*X6",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "2060507d966a4ae7946e5813415eb046-oa-3",
+                "",
+                "<img src=\"Screenshot 2025-07-24 at 7.05.26 PM.png\" />",
+                "<img src=\"2060507d966a4ae7946e5813415eb046-oa-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"2060507d966a4ae7946e5813415eb046-oa-3-A.svg\" />",
+                "<img src=\"2060507d966a4ae7946e5813415eb046-oa-O.svg\" />"
+            ],
+            "guid": "Q_0Ys8A8/$",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "2060507d966a4ae7946e5813415eb046-oa-4",
+                "",
+                "<img src=\"Screenshot 2025-07-24 at 7.05.26 PM.png\" />",
+                "<img src=\"2060507d966a4ae7946e5813415eb046-oa-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"2060507d966a4ae7946e5813415eb046-oa-4-A.svg\" />",
+                "<img src=\"2060507d966a4ae7946e5813415eb046-oa-O.svg\" />"
+            ],
+            "guid": "ho{pvtvJ3,",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "2060507d966a4ae7946e5813415eb046-oa-5",
+                "",
+                "<img src=\"Screenshot 2025-07-24 at 7.05.26 PM.png\" />",
+                "<img src=\"2060507d966a4ae7946e5813415eb046-oa-5-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"2060507d966a4ae7946e5813415eb046-oa-5-A.svg\" />",
+                "<img src=\"2060507d966a4ae7946e5813415eb046-oa-O.svg\" />"
+            ],
+            "guid": "o(K*v-fC#=",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "2060507d966a4ae7946e5813415eb046-oa-6",
+                "",
+                "<img src=\"Screenshot 2025-07-24 at 7.05.26 PM.png\" />",
+                "<img src=\"2060507d966a4ae7946e5813415eb046-oa-6-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"2060507d966a4ae7946e5813415eb046-oa-6-A.svg\" />",
+                "<img src=\"2060507d966a4ae7946e5813415eb046-oa-O.svg\" />"
+            ],
+            "guid": "b&je<p{E3/",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "2060507d966a4ae7946e5813415eb046-oa-7",
+                "",
+                "<img src=\"Screenshot 2025-07-24 at 7.05.26 PM.png\" />",
+                "<img src=\"2060507d966a4ae7946e5813415eb046-oa-7-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"2060507d966a4ae7946e5813415eb046-oa-7-A.svg\" />",
+                "<img src=\"2060507d966a4ae7946e5813415eb046-oa-O.svg\" />"
+            ],
+            "guid": "cAQo%^{GX2",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
             "tags": []
         }
     ],
