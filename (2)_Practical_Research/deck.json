@@ -126,6 +126,20 @@
         "6ee5a6f5e843436b961a00f05ebee03d-ao-6-A.svg",
         "6ee5a6f5e843436b961a00f05ebee03d-ao-6-Q.svg",
         "6ee5a6f5e843436b961a00f05ebee03d-ao-O.svg",
+        "94bddfbf44c7403398e50c9cb6389989-ao-1-A.svg",
+        "94bddfbf44c7403398e50c9cb6389989-ao-1-Q.svg",
+        "94bddfbf44c7403398e50c9cb6389989-ao-2-A.svg",
+        "94bddfbf44c7403398e50c9cb6389989-ao-2-Q.svg",
+        "94bddfbf44c7403398e50c9cb6389989-ao-3-A.svg",
+        "94bddfbf44c7403398e50c9cb6389989-ao-3-Q.svg",
+        "94bddfbf44c7403398e50c9cb6389989-ao-4-A.svg",
+        "94bddfbf44c7403398e50c9cb6389989-ao-4-Q.svg",
+        "94bddfbf44c7403398e50c9cb6389989-ao-5-A.svg",
+        "94bddfbf44c7403398e50c9cb6389989-ao-5-Q.svg",
+        "94bddfbf44c7403398e50c9cb6389989-ao-6-A.svg",
+        "94bddfbf44c7403398e50c9cb6389989-ao-6-Q.svg",
+        "94bddfbf44c7403398e50c9cb6389989-ao-O.svg",
+        "Screenshot 2025-07-24 at 6.05.54 PM.png",
         "bdb2bce233624701b86a8410ccc01281-oa-1-A.svg",
         "bdb2bce233624701b86a8410ccc01281-oa-1-Q.svg",
         "bdb2bce233624701b86a8410ccc01281-oa-2-A.svg",
@@ -188,7 +202,7 @@
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "Cloze",
+            "name": "Cloze-f1e26",
             "originalStockKind": 5,
             "req": [
                 [
@@ -255,7 +269,7 @@
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "Basic",
+            "name": "Basic-9a0c7",
             "originalStockKind": 1,
             "req": [
                 [
@@ -457,7 +471,7 @@
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "Image Occlusion Enhanced",
+            "name": "Image Occlusion Enhanced-22de6",
             "originalStockKind": 1,
             "req": [
                 [
@@ -478,6 +492,342 @@
                     "bsize": 0,
                     "did": null,
                     "id": 1255219982988685902,
+                    "name": "IO Card",
+                    "ord": 0,
+                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
+                }
+            ],
+            "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 9205121651523078416,
+                    "name": "Front",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -7001571941991209685,
+                    "name": "Back",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic",
+            "originalStockKind": 1,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": -471929315152782166,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n.cloze {\n    font-weight: bold;\n    color: blue;\n}\n.nightMode .cloze {\n    color: lightblue;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -5999884917947464331,
+                    "name": "Text",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": true,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": 0
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 7159354697063675009,
+                    "name": "Back Extra",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": 1
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Cloze",
+            "originalStockKind": 5,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Back Extra}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": -6628808917458755412,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -279344989441727977,
+                    "name": "ID (hidden)",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -8019144233852573474,
+                    "name": "Header",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -5192177934792951139,
+                    "name": "Image",
+                    "ord": 2,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -996507654485675920,
+                    "name": "Question Mask",
+                    "ord": 3,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -2622217631836698292,
+                    "name": "Footer",
+                    "ord": 4,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 6158505670062219761,
+                    "name": "Remarks",
+                    "ord": 5,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -4411387447535134541,
+                    "name": "Sources",
+                    "ord": 6,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -7688410427295178531,
+                    "name": "Extra 1",
+                    "ord": 7,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 326092553592481837,
+                    "name": "Extra 2",
+                    "ord": 8,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -2552522292509077285,
+                    "name": "Answer Mask",
+                    "ord": 9,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 5776824685556938887,
+                    "name": "Original Mask",
+                    "ord": 10,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Image Occlusion Enhanced",
+            "originalStockKind": 1,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 1,
+            "tmpls": [
+                {
+                    "afmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n\n<script>\n// Toggle answer mask on clicking the image\nvar toggle = function() {\n  var amask = document.getElementById('io-overlay');\n  if (amask.style.display === 'block' || amask.style.display === '')\n    amask.style.display = 'none';\n  else\n    amask.style.display = 'block'\n}\n\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": 2322984612947848412,
                     "name": "IO Card",
                     "ord": 0,
                     "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
@@ -659,7 +1009,7 @@
                 "",
                 "",
                 "",
-                "<img src=\"bdb2bce233624701b86a8410ccc01281-oa-1-A.svg\" />",
+                "<img src=\"bdb2bce233624701b86a8410ccc01281-oa-1-A.svg\">",
                 "<img src=\"bdb2bce233624701b86a8410ccc01281-oa-O.svg\">"
             ],
             "guid": "Palb>07Hqt",
@@ -678,7 +1028,7 @@
                 "",
                 "",
                 "",
-                "<img src=\"bdb2bce233624701b86a8410ccc01281-oa-2-A.svg\" />",
+                "<img src=\"bdb2bce233624701b86a8410ccc01281-oa-2-A.svg\">",
                 "<img src=\"bdb2bce233624701b86a8410ccc01281-oa-O.svg\">"
             ],
             "guid": "Q3R5MgKm/0",
@@ -710,14 +1060,14 @@
                 "bdb2bce233624701b86a8410ccc01281-oa-4",
                 "",
                 "<img src=\"tmpmf3mxwyd.jpg\" />",
-                "<img src=\"bdb2bce233624701b86a8410ccc01281-oa-4-Q.svg\" />",
+                "<img src=\"bdb2bce233624701b86a8410ccc01281-oa-4-Q.svg\">",
                 "",
                 "",
                 "",
                 "",
                 "",
                 "<img src=\"bdb2bce233624701b86a8410ccc01281-oa-4-A.svg\">",
-                "<img src=\"bdb2bce233624701b86a8410ccc01281-oa-O.svg\" />"
+                "<img src=\"bdb2bce233624701b86a8410ccc01281-oa-O.svg\">"
             ],
             "guid": "NDtfD5KD%+",
             "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
@@ -778,14 +1128,14 @@
             "fields": [
                 "d4c865d7e62947e8a0d89e8d7b9d5716-ao-1",
                 "",
-                "<img src=\"tmpql2empwx.jpg\" />",
-                "<img src=\"d4c865d7e62947e8a0d89e8d7b9d5716-ao-1-Q.svg\" />",
+                "<img src=\"tmpql2empwx.jpg\">",
+                "<img src=\"d4c865d7e62947e8a0d89e8d7b9d5716-ao-1-Q.svg\">",
                 "",
                 "",
                 "",
                 "",
                 "",
-                "<img src=\"d4c865d7e62947e8a0d89e8d7b9d5716-ao-1-A.svg\" />",
+                "<img src=\"d4c865d7e62947e8a0d89e8d7b9d5716-ao-1-A.svg\">",
                 "<img src=\"d4c865d7e62947e8a0d89e8d7b9d5716-ao-O.svg\">"
             ],
             "guid": "C_=8x#stUA",
@@ -798,14 +1148,14 @@
                 "d4c865d7e62947e8a0d89e8d7b9d5716-ao-2",
                 "",
                 "<img src=\"tmpql2empwx.jpg\" />",
-                "<img src=\"d4c865d7e62947e8a0d89e8d7b9d5716-ao-2-Q.svg\" />",
+                "<img src=\"d4c865d7e62947e8a0d89e8d7b9d5716-ao-2-Q.svg\">",
                 "",
                 "",
                 "",
                 "",
                 "",
-                "<img src=\"d4c865d7e62947e8a0d89e8d7b9d5716-ao-2-A.svg\" />",
-                "<img src=\"d4c865d7e62947e8a0d89e8d7b9d5716-ao-O.svg\" />"
+                "<img src=\"d4c865d7e62947e8a0d89e8d7b9d5716-ao-2-A.svg\">",
+                "<img src=\"d4c865d7e62947e8a0d89e8d7b9d5716-ao-O.svg\">"
             ],
             "guid": "ey|%~.Wf3,",
             "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
@@ -867,7 +1217,7 @@
                 "6ee5a6f5e843436b961a00f05ebee03d-ao-1",
                 "",
                 "<img src=\"tmpo1uczbfk.jpg\" />",
-                "<img src=\"6ee5a6f5e843436b961a00f05ebee03d-ao-1-Q.svg\" />",
+                "<img src=\"6ee5a6f5e843436b961a00f05ebee03d-ao-1-Q.svg\">",
                 "",
                 "",
                 "",
@@ -892,7 +1242,7 @@
                 "",
                 "",
                 "",
-                "<img src=\"6ee5a6f5e843436b961a00f05ebee03d-ao-2-A.svg\" />",
+                "<img src=\"6ee5a6f5e843436b961a00f05ebee03d-ao-2-A.svg\">",
                 "<img src=\"6ee5a6f5e843436b961a00f05ebee03d-ao-O.svg\" />"
             ],
             "guid": "IY}&GoN+7+",
@@ -969,7 +1319,7 @@
                 "",
                 "",
                 "<img src=\"6ee5a6f5e843436b961a00f05ebee03d-ao-6-A.svg\">",
-                "<img src=\"6ee5a6f5e843436b961a00f05ebee03d-ao-O.svg\" />"
+                "<img src=\"6ee5a6f5e843436b961a00f05ebee03d-ao-O.svg\">"
             ],
             "guid": "G;cdyH#rp}",
             "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
@@ -1044,7 +1394,7 @@
                 "",
                 "",
                 "",
-                "<img src=\"0176e835beab4ada8390210c5fe0a1ab-ao-4-A.svg\" />",
+                "<img src=\"0176e835beab4ada8390210c5fe0a1ab-ao-4-A.svg\">",
                 "<img src=\"0176e835beab4ada8390210c5fe0a1ab-ao-O.svg\">"
             ],
             "guid": "IL>hvs/}2$",
@@ -1075,18 +1425,272 @@
             "fields": [
                 "0176e835beab4ada8390210c5fe0a1ab-ao-6",
                 "",
-                "<img src=\"tmp1sx46ae5.jpg\" />",
-                "<img src=\"0176e835beab4ada8390210c5fe0a1ab-ao-6-Q.svg\" />",
+                "<img src=\"tmp1sx46ae5.jpg\">",
+                "<img src=\"0176e835beab4ada8390210c5fe0a1ab-ao-6-Q.svg\">",
                 "",
                 "",
                 "",
                 "",
                 "",
                 "<img src=\"0176e835beab4ada8390210c5fe0a1ab-ao-6-A.svg\">",
-                "<img src=\"0176e835beab4ada8390210c5fe0a1ab-ao-O.svg\" />"
+                "<img src=\"0176e835beab4ada8390210c5fe0a1ab-ao-O.svg\">"
             ],
             "guid": "L%@8(*!4v<",
             "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<span style=\"color: rgb(233, 215, 255);\">What are the 3 purposes of research?</span>",
+                "1. Explore<br>2. Describe<br>3. Explain"
+            ],
+            "guid": "hWGHN&;x_a",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<span style=\"color: rgb(233, 215, 255);\">Since math is ABSOLUTE, quantitative studies are<br>always&nbsp;</span>{{c1::objective}}<span style=\"color: rgb(233, 215, 255);\">.</span>",
+                ""
+            ],
+            "guid": "H6iA-/Uws{",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<span style=\"color: rgb(233, 215, 255);\">Qualitative studies have larger sample sizes compared to quanti. T or F?</span>",
+                "F"
+            ],
+            "guid": "d+%oidY4xt",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<span style=\"color: rgb(233, 215, 255);\">Data is numerical which makes presentation<br>through graphs, charts, and tables possible and<br>with better conveyance and interpretation.<br><br>Which characteristic of quantitative research is this?</span>",
+                "Visually presentable"
+            ],
+            "guid": "hu[{2<G.pc",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<span style=\"color: rgb(233, 215, 255);\">Data analysis with quantitative researches are generally faster. T or F?</span>",
+                "T"
+            ],
+            "guid": "s*G5Wh[fiI",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<span style=\"color: rgb(233, 215, 255);\">Replicating a quantitative research again and again enhances its validity and reliability. T or F?</span>",
+                "T"
+            ],
+            "guid": "LQZlyLPt^B",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<span style=\"color: rgb(233, 215, 255);\">Give me 2 disadvantages of quantitative research.</span>",
+                "1. It lacks the necessary data to explore a problem or concept in depth.<br><br>2. It does not provide a comprehensive explanation of human experiences.<br><br>3. Some information, such as feelings and beliefs, cannot be described by numerical data.<br><br>4. The research design is rigid and not very flexible.<br><br>5. The participants are limited to choose only from the given responses.<br><br>6. A large sample size makes data collection more costly."
+            ],
+            "guid": "coOUt(ls4`",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<span style=\"color: rgb(233, 215, 255);\">A characteristic with no variations within a class of objects</span>",
+                "Constant"
+            ],
+            "guid": "Qrp#k|rz22",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<span style=\"color: rgb(233, 215, 255);\">A categorical variable is quantitatively different. T or F?</span>",
+                "F, qualitatively different"
+            ],
+            "guid": "iJH&y5`+NN",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<span style=\"color: rgb(233, 215, 255);\">Significant difference focuses on {{c1::comparing}} groups, while significant relationship focuses on the {{c1::association}} between variables</span>",
+                ""
+            ],
+            "guid": "E;2zA,[+:_",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<span style=\"color: rgb(233, 215, 255);\">Give me at least 2 characteristics of a research title according to the NIH</span>",
+                "• descriptive,<br>• direct,<br>• accurate,<br>• appropriate,<br>• interesting,<br>• concise,<br>• precise,<br>• unique,<br>• Not misleading"
+            ],
+            "guid": "uiV~o,@gRB",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<span style=\"color: rgb(233, 215, 255);\">What are the 2 parts of the Statement of the Problem?</span>",
+                "General objective<br>Specific objective"
+            ],
+            "guid": "N&F:($Svh$",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<span style=\"color: rgb(233, 215, 255);\">Given the title:<br><br>Anxiety and Depression among Grade 12 students in a Catholic School in Davao City<br><br>{{c1::This study aims to determine the levels of [anxiety] and [Depression]<br>[among senior high school students] [in a Catholic school in Davao City]}}.<br>{{c2::Furthermore, it also would like to measure if there exists a significant<br>relationship}}&nbsp;{{c3::between the levels of [anxiety] and [Depression] [among senior<br>high school students].}}</span>",
+                ""
+            ],
+            "guid": "Ji|_EVLB(Z",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "94bddfbf44c7403398e50c9cb6389989-ao-1",
+                "",
+                "<img src=\"Screenshot 2025-07-24 at 6.05.54 PM.png\" />",
+                "<img src=\"94bddfbf44c7403398e50c9cb6389989-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"94bddfbf44c7403398e50c9cb6389989-ao-1-A.svg\" />",
+                "<img src=\"94bddfbf44c7403398e50c9cb6389989-ao-O.svg\">"
+            ],
+            "guid": "r-r1$9.%zi",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "94bddfbf44c7403398e50c9cb6389989-ao-2",
+                "",
+                "<img src=\"Screenshot 2025-07-24 at 6.05.54 PM.png\" />",
+                "<img src=\"94bddfbf44c7403398e50c9cb6389989-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"94bddfbf44c7403398e50c9cb6389989-ao-2-A.svg\" />",
+                "<img src=\"94bddfbf44c7403398e50c9cb6389989-ao-O.svg\" />"
+            ],
+            "guid": "HXFezcZvIr",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "94bddfbf44c7403398e50c9cb6389989-ao-3",
+                "",
+                "<img src=\"Screenshot 2025-07-24 at 6.05.54 PM.png\" />",
+                "<img src=\"94bddfbf44c7403398e50c9cb6389989-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"94bddfbf44c7403398e50c9cb6389989-ao-3-A.svg\">",
+                "<img src=\"94bddfbf44c7403398e50c9cb6389989-ao-O.svg\" />"
+            ],
+            "guid": "q`A;#Ig[_t",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "94bddfbf44c7403398e50c9cb6389989-ao-4",
+                "",
+                "<img src=\"Screenshot 2025-07-24 at 6.05.54 PM.png\" />",
+                "<img src=\"94bddfbf44c7403398e50c9cb6389989-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"94bddfbf44c7403398e50c9cb6389989-ao-4-A.svg\">",
+                "<img src=\"94bddfbf44c7403398e50c9cb6389989-ao-O.svg\" />"
+            ],
+            "guid": "i{f*hs/vjD",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "94bddfbf44c7403398e50c9cb6389989-ao-5",
+                "",
+                "<img src=\"Screenshot 2025-07-24 at 6.05.54 PM.png\" />",
+                "<img src=\"94bddfbf44c7403398e50c9cb6389989-ao-5-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"94bddfbf44c7403398e50c9cb6389989-ao-5-A.svg\">",
+                "<img src=\"94bddfbf44c7403398e50c9cb6389989-ao-O.svg\" />"
+            ],
+            "guid": "LQRr-Xm,{a",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "94bddfbf44c7403398e50c9cb6389989-ao-6",
+                "",
+                "<img src=\"Screenshot 2025-07-24 at 6.05.54 PM.png\" />",
+                "<img src=\"94bddfbf44c7403398e50c9cb6389989-ao-6-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"94bddfbf44c7403398e50c9cb6389989-ao-6-A.svg\">",
+                "<img src=\"94bddfbf44c7403398e50c9cb6389989-ao-O.svg\" />"
+            ],
+            "guid": "N~2&u)+=ZA",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<span style=\"color: rgb(233, 215, 255);\">The Specific Objective is basically just dissecting a title, but the order is a bit different.<br><br>How is the SO ordered with respect to the steps of dissecting a title?</span>",
+                "3.<br>1.<br>2.<br>4.<br>5.<br>6."
+            ],
+            "guid": "scN??m2roe",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": []
         }
     ],
