@@ -1661,7 +1661,7 @@
             "__type__": "Note",
             "fields": [
                 "This great center of philosophy is the oldest and deeply spiritual",
-                "China"
+                "India"
             ],
             "guid": "e6%P4hqmY>",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
@@ -1671,7 +1671,7 @@
             "__type__": "Note",
             "fields": [
                 "This center of philosophy is focused on moral society and balance",
-                "India"
+                "China"
             ],
             "guid": "qY??@}!-iM",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
@@ -1985,7 +1985,7 @@
                 "",
                 "",
                 "",
-                "<img src=\"bdcbe8c2fab745a5bc9b42b8557f01f8-ao-5-A.svg\" />",
+                "<img src=\"bdcbe8c2fab745a5bc9b42b8557f01f8-ao-5-A.svg\">",
                 "<img src=\"bdcbe8c2fab745a5bc9b42b8557f01f8-ao-O.svg\">"
             ],
             "guid": "K;!1_[XRU:",
@@ -2110,7 +2110,7 @@
                 "",
                 "",
                 "<img src=\"2060507d966a4ae7946e5813415eb046-oa-6-A.svg\" />",
-                "<img src=\"2060507d966a4ae7946e5813415eb046-oa-O.svg\" />"
+                "<img src=\"2060507d966a4ae7946e5813415eb046-oa-O.svg\">"
             ],
             "guid": "b&je<p{E3/",
             "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
