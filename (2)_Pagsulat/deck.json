@@ -913,6 +913,558 @@
             "guid": "b/o`LLQ0M}",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ano mang pagsulat na isinasagawa upang makatupad sa isang pangangailangan sa pag-aaral.",
+                "Akademikong Pagsulat"
+            ],
+            "guid": "p1&}0gYL`c",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Anong uri ng pagsulat ang kinapapalooban ng ano mang itinatakdang gawaing pasulat sa isang setting na akademiko?",
+                "Akademikong Pagsulat"
+            ],
+            "guid": "up#w%>&2g",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ito ay isang tumpak, pormal, impersonal at obhetibong uri ng pagsulat para sa pag-aaral, pananaliksik, o publikasyon.",
+                "Akademikong Pagsulat"
+            ],
+            "guid": "z)gV-;f7qO",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Sila ang naglahad ng tatlong kalikasan ng akademikong pagsulat (katotohanan, ebidensya, balanse) noong 2003.",
+                "Fulwiler at Hayakawa (2003)"
+            ],
+            "guid": "r8f+^{_<0n",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ayon kina Fulwiler at Hayakawa (2003), anong kalikasan ng akademikong pagsulat ang nagpapakita na ang manunulat ay nakagagamit ng kaalaman at metodo ng disiplinang makatotohanan?",
+                "Katotohanan"
+            ],
+            "guid": "e}c4;+Of[@",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ayon kina Fulwiler at Hayakawa (2003), anong kalikasan ng akademikong pagsulat ang gumagamit ng mga mapagkakatiwalaang ebidensya upang suportahan ang katotohanang inilalahad?",
+                "Ebidensya"
+            ],
+            "guid": "M1Uj!~RP*-",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ayon kina Fulwiler at Hayakawa (2003), anong kalikasan ng akademikong pagsulat ang nagsasaad na sa paglalahad ng mga haka, opinyon at argumento ay kailangang gumamit ng wikang walang pagkiling, seryoso at di-emosyonal?",
+                "Balanse"
+            ],
+            "guid": "uELEE{?Nk5",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Anong katangian ng akademikong pagsulat ang mas mahaba at mas pormal kaysa pasalita, at may mas kumplikadong grammar at bokabularyo?",
+                "Kompleks"
+            ],
+            "guid": "rhbfh8M`b|",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Anong katangian ng akademikong pagsulat ang nagsasabing iwasan ang kolokyal at balbal, at gumamit ng tamang wika?",
+                "Pormal"
+            ],
+            "guid": "toobe7-I;u",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Anong katangian ng akademikong pagsulat ang tumutukoy sa paggamit ng eksaktong datos at impormasyon, walang labis o kulang?",
+                "Tumpak"
+            ],
+            "guid": "z*e,_NBTdU",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Anong katangian ng akademikong pagsulat ang nakatutok sa paksa at hindi sa damdamin o opinyon ng manunulat?",
+                "Obhetibo"
+            ],
+            "guid": "A8V_ehM*gM",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Anong katangian ng akademikong pagsulat ang may malinaw na koneksyon sa mga bahagi ng teksto?",
+                "Eksplisit"
+            ],
+            "guid": "fyu;+;;B?Z",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Anong katangian ng akademikong pagsulat ang tumutukoy sa paggamit ng tamang bokabularyo, grammar, at baybay?",
+                "Wasto"
+            ],
+            "guid": "MOG8V%^44x",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Anong katangian ng akademikong pagsulat ang tumutukoy sa tama at tapat na paggamit ng ebidensya at sources upang maiwasan ang plagiarism?",
+                "Responsable"
+            ],
+            "guid": "exZTvY@+u%",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Anong katangian ng akademikong pagsulat ang may tiyak na tanong o layunin na gustong sagutin?",
+                "Malinaw na Layunin"
+            ],
+            "guid": "q|6^DyGkp5",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Anong katangian ng akademikong pagsulat ang nagpapakita ng sariling pag-iisip o punto de bista ng manunulat?",
+                "Malinaw na Pananaw"
+            ],
+            "guid": "j_bmTQ2lY4",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Anong katangian ng akademikong pagsulat kung saan lahat ng bahagi ay naka-align sa paksa o tesis?",
+                "May Pokus"
+            ],
+            "guid": "sAl$$,L#x-",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Anong katangian ng akademikong pagsulat ang may malinaw na introduksyon, katawan, at kongklusyon?",
+                "Lohikal na Organisasyon"
+            ],
+            "guid": "L/=t$3GX-[",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Anong katangian ng akademikong pagsulat ang gumagamit ng facts, datos, opinyon, at quotes bilang ebidensya?",
+                "Matibay na Suporta"
+            ],
+            "guid": "Mm,cV%g5FB",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Anong katangian ng akademikong pagsulat ang may buo at klarong pagpapaliwanag sa bawat punto?",
+                "Malinaw at Kumpletong Eksplanasyon"
+            ],
+            "guid": "J|8)-+.:uQ",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Anong katangian ng akademikong pagsulat ang gumagamit ng tama, napapanahon, at maaasahang sources?",
+                "Epektibong Pananaliksik"
+            ],
+            "guid": "u3,nhCEy]g",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Anong katangian ng akademikong pagsulat ang tumutukoy sa pagiging malinaw, maikli, at tama sa grammar, spelling, at format?",
+                "Iskolarling Estilo"
+            ],
+            "guid": "ysU<d1<1tt",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Anong layunin ng akademikong pagsulat ang naglalayong kumbinsihin ang mambabasa sa posisyon ng manunulat gamit ang ebidensya? (Hal. Posisyong Papel)",
+                "Mapanghikayat"
+            ],
+            "guid": "JGAyl]J5+E",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Anong layunin ng akademikong pagsulat ang sumusuri sa mga sagot sa tanong at pumipili ng pinakamahusay batay sa pamantayan? (Hal. Panukalang Proyekto)",
+                "Mapanuri (Analitikal)"
+            ],
+            "guid": "wq1$7YUQ>M",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Anong layunin ng akademikong pagsulat ang nagbibigay ng impormasyon o paliwanag nang walang pinipiling pananaw? (Hal. Abstrak)",
+                "Impormatibo"
+            ],
+            "guid": "c!7![n]D7C",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Anong tungkulin ng akademikong pagsulat ang nakakatulong sa komunikasyon gamit ang tamang gramatika, organisasyon, at estratehiya?",
+                "Lumilinang ng Kahusayan sa Wika"
+            ],
+            "guid": "n[FFBBp{^/",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Anong tungkulin ng akademikong pagsulat ang isang proseso ng pagbasa, pagsusuri, at pagpapasya na nakakatulong sa pagbuo ng kritikal na pag-iisip?",
+                "Lumilinang ng Mapanuring Pag-iisip"
+            ],
+            "guid": "N%#_GB6o*&",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Anong tungkulin ng akademikong pagsulat ang nagtuturo ng katapatan, kasipagan, disiplina, pagtitiyaga, at respeto sa iba?",
+                "Lumilinang ng Mga Pagpapahalagang Pantao"
+            ],
+            "guid": "D6Z8eujd7f",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Anong tungkulin ng akademikong pagsulat ang nagsisilbing tulay para sa kolehiyo at paghahanda sa global na kompetisyon sa iba&#x27;t ibang propesyon?",
+                "Paghahanda sa Propesyon"
+            ],
+            "guid": "wVQ<awoCV`",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Anong kategorya ng akademikong papel ang madalas ipagawa sa paaralan? (Hal. Sintesis, Buod, Abstrak, Talumpati, Rebyu)",
+                "Karaniwang Anyo"
+            ],
+            "guid": "tuoWzP>Mkk",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Anong kategorya ng akademikong papel ang nakatuon sa sariling opinyon, damdamin, at karanasan ng manunulat? (Hal. Replektibong Sanaysay, Posisyong Papel)",
+                "Personal na Anyo"
+            ],
+            "guid": "w!T28DwxYw",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Anong kategorya ng akademikong papel ang hindi kabilang sa karaniwan o personal na anyo? (Hal. Bionote, Panukalang Proyekto, Agenda)",
+                "Iba Pang Anyo (Residual)"
+            ],
+            "guid": "GdiT*fMSKP",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Anong anyo ng sulatin ang nagpapaliwanag ng isang paksang naglalayong manghikayat, tumugod, o mangatwiran?",
+                "Talumpati"
+            ],
+            "guid": "d;Ts*)FqG.",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Anong anyo ng sulatin ang naglalayong maipaglaban kung ano ang alam na katotohanan at dapat isulat sa pormal at organisadong paraan?",
+                "Posisyong Papel"
+            ],
+            "guid": "j~)6ea0gbe",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Anong uri ng sanaysay kung saan nagbabalik-tanaw ang akda, nagninilay, at nangangailangan ng reaksyon at opinyon?",
+                "Replektibong Sanaysay"
+            ],
+            "guid": "Jfl,uf9<7(",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Anong uri ng sanaysay ang nagbabalik-tanaw sa isang paglalakbay na ginawa ng may-akda, kung saan mas marami ang tekstong deskriptib kaysa larawan?",
+                "Lakbay Sanaysay"
+            ],
+            "guid": "LCe+4$,Y9&",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Anong uri ng sanaysay kung saan mas maraming litrato kaysa sa mga salita, ngunit dapat organisado at may makabuluhang pagpapahayag?",
+                "Pictorial Essay"
+            ],
+            "guid": "x1^pVZUXZW",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Anong anyo ng sulatin ang karaniwang gamit upang mabigyan ng buod ang mga akademikong papel tulad ng tesis, na may habang 200-500 salita?",
+                "Abstrak"
+            ],
+            "guid": "N-d%Hbm~tu",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Anong anyo ng sulatin ang ginagamit para sa personal at akademikong impormasyon ng isang tao na dapat makatotohanan at nakasulat sa paraang patalata?",
+                "Bionote"
+            ],
+            "guid": "oS<j;<a%Y^",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Anong gamit ng akademikong pagsulat ang pagbibigay ng katuturan sa konsepto o termino?",
+                "Depinisyon"
+            ],
+            "guid": "cfQD9LFtB.",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Anong gamit ng akademikong pagsulat ang pag-uuri o pagpapangkat ng mga halimbawa sa isang klasipikasyon?",
+                "Enumerasyon"
+            ],
+            "guid": "F**R7{wO?3",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Anong gamit ng akademikong pagsulat ang pagsusunod-sunod ng mga pangyayari o proseso?",
+                "Order"
+            ],
+            "guid": "m!$.IRb&D}",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Anong gamit ng akademikong pagsulat ang pagtatanghal ng pagkakatulad o pagkakaiba ng mga bagay-bagay?",
+                "Paghahambing o Pagtatambis"
+            ],
+            "guid": "A/*NV|7d,|",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Anong gamit ng akademikong pagsulat ang paglalahad ng mga dahilan ng pangyayari at ang kaugnay na epekto nito?",
+                "Sanhi at Bunga"
+            ],
+            "guid": "unvHZK~fmm",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Anong gamit ng akademikong pagsulat ang paglalahad ng mga suliranin at pagbibigay ng mga posibleng lunas?",
+                "Problema at Solusyon"
+            ],
+            "guid": "PB,_Yd58%9",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Anong gamit ng akademikong pagsulat ang paglalahad ng positibo at negatibong katangian ng isang bagay o sitwasyon?",
+                "Kalakasan at Kahinaan"
+            ],
+            "guid": "G2FG!#IfNM",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
         }
     ],
     "reviewLimit": null,
