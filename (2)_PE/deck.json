@@ -2,15 +2,15 @@
     "__type__": "Deck",
     "children": [],
     "crowdanki_uuid": "fc533952-6617-11f0-8bc1-f5d300799d77",
-    "deck_config_uuid": "fc533b6e-6617-11f0-8bc1-f5d300799d77",
+    "deck_config_uuid": "54cc010a-6617-11f0-8bc1-f5d300799d77",
     "deck_configurations": [
         {
             "__type__": "DeckConfig",
             "answerAction": 0,
             "autoplay": true,
             "buryInterdayLearning": false,
-            "crowdanki_uuid": "fc533b6e-6617-11f0-8bc1-f5d300799d77",
-            "desiredRetention": 0.9,
+            "crowdanki_uuid": "54cc010a-6617-11f0-8bc1-f5d300799d77",
+            "desiredRetention": 0.92,
             "dyn": false,
             "easyDaysPercentages": [
                 1.0,
@@ -21,49 +21,68 @@
                 1.0,
                 1.0
             ],
-            "fsrsParams5": [],
+            "fsrsParams5": [
+                0.4026,
+                1.1839,
+                3.173,
+                15.691,
+                7.1949,
+                0.5345,
+                1.4604,
+                0.0046,
+                1.5458,
+                0.1192,
+                1.0193,
+                1.9395,
+                0.11,
+                0.2961,
+                2.2698,
+                0.2315,
+                2.9898,
+                0.5166,
+                0.6621
+            ],
             "fsrsWeights": [],
             "ignoreRevlogsBeforeDate": "1970-01-01",
             "interdayLearningMix": 0,
             "lapse": {
                 "delays": [
-                    16.0,
-                    1440.0
+                    10.0
                 ],
                 "leechAction": 1,
                 "leechFails": 8,
-                "minInt": 3,
+                "minInt": 1,
                 "mult": 0.0
             },
-            "maxTaken": 60,
-            "name": "Default",
+            "maxTaken": 1174,
+            "name": "Curricular Subs GPT Preset",
             "new": {
-                "bury": false,
+                "bury": true,
                 "delays": [
-                    16.0,
-                    1440.0
+                    1.0,
+                    10.0
                 ],
                 "initialFactor": 2500,
                 "ints": [
-                    6,
-                    8,
+                    1,
+                    4,
                     0
                 ],
-                "order": 0,
+                "order": 1,
                 "perDay": 9999
             },
             "newGatherPriority": 0,
             "newMix": 0,
             "newPerDayMinimum": 0,
-            "newSortOrder": 2,
+            "newSortOrder": 4,
             "questionAction": 0,
             "replayq": true,
             "rev": {
-                "bury": false,
-                "ease4": 1.4,
+                "bury": true,
+                "ease4": 1.3,
                 "hardFactor": 1.2,
                 "ivlFct": 1.0,
-                "maxIvl": 240,
+                "maxIvl": 36500,
                 "perDay": 9999
             },
             "reviewOrder": 0,
@@ -124,7 +143,7 @@
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "Basic",
+            "name": "Basic-9a0c7",
             "originalStockKind": 1,
             "req": [
                 [
@@ -145,6 +164,73 @@
                     "bsize": 0,
                     "did": null,
                     "id": -4396753340091107072,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 9205121651523078416,
+                    "name": "Front",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -7001571941991209685,
+                    "name": "Back",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic",
+            "originalStockKind": 1,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": -471929315152782166,
                     "name": "Card 1",
                     "ord": 0,
                     "qfmt": "{{Front}}"
@@ -578,6 +664,16 @@
             ],
             "guid": "lW%8Vgb]_C",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who is the best cheer-pom cheerleader",
+                "Klaudette Grace Ponsaran Sinsuat"
+            ],
+            "guid": "Q|ulxJ#nh}",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": []
         }
     ],
