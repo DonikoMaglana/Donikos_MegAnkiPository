@@ -22,25 +22,25 @@
                 1.0
             ],
             "fsrsParams5": [
-                0.4026,
-                1.1839,
-                3.173,
-                15.691,
-                7.1949,
-                0.5345,
-                1.4604,
-                0.0046,
-                1.5458,
-                0.1192,
-                1.0193,
-                1.9395,
-                0.11,
-                0.2961,
-                2.2698,
-                0.2315,
-                2.9898,
-                0.5166,
-                0.6621
+                0.50472134,
+                2.739378,
+                8.874356,
+                24.154293,
+                7.1965127,
+                0.5394976,
+                1.5397819,
+                0.001,
+                1.5310355,
+                0.11662557,
+                1.0085137,
+                1.9532235,
+                0.11145519,
+                0.34159657,
+                2.2748544,
+                0.21367611,
+                2.9843802,
+                0.6131964,
+                0.5682403
             ],
             "fsrsWeights": [],
             "ignoreRevlogsBeforeDate": "1970-01-01",
@@ -166,7 +166,7 @@
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "Basic",
+            "name": "Basic-9a0c7",
             "originalStockKind": 1,
             "req": [
                 [
@@ -368,7 +368,7 @@
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "Image Occlusion Enhanced",
+            "name": "Image Occlusion Enhanced-22de6",
             "originalStockKind": 1,
             "req": [
                 [
@@ -406,7 +406,9 @@
             ],
             "guid": "/&Z?J~JgG",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -417,6 +419,7 @@
             "guid": "Nieny<vcJ`",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
+                "Q1_Monthly",
                 "solving"
             ]
         },
@@ -437,7 +440,9 @@
             ],
             "guid": "w[W^RP[k1]",
             "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -456,7 +461,9 @@
             ],
             "guid": "ynhXaS5p_y",
             "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -475,7 +482,9 @@
             ],
             "guid": "Ew*$HtJOw{",
             "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -494,7 +503,9 @@
             ],
             "guid": "q4SI33~OkJ",
             "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -513,7 +524,9 @@
             ],
             "guid": "vOfc}7~ge>",
             "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -532,7 +545,9 @@
             ],
             "guid": "Jv*>|TEJlM",
             "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -551,7 +566,9 @@
             ],
             "guid": "lq<A{zYmJ%",
             "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -570,7 +587,9 @@
             ],
             "guid": "hiEGnC=dOq",
             "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -589,7 +608,9 @@
             ],
             "guid": "z0ZR6?C`zg",
             "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -600,6 +621,7 @@
             "guid": "wmlSs9)|i/",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
+                "Q1_Monthly",
                 "solving"
             ]
         },
@@ -611,7 +633,9 @@
             ],
             "guid": "WLyo?3O_M",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -621,7 +645,9 @@
             ],
             "guid": "cK#0CtqvAz",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -631,7 +657,9 @@
             ],
             "guid": "L^$JI]Jhd=",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -641,7 +669,9 @@
             ],
             "guid": "wzf/;3>oZE",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         }
     ],
     "reviewLimit": null,

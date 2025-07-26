@@ -22,25 +22,25 @@
                 1.0
             ],
             "fsrsParams5": [
-                0.4026,
-                1.1839,
-                3.173,
-                15.691,
-                7.1949,
-                0.5345,
-                1.4604,
-                0.0046,
-                1.5458,
-                0.1192,
-                1.0193,
-                1.9395,
-                0.11,
-                0.2961,
-                2.2698,
-                0.2315,
-                2.9898,
-                0.5166,
-                0.6621
+                0.50472134,
+                2.739378,
+                8.874356,
+                24.154293,
+                7.1965127,
+                0.5394976,
+                1.5397819,
+                0.001,
+                1.5310355,
+                0.11662557,
+                1.0085137,
+                1.9532235,
+                0.11145519,
+                0.34159657,
+                2.2748544,
+                0.21367611,
+                2.9843802,
+                0.6131964,
+                0.5682403
             ],
             "fsrsWeights": [],
             "ignoreRevlogsBeforeDate": "1970-01-01",
@@ -226,208 +226,6 @@
     "newLimit": null,
     "newLimitToday": null,
     "note_models": [
-        {
-            "__type__": "NoteModel",
-            "crowdanki_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
-            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
-            "flds": [
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": -5071419168950381657,
-                    "name": "ID (hidden)",
-                    "ord": 0,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                },
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": -1416806519625974347,
-                    "name": "Header",
-                    "ord": 1,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                },
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": 4231932225184529037,
-                    "name": "Image",
-                    "ord": 2,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                },
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": 3313230933775286364,
-                    "name": "Question Mask",
-                    "ord": 3,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                },
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": -246043860508779053,
-                    "name": "Footer",
-                    "ord": 4,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                },
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": -2696038442157156437,
-                    "name": "Remarks",
-                    "ord": 5,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                },
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": 6332197848946067322,
-                    "name": "Sources",
-                    "ord": 6,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                },
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": -5773592870699100629,
-                    "name": "Extra 1",
-                    "ord": 7,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                },
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": 1036654290722371043,
-                    "name": "Extra 2",
-                    "ord": 8,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                },
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": -2786803813605736618,
-                    "name": "Answer Mask",
-                    "ord": 9,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                },
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": 1216228632882940507,
-                    "name": "Original Mask",
-                    "ord": 10,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "latexsvg": false,
-            "name": "Image Occlusion Enhanced",
-            "originalStockKind": 1,
-            "req": [
-                [
-                    0,
-                    "any",
-                    [
-                        2
-                    ]
-                ]
-            ],
-            "sortf": 1,
-            "tmpls": [
-                {
-                    "afmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n\n<script>\n// Toggle answer mask on clicking the image\nvar toggle = function() {\n  var amask = document.getElementById('io-overlay');\n  if (amask.style.display === 'block' || amask.style.display === '')\n    amask.style.display = 'none';\n  else\n    amask.style.display = 'block'\n}\n\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n",
-                    "bafmt": "",
-                    "bfont": "",
-                    "bqfmt": "",
-                    "bsize": 0,
-                    "did": null,
-                    "id": 475093554666051936,
-                    "name": "IO Card",
-                    "ord": 0,
-                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
-                }
-            ],
-            "type": 0
-        },
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
@@ -831,426 +629,211 @@
                 }
             ],
             "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -5071419168950381657,
+                    "name": "ID (hidden)",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -1416806519625974347,
+                    "name": "Header",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 4231932225184529037,
+                    "name": "Image",
+                    "ord": 2,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 3313230933775286364,
+                    "name": "Question Mask",
+                    "ord": 3,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -246043860508779053,
+                    "name": "Footer",
+                    "ord": 4,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -2696038442157156437,
+                    "name": "Remarks",
+                    "ord": 5,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 6332197848946067322,
+                    "name": "Sources",
+                    "ord": 6,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -5773592870699100629,
+                    "name": "Extra 1",
+                    "ord": 7,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 1036654290722371043,
+                    "name": "Extra 2",
+                    "ord": 8,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -2786803813605736618,
+                    "name": "Answer Mask",
+                    "ord": 9,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 1216228632882940507,
+                    "name": "Original Mask",
+                    "ord": 10,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Image Occlusion Enhanced-dd611",
+            "originalStockKind": 1,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 1,
+            "tmpls": [
+                {
+                    "afmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n\n<script>\n// Toggle answer mask on clicking the image\nvar toggle = function() {\n  var amask = document.getElementById('io-overlay');\n  if (amask.style.display === 'block' || amask.style.display === '')\n    amask.style.display = 'none';\n  else\n    amask.style.display = 'block'\n}\n\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": 475093554666051936,
+                    "name": "IO Card",
+                    "ord": 0,
+                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
+                }
+            ],
+            "type": 0
         }
     ],
     "notes": [
-        {
-            "__type__": "Note",
-            "fields": [
-                "ce5e95e0660147b985b0761f60d8c4c8-ao-1",
-                "",
-                "<img src=\"paste-721913d5185bf8b82b8b3ab5fbacb0322bd4b282.jpg\">",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-1-Q.svg\">",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-1-A.svg\">",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-O.svg\">"
-            ],
-            "guid": "w0Wdd$]rO*",
-            "note_model_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "ce5e95e0660147b985b0761f60d8c4c8-ao-2",
-                "",
-                "<img src=\"paste-721913d5185bf8b82b8b3ab5fbacb0322bd4b282.jpg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-2-Q.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-2-A.svg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-O.svg\" />"
-            ],
-            "guid": "CjMWa}c;4}",
-            "note_model_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "ce5e95e0660147b985b0761f60d8c4c8-ao-3",
-                "",
-                "<img src=\"paste-721913d5185bf8b82b8b3ab5fbacb0322bd4b282.jpg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-3-Q.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-3-A.svg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-O.svg\" />"
-            ],
-            "guid": "fC*%PT`7um",
-            "note_model_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "ce5e95e0660147b985b0761f60d8c4c8-ao-4",
-                "",
-                "<img src=\"paste-721913d5185bf8b82b8b3ab5fbacb0322bd4b282.jpg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-4-Q.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-4-A.svg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-O.svg\" />"
-            ],
-            "guid": "sv?j6NgU``",
-            "note_model_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "ce5e95e0660147b985b0761f60d8c4c8-ao-5",
-                "",
-                "<img src=\"paste-721913d5185bf8b82b8b3ab5fbacb0322bd4b282.jpg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-5-Q.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-5-A.svg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-O.svg\" />"
-            ],
-            "guid": "c3SWIr.Y{>",
-            "note_model_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "ce5e95e0660147b985b0761f60d8c4c8-ao-6",
-                "",
-                "<img src=\"paste-721913d5185bf8b82b8b3ab5fbacb0322bd4b282.jpg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-6-Q.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-6-A.svg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-O.svg\" />"
-            ],
-            "guid": "eBo6IXf`a0",
-            "note_model_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "ce5e95e0660147b985b0761f60d8c4c8-ao-7",
-                "",
-                "<img src=\"paste-721913d5185bf8b82b8b3ab5fbacb0322bd4b282.jpg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-7-Q.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-7-A.svg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-O.svg\" />"
-            ],
-            "guid": "P9CH9AEQLv",
-            "note_model_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "ce5e95e0660147b985b0761f60d8c4c8-ao-8",
-                "",
-                "<img src=\"paste-721913d5185bf8b82b8b3ab5fbacb0322bd4b282.jpg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-8-Q.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-8-A.svg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-O.svg\" />"
-            ],
-            "guid": "iH~)She+&Q",
-            "note_model_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "ce5e95e0660147b985b0761f60d8c4c8-ao-9",
-                "",
-                "<img src=\"paste-721913d5185bf8b82b8b3ab5fbacb0322bd4b282.jpg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-9-Q.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-9-A.svg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-O.svg\" />"
-            ],
-            "guid": "Kx.dS,$=sv",
-            "note_model_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "ce5e95e0660147b985b0761f60d8c4c8-ao-10",
-                "",
-                "<img src=\"paste-721913d5185bf8b82b8b3ab5fbacb0322bd4b282.jpg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-10-Q.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-10-A.svg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-O.svg\" />"
-            ],
-            "guid": "LOr4;.^UKQ",
-            "note_model_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "ce5e95e0660147b985b0761f60d8c4c8-ao-11",
-                "",
-                "<img src=\"paste-721913d5185bf8b82b8b3ab5fbacb0322bd4b282.jpg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-11-Q.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-11-A.svg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-O.svg\" />"
-            ],
-            "guid": "J,vsB*z*?Q",
-            "note_model_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "ce5e95e0660147b985b0761f60d8c4c8-ao-12",
-                "",
-                "<img src=\"paste-721913d5185bf8b82b8b3ab5fbacb0322bd4b282.jpg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-12-Q.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-12-A.svg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-O.svg\" />"
-            ],
-            "guid": "p#4e#{y{_]",
-            "note_model_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "ce5e95e0660147b985b0761f60d8c4c8-ao-13",
-                "",
-                "<img src=\"paste-721913d5185bf8b82b8b3ab5fbacb0322bd4b282.jpg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-13-Q.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-13-A.svg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-O.svg\" />"
-            ],
-            "guid": "u^0cWT3=@9",
-            "note_model_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "The part you look through the specimen; usually magnifies the image 10x.",
-                "Eyepiece (Ocular Lens)"
-            ],
-            "guid": "plzQ@Z.TUF",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Connects the eyepiece to the objective lenses.",
-                "Body Tube"
-            ],
-            "guid": "b#:vT4c*WJ",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Attached to the objective lenses and allows you to switch between magnifications.",
-                "Revolving Nosepiece"
-            ],
-            "guid": "g.eX|$]52-",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Provides different levels of magnification",
-                "Objective lenses"
-            ],
-            "guid": "xj^yabr6+m",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "What is the magnification of the <strong>Scanning Objective Lens</strong>?",
-                "4x"
-            ],
-            "guid": "gJ|Ly:4IIA",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "What is the magnification of the <strong>Low Power Objective Lens</strong>?",
-                "10x"
-            ],
-            "guid": "x*x-A+gZ:.",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "What is the magnification of the <strong>High Power Objective Lens</strong>?",
-                "40x"
-            ],
-            "guid": "j%p|X0LC5M",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "What is the magnification of the <strong>Oil Immersion Objective Lens</strong>, and how is it used?",
-                "<strong>100x</strong>, used with <strong>special oil</strong> for clarity at high magnification"
-            ],
-            "guid": "DbBm)bH@(c",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "The flat platform where you place the slide.",
-                "Specimen Stage"
-            ],
-            "guid": "eqYcYeb8kO",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Holds the slide in place.",
-                "Stage Clips"
-            ],
-            "guid": "C9U(V|AqnJ",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Provides light so you can see the specimen clearly.",
-                "Light Source/Mirror"
-            ],
-            "guid": "fDrHCCjsnn",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Brings the specimen into general focus (used with low power only).",
-                "Coarse Focus Knob"
-            ],
-            "guid": "i@wG{eCWe2",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Used to make very small adjustments to the focus of the specimen",
-                "Fine Focus Knob"
-            ],
-            "guid": "HjmSdJaOV}",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Adjust the amount of light that reaches the specimen.",
-                "Diaphragm"
-            ],
-            "guid": "G]UM%=8?87",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Supports the body tube and connects it to the base; used for carrying.",
-                "Arm"
-            ],
-            "guid": "L=;TwlocS@",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "The bottom part that supports the microscope.",
-                "Base"
-            ],
-            "guid": "gGU9/:MtH#",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Focuses the light onto the specimen.",
-                "Condenser"
-            ],
-            "guid": "wE&8K%$Cf:",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
         {
             "__type__": "Note",
             "fields": [
@@ -1259,7 +842,9 @@
             ],
             "guid": "PB0Vyj#>q]",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -1269,7 +854,9 @@
             ],
             "guid": "koS&I3jKk=",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -1279,7 +866,9 @@
             ],
             "guid": "BvzhuQ%Q.o",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -1289,7 +878,9 @@
             ],
             "guid": "QA7DKd%rA",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -1299,7 +890,9 @@
             ],
             "guid": "A_5C97ZMXH",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -1309,7 +902,9 @@
             ],
             "guid": "cH!3k%Vk=J",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -1319,7 +914,9 @@
             ],
             "guid": "lSjjN-8E$7",
             "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -1329,7 +926,9 @@
             ],
             "guid": "P{u!]IPd3l",
             "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -1339,7 +938,9 @@
             ],
             "guid": "lI80CcNVDm",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -1349,7 +950,9 @@
             ],
             "guid": "BM#f_L0=s/",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -1359,7 +962,9 @@
             ],
             "guid": "CE%9*_q7lJ",
             "note_model_uuid": "368dc4b0-67bd-11f0-85ac-4bec0b87d8b4",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -1369,7 +974,9 @@
             ],
             "guid": "bLI;%YlPB&",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -1379,7 +986,9 @@
             ],
             "guid": "cHr4~[fiM}",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -1389,7 +998,9 @@
             ],
             "guid": "yiGh(7%jb.",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -1399,7 +1010,9 @@
             ],
             "guid": "o50+mf[mSm",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -1409,7 +1022,9 @@
             ],
             "guid": "xM-.9[:34#",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -1419,7 +1034,9 @@
             ],
             "guid": "Hc7dvCN;Iq",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -1429,7 +1046,9 @@
             ],
             "guid": "C`i:Ve{Qw2",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -1439,7 +1058,9 @@
             ],
             "guid": "AuJ,nwG==!",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -1449,7 +1070,9 @@
             ],
             "guid": "P={M5.LJk;",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -1459,7 +1082,9 @@
             ],
             "guid": "sF*b2@Q@x:",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -1469,7 +1094,9 @@
             ],
             "guid": "L1^KIup5o2",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -1479,7 +1106,9 @@
             ],
             "guid": "n6MoI(Kb(4",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -1489,7 +1118,9 @@
             ],
             "guid": "u$pRk{3bF>",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -1508,7 +1139,9 @@
             ],
             "guid": "K`v&g[FT%9",
             "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -1527,7 +1160,9 @@
             ],
             "guid": "vpxOF7]{4L",
             "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -1546,7 +1181,9 @@
             ],
             "guid": "Pi)}D9{a4j",
             "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -1565,7 +1202,9 @@
             ],
             "guid": "qjZ1?jqHL>",
             "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -1584,7 +1223,9 @@
             ],
             "guid": "b{yiGDv$k]",
             "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -1603,7 +1244,9 @@
             ],
             "guid": "h^VFs)WMvT",
             "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -1613,7 +1256,9 @@
             ],
             "guid": "dGaW`JS}pz",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -1623,7 +1268,9 @@
             ],
             "guid": "Qr3Ow:Opl_",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -1633,7 +1280,9 @@
             ],
             "guid": "OIi{?c->!D",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -1643,7 +1292,9 @@
             ],
             "guid": "st<=cLDb9",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -1662,7 +1313,9 @@
             ],
             "guid": "ouc_dn,n#f",
             "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -1681,7 +1334,9 @@
             ],
             "guid": "z?AXKOo><,",
             "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -1700,7 +1355,9 @@
             ],
             "guid": "m}6vTVTa5`",
             "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -1719,7 +1376,9 @@
             ],
             "guid": "Eqq$<[#4/V",
             "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -1738,7 +1397,9 @@
             ],
             "guid": "fjV.$):7hU",
             "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -1757,7 +1418,9 @@
             ],
             "guid": "Q4!T3wp&}6",
             "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -1776,7 +1439,9 @@
             ],
             "guid": "OMy$|/Xu1_",
             "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -1795,7 +1460,9 @@
             ],
             "guid": "g[j:<H;KuQ",
             "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -1814,7 +1481,9 @@
             ],
             "guid": "AJ(-$8Afb*",
             "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -1833,7 +1502,9 @@
             ],
             "guid": "PpzlyV4/#N",
             "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -1852,7 +1523,9 @@
             ],
             "guid": "jU_#}.[lOk",
             "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -1871,7 +1544,9 @@
             ],
             "guid": "vE_7=7WysG",
             "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -1890,7 +1565,9 @@
             ],
             "guid": "v/q#!JKZ7}",
             "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -1909,7 +1586,9 @@
             ],
             "guid": "B[e*U`0ju!",
             "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -1928,7 +1607,9 @@
             ],
             "guid": "H:v;rG<QlE",
             "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -1947,7 +1628,9 @@
             ],
             "guid": "Gb1_*]^2gK",
             "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -1966,7 +1649,9 @@
             ],
             "guid": "z<FH-Wg]_/",
             "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -1985,7 +1670,9 @@
             ],
             "guid": "s72vR#BCUt",
             "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -2004,7 +1691,9 @@
             ],
             "guid": "K`(9tlQGyO",
             "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -2023,7 +1712,9 @@
             ],
             "guid": "E3FVv,=zyN",
             "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -2042,7 +1733,9 @@
             ],
             "guid": "O)d<hp?8Q$",
             "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -2061,7 +1754,9 @@
             ],
             "guid": "PPZDx+[zE,",
             "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -2080,7 +1775,9 @@
             ],
             "guid": "u3D2C,Z*#F",
             "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -2099,7 +1796,9 @@
             ],
             "guid": "HxR[y0c:wk",
             "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -2118,7 +1817,9 @@
             ],
             "guid": "zhHom0,~TN",
             "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -2137,7 +1838,9 @@
             ],
             "guid": "PL)7{&(,,A",
             "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -2156,7 +1859,9 @@
             ],
             "guid": "I6`m^rKA9|",
             "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -2175,7 +1880,9 @@
             ],
             "guid": "t[mxTD2{%R",
             "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -2185,7 +1892,9 @@
             ],
             "guid": "wGPZITwe$[",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -2195,7 +1904,9 @@
             ],
             "guid": "AnPrQID5lf",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -2205,7 +1916,9 @@
             ],
             "guid": "r,U2np|y^:",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -2215,7 +1928,9 @@
             ],
             "guid": "j=lPlXebbL",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -2225,7 +1940,9 @@
             ],
             "guid": "k?9qNuW{w~",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -2235,7 +1952,9 @@
             ],
             "guid": "G%3/q|/HM~",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -2245,7 +1964,9 @@
             ],
             "guid": "trB%l0ucEK",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -2255,7 +1976,9 @@
             ],
             "guid": "PB%2P%Am5h",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -2265,7 +1988,9 @@
             ],
             "guid": "wY4$H7zLW&",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -2275,7 +2000,9 @@
             ],
             "guid": "G#jq{H8$^l",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -2285,7 +2012,9 @@
             ],
             "guid": "CS.fPHc%5#",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -2295,7 +2024,9 @@
             ],
             "guid": "EqZ[-;,#X?",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -2305,7 +2036,9 @@
             ],
             "guid": "rsQ0rsIDDc",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -2315,7 +2048,9 @@
             ],
             "guid": "set5R4w*N(",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -2325,7 +2060,9 @@
             ],
             "guid": "H+H/mD/}B]",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -2335,7 +2072,9 @@
             ],
             "guid": "xC//,<<n1B",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -2345,7 +2084,9 @@
             ],
             "guid": "A+V|p7rX,N",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -2355,7 +2096,9 @@
             ],
             "guid": "A@jk#WCjJ-",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -2365,7 +2108,9 @@
             ],
             "guid": "d|[Xf=!7{",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -2375,7 +2120,9 @@
             ],
             "guid": "s~mp7YgQg1",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -2385,7 +2132,9 @@
             ],
             "guid": "QUfK@D.?M#",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -2395,7 +2144,9 @@
             ],
             "guid": "m5W2Le]_n0",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -2405,7 +2156,9 @@
             ],
             "guid": "QsDFi;v{`H",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -2415,7 +2168,9 @@
             ],
             "guid": "Kctd,Am$$R",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -2425,7 +2180,9 @@
             ],
             "guid": "ciW~<C%wSz",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -2435,7 +2192,9 @@
             ],
             "guid": "xM3_+On%RQ",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -2445,7 +2204,9 @@
             ],
             "guid": "e|(^}sk(/r",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -2455,7 +2216,9 @@
             ],
             "guid": "ookjI.^P&n",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -2465,7 +2228,9 @@
             ],
             "guid": "M*DjtAt`6W",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -2475,7 +2240,9 @@
             ],
             "guid": "JtCRp,L5zK",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -2485,7 +2252,9 @@
             ],
             "guid": "fLn=M)d$HA",
             "note_model_uuid": "368dc4b0-67bd-11f0-85ac-4bec0b87d8b4",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -2495,7 +2264,9 @@
             ],
             "guid": "RhwFhkGJ^r",
             "note_model_uuid": "368dc4b0-67bd-11f0-85ac-4bec0b87d8b4",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -2505,7 +2276,9 @@
             ],
             "guid": "o*J0K-E`)Z",
             "note_model_uuid": "368dc4b0-67bd-11f0-85ac-4bec0b87d8b4",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -2515,7 +2288,9 @@
             ],
             "guid": "q_K<+tHj~i",
             "note_model_uuid": "368dc4b0-67bd-11f0-85ac-4bec0b87d8b4",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -2525,7 +2300,9 @@
             ],
             "guid": "gq2jt|/<[I",
             "note_model_uuid": "368dc4b0-67bd-11f0-85ac-4bec0b87d8b4",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -2544,7 +2321,9 @@
             ],
             "guid": "G2B[BB.(y4",
             "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -2563,7 +2342,9 @@
             ],
             "guid": "z[X/lsq<EX",
             "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -2582,7 +2363,9 @@
             ],
             "guid": "f@:$/y:/m-",
             "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -2601,7 +2384,9 @@
             ],
             "guid": "y/E_B;R<tQ",
             "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -2620,7 +2405,9 @@
             ],
             "guid": "C&>!xv&zS;",
             "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -2639,7 +2426,9 @@
             ],
             "guid": "e]ICUfeR%9",
             "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -2658,7 +2447,9 @@
             ],
             "guid": "Ajz,Vq4ZXp",
             "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -2673,11 +2464,13 @@
                 "",
                 "",
                 "<img src=\"eeae09c26cf44d91af0aa0b2781253ec-ao-8-A.svg\" />",
-                "<img src=\"eeae09c26cf44d91af0aa0b2781253ec-ao-O.svg\" />"
+                "<img src=\"eeae09c26cf44d91af0aa0b2781253ec-ao-O.svg\">"
             ],
             "guid": "vlf4L*;Cqj",
             "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -2687,7 +2480,9 @@
             ],
             "guid": "I{S1@@bp#b",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -2697,7 +2492,9 @@
             ],
             "guid": "b{WU_2Jhl)",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -2707,7 +2504,9 @@
             ],
             "guid": "OjMFG{7;G9",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -2717,7 +2516,9 @@
             ],
             "guid": "JOROgD56g5",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -2727,7 +2528,9 @@
             ],
             "guid": "upR*m[{;D0",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -2746,7 +2549,486 @@
             ],
             "guid": "Fgf{sYM[Q3",
             "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ce5e95e0660147b985b0761f60d8c4c8-ao-1",
+                "",
+                "<img src=\"paste-721913d5185bf8b82b8b3ab5fbacb0322bd4b282.jpg\">",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-1-Q.svg\">",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-1-A.svg\">",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-O.svg\">"
+            ],
+            "guid": "w0Wdd$]rO*",
+            "note_model_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ce5e95e0660147b985b0761f60d8c4c8-ao-2",
+                "",
+                "<img src=\"paste-721913d5185bf8b82b8b3ab5fbacb0322bd4b282.jpg\" />",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-2-A.svg\" />",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-O.svg\">"
+            ],
+            "guid": "CjMWa}c;4}",
+            "note_model_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ce5e95e0660147b985b0761f60d8c4c8-ao-3",
+                "",
+                "<img src=\"paste-721913d5185bf8b82b8b3ab5fbacb0322bd4b282.jpg\" />",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-3-A.svg\" />",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-O.svg\" />"
+            ],
+            "guid": "fC*%PT`7um",
+            "note_model_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ce5e95e0660147b985b0761f60d8c4c8-ao-4",
+                "",
+                "<img src=\"paste-721913d5185bf8b82b8b3ab5fbacb0322bd4b282.jpg\" />",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-4-A.svg\" />",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-O.svg\" />"
+            ],
+            "guid": "sv?j6NgU``",
+            "note_model_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ce5e95e0660147b985b0761f60d8c4c8-ao-5",
+                "",
+                "<img src=\"paste-721913d5185bf8b82b8b3ab5fbacb0322bd4b282.jpg\" />",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-5-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-5-A.svg\" />",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-O.svg\" />"
+            ],
+            "guid": "c3SWIr.Y{>",
+            "note_model_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ce5e95e0660147b985b0761f60d8c4c8-ao-6",
+                "",
+                "<img src=\"paste-721913d5185bf8b82b8b3ab5fbacb0322bd4b282.jpg\" />",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-6-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-6-A.svg\" />",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-O.svg\" />"
+            ],
+            "guid": "eBo6IXf`a0",
+            "note_model_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ce5e95e0660147b985b0761f60d8c4c8-ao-7",
+                "",
+                "<img src=\"paste-721913d5185bf8b82b8b3ab5fbacb0322bd4b282.jpg\" />",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-7-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-7-A.svg\" />",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-O.svg\" />"
+            ],
+            "guid": "P9CH9AEQLv",
+            "note_model_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ce5e95e0660147b985b0761f60d8c4c8-ao-8",
+                "",
+                "<img src=\"paste-721913d5185bf8b82b8b3ab5fbacb0322bd4b282.jpg\" />",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-8-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-8-A.svg\" />",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-O.svg\">"
+            ],
+            "guid": "iH~)She+&Q",
+            "note_model_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ce5e95e0660147b985b0761f60d8c4c8-ao-9",
+                "",
+                "<img src=\"paste-721913d5185bf8b82b8b3ab5fbacb0322bd4b282.jpg\" />",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-9-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-9-A.svg\" />",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-O.svg\" />"
+            ],
+            "guid": "Kx.dS,$=sv",
+            "note_model_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ce5e95e0660147b985b0761f60d8c4c8-ao-10",
+                "",
+                "<img src=\"paste-721913d5185bf8b82b8b3ab5fbacb0322bd4b282.jpg\" />",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-10-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-10-A.svg\" />",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-O.svg\" />"
+            ],
+            "guid": "LOr4;.^UKQ",
+            "note_model_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ce5e95e0660147b985b0761f60d8c4c8-ao-11",
+                "",
+                "<img src=\"paste-721913d5185bf8b82b8b3ab5fbacb0322bd4b282.jpg\" />",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-11-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-11-A.svg\" />",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-O.svg\" />"
+            ],
+            "guid": "J,vsB*z*?Q",
+            "note_model_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ce5e95e0660147b985b0761f60d8c4c8-ao-12",
+                "",
+                "<img src=\"paste-721913d5185bf8b82b8b3ab5fbacb0322bd4b282.jpg\" />",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-12-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-12-A.svg\" />",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-O.svg\" />"
+            ],
+            "guid": "p#4e#{y{_]",
+            "note_model_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ce5e95e0660147b985b0761f60d8c4c8-ao-13",
+                "",
+                "<img src=\"paste-721913d5185bf8b82b8b3ab5fbacb0322bd4b282.jpg\" />",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-13-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-13-A.svg\" />",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-O.svg\" />"
+            ],
+            "guid": "u^0cWT3=@9",
+            "note_model_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The part you look through the specimen; usually magnifies the image 10x.",
+                "Eyepiece (Ocular Lens)"
+            ],
+            "guid": "plzQ@Z.TUF",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Connects the eyepiece to the objective lenses.",
+                "Body Tube"
+            ],
+            "guid": "b#:vT4c*WJ",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Attached to the objective lenses and allows you to switch between magnifications.",
+                "Revolving Nosepiece"
+            ],
+            "guid": "g.eX|$]52-",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Provides different levels of magnification",
+                "Objective lenses"
+            ],
+            "guid": "xj^yabr6+m",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the magnification of the <strong>Scanning Objective Lens</strong>?",
+                "4x"
+            ],
+            "guid": "gJ|Ly:4IIA",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the magnification of the <strong>Low Power Objective Lens</strong>?",
+                "10x"
+            ],
+            "guid": "x*x-A+gZ:.",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the magnification of the <strong>High Power Objective Lens</strong>?",
+                "40x"
+            ],
+            "guid": "j%p|X0LC5M",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the magnification of the <strong>Oil Immersion Objective Lens</strong>, and how is it used?",
+                "<strong>100x</strong>, used with <strong>special oil</strong> for clarity at high magnification"
+            ],
+            "guid": "DbBm)bH@(c",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The flat platform where you place the slide.",
+                "Specimen Stage"
+            ],
+            "guid": "eqYcYeb8kO",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Holds the slide in place.",
+                "Stage Clips"
+            ],
+            "guid": "C9U(V|AqnJ",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Provides light so you can see the specimen clearly.",
+                "Light Source/Mirror"
+            ],
+            "guid": "fDrHCCjsnn",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Brings the specimen into general focus (used with low power only).",
+                "Coarse Focus Knob"
+            ],
+            "guid": "i@wG{eCWe2",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Used to make very small adjustments to the focus of the specimen",
+                "Fine Focus Knob"
+            ],
+            "guid": "HjmSdJaOV}",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Adjust the amount of light that reaches the specimen.",
+                "Diaphragm"
+            ],
+            "guid": "G]UM%=8?87",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Supports the body tube and connects it to the base; used for carrying.",
+                "Arm"
+            ],
+            "guid": "L=;TwlocS@",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The bottom part that supports the microscope.",
+                "Base"
+            ],
+            "guid": "gGU9/:MtH#",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Focuses the light onto the specimen.",
+                "Condenser"
+            ],
+            "guid": "wE&8K%$Cf:",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
         }
     ],
     "reviewLimit": null,

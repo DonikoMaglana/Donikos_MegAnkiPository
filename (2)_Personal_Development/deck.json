@@ -22,25 +22,25 @@
                 1.0
             ],
             "fsrsParams5": [
-                0.4026,
-                1.1839,
-                3.173,
-                15.691,
-                7.1949,
-                0.5345,
-                1.4604,
-                0.0046,
-                1.5458,
-                0.1192,
-                1.0193,
-                1.9395,
-                0.11,
-                0.2961,
-                2.2698,
-                0.2315,
-                2.9898,
-                0.5166,
-                0.6621
+                0.50472134,
+                2.739378,
+                8.874356,
+                24.154293,
+                7.1965127,
+                0.5394976,
+                1.5397819,
+                0.001,
+                1.5310355,
+                0.11662557,
+                1.0085137,
+                1.9532235,
+                0.11145519,
+                0.34159657,
+                2.2748544,
+                0.21367611,
+                2.9843802,
+                0.6131964,
+                0.5682403
             ],
             "fsrsWeights": [],
             "ignoreRevlogsBeforeDate": "1970-01-01",
@@ -158,7 +158,7 @@
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "Basic",
+            "name": "Basic-9a0c7",
             "originalStockKind": 1,
             "req": [
                 [
@@ -225,7 +225,7 @@
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "Cloze",
+            "name": "Cloze-f1e26",
             "originalStockKind": 5,
             "req": [
                 [
@@ -427,7 +427,7 @@
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "Image Occlusion Enhanced",
+            "name": "Image Occlusion Enhanced-22de6",
             "originalStockKind": 1,
             "req": [
                 [
@@ -465,7 +465,9 @@
             ],
             "guid": "ht9??Paw4U",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -475,7 +477,9 @@
             ],
             "guid": "sVZ<FG<o:",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -485,7 +489,9 @@
             ],
             "guid": "v9HtiR&I(s",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -495,7 +501,9 @@
             ],
             "guid": "v>WSI~9)L2",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -505,7 +513,9 @@
             ],
             "guid": "I?AYAed[N&",
             "note_model_uuid": "6bba29fa-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -515,7 +525,9 @@
             ],
             "guid": "mkdc,pWC>X",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -525,7 +537,9 @@
             ],
             "guid": "hj6G>/OHlK",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -535,7 +549,9 @@
             ],
             "guid": "HI2=ITKUf4",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -545,7 +561,9 @@
             ],
             "guid": "f~*W%Y?+@u",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -555,7 +573,9 @@
             ],
             "guid": "N,@MI!s1IA",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -565,7 +585,9 @@
             ],
             "guid": "DD{6w*`O%X",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -575,7 +597,9 @@
             ],
             "guid": "di^Z~z6Ih}",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -585,7 +609,9 @@
             ],
             "guid": "P_I|n/~jGy",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -595,7 +621,9 @@
             ],
             "guid": "s!z4?5/Mzk",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -605,7 +633,9 @@
             ],
             "guid": "cY,@cOqJ5Y",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -615,7 +645,9 @@
             ],
             "guid": "iF4RyTI[to",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -625,7 +657,9 @@
             ],
             "guid": "C`~R>9U5&E",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -635,7 +669,9 @@
             ],
             "guid": "kQ-y>m1qJr",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -645,7 +681,9 @@
             ],
             "guid": "Fp$jIU_Md?",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -655,7 +693,9 @@
             ],
             "guid": "<wI(m?,u[",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -665,7 +705,9 @@
             ],
             "guid": "ORs`.>Ymk",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -679,12 +721,14 @@
                 "",
                 "",
                 "",
-                "<img src=\"c4c2d3a924a34dd282f4f32a00d92f60-ao-1-A.svg\" />",
-                "<img src=\"c4c2d3a924a34dd282f4f32a00d92f60-ao-O.svg\" />"
+                "<img src=\"c4c2d3a924a34dd282f4f32a00d92f60-ao-1-A.svg\">",
+                "<img src=\"c4c2d3a924a34dd282f4f32a00d92f60-ao-O.svg\">"
             ],
             "guid": "K%v35LF6z=",
             "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -698,12 +742,14 @@
                 "",
                 "",
                 "",
-                "<img src=\"c4c2d3a924a34dd282f4f32a00d92f60-ao-2-A.svg\" />",
+                "<img src=\"c4c2d3a924a34dd282f4f32a00d92f60-ao-2-A.svg\">",
                 "<img src=\"c4c2d3a924a34dd282f4f32a00d92f60-ao-O.svg\" />"
             ],
             "guid": "x(-GVl~k.[",
             "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -717,12 +763,14 @@
                 "",
                 "",
                 "",
-                "<img src=\"c4c2d3a924a34dd282f4f32a00d92f60-ao-3-A.svg\" />",
+                "<img src=\"c4c2d3a924a34dd282f4f32a00d92f60-ao-3-A.svg\">",
                 "<img src=\"c4c2d3a924a34dd282f4f32a00d92f60-ao-O.svg\" />"
             ],
             "guid": "M/Lcc6KvsD",
             "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -736,12 +784,14 @@
                 "",
                 "",
                 "",
-                "<img src=\"c4c2d3a924a34dd282f4f32a00d92f60-ao-4-A.svg\" />",
+                "<img src=\"c4c2d3a924a34dd282f4f32a00d92f60-ao-4-A.svg\">",
                 "<img src=\"c4c2d3a924a34dd282f4f32a00d92f60-ao-O.svg\" />"
             ],
             "guid": "c?H2H:ihT1",
             "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -755,12 +805,14 @@
                 "",
                 "",
                 "",
-                "<img src=\"c4c2d3a924a34dd282f4f32a00d92f60-ao-5-A.svg\" />",
+                "<img src=\"c4c2d3a924a34dd282f4f32a00d92f60-ao-5-A.svg\">",
                 "<img src=\"c4c2d3a924a34dd282f4f32a00d92f60-ao-O.svg\" />"
             ],
             "guid": "O;2Bf{2[at",
             "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -774,12 +826,14 @@
                 "",
                 "",
                 "",
-                "<img src=\"c4c2d3a924a34dd282f4f32a00d92f60-ao-6-A.svg\" />",
-                "<img src=\"c4c2d3a924a34dd282f4f32a00d92f60-ao-O.svg\" />"
+                "<img src=\"c4c2d3a924a34dd282f4f32a00d92f60-ao-6-A.svg\">",
+                "<img src=\"c4c2d3a924a34dd282f4f32a00d92f60-ao-O.svg\">"
             ],
             "guid": "O#Z`AT8as,",
             "note_model_uuid": "b67ba46e-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -789,7 +843,9 @@
             ],
             "guid": "G79<-JdTQ)",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -799,7 +855,9 @@
             ],
             "guid": "IVu)3vtjZG",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -809,7 +867,9 @@
             ],
             "guid": "HPo[RC/7pJ",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         },
         {
             "__type__": "Note",
@@ -819,7 +879,9 @@
             ],
             "guid": "dR!s?T3NME",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
+            "tags": [
+                "Q1_Monthly"
+            ]
         }
     ],
     "reviewLimit": null,
