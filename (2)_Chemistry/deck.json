@@ -99,7 +99,9 @@
     "dyn": 0,
     "extendNew": 0,
     "extendRev": 0,
-    "media_files": [],
+    "media_files": [
+        "paste-88247fae82dd3f55998cbae2fc8874caed2f9510.jpg"
+    ],
     "name": "(2) Chemistry",
     "newLimit": null,
     "newLimitToday": null,
@@ -1829,6 +1831,296 @@
             "tags": [
                 "Q1_Monthly"
             ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the three laws that Dalton based his atomic theory on?",
+                "1. Law of conservation of mass<br>2. Law of constant composition<br>3. Law of multiple proportions"
+            ],
+            "guid": "uB|5a8wS/F",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What law did Antoine Lavoisier discover?",
+                "Law of conservation of mass"
+            ],
+            "guid": "qPYLyhCRhV",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who discovered the law of conservation of mass?",
+                "Antoine Lavoisier"
+            ],
+            "guid": "cu+R>[]amG",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who discovered the law of constant composition?",
+                "Joseph Proust"
+            ],
+            "guid": "iI5$F9~|0V",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What law did Joseph Proust discover?",
+                "Law of Constant Composition"
+            ],
+            "guid": "bLqE{ULhpj",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What law did John Dalton discover?",
+                "The law of multiple proportions"
+            ],
+            "guid": "GDOpDc%MY@",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who discovered the law of multiple proportions?",
+                "John Dalton"
+            ],
+            "guid": "%q&tn)}=B",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This law states that atoms are neither created nor destroyed during a chemical change",
+                "The law of conservation of mass"
+            ],
+            "guid": "vniVP$<?u",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This law states that all samples of a pure compound contain the same elements in the same <b>proportion</b>",
+                "The law of constant composition"
+            ],
+            "guid": "m2fKgn#[b]",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This law states that when two elements react to form more than one compound, <b>a fixed mass of one element will react with masses of the other elements in a ratio of small, whole numbers.</b>",
+                "The law of multiple proportions"
+            ],
+            "guid": "%/~R;=oK`",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the first part of Dalton's theory?",
+                "All matter is made of indivisible particles called atoms"
+            ],
+            "guid": "Nf.akXTIZ.",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the 2nd part of Dalton's theory",
+                "All atoms of a given element are identical in mass and properties"
+            ],
+            "guid": "Jt8*lab-B^",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the 3rd part of Dalton's atomic theory?",
+                "Compounds are a combination of two or more different types of atoms"
+            ],
+            "guid": "z:s|gY=C1K",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The {{c2::4th}} part of dalton's atomic theory states that a chemical reaction is merely a {{c1::rearrangement of atoms}}",
+                ""
+            ],
+            "guid": "DFVuI^H57>",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The discovery of this concept led to the modification/debunked the 1st part of Dalton's atomic theory which states that<br><br>\"All matter is made of indivisible particles called atoms\"",
+                "Subatomic particles"
+            ],
+            "guid": "C=qd0P1Ytl",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The discovery of this concept led to the modification/debunked the 2nd part of Dalton's atomic theory which states that<br><br>\"All atoms of the same element are identical\"",
+                "Isotopes"
+            ],
+            "guid": "D^d7[rOvhG",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What was John Dalton's atomic model called?",
+                "Solid sphere model"
+            ],
+            "guid": "f-tI`8V5bf",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What was JJ Thompsons atomic model called?",
+                "Plum pudding model"
+            ],
+            "guid": "s_z5780Y$_",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What was Ernest Rutherford's atomic model called?",
+                "Nuclear model"
+            ],
+            "guid": "IDmv<_6=J0",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What was Niels Bohr's atomic model called?",
+                "Planetary model"
+            ],
+            "guid": "tTk~8UR_y,",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is Erwin Schrodinger's atomic model called?",
+                "Quantum mechanical model"
+            ],
+            "guid": "xQv,Z1I9=Z",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Instead of the electron's location, the schrodinger model identifies?",
+                "The probability of finding an electron in a particular region"
+            ],
+            "guid": "MNiR$cii31",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This model of the atom does not include subatomic particles",
+                "Solid Sphere model"
+            ],
+            "guid": "x7TWVuu[4$",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The \"jelly\" in the plum pudding model is {{c1::positively}} charged, while the \"plums\" are {{c1::negatively}} charged",
+                ""
+            ],
+            "guid": "s@n(W<pU#i",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which experiment did Rutherford use to prove his Nuclear Atomic Model?",
+                "Gold foil experiment<br><br><img src=\"paste-88247fae82dd3f55998cbae2fc8874caed2f9510.jpg\">"
+            ],
+            "guid": "H0M7}yI&GG",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This model describes the atom as a small dense positively charged nucleus at the center, with electrons orbiting around it",
+                "Rutherford's nuclear model"
+            ],
+            "guid": "tH`}$e6ae",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This atomic model suggested that electrons orbit the nucleus in specific quantized energy levels/shells",
+                "Bohr's planetary model"
+            ],
+            "guid": "I}=JNL#y:[",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This atomic model proposed the concept of orbitals",
+                "Quantum mechanical model"
+            ],
+            "guid": "pg{WD2WtSR",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Defined as regions of probability where an electron is likely to be found",
+                "Orbitals"
+            ],
+            "guid": "GA+~OaM^E8",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
         }
     ],
     "reviewLimit": null,
