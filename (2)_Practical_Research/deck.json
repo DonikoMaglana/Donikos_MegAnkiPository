@@ -1820,6 +1820,206 @@
             "tags": [
                 "Q1_Monthly"
             ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which part of the introduction make readers understand why this particular problem is a problem",
+                "Background of the study"
+            ],
+            "guid": "loj0P_Vp[8",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "8 steps of writing an introduction (CGNLRRSD)",
+                "1. Contextualization of DV<br>2.&nbsp;Global setting<br>3. National Setting<br>4. Local Setting<br>5. Relationship of the variables<br>6. Research Gaps<br>7. Social Value and community involvement<br>8. Dissemination plan"
+            ],
+            "guid": "L:W[6A~5w$",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Why do we contextualize the dependent variable?",
+                "To help reader understand why dependent variable is <b>worth studying and what gaps it may address</b>"
+            ],
+            "guid": "N@guZ{TZnC",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does the three-paragraph ruling comprise?",
+                "Global, National, Local"
+            ],
+            "guid": "zMh[*p.THB",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Literature related to internation relevance or worldwide context",
+                "Global"
+            ],
+            "guid": "C5_Yzt7zZs",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Literature related within the country",
+                "National"
+            ],
+            "guid": "b-p3+H!dI2",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Literature related on a specific geographic area",
+                "Local"
+            ],
+            "guid": "kX!jw;,:kg",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This step refers to how the independent variable and dependent variable relate to each other",
+                "Step 5: Relationship of the Variables"
+            ],
+            "guid": "EMNupDYc+Q",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Is it acceptable to use related literature with the same IV and DV, even if the respondents' conditions or contexts are significantly different?",
+                "No"
+            ],
+            "guid": "x(NKxe5?.E",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which part in the introduction fills in voids in knowledge?",
+                "Research Gap"
+            ],
+            "guid": "haQ@qJPZMh",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In this part, you pinpoint areas that have not been sufficiently explored",
+                "Research Gap"
+            ],
+            "guid": "d+E[%JWV%9",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Community involvement}} refers to any collaboration with local groups and affected populations",
+                ""
+            ],
+            "guid": "ggZ#c)u3!?",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This is how the research results will be shared with the broader community",
+                "Dissemination Plan"
+            ],
+            "guid": "c#.U%1dU2|",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Two types of in-text citation",
+                "1. Parenthesis/ Parenthetical&nbsp;<br>2. Narrative"
+            ],
+            "guid": "O%T^ufnH86",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This citation focuses on the idea rather than author",
+                "Parenthetical"
+            ],
+            "guid": "pO]$H|Mu.g",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This citation focuses on the author",
+                "Narrative citation"
+            ],
+            "guid": "cDIIWRkG?b",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What type of citation? Canono et al. (2025) reported that....",
+                "Narrative"
+            ],
+            "guid": "vPyIt=7x&B",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What type of citation: (Canono, 2025)?",
+                "Parenthetical"
+            ],
+            "guid": "ue<3[2M|&b",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Rule for using citations in a paragraph?",
+                "Do not end the paragraph with a citation"
+            ],
+            "guid": "oV(Yjg>.Y=",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This part is important for the study's objectives and research questions",
+                "Relationship of the variables"
+            ],
+            "guid": "F<_Vc@tjK$",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
         }
     ],
     "reviewLimit": null,
