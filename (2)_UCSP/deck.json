@@ -106,6 +106,73 @@
     "note_models": [
         {
             "__type__": "NoteModel",
+            "crowdanki_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 9205121651523078416,
+                    "name": "Front",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -7001571941991209685,
+                    "name": "Back",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic",
+            "originalStockKind": 1,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": -471929315152782166,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0
+        },
+        {
+            "__type__": "NoteModel",
             "crowdanki_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
             "flds": [
@@ -240,73 +307,6 @@
         },
         {
             "__type__": "NoteModel",
-            "crowdanki_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
-            "flds": [
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": 9205121651523078416,
-                    "name": "Front",
-                    "ord": 0,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                },
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": -7001571941991209685,
-                    "name": "Back",
-                    "ord": 1,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "latexsvg": false,
-            "name": "Basic",
-            "originalStockKind": 1,
-            "req": [
-                [
-                    0,
-                    "any",
-                    [
-                        0
-                    ]
-                ]
-            ],
-            "sortf": 0,
-            "tmpls": [
-                {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
-                    "bafmt": "",
-                    "bfont": "",
-                    "bqfmt": "",
-                    "bsize": 0,
-                    "did": null,
-                    "id": -471929315152782166,
-                    "name": "Card 1",
-                    "ord": 0,
-                    "qfmt": "{{Front}}"
-                }
-            ],
-            "type": 0
-        },
-        {
-            "__type__": "NoteModel",
             "crowdanki_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
             "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n.cloze {\n    font-weight: bold;\n    color: blue;\n}\n.nightMode .cloze {\n    color: lightblue;\n}\n",
             "flds": [
@@ -374,6 +374,402 @@
         }
     ],
     "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "Presidential and vice-presidential elections occur every _____ ____ of _____ every ___ year.",
+                "second&nbsp;Monday of May, sixth"
+            ],
+            "guid": "zEmtY8o7TX",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "all elected officials, except those at the barangay level, start (and end) their terms of office on ____ of the election year.",
+                "June 30"
+            ],
+            "guid": "w-zhr0zZ~4",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a social or religious custom prohibiting or forbidding discussion of a particular practice or forbidding association with a particular person, place, or thing.",
+                "Taboo"
+            ],
+            "guid": "m*qq@0t3W,",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "-an activity or behavior that is considered completely unacceptable or forbidden.",
+                "Taboo"
+            ],
+            "guid": "Nm]LWe{V]U",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In Papua New Guinea: older women are also not supposed to eat ___ when pregnant, unmarried young men will receive the best food and do not have many food taboos",
+                "fish eggs"
+            ],
+            "guid": "z8o7E<W/wD",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "______ is a staple of the Brazilian diet. But not all ____are enjoyed by all Brazilians.",
+                "Seafood, fish&nbsp;"
+            ],
+            "guid": "uL.Q*}%)Ms",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "If you happen to be traveling to China, minding your ____ is the same as minding your manners.",
+                "chopsticks"
+            ],
+            "guid": "Bk2q/p77T2",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In ____: After finishing meal at a restaurant, do not leave your chopsticks sticking up in the left-over rice at the bottom of your bowl.",
+                "China"
+            ],
+            "guid": "m0Lmp)5;vJ",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "_____ is not necessarily caring in Japanese culture.",
+                "Sharing"
+            ],
+            "guid": "KZEFIST,,_",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In Japan: If you do plan on sharing your meal, you must place the _____ on a small plate and then pass it to the recipient.",
+                "tasting morsel&nbsp;"
+            ],
+            "guid": "E}8anxUtAV",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In Russia: if you are hoping to court a lady at a restaurant, do not expect to go ____.",
+                "dutch (palibre or kkb)"
+            ],
+            "guid": "f1mQxMBgH/",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Food taboos in India vary according to ____.",
+                "religion"
+            ],
+            "guid": "cno.kiTQ,H",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "For those that practice Hinduism, eating a ___ in prohibited.",
+                "cow&nbsp;"
+            ],
+            "guid": "o;4ZMcu4e!",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Islamic and Muslim families not only avoid ___ for religious reasons, they feel that ____ are bred in absolutely revolting conditions and are not worthy<br>of consumption.",
+                "pork, pigs"
+            ],
+            "guid": "wb|;~Hv#r%",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In ____: it is considered rude to accept the first offering of food. Politely decline at first, but when offered a second time — which you likely will be — feel free to accept.",
+                "Italy"
+            ],
+            "guid": "H#X3!~L~^K",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In Jamaica, It is believed that if children eat ____ before they learn to speak, they will never talk. Eating half an ____ will make the child<br>grow into a thief and drinking ____ from a baby bottle will turn them into a drunkard.",
+                "chicken, egg, milk"
+            ],
+            "guid": "EuA@QMy+lh",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "they also feel particularly strongly about coconut milk. Another widely held belief is that children who drink this type of milk will make them unintelligent.",
+                "Nigerian Taboo"
+            ],
+            "guid": "Fq)-D7i(}A",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It is considered rude to rush through a meal or hurry your order along. You also never want to ask for a doggy-bag or leave food<br>on your plate, the implication being that you did not enjoy your meal.",
+                "French Taboos"
+            ],
+            "guid": "mK$L|TKl)%",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A good leader is a ____ leader.",
+                "self actualized"
+            ],
+            "guid": "hSm3zf[ern",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">A </span><span style=\"font-weight: 400;\">good </span><span style=\"font-weight: 400;\">political </span><span style=\"font-weight: 400;\">leader </span><span style=\"font-weight: 400;\">does </span><span style=\"font-weight: 400;\">not </span><span style=\"font-weight: 400;\">take </span><span style=\"font-weight: 400;\">what </span><span style=\"font-weight: 400;\">is </span><span style=\"font-weight: 400;\">similar </span><span style=\"font-weight: 400;\">to </span><span style=\"font-weight: 400;\">his </span><span style=\"font-weight: 400;\">views </span><span style=\"font-weight: 400;\">as </span><span style=\"font-weight: 400;\">facts </span><span style=\"font-weight: 400;\">and </span><span style=\"font-weight: 400;\">base </span><span style=\"font-weight: 400;\">his </span><span style=\"font-weight: 400;\">decisions </span><span style=\"font-weight: 400;\">on </span><span style=\"font-weight: 400;\">that</span><span style=\"font-weight: 400;\">. </span><span style=\"font-weight: 400;\">He uses </span><span style=\"font-weight: 400;\">reliable </span><span style=\"font-weight: 400;\">and </span><span style=\"font-weight: 400;\">unfiltered </span><span style=\"font-weight: 400;\">information </span><span style=\"font-weight: 400;\">to </span><span style=\"font-weight: 400;\">make </span><span style=\"font-weight: 400;\">judgments </span><span style=\"font-weight: 400;\">and </span><span style=\"font-weight: 400;\">to </span><span style=\"font-weight: 400;\">come </span><span style=\"font-weight: 400;\">up </span><span style=\"font-weight: 400;\">with </span><span style=\"font-weight: 400;\">resolutions</span><span style=\"font-weight: 400;\">.</span></b>",
+                "<b>Is fair and objective.</b>"
+            ],
+            "guid": "mx>`tMDZ(w",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A good leader stands above any specific religious or political views of his own and is independent of any attachment to a specific agenda. His personal beliefs become his private matters and he learns to leave them out the door once he steps into a leadership role. In other words, his belief expands so that it includes everyone's beliefs.",
+                "<b>Is moving above himself and serving the society</b>"
+            ],
+            "guid": "hI{J|7I&5L",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><div><span style=\"font-weight: 400;\">A good </span><span style=\"font-weight: 400;\">leader </span><span style=\"font-weight: 400;\">has </span><span style=\"font-weight: 400;\">been able </span><span style=\"font-weight: 400;\">to </span><span style=\"font-weight: 400;\">move </span><span style=\"font-weight: 400;\">above&nbsp;</span></div><span style=\"font-weight: 400;\">and </span><span style=\"font-weight: 400;\">beyond </span><span style=\"font-weight: 400;\">any egoistic </span><span style=\"font-weight: 400;\">and </span><span style=\"font-weight: 400;\">primitive </span><span style=\"font-weight: 400;\">need </span><span style=\"font-weight: 400;\">for </span><span style=\"font-weight: 400;\">power</span><span style=\"font-weight: 400;\">, </span><span style=\"font-weight: 400;\">attention</span><span style=\"font-weight: 400;\">, </span><span style=\"font-weight: 400;\">or </span><span style=\"font-weight: 400;\">establishing </span><span style=\"font-weight: 400;\">his </span><span style=\"font-weight: 400;\">personal </span><span style=\"font-weight: 400;\">agendas </span><span style=\"font-weight: 400;\">and </span><span style=\"font-weight: 400;\">works </span><span style=\"font-weight: 400;\">with </span><span style=\"font-weight: 400;\">the intention </span><span style=\"font-weight: 400;\">of </span><span style=\"font-weight: 400;\">good</span><span style=\"font-weight: 400;\">-</span><span style=\"font-weight: 400;\">for</span><span style=\"font-weight: 400;\">-</span><span style=\"font-weight: 400;\">all</span><span style=\"font-weight: 400;\">.&nbsp;</span></b><br>",
+                "<b>Is not seeking fame and attention</b>"
+            ],
+            "guid": "l4j}|s_15x",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A good leader says it as it is even if it feels uncomfortable for many to hear it. He is not a people pleaser in a sense that he would say anything to please others even if that means manipulating or misguiding the public. It takes a lot of courage to do this and a good leader has that courage.",
+                "<b><span style=\"font-weight: 400;\">&nbsp;</span>Is not into hiding the truth for the sake of looking good</b>"
+            ],
+            "guid": "eHo;==lP=S",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A good leader is focused and does not get distracted. His goals, whether small or large, are reasonable and achievable and are directed towards the long term results not quick and temporary fixes that may backfire.",
+                "<b><div>Is focused on specific, achievable, and measurable goals and demands&nbsp;</div><div>outcomes</div></b>"
+            ],
+            "guid": "C8qS)^]}w@",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A good leader helps people understand that they are accountable for their society and its outcome and teaches them to make compromises and responsible choices. He does not support a sense of self-serving entitlement that has gone too far and is counter- productive for the society as a whole.",
+                "<b>Encourages people to be accountable for their actions</b>"
+            ],
+            "guid": "Er(:;,g{m1",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A good leader understands that in order for the whole society to be a functional and healthy one, some adjustments need to be made and people need to learn to give some in order to gain some.",
+                "<b>Does not pay attention to being politically correct but ethically so.</b>"
+            ],
+            "guid": "rI^z`W>irw",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A good leader makes a sustainable promise and is a man of his words.",
+                "<b>Does not make idealistic promises but realistic ones<span style=\"font-weight: 400;\">.</span></b>"
+            ],
+            "guid": "hn?Sc5_Tt<",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "People know where they are standing with an authentic leader. He does not hide bad news just because it is uncomfortable to the public's ear.",
+                "<b><span style=\"font-weight: 400;\">Is </span>honest even if it does not get approval</b>"
+            ],
+            "guid": "DR=WClkSY/",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><div><span style=\"font-weight: 400;\">He </span><span style=\"font-weight: 400;\">realizes </span><span style=\"font-weight: 400;\">that </span><span style=\"font-weight: 400;\">in order </span><span style=\"font-weight: 400;\">for </span><span style=\"font-weight: 400;\">us </span><span style=\"font-weight: 400;\">to </span><span style=\"font-weight: 400;\">live </span><span style=\"font-weight: 400;\">in&nbsp;</span></div><span style=\"font-weight: 400;\">prosperity </span><span style=\"font-weight: 400;\">as </span><span style=\"font-weight: 400;\">a </span><span style=\"font-weight: 400;\">powerful </span><span style=\"font-weight: 400;\">and </span><span style=\"font-weight: 400;\">blessed </span><span style=\"font-weight: 400;\">country</span><span style=\"font-weight: 400;\">, </span><span style=\"font-weight: 400;\">reasonable </span><span style=\"font-weight: 400;\">steps </span><span style=\"font-weight: 400;\">need </span><span style=\"font-weight: 400;\">to </span><span style=\"font-weight: 400;\">be </span><span style=\"font-weight: 400;\">taken </span><span style=\"font-weight: 400;\">to </span><span style=\"font-weight: 400;\">make </span><span style=\"font-weight: 400;\">sure </span><span style=\"font-weight: 400;\">others </span><span style=\"font-weight: 400;\">achieve </span><span style=\"font-weight: 400;\">the </span><span style=\"font-weight: 400;\">same </span><span style=\"font-weight: 400;\">goals</span><span style=\"font-weight: 400;\">. </span><span style=\"font-weight: 400;\">He </span><span style=\"font-weight: 400;\">is </span><span style=\"font-weight: 400;\">aware </span><span style=\"font-weight: 400;\">that </span><span style=\"font-weight: 400;\">with </span><span style=\"font-weight: 400;\">power </span><span style=\"font-weight: 400;\">comes </span><span style=\"font-weight: 400;\">responsibility </span><span style=\"font-weight: 400;\">and </span><span style=\"font-weight: 400;\">that </span><span style=\"font-weight: 400;\">now </span><span style=\"font-weight: 400;\">more </span><span style=\"font-weight: 400;\">than </span><span style=\"font-weight: 400;\">ever</span><span style=\"font-weight: 400;\">, </span><span style=\"font-weight: 400;\">through </span><span style=\"font-weight: 400;\">technology</span><span style=\"font-weight: 400;\">, </span><span style=\"font-weight: 400;\">we </span><span style=\"font-weight: 400;\">are </span><span style=\"font-weight: 400;\">becoming </span><span style=\"font-weight: 400;\">more </span><span style=\"font-weight: 400;\">and </span><span style=\"font-weight: 400;\">more </span><span style=\"font-weight: 400;\">inner </span><span style=\"font-weight: 400;\">related</span><span style=\"font-weight: 400;\">, </span><span style=\"font-weight: 400;\">globally</span><span style=\"font-weight: 400;\">.&nbsp;</span></b><br>",
+                "<b>Thinks globally and acts locally</b>"
+            ],
+            "guid": "mzB]mTQwjF",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A good leader is secure enough with himself to take personal responsibility when one is needed. In other words, a good political leader has an internal locus of control while he is aware of the effects of the external forces.",
+                "<b>Takes personal responsibility</b>"
+            ],
+            "guid": "IZeBO:L1wG",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A good political leader has a healthy emotional IQ and has learned to move above his emotions, conditionings, and his fixations to specific outcomes to think logically and globally. In other words, he is rational and in control of his emotions and when the public is going through the emotional roller coaster, he is there to guide them through it.",
+                "<b>Remains level headed and has a sense of humor</b>"
+            ],
+            "guid": "b^Xf-0.dk!",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A good leader is thirsty for factual, expert oriented and unbiased knowledge all the time and on all levels.",
+                "<b>Has a curious mind</b>"
+            ],
+            "guid": "Mkrh0n^;Z^",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A leader that can be trusted does not take others down for himself to go up. He is more of a collaborator than a competitor. He tries to build bridges rather than destroy them. He is a natural mediator rather than one that creates conflict, tension, and separation.",
+                "<b>Does not make himself look good by assaulting others</b>"
+            ],
+            "guid": "mn}a5%]-a:",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
         {
             "__type__": "Note",
             "fields": [
@@ -857,414 +1253,6 @@
         {
             "__type__": "Note",
             "fields": [
-                "This is a github test",
-                "yes"
-            ],
-            "guid": "v/X8|5a,Zp",
-            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Presidential and vice-presidential elections occur every _____ ____ of _____ every ___ year.",
-                "second&nbsp;Monday of May, sixth"
-            ],
-            "guid": "zEmtY8o7TX",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "all elected officials, except those at the barangay level, start (and end) their terms of office on ____ of the election year.",
-                "June 30"
-            ],
-            "guid": "w-zhr0zZ~4",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "a social or religious custom prohibiting or forbidding discussion of a particular practice or forbidding association with a particular person, place, or thing.",
-                "Taboo"
-            ],
-            "guid": "m*qq@0t3W,",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "-an activity or behavior that is considered completely unacceptable or forbidden.",
-                "Taboo"
-            ],
-            "guid": "Nm]LWe{V]U",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "In Papua New Guinea: older women are also not supposed to eat ___ when pregnant, unmarried young men will receive the best food and do not have many food taboos",
-                "fish eggs"
-            ],
-            "guid": "z8o7E<W/wD",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "______ is a staple of the Brazilian diet. But not all ____are enjoyed by all Brazilians.",
-                "Seafood, fish&nbsp;"
-            ],
-            "guid": "uL.Q*}%)Ms",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "If you happen to be traveling to China, minding your ____ is the same as minding your manners.",
-                "chopsticks"
-            ],
-            "guid": "Bk2q/p77T2",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "In ____: After finishing meal at a restaurant, do not leave your chopsticks sticking up in the left-over rice at the bottom of your bowl.",
-                "China"
-            ],
-            "guid": "m0Lmp)5;vJ",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "_____ is not necessarily caring in Japanese culture.",
-                "Sharing"
-            ],
-            "guid": "KZEFIST,,_",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "In Japan: If you do plan on sharing your meal, you must place the _____ on a small plate and then pass it to the recipient.",
-                "tasting morsel&nbsp;"
-            ],
-            "guid": "E}8anxUtAV",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "In Russia: if you are hoping to court a lady at a restaurant, do not expect to go ____.",
-                "dutch (palibre or kkb)"
-            ],
-            "guid": "f1mQxMBgH/",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Food taboos in India vary according to ____.",
-                "religion"
-            ],
-            "guid": "cno.kiTQ,H",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "For those that practice Hinduism, eating a ___ in prohibited.",
-                "cow&nbsp;"
-            ],
-            "guid": "o;4ZMcu4e!",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Islamic and Muslim families not only avoid ___ for religious reasons, they feel that ____ are bred in absolutely revolting conditions and are not worthy<br>of consumption.",
-                "pork, pigs"
-            ],
-            "guid": "wb|;~Hv#r%",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "In ____: it is considered rude to accept the first offering of food. Politely decline at first, but when offered a second time — which you likely will be — feel free to accept.",
-                "Italy"
-            ],
-            "guid": "H#X3!~L~^K",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "In Jamaica, It is believed that if children eat ____ before they learn to speak, they will never talk. Eating half an ____ will make the child<br>grow into a thief and drinking ____ from a baby bottle will turn them into a drunkard.",
-                "chicken, egg, milk"
-            ],
-            "guid": "EuA@QMy+lh",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "they also feel particularly strongly about coconut milk. Another widely held belief is that children who drink this type of milk will make them unintelligent.",
-                "Nigerian Taboo"
-            ],
-            "guid": "Fq)-D7i(}A",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "It is considered rude to rush through a meal or hurry your order along. You also never want to ask for a doggy-bag or leave food<br>on your plate, the implication being that you did not enjoy your meal.",
-                "French Taboos"
-            ],
-            "guid": "mK$L|TKl)%",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "A good leader is a ____ leader.",
-                "self actualized"
-            ],
-            "guid": "hSm3zf[ern",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "<b><span style=\"font-weight: 400;\">A </span><span style=\"font-weight: 400;\">good </span><span style=\"font-weight: 400;\">political </span><span style=\"font-weight: 400;\">leader </span><span style=\"font-weight: 400;\">does </span><span style=\"font-weight: 400;\">not </span><span style=\"font-weight: 400;\">take </span><span style=\"font-weight: 400;\">what </span><span style=\"font-weight: 400;\">is </span><span style=\"font-weight: 400;\">similar </span><span style=\"font-weight: 400;\">to </span><span style=\"font-weight: 400;\">his </span><span style=\"font-weight: 400;\">views </span><span style=\"font-weight: 400;\">as </span><span style=\"font-weight: 400;\">facts </span><span style=\"font-weight: 400;\">and </span><span style=\"font-weight: 400;\">base </span><span style=\"font-weight: 400;\">his </span><span style=\"font-weight: 400;\">decisions </span><span style=\"font-weight: 400;\">on </span><span style=\"font-weight: 400;\">that</span><span style=\"font-weight: 400;\">. </span><span style=\"font-weight: 400;\">He uses </span><span style=\"font-weight: 400;\">reliable </span><span style=\"font-weight: 400;\">and </span><span style=\"font-weight: 400;\">unfiltered </span><span style=\"font-weight: 400;\">information </span><span style=\"font-weight: 400;\">to </span><span style=\"font-weight: 400;\">make </span><span style=\"font-weight: 400;\">judgments </span><span style=\"font-weight: 400;\">and </span><span style=\"font-weight: 400;\">to </span><span style=\"font-weight: 400;\">come </span><span style=\"font-weight: 400;\">up </span><span style=\"font-weight: 400;\">with </span><span style=\"font-weight: 400;\">resolutions</span><span style=\"font-weight: 400;\">.</span></b>",
-                "<b>Is fair and objective.</b>"
-            ],
-            "guid": "mx>`tMDZ(w",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "A good leader stands above any specific religious or political views of his own and is independent of any attachment to a specific agenda. His personal beliefs become his private matters and he learns to leave them out the door once he steps into a leadership role. In other words, his belief expands so that it includes everyone's beliefs.",
-                "<b>Is moving above himself and serving the society</b>"
-            ],
-            "guid": "hI{J|7I&5L",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "<b><div><span style=\"font-weight: 400;\">A good </span><span style=\"font-weight: 400;\">leader </span><span style=\"font-weight: 400;\">has </span><span style=\"font-weight: 400;\">been able </span><span style=\"font-weight: 400;\">to </span><span style=\"font-weight: 400;\">move </span><span style=\"font-weight: 400;\">above&nbsp;</span></div><span style=\"font-weight: 400;\">and </span><span style=\"font-weight: 400;\">beyond </span><span style=\"font-weight: 400;\">any egoistic </span><span style=\"font-weight: 400;\">and </span><span style=\"font-weight: 400;\">primitive </span><span style=\"font-weight: 400;\">need </span><span style=\"font-weight: 400;\">for </span><span style=\"font-weight: 400;\">power</span><span style=\"font-weight: 400;\">, </span><span style=\"font-weight: 400;\">attention</span><span style=\"font-weight: 400;\">, </span><span style=\"font-weight: 400;\">or </span><span style=\"font-weight: 400;\">establishing </span><span style=\"font-weight: 400;\">his </span><span style=\"font-weight: 400;\">personal </span><span style=\"font-weight: 400;\">agendas </span><span style=\"font-weight: 400;\">and </span><span style=\"font-weight: 400;\">works </span><span style=\"font-weight: 400;\">with </span><span style=\"font-weight: 400;\">the intention </span><span style=\"font-weight: 400;\">of </span><span style=\"font-weight: 400;\">good</span><span style=\"font-weight: 400;\">-</span><span style=\"font-weight: 400;\">for</span><span style=\"font-weight: 400;\">-</span><span style=\"font-weight: 400;\">all</span><span style=\"font-weight: 400;\">.&nbsp;</span></b><br>",
-                "<b>Is not seeking fame and attention</b>"
-            ],
-            "guid": "l4j}|s_15x",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "A good leader says it as it is even if it feels uncomfortable for many to hear it. He is not a people pleaser in a sense that he would say anything to please others even if that means manipulating or misguiding the public. It takes a lot of courage to do this and a good leader has that courage.",
-                "<b><span style=\"font-weight: 400;\">&nbsp;</span>Is not into hiding the truth for the sake of looking good</b>"
-            ],
-            "guid": "eHo;==lP=S",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "A good leader is focused and does not get distracted. His goals, whether small or large, are reasonable and achievable and are directed towards the long term results not quick and temporary fixes that may backfire.",
-                "<b><div>Is focused on specific, achievable, and measurable goals and demands&nbsp;</div><div>outcomes</div></b>"
-            ],
-            "guid": "C8qS)^]}w@",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "A good leader helps people understand that they are accountable for their society and its outcome and teaches them to make compromises and responsible choices. He does not support a sense of self-serving entitlement that has gone too far and is counter- productive for the society as a whole.",
-                "<b>Encourages people to be accountable for their actions</b>"
-            ],
-            "guid": "Er(:;,g{m1",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "A good leader understands that in order for the whole society to be a functional and healthy one, some adjustments need to be made and people need to learn to give some in order to gain some.",
-                "<b>Does not pay attention to being politically correct but ethically so.</b>"
-            ],
-            "guid": "rI^z`W>irw",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "A good leader makes a sustainable promise and is a man of his words.",
-                "<b>Does not make idealistic promises but realistic ones<span style=\"font-weight: 400;\">.</span></b>"
-            ],
-            "guid": "hn?Sc5_Tt<",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "People know where they are standing with an authentic leader. He does not hide bad news just because it is uncomfortable to the public's ear.",
-                "<b><span style=\"font-weight: 400;\">Is </span>honest even if it does not get approval</b>"
-            ],
-            "guid": "DR=WClkSY/",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "<b><div><span style=\"font-weight: 400;\">He </span><span style=\"font-weight: 400;\">realizes </span><span style=\"font-weight: 400;\">that </span><span style=\"font-weight: 400;\">in order </span><span style=\"font-weight: 400;\">for </span><span style=\"font-weight: 400;\">us </span><span style=\"font-weight: 400;\">to </span><span style=\"font-weight: 400;\">live </span><span style=\"font-weight: 400;\">in&nbsp;</span></div><span style=\"font-weight: 400;\">prosperity </span><span style=\"font-weight: 400;\">as </span><span style=\"font-weight: 400;\">a </span><span style=\"font-weight: 400;\">powerful </span><span style=\"font-weight: 400;\">and </span><span style=\"font-weight: 400;\">blessed </span><span style=\"font-weight: 400;\">country</span><span style=\"font-weight: 400;\">, </span><span style=\"font-weight: 400;\">reasonable </span><span style=\"font-weight: 400;\">steps </span><span style=\"font-weight: 400;\">need </span><span style=\"font-weight: 400;\">to </span><span style=\"font-weight: 400;\">be </span><span style=\"font-weight: 400;\">taken </span><span style=\"font-weight: 400;\">to </span><span style=\"font-weight: 400;\">make </span><span style=\"font-weight: 400;\">sure </span><span style=\"font-weight: 400;\">others </span><span style=\"font-weight: 400;\">achieve </span><span style=\"font-weight: 400;\">the </span><span style=\"font-weight: 400;\">same </span><span style=\"font-weight: 400;\">goals</span><span style=\"font-weight: 400;\">. </span><span style=\"font-weight: 400;\">He </span><span style=\"font-weight: 400;\">is </span><span style=\"font-weight: 400;\">aware </span><span style=\"font-weight: 400;\">that </span><span style=\"font-weight: 400;\">with </span><span style=\"font-weight: 400;\">power </span><span style=\"font-weight: 400;\">comes </span><span style=\"font-weight: 400;\">responsibility </span><span style=\"font-weight: 400;\">and </span><span style=\"font-weight: 400;\">that </span><span style=\"font-weight: 400;\">now </span><span style=\"font-weight: 400;\">more </span><span style=\"font-weight: 400;\">than </span><span style=\"font-weight: 400;\">ever</span><span style=\"font-weight: 400;\">, </span><span style=\"font-weight: 400;\">through </span><span style=\"font-weight: 400;\">technology</span><span style=\"font-weight: 400;\">, </span><span style=\"font-weight: 400;\">we </span><span style=\"font-weight: 400;\">are </span><span style=\"font-weight: 400;\">becoming </span><span style=\"font-weight: 400;\">more </span><span style=\"font-weight: 400;\">and </span><span style=\"font-weight: 400;\">more </span><span style=\"font-weight: 400;\">inner </span><span style=\"font-weight: 400;\">related</span><span style=\"font-weight: 400;\">, </span><span style=\"font-weight: 400;\">globally</span><span style=\"font-weight: 400;\">.&nbsp;</span></b><br>",
-                "<b>Thinks globally and acts locally</b>"
-            ],
-            "guid": "mzB]mTQwjF",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "A good leader is secure enough with himself to take personal responsibility when one is needed. In other words, a good political leader has an internal locus of control while he is aware of the effects of the external forces.",
-                "<b>Takes personal responsibility</b>"
-            ],
-            "guid": "IZeBO:L1wG",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "A good political leader has a healthy emotional IQ and has learned to move above his emotions, conditionings, and his fixations to specific outcomes to think logically and globally. In other words, he is rational and in control of his emotions and when the public is going through the emotional roller coaster, he is there to guide them through it.",
-                "<b>Remains level headed and has a sense of humor</b>"
-            ],
-            "guid": "b^Xf-0.dk!",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "A good leader is thirsty for factual, expert oriented and unbiased knowledge all the time and on all levels.",
-                "<b>Has a curious mind</b>"
-            ],
-            "guid": "Mkrh0n^;Z^",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "A leader that can be trusted does not take others down for himself to go up. He is more of a collaborator than a competitor. He tries to build bridges rather than destroy them. He is a natural mediator rather than one that creates conflict, tension, and separation.",
-                "<b>Does not make himself look good by assaulting others</b>"
-            ],
-            "guid": "mn}a5%]-a:",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
                 "{{c1::Society}} is universal among human beings",
                 "Society"
             ],
@@ -1565,6 +1553,18 @@
         {
             "__type__": "Note",
             "fields": [
+                "This is a github test",
+                "yes"
+            ],
+            "guid": "v/X8|5a,Zp",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "Where does the word \"society\" come from, and what does that root word mean?",
                 "Socio = comrade/companion"
             ],
@@ -1645,6 +1645,286 @@
             "tags": [
                 "Q1_Monthly"
             ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Anthropology}} is the study of humans – past and present.",
+                ""
+            ],
+            "guid": "kH23ycu;,v",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It covers how people lived, how they evolved, and how they interact culturally and biologically.",
+                "Anthropology"
+            ],
+            "guid": "l!|2^fkN3s",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Anthropology comes from the Greek words \"{{c1::logos}}\" meaning study and \"{{c1::anthro}}\" meaning man",
+                ""
+            ],
+            "guid": "dK1%^an!XP",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who defined anthropology \"the study of humankind everywhere, throughout time, and seeks to produce useful generalizations about people and their behavior and to arrive at the fullest possible understanding of human diversity.\"?",
+                "Havilland, W. A. (1975)"
+            ],
+            "guid": "hydA/YN$,?",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who is the father of Modern Anthropology?",
+                "Franz Boas"
+            ],
+            "guid": "A,[duI,Z{@",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who created the four-field structure of anthropology?",
+                "Franz Boas"
+            ],
+            "guid": "OPAf#t5k(>",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What did Franz Boas propose?",
+                "That environment had an affect on our physical features"
+            ],
+            "guid": "by)]RRDt3D",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the four sub-field of anthropology?",
+                "1) Archeology<br>2) Biological Anthropology<br>3) Cultural Anthropology<br>4) Linguistic Anthropology"
+            ],
+            "guid": "NK^W2lK#u#",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What sub-field of anthropology studies beliefs, practices, and values across cultures?",
+                "Cultural Anthropology"
+            ],
+            "guid": "y2+7m#q5Fi",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What sub-field of anthropology looks at human evolution and genetics?",
+                "Biological Anthropology"
+            ],
+            "guid": "l3_XNHm=Jk",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What sub-field of anthropology studies language in its social context?",
+                "Linguistic Anthropology"
+            ],
+            "guid": "A&E4]!Pt1H",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which sub-field in anthropology examines material remains to learn about past societies?",
+                "Archeology"
+            ],
+            "guid": "Qp7xIB#4P.",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What type of materials are examined in archeology (give at least 1)",
+                "Bones, artifacts, remains"
+            ],
+            "guid": "B$ZRhePB-Q",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the nature of anthropology?",
+                "<b>Holistic and comparative</b>—it seeks to understand humans in all times and places."
+            ],
+            "guid": "ISMp]keVly",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the 5 goals of anthropology?",
+                "1) To understand <b>fossil record</b><br>2) To understand <b>how humans adapt</b><br>3) To understand <b>behavior of monkeys and apes</b> in natural setting<br>4) To learn about <b>biological and cultural</b> aspects of humans<br>5) To apply anthropological knowledge to <b>solve/prevent problems</b>"
+            ],
+            "guid": "mGAbf>W2{W",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How did Filipinos originate? (D'AIM)",
+                "Dawn Man, Aeta, Indones, Malays"
+            ],
+            "guid": "gsUi~yOy;d",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Sociology}} is the scientific study of human society, patterns of social relationships, interaction, and culture.",
+                ""
+            ],
+            "guid": "rh91AIf;&m",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the nature of sociology?",
+                "Systematic and objective—it observes social behavior, institutions, norms, and how societies change."
+            ],
+            "guid": "HYq395zyYo",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who is the father of Sociology?",
+                "Auguste Comte"
+            ],
+            "guid": "tM9UrdgOk-",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the goals of sociology?",
+                "o Understand <b>how social groups affect individuals.</b><br>o Analyze <b>causes of social problem</b>s like inequality, crime, and racism.<br>o Study <b>modern and global changes in institutions </b>like family, religion, education,<br>etc."
+            ],
+            "guid": "f>jgYLCPUw",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Political Science}} deals with power, governance, public policies, political behavior, and institutions.",
+                ""
+            ],
+            "guid": "RhiY~#j.dj",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the nature of Political Science?",
+                "It is both <b>theoretical and practical</b>—it involves studying the law, constitutions, elections, and political ideologies."
+            ],
+            "guid": "tw[QTrM+O7",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who is the Father of Modern Political Science?",
+                "Niccolò Machiavelli"
+            ],
+            "guid": "L]qE&]:b4t",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Three main areas of political science?",
+                "Political theory, public law, and public administration"
+            ],
+            "guid": "I`E3:ggD@;",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is Political Theory?",
+                "Philosophy behind politics and governance."
+            ],
+            "guid": "p-`sp_9emf",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does Public Law study?",
+                "<div>Legal structures like constitutions and courts.</div>"
+            ],
+            "guid": "K==#I|>+w=",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is Public Administration?",
+                "<div>The management of government operations.</div>"
+            ],
+            "guid": "JQ%&!3K/Q;",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Three goals of political science?",
+                "o Analyze power structures.<br>o Understand government impact on society.<br>o Promote democracy, civic responsibility, and good governance."
+            ],
+            "guid": "loL8I)Qp7L",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
         }
     ],
     "reviewLimit": null,
