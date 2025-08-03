@@ -1619,6 +1619,396 @@
                 "AI",
                 "Q1_Monthly"
             ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ang {{c1::bionote}} ay isang sulating nagbibigay ng mga impormasyon ukol sa isang indibidwal upang maipakilala siya sa mga tagapakinig o mambabasa.",
+                ""
+            ],
+            "guid": "D:HX3U(d.l",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ayon kay Levy (2015), bakit kailangan ang bionote? (4)",
+                "1, aplikasyon sa trabaho;<br>2. paglilimbag ng mga artikulo at aklat o blog;<br>3. pagsasalita sa mga pagtitipon; at<br>4. pagpapalawak ng network propesyonal."
+            ],
+            "guid": "m5vEOOod&&",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Bakit mahalagang mahusay ang pagkakasulat ng bionote?",
+                "Dahil ito ay <b>nagpapataas ng kredibilidad</b> ng tao at epektibong nagpapakilala sa kanya."
+            ],
+            "guid": "xWfw_bzZ,I",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ang bionote ay maituturing na {{c1::volatile}} ang sulating ito sapagkat, maaari itong magbago nang mabilis dahil sa mga naidaragdag na impormasyon sa isang indibidwal.",
+                ""
+            ],
+            "guid": "P/yLly,6u=",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Saan makikita ang mga bionote? (give at least 2)",
+                "likod ng aklat, social media, liham aplikasyon, resume"
+            ],
+            "guid": "D~C!zaj*=2",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Paano ginagamit ang bionote sa paghahanap ng trabaho?",
+                "Ito ay bahagi ng liham-aplikasyon na nagpapakilala sa sarili upang makuha ang <b>interes ng employer.</b>"
+            ],
+            "guid": "/C(|/4x]a",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Bakit mahalaga ang bionote sa mga may-akda ng aklat o artikulo?",
+                "Upang ipakilala sila sa mga mambabasa at magsilbing promosyon para sa kanilang propesyon."
+            ],
+            "guid": "e.3mD05Lm[",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Bakit hinihingi ang bionote mula sa mga tagapagsalita sa pagtitipon?",
+                "Upang<b> maipakilala</b> sila sa paraang gusto nila, at mapataas ang tiwala ng audience."
+            ],
+            "guid": "NSCRj}{l|N",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Paano nakakatulong ang bionote sa pagpapalawak ng network-propesyonal?",
+                "<div>Nagpapakita ito ng iyong <b>kakayahan at personalidad</b>, kaya mas madaling makakonekta sa mga taong may parehong propesyon o interes.</div>"
+            ],
+            "guid": "snqBGHaU`k",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ano ang mga dapat tandaan sa pagsulat ng bionote? (5)",
+                "&nbsp;1)Balangkas na pagsulat<br>2) Haba ng Bionote<br>3) Kaangkupan ng Nilalaman<br>4) Antas ng promalidad ng sulatin<br>5) Larawan"
+            ],
+            "guid": "N/AdomdM@G",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Bakit mahalagang maghanda ng balangkas sa pagsulat ng bionote?",
+                "Upang <strong>ma-prayorisa</strong> ang mga impormasyong isasama at magkaroon ng <strong>maayos na daloy</strong> sa bionote."
+            ],
+            "guid": "KrZT1U^X:9",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ano ang layunin ng pagbubuo ng balangkas sa bionote?",
+                "Upang malaman kung (1)&nbsp;<strong>alin ang uunahin</strong>, (2)&nbsp;<strong>ihuhuli</strong>, at (3)&nbsp;<strong>dapat bigyang-diin</strong> na impormasyon."
+            ],
+            "guid": "F_1Ydhn!qy",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ano ang tatlong uri ng bionote ayon kay Brogan (2014)?",
+                "<ul><li><strong>Micro-bionote</strong></li><li><strong>Maikling bionote</strong></li><li><strong>Mahabang bionote</strong></li></ul>\n\n"
+            ],
+            "guid": "B++jx:p3,c",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ayon kay Brogan (2014), ano ang halimbawa ng micro-bionote?",
+                "<div>Isang <strong>impormatibong pangungusap</strong> na:</div>\n<ol>\n<li>\n<div>Nagsisimula sa<b> pangalan</b></div>\n</li>\n<li>\n<div><strong>Sinusundan ng ginagawa</strong></div>\n</li>\n<li>\n<div><strong>Tinatapos sa contact details</strong></div></li></ol>"
+            ],
+            "guid": "EMAgu&WXdg",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Saan karaniwang makikita ang micro-bionote?",
+                "Sa <strong>social media</strong> o <strong>business card</strong>"
+            ],
+            "guid": "Ay:s:f+8U6",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ano ang laman ng maikling bionote at ilang talata?",
+                "<b>Isa hanggang tatlong </b>talata tungkol sa <br><b>-impormasyon ng taong ipinakikilala; at</b><br>-karaniwan sa mga aklat o journal"
+            ],
+            "guid": "vr=R(ZO3#,",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Halimbawa ng maikling bionote",
+                "may-akda sa isang aklat"
+            ],
+            "guid": "i=Hvt-OR$1",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div><em>Kailan karaniwang ginagamit ang mahabang bionote?</em></div>\n<div></div>",
+                "Karaniwang ginagamit sa <strong>pagpapakilala ng natatanging panauhin</strong> dahil may sapat na <strong>oras o espasyo</strong> para basahin o isulat ito."
+            ],
+            "guid": "IPX-,|$ZU3",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ano ang ibig sabihin ng “kaangkupan ng nilalaman” sa bionote?",
+                "Ang mga isusulat na detalye ay <strong>dapat akma sa okasyon at audience</strong>, hindi lahat ng impormasyon ay kailangang isama."
+            ],
+            "guid": "D(RH4vs||e",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Bakit kailangang isaalang-alang ang konteksto ng okasyon sa pagsulat ng bionote?",
+                "Upang <strong>piliin lamang ang angkop na impormasyon</strong> na direktang may kaugnayan sa layunin ng okasyon."
+            ],
+            "guid": "P{~UOs2*!U",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ano ang layunin ng audience psychology sa pagsulat ng bionote?",
+                "Upang <strong>itugma ang mga salita at impormasyong gagamitin</strong> sa karakter o propayl ng tagapakinig."
+            ],
+            "guid": "xeRd,-EP5|",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ano ang ibig sabihin ng antas ng pormalidad sa bionote?",
+                "<strong>antas ng mga salitang ginagamit</strong>—kung ito ba ay <strong>pormal</strong> o <strong>impormal</strong>"
+            ],
+            "guid": "h+P!:Tw*0v",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ano ang nakaaapekto sa antas ng wika sa bionote?",
+                "<div>Nakadepende ito sa <strong>audience</strong> at sa <strong>klima o uri ng okasyon</strong> kung saan gagamitin ang bionote.</div>"
+            ],
+            "guid": "j#-z}V9z/o",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Bakit mahalagang isaalang-alang ang antas ng pormalidad sa bionote?",
+                "<div>Dahil kung <strong>hindi naaangkop sa audience</strong>, hindi magiging <strong>epektibo</strong> ang pagpapakilala ng impormasyon.</div>"
+            ],
+            "guid": "s)usA?.Ev.",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ano ang dapat tandaan sa pagpili ng larawan para sa bionote?",
+                "Dapat <strong>malinaw</strong> ang kuha at <strong>propesyonal</strong> o <strong>pormal</strong> ang dating ng larawan."
+            ],
+            "guid": "K`EA>g#_(u",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Sino ang inirerekomendang kumuha ng larawan para sa bionote?",
+                "Isang <strong>propesyonal na potograpo</strong> upang masigurong kalidad ang larawan."
+            ],
+            "guid": "v{k|JA`sk-",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Mga hakbang sa pagsulat ng Bionote (8)",
+                "1) Tiyakin ang<b> Layunin</b><br>2) Pagdesisyonan ang <b>Haba</b><br>3) Gamitan ng <b>Ikatlong Panauhan</b><br>4) Simulan sa <b>Pangalan</b><br>5) Ilahad ang <b>Propesyong Kinabibilangan</b><br>6) Isa-isahin ang <b>mahahalagang tagumpay</b><br>7) Idagdag ang <b>di-inaasahang detalye</b><br>8) Isama ang <b>Contact Information</b>"
+            ],
+            "guid": "OQ{kQyI/;m",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ano ang unang hakbang sa pagsulat ng bionote ayon kay Brogan at Hummel?",
+                "Tiyakin ang layunin ng pagsulat ng bionote upang malaman kung <b>anong mga impormasyon ang mahalagang isama at paano ito ihahayag</b>."
+            ],
+            "guid": "t&-Gqi!OdV",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Paano mo pinipili ang haba ng bionote?",
+                "<b>Nakadepende ito sa layunin at kahingian</b> ng <b>gagamit ng bionote</b>, tulad ng journal, social media, o iba pang gamit."
+            ],
+            "guid": "s9ON*%HCVy",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Anong panauhan ang inirerekomenda sa pagsulat ng bionote?",
+                "Ikatlong panauhang perspektibo"
+            ],
+            "guid": "EC#(BrSQ/K",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Bakit ikatlong panauhang perspektibo ang inirekomenda para sa pagsulat ng bionote?",
+                "Para sa <b>obhetibong</b> pagpapakilala"
+            ],
+            "guid": "up$m.YTtXS",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Anong ginagamit na panauhan kung sa social media?",
+                "<b>Unang panauhan o first person</b> dahil personal na account ang mga ito at inaasahang ikaw ang nagpapakilala sa iyong sarili at hindi ang ibang tao."
+            ],
+            "guid": "bfL{BPp/=m",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ano ang unang dapat isulat sa isang bionote?",
+                "Pangalan"
+            ],
+            "guid": "JdUXqdGvgO",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Bakit mahalaga ang pangalan sa bionote?",
+                "Dahil ito ang <strong>pinakaimportanteng matandaan</strong> ng mga tao"
+            ],
+            "guid": "Y=BHYtpBZ",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Bakit mahalaga simulan sa pangalan ang bionote? (2)",
+                "(1) Mayroon na agad katauhan ang ipinakikilala<br>(2) unang mairerehistro sa kamalayan ng mga tao ang pangalan ng ipinakikilala."
+            ],
+            "guid": "mD7GoXYGZg",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Bakit mahalagang ilahad ang propesyong kinabibilangan sa bionote?",
+                "Nagpapataas ito ng <b>kredibilidad at pagtitiwala</b> ng mga tao sa taong ipinapakilala."
+            ],
+            "guid": "K][iI2`QSu",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ano ang dapat piliin sa mga tagumpay na ilalagay sa bionote?",
+                "Isama lamang ang mga tagumpay na may kaugnayan sa audience o layunin ng bionote."
+            ],
+            "guid": "kau@w3k{s1",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ano ang layunin ng pagdagdag ng di-inaasahang detalye sa bionote?",
+                "<div>Mapukaw ang interes ng mambabasa o tagapakinig at maging kaakit-akit ang pagpapakilala, basta't may kaugnayan sa okasyon.</div>"
+            ],
+            "guid": "Q5yH(*{{[=",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Bakit isinasama ang contact information sa bionote?",
+                "<div>Para mapadali ang pakikipag-ugnayan at mapalawak ang network ng propesyonal.</div>"
+            ],
+            "guid": "n=Dsdr5YP8",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
         }
     ],
     "reviewLimit": null,
