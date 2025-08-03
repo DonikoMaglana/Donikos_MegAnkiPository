@@ -2121,6 +2121,786 @@
             "guid": "GA+~OaM^E8",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Matter can be classified according to the {{c1::phase}}, that is, the physical state a material is in.",
+                ""
+            ],
+            "guid": "vlV9F}=Vjp",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Elements}} are the simplest form of matter and {{c2::cannot}} be broken down using chemical methods into two or more pure substances.",
+                ""
+            ],
+            "guid": "h?q0--qvfI",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Compounds}} can be broken down into two or more pure substances.",
+                ""
+            ],
+            "guid": "A,4gQ=wDNJ",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Compounds made with only two elements (such as H2O, NO2, N2O, NaCl) are called {{c1::binary compounds}}.",
+                ""
+            ],
+            "guid": "n%5u(Ltevu",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The chart showing all known elements and giving some of their properties is the {{c1::Periodic Table of the Elements}}",
+                ""
+            ],
+            "guid": "b={R4.H?;B",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Dalton’s model is based on a number of assumptions or “{{c1::postulates}}”.",
+                ""
+            ],
+            "guid": "vI,j3;J|~{",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "An element is composed of particles called {{c1::atoms}}.",
+                ""
+            ],
+            "guid": "Ks]bM~mFO>",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the term for transformation of pure substances into other pure substances?",
+                "Chemical reaction"
+            ],
+            "guid": "oN;_Oys_zb",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Transformation of pure substances called {{c1::reactants}}&nbsp;into other pure substances called {{c1::products}}",
+                ""
+            ],
+            "guid": "m9]U*Qe`Ao",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Individual atoms are made of which subatomic particles?&nbsp;",
+                "electrons, protons&nbsp;and neutrons"
+            ],
+            "guid": "o~+*n7lt_i",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which subatomic particle is&nbsp;characterized by the symbol e-?",
+                "electron"
+            ],
+            "guid": "JsZOU6IXnJ",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which subatomic particle reside in the outer regions of a given atom",
+                "electron"
+            ],
+            "guid": "f>z:v1n/a/",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which subatomic particle has a very small mass, me- = 9.11x10-28 grams (g)?",
+                "Electron"
+            ],
+            "guid": "x];):TPxdv",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which subatomic particle has a negative charge?",
+                "Electron"
+            ],
+            "guid": "C*g-Q6@9yp",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which subatomic particle is characterized by the symbol p?",
+                "Proton"
+            ],
+            "guid": "B;(/(1UT<<",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which subatomic particle is reside in the central part of the atom?",
+                "Proton"
+            ],
+            "guid": "Jl>+<>:<ks",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which subatomic particle has a larger mass, mp = 1.673x10-24 grams (g)?",
+                "Proton"
+            ],
+            "guid": "jq7}l:#LBA",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which subatomic particle is has a positive electric charge?",
+                "Proton"
+            ],
+            "guid": "MaxA@?;D5U",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which subatomic particle is&nbsp;characterized by the symbol n?",
+                "Neutron"
+            ],
+            "guid": "mGDP-^L[u`",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which subatomic particle resides in the nucleus?",
+                "Neutron"
+            ],
+            "guid": "gGOn)GKQ)G",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which subatomic particle contain zero charge (neutral)?",
+                "Neutron"
+            ],
+            "guid": "qu<5H4rKSZ",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which subatomic particle has the mass of&nbsp;mn = 1.675x10-24 grams (g), has about the same with another subatomic particle?",
+                "Neutron"
+            ],
+            "guid": "PY>Ie(WA;D",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Protons and neutrons are called {{c1::nucleons}} as they are all located in the {{c1::nucleus}}.",
+                ""
+            ],
+            "guid": "p)+N8L,*Ah",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What charge is assigned to a proton when <b>simplifying atomic charges</b>?",
+                "A proton is assigned a charge of <strong>+1</strong> (no unit specified)."
+            ],
+            "guid": "uMIc0aCl1|",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What charge is assigned to an electron when simplifying atomic charges?",
+                "An electron is assigned a charge of <strong>–1</strong> (no unit specified)."
+            ],
+            "guid": "xTCL+h*:4{",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the <b>actual charge</b> of a proton in coulombs?",
+                "1.6 x&nbsp;10⁻¹⁹ C"
+            ],
+            "guid": "kPMbSpSkPT",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the actual charge of an electron in coulombs?",
+                "–1.6 × 10⁻¹⁹ C"
+            ],
+            "guid": "nn75Z6J;z@",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The number of {{c1::protons}} in the nucleus is given the name atomic number and is denoted by the symbol {{c1::Z}}.",
+                ""
+            ],
+            "guid": "FUL}TNWg([",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The mass number for elements is the sum of the number of?",
+                "protons and neutrons"
+            ],
+            "guid": "Nrl202[:*k",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Atoms that have the same number of protons but different numbers of neutrons are called {{c1::isotopes}}.",
+                ""
+            ],
+            "guid": "sR9e<<(HFB",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the name of the hydrogen isotope ²H?",
+                "Deuterium"
+            ],
+            "guid": "Ca5VBd2mu?",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the name of the hydrogen isotope ³H?",
+                "Tritium"
+            ],
+            "guid": "j(?C&vFS{v",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the name of the hydrogen isotope ¹H?",
+                "Protium"
+            ],
+            "guid": "O%~.Q:Viq`",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What stays the same in all isotopes of an element?",
+                "electrons and protons"
+            ],
+            "guid": "JD0vkA/`nA",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How many protons does every carbon isotope have?",
+                "<strong>6 protons</strong> (Atomic number Z = 6)"
+            ],
+            "guid": "jm`-N:!z1?",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How many neutrons does carbon-12 have?",
+                "6 neutrons"
+            ],
+            "guid": "DIuxg)0^j6",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How many neutrons does carbon-13 have?",
+                "7 neutrons"
+            ],
+            "guid": "J78xYEB,%*",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How many neutrons does carbon-14 have?",
+                "8 neutrons"
+            ],
+            "guid": "w3[/r#7F|p",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Molecules}} form when two or more atoms of the same or of different nonmetal elements combine with one another.",
+                ""
+            ],
+            "guid": "eIrRzr-MoP",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This is an aggregate of two or more atoms in a definite arrangement held together by chemical bonds",
+                "Molecule"
+            ],
+            "guid": "AKO,5IJ5<=",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Two types of chemical bonds:",
+                "Ionic and covalent"
+            ],
+            "guid": "o1]nAex#s&",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the net charge of molecules?",
+                "neutral, no net charge"
+            ],
+            "guid": "I&Txx8PwJy",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are chemical bonds between a metal and a nonmetal.",
+                "ionic bonds"
+            ],
+            "guid": "mMN~T-c%6j",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What&nbsp;are chemical bonds between two nonmetals?",
+                "covalent bond"
+            ],
+            "guid": "O.0dUaOrgc",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "An {{c1::ion}} is an atom or group of atoms that has a net positive or negative charge",
+                ""
+            ],
+            "guid": "bkHc5(`ro8",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A {{c1::cation}} is an ion with positive charge.",
+                ""
+            ],
+            "guid": "yn7U|~]%*e",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "An {{c1::anion}} is an ion with negative charge",
+                ""
+            ],
+            "guid": "gZz`n@c=T-",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "If a neutral atom loses an electron or more it becomes a?",
+                "Cation"
+            ],
+            "guid": "o,Mfpa{zBR",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "If a neutral atom gains an electron, it becomes a?",
+                "anion"
+            ],
+            "guid": "0m9w4owpP",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What kind of ion only has one atom?",
+                "Monatomic ion"
+            ],
+            "guid": "h~whn.J3M=",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What kind of ion has more than one atoms?",
+                "Polyatomic ion"
+            ],
+            "guid": "ypQYA9z=aF",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "When an atom loses or gains electrons, an {{c1::ion}} is formed.&nbsp;",
+                ""
+            ],
+            "guid": "F%dFb[W1=#",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What kind of molecule has only two atoms?",
+                "Diatomic molecule"
+            ],
+            "guid": "F?}eg~3,`F",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What kind of molecule has more than two atoms?",
+                "Polyatomic molecule"
+            ],
+            "guid": "HM>}D@J030",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Elements in the Periodic Table can be classified as? (3)",
+                "metals, nonmetals and&nbsp;metalloids/semimetals."
+            ],
+            "guid": "z)1^Wq%WW7",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Metals are typically on the _____ side of the Periodic Table with an exception of which element?",
+                "left-hand, hydrogen"
+            ],
+            "guid": "E%GTitV59>",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Nonmetals are typically on the {{c1::right- hand}} side of the Periodic Table",
+                ""
+            ],
+            "guid": "BuWSSO-atN",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Metalloids on either side of a stairway between metals and nonmetals starting between {{c1::Boron}} and {{c1::Aluminum}}.",
+                ""
+            ],
+            "guid": "E>V>SMD06o",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Metals are characterized by which physical properties?",
+                "1. Luster<br>2. High heat<br>3.&nbsp;electrical conductivity<br>4. Malleability<br>5. Ductility"
+            ],
+            "guid": "y0|,#2T#h!",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The horizontal rows in the Periodic Table are called {{c1::periods}}.",
+                ""
+            ],
+            "guid": "D}-m@/!P<U",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The vertical columns in the Periodic Table are called {{c1::groups}}.",
+                ""
+            ],
+            "guid": "f?GIY3vs|T",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "There are {{c1::18}} groups and {{c1::7}} periods in the Periodic Table.",
+                ""
+            ],
+            "guid": "B`n:PsfjI7",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Some of the groups and some sets of groups have specific names and constitute {{c1::families}}.",
+                ""
+            ],
+            "guid": "Drv~;ZVn(<",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Elements in groups 1, 2, 13, 14, 15, 16, 17, 18 are called {{c1::main group elements}}.",
+                ""
+            ],
+            "guid": "DN-mr:=v]2",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are elements in groups 3 through 12 are called?",
+                "transition elements"
+            ],
+            "guid": "udmCxzH|ny",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the elements in group 1, except hydrogen, are called?",
+                "alkali metals"
+            ],
+            "guid": "lM!*q@]bs%",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The elements in group 2 are called?&nbsp;",
+                "alkaline earth metals"
+            ],
+            "guid": "Qhzgr-kJy1",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the elements in group 17 called?",
+                "halogens"
+            ],
+            "guid": "hK=m?(|-t_",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The elements in group 18 are called?",
+                "noble gases"
+            ],
+            "guid": "s1?VNf!fAq",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Group 1 elements (Li, Na, K, etc...) tend to lose how many electrons?",
+                "1 electron"
+            ],
+            "guid": "GTy_-W:O?2",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Group 2 elements (Be, Mg, Ca, Ba, etc...) tend to lose {{c1::2}} electrons.",
+                ""
+            ],
+            "guid": "wF^SD70iA3",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Group 13 metals (Al, Ga, In) tend to lose {{c1::3}} electrons.",
+                ""
+            ],
+            "guid": "uXRCk4|`(5",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Group 15 nonmetals tend to gain {{c1::3}} electrons.",
+                ""
+            ],
+            "guid": "L$u>hRu9BE",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Group 16 nonmetals tend to gain {{c1::2}} electrons.",
+                ""
+            ],
+            "guid": "IzuL[@K9a`",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Group 17 nonmetals (halogens) tend to gain {{c1::1}} electron, forming {{c1::halides}}.",
+                ""
+            ],
+            "guid": "Oo_su[eR%S",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Group 18 (noble gases) {{c1::do not}}&nbsp; form stable ions",
+                ""
+            ],
+            "guid": "fY6d_e2&s4",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Why don’t noble gases (Group 18) form stable ions?",
+                "Because they are <strong>inert</strong> — their outer electron shells are <strong>already full</strong>."
+            ],
+            "guid": "f1@t8R`OqJ",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Stable ions}} are often formed through a gain or a loss of electrons that is such that the resulting ions have the same number of electrons as the closest noble gas element in the Periodic Table.",
+                ""
+            ],
+            "guid": "n&Gv^5Ou3<",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
         }
     ],
     "reviewLimit": null,
