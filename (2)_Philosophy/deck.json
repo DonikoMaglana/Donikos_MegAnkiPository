@@ -100,6 +100,17 @@
     "extendNew": 0,
     "extendRev": 0,
     "media_files": [
+        "0f95fb91844d4f6ab696dfb926b7ec30-ao-1-A.svg",
+        "0f95fb91844d4f6ab696dfb926b7ec30-ao-1-Q.svg",
+        "0f95fb91844d4f6ab696dfb926b7ec30-ao-2-A.svg",
+        "0f95fb91844d4f6ab696dfb926b7ec30-ao-2-Q.svg",
+        "0f95fb91844d4f6ab696dfb926b7ec30-ao-3-A.svg",
+        "0f95fb91844d4f6ab696dfb926b7ec30-ao-3-Q.svg",
+        "0f95fb91844d4f6ab696dfb926b7ec30-ao-4-A.svg",
+        "0f95fb91844d4f6ab696dfb926b7ec30-ao-4-Q.svg",
+        "0f95fb91844d4f6ab696dfb926b7ec30-ao-5-A.svg",
+        "0f95fb91844d4f6ab696dfb926b7ec30-ao-5-Q.svg",
+        "0f95fb91844d4f6ab696dfb926b7ec30-ao-O.svg",
         "2060507d966a4ae7946e5813415eb046-oa-1-A.svg",
         "2060507d966a4ae7946e5813415eb046-oa-1-Q.svg",
         "2060507d966a4ae7946e5813415eb046-oa-2-A.svg",
@@ -116,6 +127,7 @@
         "2060507d966a4ae7946e5813415eb046-oa-7-Q.svg",
         "2060507d966a4ae7946e5813415eb046-oa-O.svg",
         "Screenshot 2025-07-24 at 7.05.26 PM.png",
+        "Screenshot 2025-08-05 at 12.40.10 AM.png",
         "bdcbe8c2fab745a5bc9b42b8557f01f8-ao-1-A.svg",
         "bdcbe8c2fab745a5bc9b42b8557f01f8-ao-1-Q.svg",
         "bdcbe8c2fab745a5bc9b42b8557f01f8-ao-2-A.svg",
@@ -821,6 +833,73 @@
                     "name": "IO Card",
                     "ord": 0,
                     "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
+                }
+            ],
+            "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 9205121651523078416,
+                    "name": "Front",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -7001571941991209685,
+                    "name": "Back",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic",
+            "originalStockKind": 1,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": -471929315152782166,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
                 }
             ],
             "type": 0
@@ -2374,6 +2453,371 @@
             "tags": [
                 "Q1_Monthly"
             ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who said this, and what year:<br><br>“Epistemology is a science devoted to the discovery of the proper method of <b>acquiring or validating knowledge</b>”",
+                "Rand, 1990"
+            ],
+            "guid": "iI!(j=Fj;I",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the 2 main purposes of epistemology",
+                "1. Acquire knowledge<br>2. Validate knowledge"
+            ],
+            "guid": "BXU=s$!bUQ",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "They said that we can acquire knowledge using our senses",
+                "Empiricists"
+            ],
+            "guid": "Cssy3_LVTz",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "They said that to think is to think of something; you cannot think about nothing",
+                "Rationalists"
+            ],
+            "guid": "yqLpp_o1$Z",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the 5 natures of knowledge in order?",
+                "1. Reality<br>2. Perception<br>3. Concept<br>4. Proposition<br>5. Inference"
+            ],
+            "guid": "zCR2me`?M%",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What we see, hear,<br>feel, taste, or smell<br>informs us about<br>the world. It is also<br>the most flawed part<br>of knowledge.<br><br>Which nature of knowledge is this?",
+                "Perception"
+            ],
+            "guid": "sHOF]gZ]6+",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "\"to know is to know something. existence is all there to know\"<br><br>Which nature of knowledge is this?",
+                "Reality"
+            ],
+            "guid": "AGn~Mv:)2K",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "For something to be known, it must first exist&nbsp;<br><br>Which nature of knowledge is this?",
+                "Reality"
+            ],
+            "guid": "Q=p*/n:bzR",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Knowledge begins with perceptual knowledge. Stimulus through our senses<br><br>Which nature of knowledge is this?",
+                "Perception"
+            ],
+            "guid": "J@{X%M/c3x",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "“Abstractions from<br>abstractions.<br>Connecting<br>chunks of<br>knowledge.”<br><br>Which nature of knowledge is this?",
+                "Concept"
+            ],
+            "guid": "iFiu]e340<",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Allows us to organize and categorize our experiences<br><br>Which nature of knowledge is this?",
+                "Concept"
+            ],
+            "guid": "dq(9;J--ba",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A declarative sentence.<br><br>Which nature of knowledge is this?",
+                "Proposition"
+            ],
+            "guid": "]$J(4y>>?",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A statement that affirms of denies something",
+                "Proposition"
+            ],
+            "guid": "pKH[Y0??SA",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A statement that is capable of being true or false",
+                "Proposition"
+            ],
+            "guid": "xqb][]l<<s",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A reasoning process<br><br>Which nature of knowledge is this?",
+                "Inference"
+            ],
+            "guid": "F>T^_]7_ub",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the two parts of an inference?",
+                "Premise and Conclusion"
+            ],
+            "guid": "yJgBL/}%UC",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This part of an inference provides justification evidence and proof",
+                "Premise"
+            ],
+            "guid": "dQ&yZ:=[D_",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This part of the inference is a staatement that we want to prove",
+                "Inference"
+            ],
+            "guid": "Bz0<(|0,Yn",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "0f95fb91844d4f6ab696dfb926b7ec30-ao-1",
+                "",
+                "<img src=\"Screenshot 2025-08-05 at 12.40.10 AM.png\" />",
+                "<img src=\"0f95fb91844d4f6ab696dfb926b7ec30-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"0f95fb91844d4f6ab696dfb926b7ec30-ao-1-A.svg\" />",
+                "<img src=\"0f95fb91844d4f6ab696dfb926b7ec30-ao-O.svg\" />"
+            ],
+            "guid": "l$s?~1Re*]",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "0f95fb91844d4f6ab696dfb926b7ec30-ao-2",
+                "",
+                "<img src=\"Screenshot 2025-08-05 at 12.40.10 AM.png\" />",
+                "<img src=\"0f95fb91844d4f6ab696dfb926b7ec30-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"0f95fb91844d4f6ab696dfb926b7ec30-ao-2-A.svg\" />",
+                "<img src=\"0f95fb91844d4f6ab696dfb926b7ec30-ao-O.svg\" />"
+            ],
+            "guid": "jf6Oez?bpy",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "0f95fb91844d4f6ab696dfb926b7ec30-ao-3",
+                "",
+                "<img src=\"Screenshot 2025-08-05 at 12.40.10 AM.png\" />",
+                "<img src=\"0f95fb91844d4f6ab696dfb926b7ec30-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"0f95fb91844d4f6ab696dfb926b7ec30-ao-3-A.svg\" />",
+                "<img src=\"0f95fb91844d4f6ab696dfb926b7ec30-ao-O.svg\" />"
+            ],
+            "guid": "FGRM@gR3s^",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "0f95fb91844d4f6ab696dfb926b7ec30-ao-4",
+                "",
+                "<img src=\"Screenshot 2025-08-05 at 12.40.10 AM.png\" />",
+                "<img src=\"0f95fb91844d4f6ab696dfb926b7ec30-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"0f95fb91844d4f6ab696dfb926b7ec30-ao-4-A.svg\" />",
+                "<img src=\"0f95fb91844d4f6ab696dfb926b7ec30-ao-O.svg\" />"
+            ],
+            "guid": "k{4]B3d?pl",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "0f95fb91844d4f6ab696dfb926b7ec30-ao-5",
+                "",
+                "<img src=\"Screenshot 2025-08-05 at 12.40.10 AM.png\" />",
+                "<img src=\"0f95fb91844d4f6ab696dfb926b7ec30-ao-5-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"0f95fb91844d4f6ab696dfb926b7ec30-ao-5-A.svg\" />",
+                "<img src=\"0f95fb91844d4f6ab696dfb926b7ec30-ao-O.svg\" />"
+            ],
+            "guid": "u{m5$5rLuQ",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Helps us distinguish true statements from false ones through structured reasoning",
+                "Logic"
+            ],
+            "guid": "DcIk`28jd%",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A logically valid argument leads from<br>premises to a conclusion in a way that?&nbsp;",
+                "if the premises are true, the conclusion must be true."
+            ],
+            "guid": "kWkq*D:(:0",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The art of reasoning that follows systematic processes",
+                "Logic"
+            ],
+            "guid": "m=#mZ,|_ni",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the 5 natures of truth in order?",
+                "1. Logic<br>2. Common Sense<br>3. Knowledge<br>4. Opinions<br>5. Arguments"
+            ],
+            "guid": "PWmA<SK[^$",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It is a prudent, shallow judgment used to<br>validate whether if a thing is valid or not.",
+                "Common sense"
+            ],
+            "guid": "?i}|x@dfJ",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Refers to practical, everyday reasoning that most people accept as sound without requiring deep analysis.",
+                "Common sense"
+            ],
+            "guid": "IHSf2tO$V2",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A <b>justified true belief</b> — it must be<br>true, you must believe it, and you must have justification for believing it.",
+                "Knowledge"
+            ],
+            "guid": "eK5;m)-D)p",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Personal beliefs, preferences, or judgments that may or may not be based on facts or logical reasoning.",
+                "Opinions"
+            ],
+            "guid": "yl~<6ZhV}u",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Tools used to arrive at or defend truth claims.&nbsp;",
+                "Arguments"
+            ],
+            "guid": "rU1IcqvGE@",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
         }
     ],
     "reviewLimit": null,

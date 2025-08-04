@@ -3029,6 +3029,406 @@
             "tags": [
                 "Q1_Monthly"
             ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the two main types of plant tissues?",
+                "Permanent and meristematic tissues"
+            ],
+            "guid": "AHc,DcQ?%0",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A tissue is a cluster of cells, that<br>are alike in {{c1::configuration}} and work<br>together to attain a specific<br>{{c1::function}}.",
+                ""
+            ],
+            "guid": "GB0ycKP>]p",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This main type of plant tissue can divide rapidly",
+                "Meristematic tissue"
+            ],
+            "guid": "vcu%JueFj5",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Meristematic Tissue is responsible for only primary growth. T or F?",
+                "F, BOTH primary AND secondary growth"
+            ],
+            "guid": "Jkr]AWk*^U",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Primary Growth means the plant is growing {{c1::longer}},<br>while Secondary growth means the plant is growing {{c1::thicker}}",
+                ""
+            ],
+            "guid": "Lg0|P=|qvK",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This main type of plant tissue doesn't have intercellular space",
+                "Meristematic tissue"
+            ],
+            "guid": "xq*$F10Nb{",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of meristematic tissue is located at the stems and roots",
+                "Apical meristem"
+            ],
+            "guid": "DQ7VCdBgw!",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of meristematic tissue is responsible for increasing the length of the plant",
+                "Apical Meristem"
+            ],
+            "guid": "q+SV@6gceB",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of meristematic tissue is found in the radial portion of the stems and roots",
+                "Lateral Meristem"
+            ],
+            "guid": "JiW(<7?BOD",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of meristematic tissue is responsible for increasing the thickness of the plant",
+                "Lateral Meristem"
+            ],
+            "guid": "tvJB81kbfd",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "AKA the base of leaves",
+                "internodes"
+            ],
+            "guid": "mfq^W,c72d",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of meristematic tissue is found in the base of leaves",
+                "Intercalary meristem"
+            ],
+            "guid": "Q3`bnATUr7",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of meristematic tissue is responsible for increasing the length of internodes",
+                "Intercalary meristem"
+            ],
+            "guid": "NpurTf@R$p",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This main type of plant tissue is made of cells that have lost the ability to divide",
+                "Permanent tissues"
+            ],
+            "guid": "I,{z3BkSfg",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of meristematic tissue is specialized to give {{c1::elasticity, flexibility, and strength}} to the plant",
+                ""
+            ],
+            "guid": "LTH>[RAOAa",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Parenchyma tissue make up the?",
+                "Ground tissue and pith"
+            ],
+            "guid": "HLT8,<hG3x",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "These are living polygonal cells with a large central vacuole",
+                "Parenchyma"
+            ],
+            "guid": "jWD1SBKSGf",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of permanent tissue has lots of intercellular space",
+                "Parenchyma"
+            ],
+            "guid": "k8PdB~w^Pw",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Elongated living cells with small intercellular spaces",
+                "Collenchyma"
+            ],
+            "guid": "M`i!``_O5f",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the cell walls of collenchyma made of?",
+                "pectin and cellulose"
+            ],
+            "guid": "DfO8Hp5o)+",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Where is collenchyma found?",
+                "The edges of stems and leaves"
+            ],
+            "guid": "uXNO({tgIM",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of permanent tissue provides flexibility and mechanical support",
+                "Collenchyma"
+            ],
+            "guid": "vLY}HDCL:3",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This simple permanent tissue doesn't have intercellular spaces",
+                "Sclerenchyma"
+            ],
+            "guid": "t/*}jA1U2X",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of simple permanent tissue is made of up of elongated, dead cells",
+                "Sclerenchyma"
+            ],
+            "guid": "tbslhd~!FR",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the cell walls of sclerenchyma made of",
+                "lignin"
+            ],
+            "guid": "Kb.{E.@JjP",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What type of simple permanent tissue is found in seed coats, nut shells, vascular bundles, and leaf veins?",
+                "Sclerenchyma"
+            ],
+            "guid": "kK:ei]IK7X",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the 3 main types of simple permanent tissue?",
+                "Parenchyma<br>Collenchyma<br>Sclerenchyma"
+            ],
+            "guid": "BHu/p8[fXb",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This complex permanent tissue transports water and dissolved minerals",
+                "Xylem"
+            ],
+            "guid": "Uc&i^nFo.",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Xylem are made of? (VTXX)",
+                "Vessels<br>Tracheids<br>Xylem fibres<br>Xylem parenchyma"
+            ],
+            "guid": "urRCWXlh|m",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of complex permanent tissue transports food throughout the plant",
+                "Phloem"
+            ],
+            "guid": "j8FQ[<1Fz}",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Phloem are made of? (SSCPP)",
+                "Sieve tubes<br>Sieve cells<br>Companion cells<br>Phloem parenchyma"
+            ],
+            "guid": "x`cIm,O?<l",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which complex permanent tissue is a bidirectional transport system",
+                "phloem"
+            ],
+            "guid": "HX5c.g^kFH",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The outer layer covering all plant structures",
+                "Epidermis"
+            ],
+            "guid": "A[6[H6n)nK",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of protective plant tissue contains the stomata",
+                "Epidermis"
+            ],
+            "guid": "i)IS6*s7A|",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the two main functions of the stomata",
+                "- Gas exchange<br>- Transpiration"
+            ],
+            "guid": "cJ+_M,4Qy+",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This protective tissue replaces the epidermis in mature stems and roots",
+                "Epidermis"
+            ],
+            "guid": "B9ePz>NWF!",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This protective tissue is made of dead cells with no intercellular space",
+                "cork"
+            ],
+            "guid": "H.d3B`JThE",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What do the cell walls of cork have that make them waterproof and gas resistant?",
+                "Suberin"
+            ],
+            "guid": "utV]bp}d[[",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "If a cell wall has suberin, the tissue that contains such is?",
+                "waterproof and gas-resistant"
+            ],
+            "guid": "iaJ,v$)b|A",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The cork in the tree is basically just the?",
+                "bark"
+            ],
+            "guid": "q+x!HXeokt",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
         }
     ],
     "reviewLimit": null,
