@@ -113,6 +113,13 @@
         "0176e835beab4ada8390210c5fe0a1ab-ao-6-A.svg",
         "0176e835beab4ada8390210c5fe0a1ab-ao-6-Q.svg",
         "0176e835beab4ada8390210c5fe0a1ab-ao-O.svg",
+        "4465aa672d9a4e29b8ee9ae40383cd5b-ao-1-A.svg",
+        "4465aa672d9a4e29b8ee9ae40383cd5b-ao-1-Q.svg",
+        "4465aa672d9a4e29b8ee9ae40383cd5b-ao-2-A.svg",
+        "4465aa672d9a4e29b8ee9ae40383cd5b-ao-2-Q.svg",
+        "4465aa672d9a4e29b8ee9ae40383cd5b-ao-3-A.svg",
+        "4465aa672d9a4e29b8ee9ae40383cd5b-ao-3-Q.svg",
+        "4465aa672d9a4e29b8ee9ae40383cd5b-ao-O.svg",
         "6ee5a6f5e843436b961a00f05ebee03d-ao-1-A.svg",
         "6ee5a6f5e843436b961a00f05ebee03d-ao-1-Q.svg",
         "6ee5a6f5e843436b961a00f05ebee03d-ao-2-A.svg",
@@ -140,6 +147,8 @@
         "94bddfbf44c7403398e50c9cb6389989-ao-6-Q.svg",
         "94bddfbf44c7403398e50c9cb6389989-ao-O.svg",
         "Screenshot 2025-07-24 at 6.05.54 PM.png",
+        "Screenshot 2025-08-10 at 6.15.12 PM.png",
+        "Screenshot 2025-08-10 at 6.16.16 PM.png",
         "bdb2bce233624701b86a8410ccc01281-oa-1-A.svg",
         "bdb2bce233624701b86a8410ccc01281-oa-1-Q.svg",
         "bdb2bce233624701b86a8410ccc01281-oa-2-A.svg",
@@ -149,6 +158,13 @@
         "bdb2bce233624701b86a8410ccc01281-oa-4-A.svg",
         "bdb2bce233624701b86a8410ccc01281-oa-4-Q.svg",
         "bdb2bce233624701b86a8410ccc01281-oa-O.svg",
+        "cd05da116da34e3587f787ca0e8da040-ao-1-A.svg",
+        "cd05da116da34e3587f787ca0e8da040-ao-1-Q.svg",
+        "cd05da116da34e3587f787ca0e8da040-ao-2-A.svg",
+        "cd05da116da34e3587f787ca0e8da040-ao-2-Q.svg",
+        "cd05da116da34e3587f787ca0e8da040-ao-3-A.svg",
+        "cd05da116da34e3587f787ca0e8da040-ao-3-Q.svg",
+        "cd05da116da34e3587f787ca0e8da040-ao-O.svg",
         "d4c865d7e62947e8a0d89e8d7b9d5716-ao-1-A.svg",
         "d4c865d7e62947e8a0d89e8d7b9d5716-ao-1-Q.svg",
         "d4c865d7e62947e8a0d89e8d7b9d5716-ao-2-A.svg",
@@ -2018,6 +2034,280 @@
                 "Relationship of the variables"
             ],
             "guid": "F<_Vc@tjK$",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "There is a large difference between the theoretical and conceptual frameworks in terms of practicality. T or F?",
+                "F, practically no difference"
+            ],
+            "guid": "CO)*+ckm.B",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This framework is modeled from a single, pre existing component",
+                "Theoretical framework"
+            ],
+            "guid": "Ek@+(GD&oh",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of framework is made by gather many parts to form a new model",
+                "Conceptual framework"
+            ],
+            "guid": "j_ZPNLiMi#",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A theoretical framework is commonly used for<br>studies that anchor on {{c1::time-tested theories}} that<br>relate the findings of the investigation to the<br>underpinning relevant theory of knowledge.",
+                ""
+            ],
+            "guid": "Q:(7>t8F%D",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This refers to the actual ideas, beliefs, or multiple concepts of theories that specifically support the study.",
+                "Conceptual framework"
+            ],
+            "guid": "LLLL<v}jvL",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This framework is more about the <b>approach</b> that a researcher takes in answering a research question",
+                "Conceptual framework"
+            ],
+            "guid": "uv4(5Qm@l-",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A {{c1::conceptual}} framework may include a {{c1::theoretical}} framework",
+                ""
+            ],
+            "guid": "v,;]mj?dFo",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "One theory alone can serve as a theoretical framework. T or F?",
+                "T"
+            ],
+            "guid": "Hg6I13hs{z",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the 3 common frameworks?",
+                "1. IV-DV Model<br><br>2. IV-DV-MV Model<br><br>2. IPO (input, process, output) Model"
+            ],
+            "guid": "jM8w/`T^%m",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "4465aa672d9a4e29b8ee9ae40383cd5b-ao-1",
+                "",
+                "<img src=\"Screenshot 2025-08-10 at 6.15.12 PM.png\" />",
+                "<img src=\"4465aa672d9a4e29b8ee9ae40383cd5b-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"4465aa672d9a4e29b8ee9ae40383cd5b-ao-1-A.svg\" />",
+                "<img src=\"4465aa672d9a4e29b8ee9ae40383cd5b-ao-O.svg\" />"
+            ],
+            "guid": "k}.14*}h{,",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "4465aa672d9a4e29b8ee9ae40383cd5b-ao-2",
+                "",
+                "<img src=\"Screenshot 2025-08-10 at 6.15.12 PM.png\" />",
+                "<img src=\"4465aa672d9a4e29b8ee9ae40383cd5b-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"4465aa672d9a4e29b8ee9ae40383cd5b-ao-2-A.svg\" />",
+                "<img src=\"4465aa672d9a4e29b8ee9ae40383cd5b-ao-O.svg\" />"
+            ],
+            "guid": "JdDjYv4YCu",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "4465aa672d9a4e29b8ee9ae40383cd5b-ao-3",
+                "",
+                "<img src=\"Screenshot 2025-08-10 at 6.15.12 PM.png\" />",
+                "<img src=\"4465aa672d9a4e29b8ee9ae40383cd5b-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"4465aa672d9a4e29b8ee9ae40383cd5b-ao-3-A.svg\" />",
+                "<img src=\"4465aa672d9a4e29b8ee9ae40383cd5b-ao-O.svg\" />"
+            ],
+            "guid": "MOn7j?yCyS",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "cd05da116da34e3587f787ca0e8da040-ao-1",
+                "",
+                "<img src=\"Screenshot 2025-08-10 at 6.16.16 PM.png\" />",
+                "<img src=\"cd05da116da34e3587f787ca0e8da040-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"cd05da116da34e3587f787ca0e8da040-ao-1-A.svg\" />",
+                "<img src=\"cd05da116da34e3587f787ca0e8da040-ao-O.svg\" />"
+            ],
+            "guid": "zi[FM5H)/1",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "cd05da116da34e3587f787ca0e8da040-ao-2",
+                "",
+                "<img src=\"Screenshot 2025-08-10 at 6.16.16 PM.png\" />",
+                "<img src=\"cd05da116da34e3587f787ca0e8da040-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"cd05da116da34e3587f787ca0e8da040-ao-2-A.svg\" />",
+                "<img src=\"cd05da116da34e3587f787ca0e8da040-ao-O.svg\" />"
+            ],
+            "guid": "h(9B*`ux,,",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "cd05da116da34e3587f787ca0e8da040-ao-3",
+                "",
+                "<img src=\"Screenshot 2025-08-10 at 6.16.16 PM.png\" />",
+                "<img src=\"cd05da116da34e3587f787ca0e8da040-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"cd05da116da34e3587f787ca0e8da040-ao-3-A.svg\" />",
+                "<img src=\"cd05da116da34e3587f787ca0e8da040-ao-O.svg\" />"
+            ],
+            "guid": "PuKt%~lgQ|",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which type of framework is exempt from the 5-10 years publication date cutoff?",
+                "Theoretical framework"
+            ],
+            "guid": "vkKszU(o#l",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In a title like:<br><br>Anxiety among SHS Students<br><br>Which of the steps in dissecting a title are crashed out?",
+                "3, 4, 6"
+            ],
+            "guid": "ix}dqhh~?^",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "If both IV and DV are {{c1::Quantitative Variables}}, therefore it means {{c2::significant relationship}}",
+                ""
+            ],
+            "guid": "nW0Sk0KIV^",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "If IV and DV are categorical and quantitative, therefore it means the title is identifying the {{c1::significant difference}}",
+                ""
+            ],
+            "guid": "u)_ZeQ~`!)",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In a study titled&nbsp;<br><br>\"Anxiety among SHS Students\"<br><br>Demographic profile: Age<br>DV indicators: Nervousness<br><br>What is the Specific Objective?",
+                "<b><div><span style=\"font-weight: 400;\">1. What is the demographic profile of the respondents in terms of age?</span></div><br><div><span style=\"font-weight: 400;\">2. What is the level of anxiety among the students in terms of nervousness?</span></div><br><div><span style=\"font-weight: 400;\">3. Is there a significant difference in the level of anxiety among the</span></div><div><span style=\"font-weight: 400;\">respondents when grouped according to age?</span></div></b>"
+            ],
+            "guid": "EkqvBx=rY,",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Given a study titled:<br><br>Anxiety among SHS Students in a Catholic School in Davao City<br><br>What is the General Objective?",
+                "This study aims to determine the level of anxiety among senior high school students in a Catholic school in Davao City. Furthermore, it also would like to measure if there exists a significant difference between the levels of anxiety among senior high school students."
+            ],
+            "guid": "dCvh{UQsir",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Given a research title:<br><br>Status of Students Religiosity<br><br>What is the IV and DV respectively?",
+                "IV = Students<br><br>DV = Religiosity"
+            ],
+            "guid": "mv#DH>/9$S",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": []
         }
