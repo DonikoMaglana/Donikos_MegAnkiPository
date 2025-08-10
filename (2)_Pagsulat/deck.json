@@ -2009,6 +2009,436 @@
             "guid": "n=Dsdr5YP8",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Isang pormal na pagsasalita sa harap ng mga tagapakinig o audience.",
+                "Talumpati"
+            ],
+            "guid": "qXqDsQjMx,",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What's more important?<br><br>\"Pamamaraan ng pagbigkas\"&nbsp;<br>or<br>\"Lalim ng nilalaman at katotohanan\"",
+                "Lalim ng nilalaman at katotohanan"
+            ],
+            "guid": "b1himVw*KK",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the two main divisions of talumpati?",
+                "- Nilalaman&nbsp;<br>- Pamamaraan"
+            ],
+            "guid": "y7DkxTQ.fc",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the two main types of talumpati according to nilalaman?",
+                "- Impormatibo<br>- Mapanghikayat"
+            ],
+            "guid": "jO{rzdL[=o",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the two types of talumpati according to pamamaraan?",
+                "- Impromptu<br>- Extemporaneous"
+            ],
+            "guid": "x&J~[cG-`R",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ang uri ng talumpating ito ay naglalayong magbigay ng impormasyon tungkol sa ano mang bagay, pangyayari, konsepto, lugar, tao, proyekto, at iba pa.",
+                "Impormatibong talumpati"
+            ],
+            "guid": "gmG*BYR4t_",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ang kabuuang diskurso ng impormatibong talumpati ay {{c1::maglahad at magpaliwanag}} upang maunawaan ng mga tagapakinig ang paksang tinatalakay.",
+                ""
+            ],
+            "guid": "nSdWLGUgf.",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Mahalaga ang tulong biswal sa ganitong uri ng talumpati",
+                "Kronolohiya ng isang pamamaraang pang-organisasyon"
+            ],
+            "guid": "i(NhFl3Y$4",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Hindi maaring simpleng pagpapaliwanag ng iba't ibang konsepto gaya ng teorya, prinsipyo, paniniwala o ideya ang isang talumpatig nagbibigay ng impormasyon. T or F?",
+                "F"
+            ],
+            "guid": "Miu[ymEx6o",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Sapagkat mas kompleks ang ganitong mga talumpati, esensyal ang pagbibigay ng iba't ibang {{c1::halimbawa}}, {{c1::analohiya}}, at {{c1::paghahambing}}",
+                ""
+            ],
+            "guid": "KB*Q<z`RiA",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ano ang mahahalagang bagay na dapat tandaan sa pagbuo ng impormatibong talumpati?",
+                "Paglimita sa paksang tinatalakay"
+            ],
+            "guid": "he6TKZQv9]",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Bakit importanteng ipaglimita ang paksang itinatalakay sa impormatibong talumpati?",
+                "Upang magkaroon ng pokus/laman ang talumpati"
+            ],
+            "guid": "qWAeKeR/)p",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "We should not assume that the audience in an impormatibong talumpati know everything about the topic. T or F&gt;",
+                "T"
+            ],
+            "guid": "keAc;8>%g9",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Huwag ding ipagpalagay na lahat na tinatalakay ay alam na ng tagapakinig at sikaping magbigay ng mga {{c1::halimbawang malapit sa karanasan ng tagapakinig.}}",
+                ""
+            ],
+            "guid": "hJgNqmg`WY",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ano ang dapat iwasan sa impormatibong talumpati?",
+                "Maging masyadong teknikal at abstrakto ang talumpati"
+            ],
+            "guid": "Fn?+fNNpj=",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Instead of being teknikal at abstrakto in an impormatibong talumpati, what should we do?",
+                "Gawing personal ang mga ideya nang sa gayon ay mas madaling makaugnay ang mga tagapakinig"
+            ],
+            "guid": "N1]~:PG6UI",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What type of talumpati is the State of the Nation Address",
+                "Impormatibong talumpati"
+            ],
+            "guid": "PA**Ys>]jf",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ang uri ng talumpating ito ay kadalasang nakatuon sa mga paksa o isyung kinapapalooban ng iba't iibang perspektiiba o posisyon",
+                "Mapanghikayat na talumpati"
+            ],
+            "guid": "Bj`6O6BKK5",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the two most likely focuses of a mapanghikayat na talumpati?",
+                "- Pagkuwestiyon sa isang katotohanan<br>- Pagpapahalaga<br>- Polisiya<br><br>(claim of fact, value, policy)"
+            ],
+            "guid": "Jo%iQ1Uv&2",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What things about the tagapagkinigs should we angkop our mensahe ng mapanghikayat na talumpati? (KIPAP)",
+                "- Kaalaman<br>- Interes<br>- Pagpapahalaga<br>- Aktitud<br>- Paniniwala"
+            ],
+            "guid": "wO2[1.#i3!",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ang pagdulog ng mapanghikayat na talumpati na ito ay halos kagaya ng isang impormatibong talumpati",
+                "Pagkuwestiyon sa isang katotohanan"
+            ],
+            "guid": "y%EPa3UOeE",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Sa pagdulog ng mapanghikayat na talumpati na ito, nagsisilbing tagapamandila ng isang posisyon ang tagapagsalita na nagpapakita ng iba't ibang katotohanan at <b>datos&nbsp;</b>upang suportahan naman ang kanyang posisyon.",
+                "Pagkuwestiyon ng isang katotohanan"
+            ],
+            "guid": "w2-P8nw1Fs",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Sa isang pagdulog na pagkuwestyon ng isang katotohanan, ang speaker ay maaring magpakita ng taliwas na pananaw ngunit tungaliin lamang ito. T or F?",
+                "T"
+            ],
+            "guid": "BS[}HL$j,6",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ang pagdulog na ito sa mapanghikayat na talumpati ay nakasentro sa personal na paghatol kung ano ang tama, mali, mabuti, etikal, o hindi etikal.",
+                "Pagkuwestyon sa pagpapahalaga"
+            ],
+            "guid": "yL2XxN:~i^",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Kailangag pangatwiranan ng isang tagapagsalita ang kanyang posisyon batay sa isang tanggap na standard o paniniwala/<br><br>anong uri ng pagdulog sa mapanghikayat na talumpati ito?",
+                "Pagkuwestyon sa pagpapahalaga"
+            ],
+            "guid": "gf|=:>zc)q",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "\"Halimbawa nito ang mga pangatiwran laban sa mga probisyong may kinalaman sa aborsyon na nakapaloob sa RH law, ayon sa utos ng bibliya\"<br><br>anong uri ng pagdulog sa mapanghikayat na talumpati ito?",
+                "pagkuwestyon ng pagpapahalaga"
+            ],
+            "guid": "gf;4c~$+WU",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ang layunin ng pagdulog sa talumpati na ito ay hikayatin ang mga tagapakinig na magpasyang umaksyon o kumilos.&nbsp;",
+                "Pagkuwestyon sa polisiya"
+            ],
+            "guid": "BauiY-5,-F",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Pagkatapos kuwestiyonin ang isang tiyak na polisiya, what should the speaker do?",
+                "Kailangang <b>hikayatin </b>ang mga tagapakinig sa pagkilos<br>sa pamamagitan ng paglalatag ng isang <b>plano na magpapakita ng praktikalidad</b> ng isang<br>panibagong proposal."
+            ],
+            "guid": "f+%!-<a0{h",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Sa pagkuwestyon sa polisiya, mahalagang maging {{c1::ispesipiko}} ang paglalatag ng plano upang mahikayat ang tagapakinig na suportahan ito.",
+                ""
+            ],
+            "guid": "7[*A_T$~r",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Sa mapanghikayat na talumpati, what are the factors that make a good tagapagsalita.",
+                "- May kredibilidad ang nagsasalita (Ethos)<br>- Napaninwala sila sa ebidensya (Logos)<br>- Nakanti ang kanilang emosyon (Pathos)"
+            ],
+            "guid": "ggojKGH@S:",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who and when declared the two main types of talumpati according to nilalaman (Impormatibo at mapanghikayat)?&nbsp;",
+                "Bernales, et al. (2006)"
+            ],
+            "guid": "q0?pX-r8tD",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This kind of talumpati ay maaaring binibigkas sa okasyon ng<br>Serbisyong Nekrolohikal, Pagtatalaga sa Katungkulan, Pamamaalam-Paghahandog o Retirement at Pagmumungkahi o Pagsuporta sa Kandidatura.",
+                "Talumpating Papuri"
+            ],
+            "guid": "^$Bi1CK=K",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ano ang dalawang uri ng talumpati according to pamamaraan?",
+                "Impromptu &amp; Ekstemporanyo"
+            ],
+            "guid": "oAq#OAb5f}",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c2::Impromptu}} is also called {{c1::Biglaang Talumpati}}",
+                ""
+            ],
+            "guid": "Er%Y|RmGOE",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c2::Ekstemporanyo}} is also called {{c1::Pinaghandaang Talumpati}}",
+                ""
+            ],
+            "guid": "E[?xL?;@,1",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This kind of talumpati is mahalaga upang masukat ang lalim at lawak ng kaalaman ng isang mag-aaral sa isang tiyak na paksa",
+                "Impromptu o biglaang talumpati"
+            ],
+            "guid": "o4aXP<P,>!",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ano ang apat na batayang hakbang sa pagbuo ng isang biglaang talumpati? (SISI)",
+                "a. Sabihin ang paksang magiging sentro ng talumpati<br>at ang layunin nito.<br><br>b. Ipaliwanag ang pangunahing punto na nais mong<br>bigyang-diin.<br><br>c. Suportahan ang pangunahing punto ng mga ebidensya.<br><br>d. Ibuod ang iyong pinakamahalagang punto."
+            ],
+            "guid": "i8Fc)K<FnK",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ang talumpating ito ay maingat na inihahanda, pinagpaplanuhan, at ineensayo",
+                "Ekstemporanyo o Pinaghandaang Talumpati"
+            ],
+            "guid": "LOzExblZX4",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Upang maalala ang mga mahahalagang punto ng inihandang talumpati, ano ang ginagamit ng tagapagsalita?",
+                "Maiiksing tala (short notes)"
+            ],
+            "guid": "o<K@OAleE/",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Memorized speeches dont count as ekstemporanyo. T or F?",
+                "F"
+            ],
+            "guid": "EG8$JOlqR7",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c2::Kumbersasyonal}} ang katangian ng pinaghahandaang talumpati at kahit pa praktisado, kailangang {{c1::ispontanyo}} ang maging dating nito sa mga tagapakinig.",
+                ""
+            ],
+            "guid": "tvsdI)gpv^",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who and when wrote down the mga&nbsp; gabay sa pagsulat ng talumpati?",
+                "Jeff Schmitt (2013)"
+            ],
+            "guid": "C;sB4$[e7I",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the 5 gabay sa pagsulat ng talumpati? (PMGTG)",
+                "1. Piliin lamang ang isang <b>pinakamahalagang ideya</b><br><br>2. Magsulat kung paano ka nagsasalita<br><br>3. Gumamit ng mga <b>kongkretong salita</b> at halimbawa<br><br>4. Tiyaking <b>tumpak ang mga ebidensya</b> at datos<br><br>5. Gawing simple ang pagpapahayag sa buong talumpati"
+            ],
+            "guid": "K5.J5A^P6k",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
         }
     ],
     "reviewLimit": null,
