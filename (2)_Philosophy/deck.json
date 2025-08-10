@@ -903,6 +903,73 @@
                 }
             ],
             "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n.cloze {\n    font-weight: bold;\n    color: blue;\n}\n.nightMode .cloze {\n    color: lightblue;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -5999884917947464331,
+                    "name": "Text",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": true,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": 0
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 7159354697063675009,
+                    "name": "Back Extra",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": 1
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Cloze",
+            "originalStockKind": 5,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Back Extra}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": -6628808917458755412,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1
         }
     ],
     "notes": [
@@ -2646,7 +2713,7 @@
                 "",
                 "",
                 "",
-                "<img src=\"0f95fb91844d4f6ab696dfb926b7ec30-ao-1-A.svg\" />",
+                "<img src=\"0f95fb91844d4f6ab696dfb926b7ec30-ao-1-A.svg\">",
                 "<img src=\"0f95fb91844d4f6ab696dfb926b7ec30-ao-O.svg\" />"
             ],
             "guid": "l$s?~1Re*]",
@@ -2665,7 +2732,7 @@
                 "",
                 "",
                 "",
-                "<img src=\"0f95fb91844d4f6ab696dfb926b7ec30-ao-2-A.svg\" />",
+                "<img src=\"0f95fb91844d4f6ab696dfb926b7ec30-ao-2-A.svg\">",
                 "<img src=\"0f95fb91844d4f6ab696dfb926b7ec30-ao-O.svg\" />"
             ],
             "guid": "jf6Oez?bpy",
@@ -2684,7 +2751,7 @@
                 "",
                 "",
                 "",
-                "<img src=\"0f95fb91844d4f6ab696dfb926b7ec30-ao-3-A.svg\" />",
+                "<img src=\"0f95fb91844d4f6ab696dfb926b7ec30-ao-3-A.svg\">",
                 "<img src=\"0f95fb91844d4f6ab696dfb926b7ec30-ao-O.svg\" />"
             ],
             "guid": "FGRM@gR3s^",
@@ -2722,8 +2789,8 @@
                 "",
                 "",
                 "",
-                "<img src=\"0f95fb91844d4f6ab696dfb926b7ec30-ao-5-A.svg\" />",
-                "<img src=\"0f95fb91844d4f6ab696dfb926b7ec30-ao-O.svg\" />"
+                "<img src=\"0f95fb91844d4f6ab696dfb926b7ec30-ao-5-A.svg\">",
+                "<img src=\"0f95fb91844d4f6ab696dfb926b7ec30-ao-O.svg\">"
             ],
             "guid": "u{m5$5rLuQ",
             "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
@@ -2816,6 +2883,206 @@
                 "Arguments"
             ],
             "guid": "rU1IcqvGE@",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A short but very deep book written by Ludwig Wittgenstein",
+                "Tractatus Logico-philosophicus"
+            ],
+            "guid": "E^B%oroHGL",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who wrote Tractatus logico-philosophicus?",
+                "Ludwig Wittgenstein"
+            ],
+            "guid": "Q#Pdr*z<O6",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This philosopher wanted to understand how language, thought, and reality all connect",
+                "Ludwig Wittgenstein"
+            ],
+            "guid": "l@[ne}i{/(",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is Ludwig Wittgenstein's famous quote?",
+                "\"The world is all that is the case\""
+            ],
+            "guid": "y[ARc1h&&>",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does \"the world is all that is the case\" mean?",
+                "The world is made up of facts"
+            ],
+            "guid": "v*cbb~p`pv",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "\"{{c2::Whereof one cannot speak}}, {{c1::thereof one must be silent}}.\"",
+                ""
+            ],
+            "guid": "joe?N-Cs%#",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "According to Wittgenstein, what should we do when we encounter concepts that are too deep to describe using words?",
+                "Stay silent"
+            ],
+            "guid": "h!r/ovOQ-J",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "According to Wittgenstein, what is philosophy's job?",
+                "To make thoughts clear"
+            ],
+            "guid": "uDnF-)q[<6",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This is defined as a fact or reality that is objective and <b>independent of anyone’s belief.</b>",
+                "Truth"
+            ],
+            "guid": "wE-r5^@<:Y",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This theory states that a statement is true if it aligns with reality",
+                "Correspondence theory of truth"
+            ],
+            "guid": "hWO)j)tz>n",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "\"There is a tree outside the window\" This is true if there really is a tree outside the window.&nbsp;<br><br><br>What theory of truth is this?",
+                "Correspondence theory of truth"
+            ],
+            "guid": "O9lo]Mww]1",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This theory of truth states that a statement is true if it fits with a system of other truths",
+                "Coherence theory of truth"
+            ],
+            "guid": "F%R*hgLVi3",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This theory of truth states that a statement is true if it works or is useful in real life.",
+                "Pragmatic theory of truth"
+            ],
+            "guid": "FFVF^P!uYw",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "\"2 + 2 = 4\" is true because it is consistent with the concepts of arithmetic<br><br>Which theory of truth is this?",
+                "Coherence theory of truth"
+            ],
+            "guid": "bddH4~M_cW",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "\"Washing hands prevents sickness\" is true because it works and leads to healthy results<br><br>Which theory of truth is this?",
+                "Pragmatic theory of truth"
+            ],
+            "guid": "D09)mAHY:l",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the 4 natures of opinion? (BICO)<br><br>1. Based on emotion<br>2. Inherently biased<br>3. Cannot be confirmed<br>4. Open to interpretation",
+                ""
+            ],
+            "guid": "ASA:-D/k|D",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Opinions often come<br>from personal feelings<br>or preferences, not<br>from solid evidence or<br>reason.<br><br>Which nature of opinion is this?",
+                "Based on emotions"
+            ],
+            "guid": "MV0KL6@z:9",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Since opinions are<br>subjective, different<br>people can interpret the<br>same situation or idea in<br>completely different ways.<br><br>Which nature of opinion is this?",
+                "Open to interpretation"
+            ],
+            "guid": "c3HcIaBgFL",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Unlike facts or truths, opinions<br>cannot be definitively proven<br>using evidence or logic. They<br>may be supported, but never fully<br>confirmed in a universal sense.<br><br>which nature of truth is this?",
+                "Cannot be confirmed"
+            ],
+            "guid": "xJ4mesY^I,",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Opinions carry the<br>backgrounds, and experiences of<br>the person who holds them.<br><br>Which nature of opinion is this?",
+                "Inherently biased"
+            ],
+            "guid": "b80^x}wZ=(",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": []
         }
