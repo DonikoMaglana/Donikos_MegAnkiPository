@@ -2524,6 +2524,696 @@
         {
             "__type__": "Note",
             "fields": [
+                "Why are humans complex? (4)",
+                "because they are capable of thinking,feeling, choosing, and seeking meaning."
+            ],
+            "guid": "FC1@UZj*{T",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This richness and depth of what it means to be human is what we refer to as the {{c1::complexity of man}}.",
+                ""
+            ],
+            "guid": "j+[]i)cd_",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Holism}} sees the human person as a complete, interconnected being — not just parts, but a living, unified whole.",
+                ""
+            ],
+            "guid": "m}.({e3Uy6",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In holism,&nbsp;to truly understand something, you must look at the {{c1::entire system}}, not just {{c1::its individual piece.}}",
+                ""
+            ],
+            "guid": "K}Yp1x874^",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "“The whole is greater than the sum of its parts.\"",
+                "Holism"
+            ],
+            "guid": "wNHtW+TQMU",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "“A complex thing can be fully understood by breaking it down into its simplest parts.",
+                "Reductionism"
+            ],
+            "guid": "Chj=8@qgkM",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In reductionism, to truly understand something, we must analyze its {{c1::smaller, basic components.}}",
+                ""
+            ],
+            "guid": "C]6DJr!>=I",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It's good for analyzing specific details, but not always enough to understand the whole reality.",
+                "Reductionism"
+            ],
+            "guid": "ml.fv1na=K",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This refers to humankind",
+                "Man"
+            ],
+            "guid": "Pv(q_9*M*x",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This refers to member of Homo sapiens",
+                "Human"
+            ],
+            "guid": "vvM>2q=(Zc",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This refers to&nbsp;a being with dignity, reason, freedom, and rights",
+                "Human Person"
+            ],
+            "guid": "IH+[b4jx6#",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the three components that makes up a human person?",
+                "Mind + Body + Spirit"
+            ],
+            "guid": "hcWe0f~x?p",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The {{c1::Cognitive Self}} refers to how we understand, process, and think about ourselves and the world around us.",
+                ""
+            ],
+            "guid": "E%ow@62<km",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It is the part of the self that involves thinking, reasoning, remembering, analyzing, and reflecting.",
+                "Cognitive self"
+            ],
+            "guid": "c(B~gubDp%",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It involves self-awareness/existence, memory, self-reflection, and decision-making",
+                "Cognitive self"
+            ],
+            "guid": "N}nWZdF&G+",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The {{c1::Physical Self}} refers to a person’s body — including their appearance, biological makeup, health, and physical capabilities.",
+                ""
+            ],
+            "guid": "eIk~Lg-09?",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It is the most visible and tangible aspect of the human person.",
+                "Physical Self"
+            ],
+            "guid": "kRZ?dJM_]A",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Its features include:&nbsp;body and physical appearance, health and hygiene, senses, growth and body development",
+                "Physical Self"
+            ],
+            "guid": "k1g|9U;T{Y",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The {{c1::Spiritual Self}} refers to the part of the human person that seeks purpose, meaning, inner peace, and connection — either with a higher power, a greater truth, or one’s deepest values.",
+                ""
+            ],
+            "guid": "M5]3<W~Hy#",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It’s about your inner life, your sense of direction, and your search for meaning beyond material things.",
+                "Spiritual Self"
+            ],
+            "guid": "O;K@J$|!J0",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Spritual self is limited to religion, T or F?",
+                "F"
+            ],
+            "guid": "n|1vL?<%XI",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This includes&nbsp;meaning and purpose, belief system, values and principles, morality and transcendence",
+                "Spiritual Self"
+            ],
+            "guid": "j@FLcmrr:}",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "To transcend means to {{c1::go beyond}}",
+                ""
+            ],
+            "guid": "E3DWrNDv?M",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Transcendence}} means&nbsp;to rise above physical, emotional, mental, or spiritual limitations in order to reach a higher state of understanding, being, or purpose.",
+                ""
+            ],
+            "guid": "urwTwcM=d]",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In philosophy, what does&nbsp;transcendence refer to? (3)",
+                "the human capacity to go:<br>(1) beyond the self;<br>(2) beyond the material world and; <br>(3) toward truth, goodness, beauty, or the divine."
+            ],
+            "guid": "xf[uL[pB9|",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the three limits to transcendence?",
+                "1. Biological/ Physical Limits<br>2. Psychological Limits<br>3. Moral &amp; Spiritual Limits"
+            ],
+            "guid": "t!ah:,wgC)",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the biological/physical limits to transcendence? (3)",
+                "<ul><li>We get tired, sick, hungry, and we die.</li><li>Our senses are limited</li><li>The body can weigh down the spirit when it is overburdened.</li></ul>"
+            ],
+            "guid": "K*;IEY!WlI",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are psychological/emotional limits to transcendence? (2)",
+                "<ul><li>Fears, traumas, doubts, or lack of confidence<br></li><li>emotional pain</li></ul>"
+            ],
+            "guid": "i4i*$k!m#v",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are moral and spiritual limits to transcendence? (2)",
+                "<ul><li>Selfishness, hatred, greed, and pride&nbsp;</li><li>When we turn away from what is true or good</li></ul>"
+            ],
+            "guid": "vf<b_KdZ9=",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "When we turn away from what is true or good, we become {{c1::trapped in the self.}}",
+                ""
+            ],
+            "guid": "uPLTx+ubb*",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "People may stop dreaming or hoping due to {{c1::emotional pain.}}",
+                ""
+            ],
+            "guid": "PcGTs64(?d",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The body can weigh down the spirit when it is {{c1::overburdened.}}",
+                ""
+            ],
+            "guid": "et62^(CGb2",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What kind of limit is being showed? Illness preventing someone from pursuing their calling.",
+                "Biological/Physical Limits"
+            ],
+            "guid": "xIjq8qyO*f",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What kind of limit is this: A student with great potential who gives up due to low self-esteem.",
+                "Psychological/Emotional Limits"
+            ],
+            "guid": "qqGDxH1Dfv",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What kind of limit is this: Someone pursuing wealth at the cost of relationships and meaning.",
+                "Moral and Spiritual Limits"
+            ],
+            "guid": "tz4.5TT_Jb",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the 6 possibilities to transcendence?",
+                "1. Forgiveness<br>2. Beauty of Nature<br>3. Vulnerability<br>4. Failure<br>5. Loneliness<br>6. Love"
+            ],
+            "guid": "MSN;nw!K:e",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "When we forgive, we are freed from our {{c1::anger}} and {{c1::bitterness.}}",
+                ""
+            ],
+            "guid": "i086^_1h`5",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Experiencing the nature can be truly {{c1::moments of grace}}&nbsp; where human hearts are {{c1::lifted}}.",
+                ""
+            ],
+            "guid": "fghKoHMSEE",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "To be {{c1::vulnerable}} is to be {{c2::human}}",
+                ""
+            ],
+            "guid": "m1R>axl^G`",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Without seeking help from others is to live {{c1::without direction}}",
+                ""
+            ],
+            "guid": "H3a@Na8q(z",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Failure}} forces us confront our weaknesses and limitations.",
+                ""
+            ],
+            "guid": "e3$4<L%/_o",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Acceptance of failure makes us {{c2::hope}} and {{c1::trust.}}",
+                ""
+            ],
+            "guid": "y7k$cw;d*>",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "With {{c1::solitude}}, we realize that dependence is a possessiveness that we can be free from.",
+                ""
+            ],
+            "guid": "v^HxuLg]{p",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "To {{c1::love}} is to experience {{c2::richness}}",
+                ""
+            ],
+            "guid": "vn2yBG6>U[",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The goal of this philsophizing method is to achieve deeper understanding through <b>rational discourse</b> and contradiction.",
+                "Dialectic Method"
+            ],
+            "guid": "j]iV.hxYe,",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It uses questions to expose contradictions in one’s beliefs and refine understanding.",
+                "Socratic Method"
+            ],
+            "guid": "n#J+&Q[?U>",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A dialogue between individuals where they ask and answer questions to arrive at the truth.",
+                "Socratic Method"
+            ],
+            "guid": "MRv/WpR{os",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who created the Thesis &amp; Antithesis?",
+                "George Wilhelm Friedrich Hegel"
+            ],
+            "guid": "h287u$mC60",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In Hegel’s dialectic, {{c1::thesis}}&nbsp;is an initial idea or position, and {{c1::antithesis}}&nbsp;is its direct opposite or contradiction.",
+                ""
+            ],
+            "guid": "z^4m0us?R2",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The conflict between theses and antitheses is leads to a {{c1::synthesis}}",
+                ""
+            ],
+            "guid": "o}lSGknWK",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Three components of George Hegel's dialectic method",
+                "1) Thesis<br>2) Antithesis<br>3) Synthesis"
+            ],
+            "guid": "QTwgK_G&dr",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The goal of this method of philosophizing is to evaluate ideas based on their effectiveness and results in practical situations.",
+                "Pragmatic Method"
+            ],
+            "guid": "h[)(c?LX.?",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In pragmatic method, philosophy must be {{c1::practical}} and {{c1::useful}}.",
+                ""
+            ],
+            "guid": "FoSH_BuC7y",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who said this \"An idea is true if it works or has practical consequences in real life\"",
+                "John Dewey"
+            ],
+            "guid": "jI#Y)34xBJ",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This method of philosophizing aims to discover the essence of experiences by examining people from a <b>first-person point of view.</b>",
+                "Phenomenological Method"
+            ],
+            "guid": "KuV9L0X8e$",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This philosophizing method focuses on lived experience and consciousness.",
+                "Phenomenological Method"
+            ],
+            "guid": "PL.(2:uq./",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Suspending or “bracketing” assumptions about reality to examine how things appear to consciousness.",
+                "<div>Epoché</div>"
+            ],
+            "guid": "LRg`3Y(27u",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Whose method of philosophizing is focused on lived experience and consciousness?",
+                "Edmund Husserl"
+            ],
+            "guid": "NC_(x4$T;h",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The goal of phenomenological method is to {{c1::<strong>describe</strong>}} experiences, not to {{c1::explain}} or {{c1::analyze}} them.",
+                ""
+            ],
+            "guid": "CxqVa-dYs{",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The goal is to move from <strong>analysis</strong> (primary) to <strong>deeper understanding</strong> (secondary) of self and others.",
+                "Primary and Secondary Reflections"
+            ],
+            "guid": "FEs/%?^S-#",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In primary and secondary reflections, you move from {{c1::<strong data-end=\"67\" data-is-only-node=\"\" data-start=\"55\">analysis</strong> (primary)}}&nbsp;to {{c1::<strong data-end=\"105\" data-start=\"81\">deeper understanding</strong> (secondary)}}&nbsp;of self and others.",
+                ""
+            ],
+            "guid": "kKZ$.&,KBM",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who coined primary and secondary reflections?",
+                "Gabriel Marcel"
+            ],
+            "guid": "NB*3A{qHt?",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This method of philosophizing is used to understand human existence, love, faith, and suffering.",
+                "Primary and Secondary Reflections"
+            ],
+            "guid": "mBUIaDY5+1",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This reflection breaks things down to analyze, categorize, and problem-solve (objective thinking).",
+                "Primary Reflection"
+            ],
+            "guid": "C2j;K({k_/",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This reflection reintegrates the experience to grasp its meaning and unity (subjective and existential thinking).<div></div>",
+                "Secondary Reflection"
+            ],
+            "guid": "wV%H!HjsN$",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The goal of this philosophizing method is to eliminate confusion in philosophical problems by <b>analyzing language and its logic.</b>",
+                "Analytic Method"
+            ],
+            "guid": "N%bmx,Ix7*",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What did Ludwig Wittgenstein say about the existence of philosophical problems?",
+                "Philosophical problems exist because of the <b>misuse of language.</b>"
+            ],
+            "guid": "O}TPUrGdXo",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the job of philosophy according to Wittgenstein?",
+                "to make thoughts clear"
+            ],
+            "guid": "ML+]L+=ITr",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which philosopher emphasized clarity in language and logic?",
+                "Ludwig Wittgenstein"
+            ],
+            "guid": "Et5GpXPM3C",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "Who said this, and what year:<br><br>“Epistemology is a science devoted to the discovery of the proper method of <b>acquiring or validating knowledge</b>”",
                 "Rand, 1990"
             ],
@@ -3083,6 +3773,546 @@
                 "Inherently biased"
             ],
             "guid": "b80^x}wZ=(",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The {{c1::Embodied Spirit}} refers to the understanding of the human person as both body and soul, unified as one being.",
+                ""
+            ],
+            "guid": "nQWF-<dL:%",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This concept is central in philosophy and theology that emphasizes that we are not merely physical bodies nor purely spiritual entities—we are {{c1::embodied spirits}}",
+                ""
+            ],
+            "guid": "E}@H<sX?Z<",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the relationship between body and soul according to the concept of the embodied spirit?",
+                "<div>The body is not a shell trapping the soul; the soul expresses itself through the body.</div>"
+            ],
+            "guid": "t$Mpos7Y(@",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How do we experience and interact with the world in the embodied spirit view?",
+                "We experience the world through our body, and reflect, love, create, and hope through the spirit."
+            ],
+            "guid": "dzNoE?z]rP",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What defines a human person according to the embodied spirit concept?",
+                "The <b>integration of body and spirit</b> is what makes us truly human."
+            ],
+            "guid": "g,vRW`^Z7e",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "According to Christianity, what is the nature of the human person?",
+                "The human person is a unity of body and spirit, made in the <b>image and likeness of God.</b>"
+            ],
+            "guid": "P}.:P=Oj@E",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In Christianity, the {{c2::soul}} is {{c1::immortal}}, while the {{c2::body}} is {{c1::temporal}}.",
+                ""
+            ],
+            "guid": "EOymSZ~t&e",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Upon death, the soul {{c1::lives on,}} and Christians believe in the {{c1::resurrection}} of the body at the end of time.",
+                ""
+            ],
+            "guid": "vyKA}7GJ?4",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are two key implications about the body in Christianity?",
+                "1. The body is sacred; it should be respected <br>2. Our actions in the body affect the soul (e.g., making sins)"
+            ],
+            "guid": "bpgN3$Y@2$",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In Christianity, the body is {{c1::sacred}}; it should be {{c1::respected}}",
+                ""
+            ],
+            "guid": "y$C6OxhGFT",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What concept expresses transcendence in Christianity?",
+                "Will and Love&nbsp; or “Do good and avoid evil”"
+            ],
+            "guid": "pG7u1H:c_Y",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which saint/s said the concept of transcendence in Christianity is&nbsp;“Do good and avoid evil”?",
+                "St. Augustine and St. Thomas Aquinas"
+            ],
+            "guid": "NV-GGkf:Wj",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How does Hinduism view the body and soul?",
+                "The body is temporary; the ātman (eternal soul) is immortal and divine, part of Brahman (Ultimate Reality)."
+            ],
+            "guid": "IAP<AL^eT#",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In Hinduism, the body is {{c1::temporary}}; the {{c1::ātman (eternal soul)}} is immortal and divine, part of {{c1::Brahman (Ultimate Reality)}}.",
+                ""
+            ],
+            "guid": "p$7>FNJMVm",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does atman refer to in Hinduism?",
+                "eternal soul"
+            ],
+            "guid": "JY!{M^do!_",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is Brahman in Hinduism?",
+                "ultimate reality"
+            ],
+            "guid": "y?;awe_yH7",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the cycle of reincarnation in Hinduism called?",
+                "samsāra"
+            ],
+            "guid": "IzqJ-(/K]b",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Liberation or moksha}} is the release of the soul from the cycle of rebirth, reuniting it with Brahman.",
+                ""
+            ],
+            "guid": "I{|S-H!aHF",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the two implication in Hinduism?",
+                "1. The embodied life is a phase in spiritual evolution <br>2. living virtuously helps purify the soul."
+            ],
+            "guid": "zL^k~+I_66",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What concepts explain transcendence in Hinduism?",
+                "Reincarnation (Metempsychosis) and Karma."
+            ],
+            "guid": "IQMHdAg{CU",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In Hinduism, these are the central beliefs that explain how life, actions, and the soul are connected across lifetimes",
+                "Reincarnation aka “Metempsychosis” and Karma"
+            ],
+            "guid": "bN()?nJ;!O",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is Buddhism’s view on the soul?",
+                "Buddhism rejects an eternal soul (ātman) and teaches <b>anattā (non-self)</b>, a continuous process of consciousness."
+            ],
+            "guid": "vHcldJ]0ub",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is anatta in buddhism?",
+                "non-self"
+            ],
+            "guid": "MNA!:WLOo~",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the five aggregates of the human person in Buddhism?",
+                "1) form<br>2) sensation<br>3) perception<br>4) mental formations<br>5) consciousness"
+            ],
+            "guid": "lNqDCfyGZ`",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are implications of Buddhism’s view on body and mind?",
+                "While the body and mind are impermanent, <b>ethical living and meditation</b> help liberate one from illusion and suffering."
+            ],
+            "guid": "g.If:As3@Y",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the goal of rebirth and existence in Buddhism?",
+                "To achieve <b>nirvana</b>, freedom from suffering and rebirth."
+            ],
+            "guid": "pCB<[6mLwP",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The state in which one is absolutely free from all forms of bondage and attachment",
+                "Nirvana"
+            ],
+            "guid": "BKG]D|Uab(",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is transcendence in Buddhism?",
+                "Nirvana — the state free from all bondage and attachment."
+            ],
+            "guid": "O9pmuiEmv~",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is Plato’s view on the body and soul?",
+                "Dualism"
+            ],
+            "guid": "xA`Z/rle:{",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The soul is the true essence of a person, while the body is a temporary prison.",
+                "Dualism"
+            ],
+            "guid": "QUpGP*ij/V",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is Aristotle’s view on the soul and body?",
+                "Hylomorphism"
+            ],
+            "guid": "cVJ}s3~88y",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How does St. Augustine describe the embodied spirit?",
+                "CHRISTIAN DUALISM"
+            ],
+            "guid": "q0f5(|XQ~f",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is St. Thomas Aquinas’s perspective on the embodied spirit?",
+                "Christian Hylomorphism"
+            ],
+            "guid": "NY%YlyMG+x",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does René Descartes say about mind and body?",
+                "Cartesian Dualism"
+            ],
+            "guid": "sv!K{426-o",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How does Gabriel Marcel view the embodied spirit?",
+                "Existential Holism"
+            ],
+            "guid": "k}{,sh[ef,",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The soul is the true essence of a person, and the body is a temporary prison hindering the soul’s pursuit of truth.",
+                "Dualism"
+            ],
+            "guid": "H1yBsx68PO",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who believed that&nbsp;“The body is mortal; the soul is immortal.\"?",
+                "Plato"
+            ],
+            "guid": "O25tTuvIX}",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "According to Plato, real knowledge comes through the soul’s recollection of the {{c1::world of forms (ideal realities)}}.",
+                ""
+            ],
+            "guid": "wMISjiMb9B",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The soul is the form of the body, meaning the soul cannot exist without the body.",
+                "<div>Aristotle’s Hylomorphism</div>"
+            ],
+            "guid": "c,@P99#_a]",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In hylomorphism, the person is a {{c1::composite being}}; body and soul are {{c1::one substance}}.",
+                ""
+            ],
+            "guid": "m_$DV1O*o.",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who believed that&nbsp;“Man is a rational being\"?",
+                "Aristotle"
+            ],
+            "guid": "kXRo6Uzk+3",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The soul is superior to the body but both are created by God.",
+                "Christian Dualism"
+            ],
+            "guid": "Jd1>Cz-6G!",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "According to Christian Dualism, the human person is a unity of {{c1::body and soul}}, destined for union with {{c1::God}}.",
+                ""
+            ],
+            "guid": "EqC_=>8WWh",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who said this:&nbsp;\"You have made us for Yourself, O Lord, and our heart is restless until it rests in You.\"",
+                "St. Augustine"
+            ],
+            "guid": "OZ&qh`w]mF",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The soul is the form of the body, but <b>both are necessary</b> for full human existence.",
+                "Christian Hylomorphism"
+            ],
+            "guid": "il3Y0DQ5?/",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In which idea of embodied does this apply:&nbsp;Human beings are <b>rational, embodied souls— created in God’s image.</b>",
+                "Christian Hylomorphism"
+            ],
+            "guid": "rcg2Uk,%c4",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who said :The soul is united to the body as its form. \"?",
+                "St. Thomas Aquinas"
+            ],
+            "guid": "pIq}P=w|gn",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In Cartesian Dualism, the {{c1::mind}} {{c2::(res cogitans)}} and {{c1::body}} {{c2::(res extensa)}} are two distinct substances.",
+                ""
+            ],
+            "guid": "gM.H?m@i:.",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "On which perspective of embodied spirit does this apply:&nbsp;The <b>self is essentially </b>a thinking thing; the <b>body </b>is separate and <b>less important.</b>",
+                "Cartesian Dualism"
+            ],
+            "guid": "F[.$/@iNmW",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who quoted&nbsp;\"Cogito, ergo sum\"?",
+                "RENÉ DESCARTES"
+            ],
+            "guid": "H$9OmHA@F&",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does \"Cogito, ergo sum\" mean?",
+                "\"I think, therefore I am\""
+            ],
+            "guid": "y3DPSwqnP3",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Opposed to objectifying the body; you don’t have a body—you are a body.",
+                "Existential Holism"
+            ],
+            "guid": "E?d=)=IB&E",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In existential holism, the person is a {{c1::mystery}}—body and spirit intimately united. He emphasizes {{c1::“I”}}",
+                ""
+            ],
+            "guid": "c#P^D[YlfK",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which philosopher said “I am my body.”?",
+                "Gabriel Marcel"
+            ],
+            "guid": "GJ?SQeMO].",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": []
         }
