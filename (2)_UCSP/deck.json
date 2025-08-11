@@ -1919,10 +1919,530 @@
         {
             "__type__": "Note",
             "fields": [
-                "Three goals of political science?",
-                "o Analyze power structures.<br>o Understand government impact on society.<br>o Promote democracy, civic responsibility, and good governance."
+                "Four goals of political science?",
+                "1) Promote growth socially,economically, politically<br>2) Guide industrialization<br>3) Understand and manage social and political change<br>4) Analyze impact of government forms and policies&nbsp;"
             ],
             "guid": "loL8I)Qp7L",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It is enjoying art,literature, music, or food",
+                "Culture"
+            ],
+            "guid": "E;wKyvV+Jh",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "For scientists culture is?",
+                "Microorganisms growing in a lab"
+            ],
+            "guid": "HZTexhAqry",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "For anthropologists, what is culture?",
+                "The full range of learned human behavior patterns"
+            ],
+            "guid": "g#&j.F:{+~",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who said that \"culture is that complex whole which includes knowledge, belief, art, morals, law, custom, and any other capabilities and habits acquired by man as a member of society\"?",
+                "Edward B. Tylor"
+            ],
+            "guid": "q!%5pKRY^,",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the layers of culture?",
+                "1) National or Societal Culture<br>2) Subculture<br>3) Cultural Universals"
+            ],
+            "guid": "BmPdO_TiW",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the five characteristics of culture?",
+                "Culture is:<br>1) Learned<br>2) Shared<br>3) Social<br>4) Cumulative<br>5) Dynamic"
+            ],
+            "guid": "IF&xHIr^DN",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What later of culture includes languages, traditions, beliefs, and values passed down from generation to generation",
+                "National or Societal Culture"
+            ],
+            "guid": "dDoVH*2WVS",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This layer of culture shared by people in a particular country or society",
+                "National or Societal Culture"
+            ],
+            "guid": "hA;@yYw;4I",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which layer of culture exists within a larger culture?",
+                "Subculture"
+            ],
+            "guid": "M:8aQ8UFj~",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In this layer of culture, people often maintain unique practices, languages, or traditions that set them apart",
+                "Subculture"
+            ],
+            "guid": "qm2-NPA:%M",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This layer of culture is a small group within a larger culture",
+                "Subculture"
+            ],
+            "guid": "yjeGNqq@g(",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "These are behavior patterns of beliefs shared by <b>all societies</b>",
+                "Cultural Universals"
+            ],
+            "guid": "c5yK+Ms~<:",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This layer of culturue reflects basic needs and social patterns",
+                "Cultural Universals"
+            ],
+            "guid": "nXMpPkd68p",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "An example of this culture are fiestas and respect for elderly (mano po)",
+                "National or Societal Culture"
+            ],
+            "guid": "db2Jzqs#8e",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Examples of this culture are raising children in families and valuing privacy",
+                "Cultural Universals"
+            ],
+            "guid": "w(e6K@8c5O",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which characteristic of culture means that culture is not inherently biological",
+                "Culture is <b>Learned</b>"
+            ],
+            "guid": "B4i?)A#DZ5",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This characteristic of culture emphasizes that culture is discovered through interaction,observation, and instruction",
+                "Culture is <b>Learned</b>"
+            ],
+            "guid": "A5Y*n)!%(@",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This characteristic of culture says that culture <b>binds</b> people together through shared practices",
+                "Culture is <b>Social</b>"
+            ],
+            "guid": "hd;dDo`G-I",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which characteristic of culture says that culture is <b>collectively practiced</b> by people within a society",
+                "Culture is <b>Shared</b>"
+            ],
+            "guid": "l=@v@Wf3}g",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Culture exists within a group of people, not in {{c1::isolation}}",
+                ""
+            ],
+            "guid": "wSKw,YajBn",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This characteristic of culture states that culture is built upon the experiences and knowledge of past generations",
+                "Culture is <b>Cumulative</b>"
+            ],
+            "guid": "QX>r/[:QPO",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This characteristic of culture emphasizes the passing down of culture from ancestors to present",
+                "Culture is <b>Cumulative</b>"
+            ],
+            "guid": "PE5QY}FhyT",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This characteristic of culture states that culture is always changing",
+                "Culture is <b>Dynamic</b>"
+            ],
+            "guid": "wjh*bVH[Mf",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This characteristic of culture highlights that culture can have new ideasm technologies, and influences to replace old ways.",
+                "Culture is <b>Dynamic</b>"
+            ],
+            "guid": "q0!fhmU$)X",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Culture}} is leaned behavior patterns, beliefs, values, and traditions",
+                ""
+            ],
+            "guid": "l5RJr=K6?w",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Society}} is a group of people who interact and share a common culture",
+                ""
+            ],
+            "guid": "lsEvbIc35G",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Sociology is dervied from \"logos\" meaning study and \"{{c1::socius}}\" meaning {{c2::group or partners}}",
+                ""
+            ],
+            "guid": "NUBHdtW(R_",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Sociology is done by examining the {{c1::dynamics}} of constiuent parts of societies such as communities, population",
+                ""
+            ],
+            "guid": "M_M1X0[gRq",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This includes studying social status, social movements, and change",
+                "Sociology"
+            ],
+            "guid": "O<DBM,^#Z:",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who first coined the term \"Sociology\"?",
+                "Auguste Comte"
+            ],
+            "guid": "HE-6YQfOlT",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "When did Auguste Comte coin the term \"sociology\"?",
+                "1838"
+            ],
+            "guid": "xu:r:U[)GF",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who said this&nbsp;“The ultimate aim of sociology is to improve man’s adjustment to life — to help individuals and societies better understand and manage their social environments for greater harmony and well-being.”",
+                "Samuel Koenig"
+            ],
+            "guid": "o$eLf2*Sr3",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "According to Samuel Koenig, what is the ultimate aim of sociology?",
+                "to improve man’s adjustment to life"
+            ],
+            "guid": "BBeKVVQ+2]",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What type of perspective in sociology states that society is a system of interconnnnected parts tha work together in harmony to maintain a state of balance and social equilibrium",
+                "Functionalist Perspective"
+            ],
+            "guid": "lkdrAmARO/",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This perspective views society as composed of different groups and interests competing for power and resources",
+                "Conflict Perspective"
+            ],
+            "guid": "vHGSc%WMWD",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This perspective in sociology asserts that an individual’s self-concept develops based on their perception of how others view them.",
+                "Symbolic - Interactionalist Perspective"
+            ],
+            "guid": "ld3L}SC&}m",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The idea that our self-image forms based on how we think others see us.",
+                "Looking Glass Self"
+            ],
+            "guid": "j+U}-N`P~C",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who coined the idea \"looking glass self\"?",
+                "Charles Cooley"
+            ],
+            "guid": "E0PNI;HeCU",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "According to the symbolic-interactionalist perspective, our identity is shaped by?",
+                "social interaction"
+            ],
+            "guid": "N>b;fH^,=M",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Political Science is derived from the words \"{{c1::polis}}\" meaning {{c2::state/city}} and \"{{c1::scire}}\" meaning {{c2::study}}",
+                ""
+            ],
+            "guid": "D3jZyk$Yw}",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The aim of this is to strive to create an ideal government through the study and application of theories.",
+                "Political Science"
+            ],
+            "guid": "tE^FK6.DJt",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the four components of state?",
+                "1) Territory<br>2) Population<br>3) Sovereignity<br>4) Government"
+            ],
+            "guid": "jCbh6}[{Cm",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who is the Father of Political Science?",
+                "Aristotle"
+            ],
+            "guid": "G`j~C&}X_-",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who is the first political thinker to differentiate politics from morality?",
+                "Niccolo Machiavelli"
+            ],
+            "guid": "G97_cJYMk<",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Niccolo Machiavelli focused on {{c1::reality}} and what {{c1::needs}} to best achieve rather than consider what was right or wrong",
+                ""
+            ],
+            "guid": "q0^X?=:gpo",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This social science is concerned with the theory and practice of politics",
+                "Political Science"
+            ],
+            "guid": "Ha*iVIqZes",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This social science is the study of state in past,present, future of political organizations and processes",
+                "Political Science"
+            ],
+            "guid": "CB%X}!;R6`",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This is a body of doctrines relating to origin, form, bbehavior, and purpose of state",
+                "Political Theory"
+            ],
+            "guid": "v(%]SC>9.H",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In which scope of political science do these belong: capitalism, liberalism, communism",
+                "Political Theory"
+            ],
+            "guid": "hA5@&U%-w3",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This scope of political science covers constituiton, administrative, and international laws.",
+                "Public Law"
+            ],
+            "guid": "u(uIH_Pw+9",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This scope of political science includes the methods and techniques used in actual management of state by the government",
+                "Public Administration"
+            ],
+            "guid": "b`1|bm,_XO",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This social science is the study of state and government",
+                "Political Science"
+            ],
+            "guid": "ehDun_dyR.",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": []
         }
