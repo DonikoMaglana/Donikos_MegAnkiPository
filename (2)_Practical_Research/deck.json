@@ -113,6 +113,17 @@
         "0176e835beab4ada8390210c5fe0a1ab-ao-6-A.svg",
         "0176e835beab4ada8390210c5fe0a1ab-ao-6-Q.svg",
         "0176e835beab4ada8390210c5fe0a1ab-ao-O.svg",
+        "427082a1d30e4370a8ef99ea896886f2-ao-1-A.svg",
+        "427082a1d30e4370a8ef99ea896886f2-ao-1-Q.svg",
+        "427082a1d30e4370a8ef99ea896886f2-ao-2-A.svg",
+        "427082a1d30e4370a8ef99ea896886f2-ao-2-Q.svg",
+        "427082a1d30e4370a8ef99ea896886f2-ao-3-A.svg",
+        "427082a1d30e4370a8ef99ea896886f2-ao-3-Q.svg",
+        "427082a1d30e4370a8ef99ea896886f2-ao-4-A.svg",
+        "427082a1d30e4370a8ef99ea896886f2-ao-4-Q.svg",
+        "427082a1d30e4370a8ef99ea896886f2-ao-5-A.svg",
+        "427082a1d30e4370a8ef99ea896886f2-ao-5-Q.svg",
+        "427082a1d30e4370a8ef99ea896886f2-ao-O.svg",
         "4465aa672d9a4e29b8ee9ae40383cd5b-ao-1-A.svg",
         "4465aa672d9a4e29b8ee9ae40383cd5b-ao-1-Q.svg",
         "4465aa672d9a4e29b8ee9ae40383cd5b-ao-2-A.svg",
@@ -149,6 +160,8 @@
         "Screenshot 2025-07-24 at 6.05.54 PM.png",
         "Screenshot 2025-08-10 at 6.15.12 PM.png",
         "Screenshot 2025-08-10 at 6.16.16 PM.png",
+        "Screenshot 2025-08-13 at 7.53.04 PM.png",
+        "Screenshot 2025-08-13 at 7.53.33 PM.png",
         "bdb2bce233624701b86a8410ccc01281-oa-1-A.svg",
         "bdb2bce233624701b86a8410ccc01281-oa-1-Q.svg",
         "bdb2bce233624701b86a8410ccc01281-oa-2-A.svg",
@@ -171,6 +184,7 @@
         "d4c865d7e62947e8a0d89e8d7b9d5716-ao-2-Q.svg",
         "d4c865d7e62947e8a0d89e8d7b9d5716-ao-O.svg",
         "tmp1sx46ae5.jpg",
+        "tmp8rb9e_pl.jpg",
         "tmpmf3mxwyd.jpg",
         "tmpo1uczbfk.jpg",
         "tmpql2empwx.jpg"
@@ -2309,6 +2323,341 @@
             ],
             "guid": "mv#DH>/9$S",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The goal of this kind of quanti research is only to describe the data gathered from the study",
+                "Descriptive Research"
+            ],
+            "guid": "q_(EvBP|O>",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is descriptive research usually used for?",
+                "The basis for plans, programs, or interventions"
+            ],
+            "guid": "J@SGi0p=qw",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the 3 main kinds of descriptive research?",
+                "- Observational<br>- Case study<br>- Survey"
+            ],
+            "guid": "L3Vjor8zfY",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This kind of descriptive research is defined as a method of viewing and recording participants",
+                "Observational"
+            ],
+            "guid": "HTxze{5DJr",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This kind of descriptive research is defined as a focused study of an individual or group of individuals; unique cases",
+                "Case study"
+            ],
+            "guid": "e-gaGx_TN1",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This kind of descriptive research is defined as a method of gathering multiple for a large population",
+                "Survey"
+            ],
+            "guid": "e+T,.XOR{:",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What type of research is this title?<br><br>\"Profile of Person Having HIV in Davao City\"",
+                "Descriptive Research"
+            ],
+            "guid": "f?3ZpZrHWL",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of quanti research involves comparing and contrasting two or more samples of study subjects on one or more variables",
+                "Descriptive-comparative research"
+            ],
+            "guid": "sgixu{PSd-",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In a study where an IV-DV model with a one directional arrow is used for the conceptual framework, what type of research is it, most likely?",
+                "Descriptive-comparative research"
+            ],
+            "guid": "cd~1u#knYD",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What type of research is this title most likely?<br><br>\"Perceived Effectiveness on Online Clearance among SHS\"",
+                "Descriptive-comparative research"
+            ],
+            "guid": "C{|RS?dkQ?",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of quanti research seeks to identify the relationship of between variables from the same set of respondents.",
+                "Correlational research"
+            ],
+            "guid": "Lh3tsM<qiG",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In a correlational study, variables are manipulated. T or F?",
+                "F"
+            ],
+            "guid": "M,@15^@N~[",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A correlational study cannot imply cause and effect. T or F?",
+                "T"
+            ],
+            "guid": "P]u0FV*Mx%",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the two types of correlation?",
+                "Positive and Negative Correlation"
+            ],
+            "guid": "H/aw;`}&0*",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Given this research title, what type is it most likely?<br><br>\"Economic inflation and Political Idolatry of Filipinos\"",
+                "Correlational Research"
+            ],
+            "guid": "MTr5R[Yx1#",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A {{c2::quasi-experiimental}} research involves numerical {{c1::data collection}} and {{c1::statistical analysis}}",
+                ""
+            ],
+            "guid": "JlR;[>m~+Z",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What groups do quasi-experimental research compare?",
+                "Groups with different circumstances/treatments"
+            ],
+            "guid": "P@U4alCv`.",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A quasi-experimental research cannot establish cause-and-effect links. T or F?",
+                "F, it can."
+            ],
+            "guid": "M{;~3>~UFg",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of research is often called a \"true scientific study\"",
+                "Experimental research"
+            ],
+            "guid": "iEi<OUc-~1",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In an {{c1::experimental research}}, an {{c2::independent variable}} is manipulated to determine the effects on the {{c2::dependent variable}}",
+                ""
+            ],
+            "guid": "s:*=DqXr]w",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the two kinds of groups in an experimental research?&nbsp;",
+                "Experimental and Control"
+            ],
+            "guid": "e:o?WfbWP{",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This kind of research uses random sampling and experimental manipulations",
+                "Experimental research"
+            ],
+            "guid": "sO5Y`}Nt%{",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What type of research is this?<br><br><img src=\"Screenshot 2025-08-13 at 7.53.04 PM.png\">",
+                "Quasi-experimental research"
+            ],
+            "guid": "t@6jYpvfij",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What kind of research is this?<br><br><img src=\"Screenshot 2025-08-13 at 7.53.33 PM.png\">",
+                "Experimental research"
+            ],
+            "guid": "Q1orI~uH0c",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "427082a1d30e4370a8ef99ea896886f2-ao-1",
+                "",
+                "<img src=\"tmp8rb9e_pl.jpg\" />",
+                "<img src=\"427082a1d30e4370a8ef99ea896886f2-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"427082a1d30e4370a8ef99ea896886f2-ao-1-A.svg\" />",
+                "<img src=\"427082a1d30e4370a8ef99ea896886f2-ao-O.svg\" />"
+            ],
+            "guid": "r6Di4Pb8bb",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "427082a1d30e4370a8ef99ea896886f2-ao-2",
+                "",
+                "<img src=\"tmp8rb9e_pl.jpg\" />",
+                "<img src=\"427082a1d30e4370a8ef99ea896886f2-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"427082a1d30e4370a8ef99ea896886f2-ao-2-A.svg\" />",
+                "<img src=\"427082a1d30e4370a8ef99ea896886f2-ao-O.svg\" />"
+            ],
+            "guid": "w61e7GR-Nv",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "427082a1d30e4370a8ef99ea896886f2-ao-3",
+                "",
+                "<img src=\"tmp8rb9e_pl.jpg\" />",
+                "<img src=\"427082a1d30e4370a8ef99ea896886f2-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"427082a1d30e4370a8ef99ea896886f2-ao-3-A.svg\" />",
+                "<img src=\"427082a1d30e4370a8ef99ea896886f2-ao-O.svg\" />"
+            ],
+            "guid": "t4qWG6a/UY",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "427082a1d30e4370a8ef99ea896886f2-ao-4",
+                "",
+                "<img src=\"tmp8rb9e_pl.jpg\" />",
+                "<img src=\"427082a1d30e4370a8ef99ea896886f2-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"427082a1d30e4370a8ef99ea896886f2-ao-4-A.svg\" />",
+                "<img src=\"427082a1d30e4370a8ef99ea896886f2-ao-O.svg\" />"
+            ],
+            "guid": "Q#9R4kKVCY",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "427082a1d30e4370a8ef99ea896886f2-ao-5",
+                "",
+                "<img src=\"tmp8rb9e_pl.jpg\" />",
+                "<img src=\"427082a1d30e4370a8ef99ea896886f2-ao-5-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"427082a1d30e4370a8ef99ea896886f2-ao-5-A.svg\" />",
+                "<img src=\"427082a1d30e4370a8ef99ea896886f2-ao-O.svg\" />"
+            ],
+            "guid": "d?tC#h{s*q",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
             "tags": []
         }
     ],

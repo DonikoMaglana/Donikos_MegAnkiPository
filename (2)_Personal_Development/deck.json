@@ -642,16 +642,6 @@
         {
             "__type__": "Note",
             "fields": [
-                "{{c1::Baumeister (1999)}} defined self concept as an {{c2::individual's belief about himself, including personal attributes and who/what the&nbsp;self is}}",
-                ""
-            ],
-            "guid": "n>i&S%sPG0",
-            "note_model_uuid": "6bba29fa-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
                 "{{c1::Carl Rogers (1959)}} said that self concept has 3 components",
                 ""
             ],
@@ -1030,6 +1020,16 @@
         {
             "__type__": "Note",
             "fields": [
+                "{{c1::Baumeister (1999)}} defined self concept as an {{c2::individual's belief about himself, including personal attributes and who/what the&nbsp;self is}}",
+                ""
+            ],
+            "guid": "n>i&S%sPG0",
+            "note_model_uuid": "6bba29fa-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "What are the 5 domains that are developed in a person?",
                 "1. Physical<br>2. Cognitive/Mental/Intellectual<br>3. Moral<br>4. Psychological<br>5. Social"
             ],
@@ -1234,6 +1234,296 @@
                 "1) Acne<br>2) Pubic hair<br>3)&nbsp; Body odor<br>4) Increase in heigh, weight, size<br>5) Increased sweating"
             ],
             "guid": "vqOiJ$C`u,",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Defined as the condition of having a mind that is healthy and functioning well",
+                "Mental health"
+            ],
+            "guid": "ftgnH~KBK|",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How is mental health defined by the medical community?",
+                "The absence of any diagnosable mental disorder"
+            ],
+            "guid": "hS%P-N#n8e",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Defined as the process of working to maintain mental health",
+                "Mental hygiene"
+            ],
+            "guid": "Byp@qg<s0C",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Give me 3 examples of mental hygiene",
+                "Psychotherapy, medication, meditation, or reaching out for family supprt"
+            ],
+            "guid": "L1<MZ5WwvU",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Mental (health/hygiene)<br><br>{{c1::Mental health}} is the goal we are trying to achieve; {{c1::mental hygiene}} is the means by which we seek the goal.",
+                ""
+            ],
+            "guid": "NHe6^pJ>UV",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "According to the WHO, \"health\" should not only be physical but but should include the {{c1::mental}} and {{c1::social well-being}} dimensions as well.",
+                ""
+            ],
+            "guid": "B&i?R;Kt{n",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How does the WHO define mental health?",
+                "\"The state of well-being in which every individual realizes his own potential, can cope the normal stresses of life, can work productively and fruitfully, and is able to make a contribution to his community.\""
+            ],
+            "guid": "zT}%Z`*o/|",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Defined as the innate abilities, thoughts, and feelings of people that are used to manage their daily lives and deal with the demands of work, school, and scoiety",
+                "Individual attributes and behaviors"
+            ],
+            "guid": "mX0;)VqSP,",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Akin to <b>individual attributes and behaviors </b>are?",
+                "Genetic and biological determinants"
+            ],
+            "guid": "J&KHlWN5Nc",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Defined as one's immediate surroundings affect one's ability to succeed thereby affecting one's mental health",
+                "Social and economic circumstances"
+            ],
+            "guid": "lRs>kCcg}#",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Environmental factors}} is defined as the wider {{c2::sociocultural}} and {{c2::geopolitical}} environment around an individual affects his mental health",
+                ""
+            ],
+            "guid": "J7YO(A0_JF",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Under which determinant of mental health are these?<br><br>Poor access to basic services<br>Injustice and discrimination<br>Social and gender inequalities<br>Exposure to war or disaster",
+                "Environmental factors"
+            ],
+            "guid": "lS]X>ARUxk",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Under which determinant of mental health are these?<br><br>Difficulties in communicating<br>Medical illness, substance use<br>Loneliness, bereavement<br>Neglect, family conflict",
+                "Social circumstances"
+            ],
+            "guid": "Op<I3s1Av:",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Under which determinant of mental health are these?<br><br>Self-esteem, confidence<br>Ability to solve problems and manage<br>stress or adversity<br>Low self-esteem<br>Cognitive/emotional immaturity",
+                "Individual attributes"
+            ],
+            "guid": "JVHvC`^q`H",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Give me 3 early warning signs of mental health problems",
+                "- Eating or sleeping too much or too little<br>- Pulling away from people and usual activities<br>- Having low or no energy<br>- Feeling numb to life or resigned"
+            ],
+            "guid": "G%&jmH|w0o",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A healthy diet can go a long way, it<br>will not keep you physically healthy<br>but it will also provide you with<br>nutrients to function well and<br>combat stress caused by the<br>demands and pressures of work,<br>school, friends, family, etc.<br><br>Which tip to stay mentally healthy is this?",
+                "Feed your body well"
+            ],
+            "guid": "J`DA/y4e(d",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Make it a habit to talk about how you<br>really feel. Life’s burdens are easier to<br>deal with if you have a support or core<br>group.<br><br>Which tip to stay mentally healthy is this?",
+                "Open up"
+            ],
+            "guid": "M~})]1F[P6",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Exercise helps you release your<br>tension and deal with stress.<br><br>Which tip to stay mentally healthy is this?",
+                "Maintain an active lifestyle"
+            ],
+            "guid": "q&Pm..:xB[",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Asking for help should not be view<br>as a sign of weakness. It is actually<br>the most sensible and mature thing<br>to do especially if you can no longer<br>handle your problems by yourself.<br><br>Which tip to stay mentally healthy is this?",
+                "It is okay to ask for help"
+            ],
+            "guid": "r/,^;699|@",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Having a good and positive relationship with<br>someone or a group of people would go a long<br>way for, in the long run, these people may<br>become a source of support and help whenever<br>is needed.<br><br>Which tip to stay mentally healthy is this?",
+                "Maintain good relations"
+            ],
+            "guid": "Ywm^Gw!4~",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Defined as the process by which we perceive and respond to certain events that we view as challenging or threatening",
+                "Stress"
+            ],
+            "guid": "yoMB<dkzhb",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Where is stressed acquired from?",
+                "The people around you"
+            ],
+            "guid": "cQKw{QSLA|",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What happens when adolescents are unable to cope up with stress?",
+                "Results to immersing into rebellious activities"
+            ],
+            "guid": "JG!49k<rjD",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This source of stress happens because of sexual and<br>physical maturation happening<br>during puberty that causes<br>hormonal changes",
+                "Biological development stress"
+            ],
+            "guid": "tp_<9^DGV[",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "(Per. Dev)<br><br>Before or during puberty, the<br>{{c2::pituitary gland}} increases the<br>release of {{c1::Follicle Stimulating<br>Hormone}}",
+                ""
+            ],
+            "guid": "P>)b$5u4:B",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does the Follicle Stimulating Hormone do for females?",
+                "activates the ovaries through <b>producing estrogen</b>"
+            ],
+            "guid": "K{B}*#_Z!3",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does the Follicle Stimulating Hormone do for males?",
+                "Develops <b>fertile sperm&nbsp;</b>"
+            ],
+            "guid": "fX:6RX@SOa",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This source of stress is due to collating, experimenting, and trying to experience their own world happens in the stage of adolesence",
+                "Cognitive Stress Development Stress"
+            ],
+            "guid": "G|0J>*|vcG",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Give me 3 ways for adolescents to manage stress",
+                "- Learn to solve problems.<br>-&nbsp;Learn to develop harmonious relationship with others.<br>-&nbsp;Learn to have attainable goals.<br>-&nbsp;Learn to learn from mistakes.<br>-&nbsp;Learn to be academically, socially, and skilfully<br>competent.<br>-&nbsp;Learn to be wise, positive, and disciplined when stressed.<br>-&nbsp;Learn to eat healthy food and exercise regularly.<br>-&nbsp;Learn to relax and enjoy life.<br>-&nbsp;Learn to enjoy hobbies.<br>-&nbsp;Learn to be optimistic."
+            ],
+            "guid": "rz|HOA$+b)",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": []
         }
