@@ -162,6 +162,7 @@
         "Screenshot 2025-08-10 at 6.16.16 PM.png",
         "Screenshot 2025-08-13 at 7.53.04 PM.png",
         "Screenshot 2025-08-13 at 7.53.33 PM.png",
+        "Screenshot 2025-08-16 at 10.40.35 AM.png",
         "bdb2bce233624701b86a8410ccc01281-oa-1-A.svg",
         "bdb2bce233624701b86a8410ccc01281-oa-1-Q.svg",
         "bdb2bce233624701b86a8410ccc01281-oa-2-A.svg",
@@ -183,6 +184,17 @@
         "d4c865d7e62947e8a0d89e8d7b9d5716-ao-2-A.svg",
         "d4c865d7e62947e8a0d89e8d7b9d5716-ao-2-Q.svg",
         "d4c865d7e62947e8a0d89e8d7b9d5716-ao-O.svg",
+        "eaec104a10a64b48be28674d7a174fa0-ao-1-A.svg",
+        "eaec104a10a64b48be28674d7a174fa0-ao-1-Q.svg",
+        "eaec104a10a64b48be28674d7a174fa0-ao-2-A.svg",
+        "eaec104a10a64b48be28674d7a174fa0-ao-2-Q.svg",
+        "eaec104a10a64b48be28674d7a174fa0-ao-3-A.svg",
+        "eaec104a10a64b48be28674d7a174fa0-ao-3-Q.svg",
+        "eaec104a10a64b48be28674d7a174fa0-ao-4-A.svg",
+        "eaec104a10a64b48be28674d7a174fa0-ao-4-Q.svg",
+        "eaec104a10a64b48be28674d7a174fa0-ao-5-A.svg",
+        "eaec104a10a64b48be28674d7a174fa0-ao-5-Q.svg",
+        "eaec104a10a64b48be28674d7a174fa0-ao-O.svg",
         "tmp1sx46ae5.jpg",
         "tmp8rb9e_pl.jpg",
         "tmpmf3mxwyd.jpg",
@@ -2577,7 +2589,7 @@
                 "",
                 "",
                 "",
-                "<img src=\"427082a1d30e4370a8ef99ea896886f2-ao-1-A.svg\" />",
+                "<img src=\"427082a1d30e4370a8ef99ea896886f2-ao-1-A.svg\">",
                 "<img src=\"427082a1d30e4370a8ef99ea896886f2-ao-O.svg\" />"
             ],
             "guid": "r6Di4Pb8bb",
@@ -2596,7 +2608,7 @@
                 "",
                 "",
                 "",
-                "<img src=\"427082a1d30e4370a8ef99ea896886f2-ao-2-A.svg\" />",
+                "<img src=\"427082a1d30e4370a8ef99ea896886f2-ao-2-A.svg\">",
                 "<img src=\"427082a1d30e4370a8ef99ea896886f2-ao-O.svg\" />"
             ],
             "guid": "w61e7GR-Nv",
@@ -2615,7 +2627,7 @@
                 "",
                 "",
                 "",
-                "<img src=\"427082a1d30e4370a8ef99ea896886f2-ao-3-A.svg\" />",
+                "<img src=\"427082a1d30e4370a8ef99ea896886f2-ao-3-A.svg\">",
                 "<img src=\"427082a1d30e4370a8ef99ea896886f2-ao-O.svg\" />"
             ],
             "guid": "t4qWG6a/UY",
@@ -2653,11 +2665,638 @@
                 "",
                 "",
                 "",
-                "<img src=\"427082a1d30e4370a8ef99ea896886f2-ao-5-A.svg\" />",
-                "<img src=\"427082a1d30e4370a8ef99ea896886f2-ao-O.svg\" />"
+                "<img src=\"427082a1d30e4370a8ef99ea896886f2-ao-5-A.svg\">",
+                "<img src=\"427082a1d30e4370a8ef99ea896886f2-ao-O.svg\">"
             ],
             "guid": "d?tC#h{s*q",
             "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This refers to the specific geographical area where research is conducted",
+                "Research locale"
+            ],
+            "guid": "FLvBR<vvp]",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The research local is also called the?",
+                "The setting"
+            ],
+            "guid": "un2*,:7~s9",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "eaec104a10a64b48be28674d7a174fa0-ao-1",
+                "",
+                "<img src=\"Screenshot 2025-08-16 at 10.40.35 AM.png\" />",
+                "<img src=\"eaec104a10a64b48be28674d7a174fa0-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"eaec104a10a64b48be28674d7a174fa0-ao-1-A.svg\">",
+                "<img src=\"eaec104a10a64b48be28674d7a174fa0-ao-O.svg\" />"
+            ],
+            "guid": "kO<HH929h;",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "eaec104a10a64b48be28674d7a174fa0-ao-2",
+                "",
+                "<img src=\"Screenshot 2025-08-16 at 10.40.35 AM.png\" />",
+                "<img src=\"eaec104a10a64b48be28674d7a174fa0-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"eaec104a10a64b48be28674d7a174fa0-ao-2-A.svg\">",
+                "<img src=\"eaec104a10a64b48be28674d7a174fa0-ao-O.svg\" />"
+            ],
+            "guid": "GHKQzO~g6e",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "eaec104a10a64b48be28674d7a174fa0-ao-3",
+                "",
+                "<img src=\"Screenshot 2025-08-16 at 10.40.35 AM.png\" />",
+                "<img src=\"eaec104a10a64b48be28674d7a174fa0-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"eaec104a10a64b48be28674d7a174fa0-ao-3-A.svg\">",
+                "<img src=\"eaec104a10a64b48be28674d7a174fa0-ao-O.svg\" />"
+            ],
+            "guid": "l-QtfB:Z<3",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "eaec104a10a64b48be28674d7a174fa0-ao-4",
+                "",
+                "<img src=\"Screenshot 2025-08-16 at 10.40.35 AM.png\" />",
+                "<img src=\"eaec104a10a64b48be28674d7a174fa0-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"eaec104a10a64b48be28674d7a174fa0-ao-4-A.svg\" />",
+                "<img src=\"eaec104a10a64b48be28674d7a174fa0-ao-O.svg\" />"
+            ],
+            "guid": "Cwy;O0!1`W",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "eaec104a10a64b48be28674d7a174fa0-ao-5",
+                "",
+                "<img src=\"Screenshot 2025-08-16 at 10.40.35 AM.png\" />",
+                "<img src=\"eaec104a10a64b48be28674d7a174fa0-ao-5-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"eaec104a10a64b48be28674d7a174fa0-ao-5-A.svg\" />",
+                "<img src=\"eaec104a10a64b48be28674d7a174fa0-ao-O.svg\">"
+            ],
+            "guid": "xj0+6B,o7%",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The research locale includes the {{c1::location}}, {{c1::time period}}, {{c1::population}}, and {{c1::environmental factors}}.",
+                ""
+            ],
+            "guid": "nAwQrgbtfN",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This refers to individuals who contribute to the research by providing their opinions, preferences, and feedback on various topics or surveys",
+                "Respondents"
+            ],
+            "guid": "M)k%L5c0DD",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The entirety of a group, including all the members that form a set of data. [0:17]",
+                "Population"
+            ],
+            "guid": "j-<kPl5o]*",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A small part or quantity of a population intended to show what the whole is like. [0:36]",
+                "Sample"
+            ],
+            "guid": "z`%@7QG?t{",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This method is often preferred over a census because it requires less effort, time, and resources. [0:51]",
+                "Sampling"
+            ],
+            "guid": "p:F6zJ@4!+",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The two main categories of sampling techniques. [1:57]",
+                "Probability Sampling and Non-Probability Sampling"
+            ],
+            "guid": "p?46GpFxWU",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A sampling method where every member of the population has a chance of being selected. [2:03]",
+                "Probability Sampling"
+            ],
+            "guid": "sTT!hStWB%",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of sampling method involves the principle of randomization or chance. [2:03]",
+                "Probability Sampling"
+            ],
+            "guid": "IH8`z62Ri#",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A probability sampling method where every member of the population has an equal chance of being selected. [2:36]",
+                "Simple Random Sampling"
+            ],
+            "guid": "DJa]l~WuoO",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This sampling method is often called the &quot;fishbowl&quot; method. [2:36]",
+                "Simple Random Sampling"
+            ],
+            "guid": "ta1g<z?$4%",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A probability sampling method where members are selected from a population at a regular interval after a random starting point. [3:56]",
+                "Systematic Sampling"
+            ],
+            "guid": "uMGHJ6-#g^",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A probability sampling method where the population is divided into subgroups or &#x27;strata&#x27; based on shared characteristics. [5:33]",
+                "Stratified Random Sampling"
+            ],
+            "guid": "n~g*gl8`mf",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In this method, a random sample is taken from each of the subgroups (strata). [5:33]",
+                "Stratified Random Sampling"
+            ],
+            "guid": "l&$d?vtZs-",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In Stratified Random Sampling, this approach involves taking the same number of samples from each stratum. [6:14]",
+                "Equal Representation"
+            ],
+            "guid": "uH,#qEP-Ki",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In Stratified Random Sampling, this approach involves taking a number of samples from each stratum that is proportional to its size in the population. [6:14]",
+                "Proportional Representation"
+            ],
+            "guid": "JiaYWplRT.",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A probability sampling method where the population is first divided into groups, often geographically. [7:31]",
+                "Cluster Sampling"
+            ],
+            "guid": "OBQCNO&wo;",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "After dividing the population into clusters, a random sample of these clusters is selected, and all individuals within the chosen clusters are studied. [7:31]",
+                "Cluster Sampling"
+            ],
+            "guid": "lc/:].o72k",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A sampling method where not every member of the population has an equal chance of being selected. [8:54]",
+                "Non-Probability Sampling"
+            ],
+            "guid": "JcgYr>&1%:",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This sampling method can rely on the subjective judgment of the researcher. [8:54]",
+                "Non-Probability Sampling"
+            ],
+            "guid": "Njpz0=;pWl",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A non-probability sampling method where the sample is selected based on the availability of the member and/or their proximity to the researcher. [9:40]",
+                "Convenience Sampling"
+            ],
+            "guid": "fcG!/>io.E",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This sampling method is also known as accidental, opportunity, or grab sampling. [9:40]",
+                "Convenience Sampling"
+            ],
+            "guid": "N40ZwaaYdw",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A non-probability sampling method where samples are chosen based on the goals of the study. [10:41]",
+                "Purposive Sampling"
+            ],
+            "guid": "NyG]bQ*Ig-",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In this sampling method, participants may be chosen based on their specific knowledge of the study&#x27;s topic. [10:41]",
+                "Purposive Sampling"
+            ],
+            "guid": "i11~V@.K@a",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In this sampling method, participants are chosen if they satisfy specific traits or conditions set by the researcher. [10:41]",
+                "Purposive Sampling"
+            ],
+            "guid": "f.2Uf:,d_h",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A non-probability method where the proportion of subgroups in the population is considered when determining the number of respondents to select. [12:12]",
+                "Quota Sampling"
+            ],
+            "guid": "CWxx`QZM!.",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "While it resembles stratified sampling, the selection of individuals to fill the &#x27;quota&#x27; for each subgroup in this method is non-random. [12:12]",
+                "Quota Sampling"
+            ],
+            "guid": "bF4|_u|z6j",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A non-probability sampling method where participants in the study are tasked to recruit other members for the study. [13:22]",
+                "Snowball Sampling"
+            ],
+            "guid": "L.W;)I_}jt",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This sampling method is also known as Chain-Referral Sampling. [13:22]",
+                "Snowball Sampling"
+            ],
+            "guid": "wY+55jQgFa",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the two types of criteria to determine in the \"research respondents\" section of the research",
+                "Inclusion and Exclusion criteria"
+            ],
+            "guid": "k>hU::t+<c",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The sampling technique is also called the?",
+                "Selection criteria"
+            ],
+            "guid": "EmzTXxoswN",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A {{c1::research instrument}} is defined as a tool used to {{c2::collect}}, {{c2::measure}}, and {{c2::analyze}} data related to your research interests.",
+                ""
+            ],
+            "guid": "I.)]ZTKv0.",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A research instrument is based on which framework?",
+                "Conceptual framework, or how the researcher understands how the particular variables in the study connect w/ eo"
+            ],
+            "guid": "i=flx~u%CG",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "For the convenience of the respondents, a good research instrument must contain?",
+                "Clear and definite instructions to use the instrument"
+            ],
+            "guid": "vZ0ptn4FV&",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A good research instrument is free of?",
+                "Bias"
+            ],
+            "guid": "f4PYZ4[HI?",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Validity is also called?",
+                "Accuracy"
+            ],
+            "guid": "QRlyq>5>`U",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This characteristic of a good research instrument means that its able to measure what its' intended to measure",
+                "Validity"
+            ],
+            "guid": "hK$rz,m:eA",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This characteristic of a good research instrument refers to the consistency of a measure",
+                "Reliability"
+            ],
+            "guid": "c0_ypNGVE@",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Reliability is also known as?",
+                "Precision"
+            ],
+            "guid": "OXTUW)K5s8",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of survey questionnaire is taken from a previous study without any alterations/changes",
+                "Adopted Survey Questionnaire"
+            ],
+            "guid": "Gf_(x-^0k[",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of questionnaire is taken from the previous study with some alterations/changes",
+                "Adopted Survey Questionnaire"
+            ],
+            "guid": "bs3gXh@(64",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In this type of questionnaire, the researcher crafted it based on scientific literature",
+                "Researcher-made Survey Questionnaire"
+            ],
+            "guid": "DulipgY^][",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of questionnaire is written and administered so all participants are asked precisely the <b>same questions</b>, in an <b>identical format,</b> with responses <b>recorded uniformly</b>",
+                "Standardized Survey Questionnaire"
+            ],
+            "guid": "I%vm@(:gZ.",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Defined as the first and most important step in the research process",
+                "Data gathering"
+            ],
+            "guid": "G.9pMKo?l-",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Data gathering is the first step of any kind of research being conducted. T or F?",
+                "T"
+            ],
+            "guid": "BdhlLiZ[S",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Data gathering}} is defined as the process of {{c2::collecting}}, {{c2::measuring}}, and {{c2::analyzing}} information and used by researchers to make {{c3::informed decisions}}",
+                ""
+            ],
+            "guid": "NT-WG6C2h>",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "in a quasi-experimental research, is it called respondents or participants?",
+                "Participants"
+            ],
+            "guid": "nSK`$d]+-J",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": []
         }
     ],

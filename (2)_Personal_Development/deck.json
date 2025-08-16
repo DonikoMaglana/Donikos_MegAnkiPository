@@ -1440,6 +1440,16 @@
         {
             "__type__": "Note",
             "fields": [
+                "{{c1::Stress}} is a {{c2::physical}}, {{c2::chemical}}, or {{c2::emotional factor}} that causes {{c3::bodily}} and {{c3::mental}} tension and may be a factor in {{c4::disease causation}}.",
+                ""
+            ],
+            "guid": "NF,}N~LR<3",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "Defined as the process by which we perceive and respond to certain events that we view as challenging or threatening",
                 "Stress"
             ],
