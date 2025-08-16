@@ -100,24 +100,7 @@
     "extendNew": 0,
     "extendRev": 0,
     "media_files": [
-        "Screenshot 2025-08-13 at 6.40.36 AM.png",
-        "Screenshot 2025-08-13 at 6.53.22 AM.png",
-        "Screenshot 2025-08-13 at 6.54.45 AM.png",
-        "a0a409ab65724a0a9a0d8fe76259caaf-ao-1-A.svg",
-        "a0a409ab65724a0a9a0d8fe76259caaf-ao-1-Q.svg",
-        "a0a409ab65724a0a9a0d8fe76259caaf-ao-2-A.svg",
-        "a0a409ab65724a0a9a0d8fe76259caaf-ao-2-Q.svg",
-        "a0a409ab65724a0a9a0d8fe76259caaf-ao-3-A.svg",
-        "a0a409ab65724a0a9a0d8fe76259caaf-ao-3-Q.svg",
-        "a0a409ab65724a0a9a0d8fe76259caaf-ao-4-A.svg",
-        "a0a409ab65724a0a9a0d8fe76259caaf-ao-4-Q.svg",
-        "a0a409ab65724a0a9a0d8fe76259caaf-ao-5-A.svg",
-        "a0a409ab65724a0a9a0d8fe76259caaf-ao-5-Q.svg",
-        "a0a409ab65724a0a9a0d8fe76259caaf-ao-6-A.svg",
-        "a0a409ab65724a0a9a0d8fe76259caaf-ao-6-Q.svg",
-        "a0a409ab65724a0a9a0d8fe76259caaf-ao-7-A.svg",
-        "a0a409ab65724a0a9a0d8fe76259caaf-ao-7-Q.svg",
-        "a0a409ab65724a0a9a0d8fe76259caaf-ao-O.svg",
+        "Screenshot 2025-08-16 162751.png",
         "paste-88247fae82dd3f55998cbae2fc8874caed2f9510.jpg"
     ],
     "name": "(2) Chemistry",
@@ -391,208 +374,6 @@
                 }
             ],
             "type": 1
-        },
-        {
-            "__type__": "NoteModel",
-            "crowdanki_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
-            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
-            "flds": [
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": -279344989441727977,
-                    "name": "ID (hidden)",
-                    "ord": 0,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                },
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": -8019144233852573474,
-                    "name": "Header",
-                    "ord": 1,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                },
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": -5192177934792951139,
-                    "name": "Image",
-                    "ord": 2,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                },
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": -996507654485675920,
-                    "name": "Question Mask",
-                    "ord": 3,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                },
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": -2622217631836698292,
-                    "name": "Footer",
-                    "ord": 4,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                },
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": 6158505670062219761,
-                    "name": "Remarks",
-                    "ord": 5,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                },
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": -4411387447535134541,
-                    "name": "Sources",
-                    "ord": 6,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                },
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": -7688410427295178531,
-                    "name": "Extra 1",
-                    "ord": 7,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                },
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": 326092553592481837,
-                    "name": "Extra 2",
-                    "ord": 8,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                },
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": -2552522292509077285,
-                    "name": "Answer Mask",
-                    "ord": 9,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                },
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": 5776824685556938887,
-                    "name": "Original Mask",
-                    "ord": 10,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "latexsvg": false,
-            "name": "Image Occlusion Enhanced",
-            "originalStockKind": 1,
-            "req": [
-                [
-                    0,
-                    "any",
-                    [
-                        2
-                    ]
-                ]
-            ],
-            "sortf": 1,
-            "tmpls": [
-                {
-                    "afmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n\n<script>\n// Toggle answer mask on clicking the image\nvar toggle = function() {\n  var amask = document.getElementById('io-overlay');\n  if (amask.style.display === 'block' || amask.style.display === '')\n    amask.style.display = 'none';\n  else\n    amask.style.display = 'block'\n}\n\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n",
-                    "bafmt": "",
-                    "bfont": "",
-                    "bqfmt": "",
-                    "bsize": 0,
-                    "did": null,
-                    "id": 2322984612947848412,
-                    "name": "IO Card",
-                    "ord": 0,
-                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
-                }
-            ],
-            "type": 0
         }
     ],
     "notes": [
@@ -3125,533 +2906,360 @@
         {
             "__type__": "Note",
             "fields": [
-                "When elements such as H, N, O, F, Cl aren't stable in their elemental forms, they exists as what?",
-                "Gases"
+                "What are the 2 components in a chemical reaction?",
+                "reactants and products"
             ],
-            "guid": "LR>(bf`zeP",
+            "guid": "v7m&E7tXf]",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
-                "When elements such as H, N, O, F, Cl are in their \"molecular form\", what do their formula/symbols look like?",
-                "H<sub>2,&nbsp;</sub>N<sub>2,</sub>&nbsp;O<sub>2, etc.</sub>"
+                "What does the arrow mean in a chemical reaction?",
+                "yields"
             ],
-            "guid": "m8%4xFimEV",
+            "guid": "D3^!~Jh|eL",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
-                "These two elements are not stable in their element form and exist as <b>liquids in the molecular form</b>",
-                "Br and I"
+                "It is the quantity of matter contained in a form of an element measured in amu.",
+                "Atomic mass"
             ],
-            "guid": "5TG@A,N/^",
+            "guid": "tVBD@eGZ(l",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
-                "How many atoms are there in a single stable molecular form of Phosophorus?",
-                "P<sub>4&nbsp;</sub>"
+                "What is the unit for atomic mass?",
+                "amu or atomic mass units"
             ],
-            "guid": "IrZT1$(mmN",
+            "guid": "ma+w0@ytk*",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
-                "How many atoms are there in a single stable molecular form of sulfur?",
-                "S<sub>8</sub>"
+                "This is a given mass of a given compound or molecule",
+                "Molecular Mass"
             ],
-            "guid": "w>(rjc6q8t",
+            "guid": "o&FQ5$56<a",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
-                "Metals are usually {{c1::cat}}ions",
+                "12 amu (C) → Atomic mass or Molecular mass?",
+                "<strong>Atomic mass</strong>&nbsp;(mass of a single carbon atom)"
+            ],
+            "guid": "C-3u(V{7@T",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "H2​O=18&nbsp;amu → Atomic mass or Molecular mass?",
+                "<strong>Molecular mass</strong>&nbsp;(sum of atomic masses of H and O in water)"
+            ],
+            "guid": "lb}bXV987K",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This involves using relationships between reactants and/or products in a chemical reaction to determine desired quantitative data.",
+                "Stoichiometry"
+            ],
+            "guid": "oo`nrw`[6k",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Stoichiometry is deried from the Greek words, \"{{c1::stoikhein}}\" meaning {{c2::element}} and \"{{c1::metron}}\" meaning {{c3::measure}}.",
                 ""
             ],
-            "guid": "kG4Z38jM3*",
+            "guid": "pP!bur?W+H",
             "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
-                "This type of compound is formed by a combination of cations and anions in such a way that the resulting substance has a formula that is <b>electrically neutral</b>",
-                "Ionic compound"
-            ],
-            "guid": "CYlWANT%!@",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Give me the 4 main groups of cations (MTPH)",
-                "Main Group Metal Cations<br>Transition Metal Cations<br>Polyatomic Cation (NH<sub>4</sub><sup>+</sup>)<br>Hydrogen Ion (H<sup>+</sup>)"
-            ],
-            "guid": "zB.~t|,1/x",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Give me the 2 main groups of anions",
-                "Nonmental Anions<br>Polyatomic Anions"
-            ],
-            "guid": "gmDj>j+yNh",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "What are the constituents of a binary ionic compound?",
-                "<b>Main group metal </b>cations and non-metals"
-            ],
-            "guid": "NlXhDBYUt{",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Where can main group metal cations be found?",
-                "Groups 1, 2 and elements Al, Ga"
-            ],
-            "guid": "BWFpFPMKY(",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "What is the order of naming a binary ionic comound? anion-cation or cation-anion",
-                "cation-anion"
-            ],
-            "guid": "kN/W5$P6|O",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "In a binary compound, Cl is the anion. What do you call it then?",
-                "chloride"
-            ],
-            "guid": "f0W&aO38u?",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Name this compound:<br><br>K<sup>+</sup>Br<sup>-</sup>",
-                "Potassium bromide"
-            ],
-            "guid": "A!5V{vH>r0",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Given \"calcium chloride\" and<br><br>Calcium is a group 2 metal<br>and Chlorine bears a charge of -1<br><br>What is the chemical formula?",
-                "CaCl<sub>2</sub>"
-            ],
-            "guid": "L9_M~;BUH#",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Which group of elements primarily bears different charges?",
-                "Transition metals"
-            ],
-            "guid": "C4]>(Oss8F",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "For an ion of a metal that can have two different charges, <b>the ion with the lowest charge</b> is named by adding what suffix?",
-                "\"--ous\""
-            ],
-            "guid": "N8I02e@81Y",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "For an ion of a metal that can have two different charges,&nbsp;<b>the ion with the highest charge</b>&nbsp;is named by adding what suffix?",
-                "\"--ic\""
-            ],
-            "guid": "MGv5>tGYRy",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "What is the historical name of copper (I)",
-                "Cuprous ion"
-            ],
-            "guid": "njOESq&OL0",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "What is the historical name of copper (II)",
-                "cupric ion"
-            ],
-            "guid": "D;+?95Ciut",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "What is the historical name of lead (II)",
-                "plumbous ion"
-            ],
-            "guid": "o6N0b=&:&P",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "What is the historical name of lead (IV)",
-                "plumbic ion"
-            ],
-            "guid": "C~XG$+jv=Z",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "What is the historical name of tin (II)",
-                "stannous ion"
-            ],
-            "guid": "?Eqvs?Z;T",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "What is the historical name of tin (IV)",
-                "stannic oin"
-            ],
-            "guid": "r;s^l/@6]z",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Name this compound:<br><br>FeCl<sub>2</sub>",
-                "iron (II) chloride"
-            ],
-            "guid": "G7;z[B{l#=",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "This type of ion contains different atoms linked together by <b>covalent bonds</b>",
-                "Polyatomic ions"
-            ],
-            "guid": "l^A:`P!rq",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "In naming polyatomic ions, the ions, whose names end with “{{c1::ate}}” contain {{c2::one oxygen}} atom more than those, whose names end with “{{c1::ite}}”.",
+                "{{c1::Stoichiometry}}, when translated from Greek, literally means the {{c2::measure of elements}}",
                 ""
             ],
-            "guid": "h=nD6S=Kw-",
+            "guid": "tgOi*~s`sk",
             "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
-                "In what series of polyatomic ions do we use the prefixes \"per-\" and \"hypo-\"",
-                "Anions made using halogens and oxygen"
+                "{{c1::A mole}} can be used to quantify number of atoms or numbers of molecules.",
+                ""
             ],
-            "guid": "xm|N6ez=Kr",
+            "guid": "Bw0=A$A`6q",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A mole is equivalent to Avogadro's number of particles equal to {{c1::6.02 x 10^23}}",
+                ""
+            ],
+            "guid": "jx:2nTh#F>",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A {{c1::mole}} is similar to a pair which means 2, and a dozen that means 12",
+                ""
+            ],
+            "guid": "rbb/J$kTFA",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the unit for mole?",
+                "mol"
+            ],
+            "guid": "h_TQ/IBL~Y",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
-                "<img src=\"Screenshot 2025-08-13 at 6.40.36 AM.png\"><br><br>Name these ions from top to bottom",
-                "perbromate ion<br>bromate ion<br>bromite ion<br>hypobromite ion"
+                "What is the unit for molar mass?",
+                "g/mol"
             ],
-            "guid": "LaNxlP>]4`",
+            "guid": "x^JoAd$cGZ",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
-                "These are <b>covalent compounds</b> that have a net charge",
-                "Polyatomic ions"
+                "Why is the mass–mole relationship important in chemistry?",
+                "It links the macroscopic world (mass we measure) to the microscopic world (atoms/molecules)."
             ],
-            "guid": "w)wv/vsv`1",
+            "guid": "Ij25Rn^2C3",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
-                "A binary molecular compound is made by what?",
-                "Two nonmetals"
+                "{{c1::Reactants}} appear on the left side of the equation.",
+                ""
             ],
-            "guid": "NEQkrjC:1.",
+            "guid": "hjb;3]_8Q^",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Products}} appear on the right side of the equation.",
+                ""
+            ],
+            "guid": "lny82@ILU&",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The states of the reactants and products are written in {{c1::parentheses}} to the {{c1::right}} of each compound.",
+                ""
+            ],
+            "guid": "d~zuw|8-N4",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Coefficients}} are inserted to balance the equation.",
+                ""
+            ],
+            "guid": "E.r{YUWzLf",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Subscripts}} tell the number of atoms of each element in a molecule",
+                ""
+            ],
+            "guid": "i=9?n:yBj$",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Coefficients}} tell the number of molecules (compounds).",
+                ""
+            ],
+            "guid": "P7_mUZ)NFv",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of reaction invovles two or more substances react to form one product",
+                "Combination Reactions"
+            ],
+            "guid": "d$9#Gf/rS|",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
-                "In a binary molecular compound made with hydrogen and nonmetals<br><br>which is named first?",
-                "Hydrogen<br><br>(e.g. Hydrogen sulfide)"
+                "This type of reactions includes one substance breaks down into two or more substances",
+                "Decompositions Reaction"
             ],
-            "guid": "JByPD[+!Fa",
+            "guid": "Jf.J9YP!41",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
-                "What is the sulfate ion called when its turned into an acid?",
-                "Sulfuric acid"
+                "A rapid reaction with oxygen that often produces a flame, usually forming CO₂ and H₂O.",
+                "Combustion reaction"
             ],
-            "guid": "u4bu/ixSIp",
+            "guid": "Jt*ODLgYLa",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
-                "What is the sulfite ion called when it is turned into an acid?",
-                "sulfurous acid"
+                "Most often involve hydrocarbons reacting with oxygen in the air to produce {{c1::CO2}} and {{c1::H2O}}.",
+                ""
             ],
-            "guid": "z{,xQ6{Pz7",
+            "guid": "C*yz2$7G~E",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Defined (since 1961) as: 1/12 mass of the 12C isotope.",
+                "amu unit"
+            ],
+            "guid": "coD|7YV4l_",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
-                "Name these acids from top to bottom<br><br><img src=\"Screenshot 2025-08-13 at 6.53.22 AM.png\">",
-                "perchloric acid<br>chloric acid<br>chlorous acid<br>hypochlorous acid"
+                "Sum of the atomic weights for the atoms in a chemical formula",
+                "Formula weight"
             ],
-            "guid": "t~[B|byG?`",
+            "guid": "nE>z9_?irQ",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
-                "a0a409ab65724a0a9a0d8fe76259caaf-ao-1",
-                "",
-                "<img src=\"Screenshot 2025-08-13 at 6.54.45 AM.png\" />",
-                "<img src=\"a0a409ab65724a0a9a0d8fe76259caaf-ao-1-Q.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"a0a409ab65724a0a9a0d8fe76259caaf-ao-1-A.svg\" />",
-                "<img src=\"a0a409ab65724a0a9a0d8fe76259caaf-ao-O.svg\" />"
+                "Sum of the atomic weights of the atoms in a molecule",
+                "Molecular weight"
             ],
-            "guid": "x`}]mEhG:i",
-            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "a0a409ab65724a0a9a0d8fe76259caaf-ao-2",
-                "",
-                "<img src=\"Screenshot 2025-08-13 at 6.54.45 AM.png\" />",
-                "<img src=\"a0a409ab65724a0a9a0d8fe76259caaf-ao-2-Q.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"a0a409ab65724a0a9a0d8fe76259caaf-ao-2-A.svg\" />",
-                "<img src=\"a0a409ab65724a0a9a0d8fe76259caaf-ao-O.svg\" />"
-            ],
-            "guid": "nF8d)v`Xp}",
-            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "a0a409ab65724a0a9a0d8fe76259caaf-ao-3",
-                "",
-                "<img src=\"Screenshot 2025-08-13 at 6.54.45 AM.png\" />",
-                "<img src=\"a0a409ab65724a0a9a0d8fe76259caaf-ao-3-Q.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"a0a409ab65724a0a9a0d8fe76259caaf-ao-3-A.svg\" />",
-                "<img src=\"a0a409ab65724a0a9a0d8fe76259caaf-ao-O.svg\" />"
-            ],
-            "guid": "Ra7tvG1S}r",
-            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "a0a409ab65724a0a9a0d8fe76259caaf-ao-4",
-                "",
-                "<img src=\"Screenshot 2025-08-13 at 6.54.45 AM.png\" />",
-                "<img src=\"a0a409ab65724a0a9a0d8fe76259caaf-ao-4-Q.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"a0a409ab65724a0a9a0d8fe76259caaf-ao-4-A.svg\" />",
-                "<img src=\"a0a409ab65724a0a9a0d8fe76259caaf-ao-O.svg\" />"
-            ],
-            "guid": "vsXQi8@&Va",
-            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "a0a409ab65724a0a9a0d8fe76259caaf-ao-5",
-                "",
-                "<img src=\"Screenshot 2025-08-13 at 6.54.45 AM.png\" />",
-                "<img src=\"a0a409ab65724a0a9a0d8fe76259caaf-ao-5-Q.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"a0a409ab65724a0a9a0d8fe76259caaf-ao-5-A.svg\" />",
-                "<img src=\"a0a409ab65724a0a9a0d8fe76259caaf-ao-O.svg\" />"
-            ],
-            "guid": "pJ%J7^D=[>",
-            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "a0a409ab65724a0a9a0d8fe76259caaf-ao-6",
-                "",
-                "<img src=\"Screenshot 2025-08-13 at 6.54.45 AM.png\" />",
-                "<img src=\"a0a409ab65724a0a9a0d8fe76259caaf-ao-6-Q.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"a0a409ab65724a0a9a0d8fe76259caaf-ao-6-A.svg\" />",
-                "<img src=\"a0a409ab65724a0a9a0d8fe76259caaf-ao-O.svg\" />"
-            ],
-            "guid": "C@IsfB,W.f",
-            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "a0a409ab65724a0a9a0d8fe76259caaf-ao-7",
-                "",
-                "<img src=\"Screenshot 2025-08-13 at 6.54.45 AM.png\" />",
-                "<img src=\"a0a409ab65724a0a9a0d8fe76259caaf-ao-7-Q.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"a0a409ab65724a0a9a0d8fe76259caaf-ao-7-A.svg\" />",
-                "<img src=\"a0a409ab65724a0a9a0d8fe76259caaf-ao-O.svg\" />"
-            ],
-            "guid": "ma~RIbEIBx",
-            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "SO<sub>3 =&nbsp;</sub>monosulfur trioxide.<br><br>What is wrong about this?",
-                "if the first element in a binary molecular compound only has one atom, then there should be no prefix"
-            ],
-            "guid": "eJD[Z?s,dH",
+            "guid": "vtJJqryH={",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
-                "What is thte special rule for naming binary hydrogen compounds",
-                "NO greek prefix is used<br><br>e.g. H<span style=\"font-size: 16.6667px;\">2S is <b>hydrogen sulfide, not dihydrogen sulfide</b></span>"
+                "{{c2::1 amu}} = {{c1::1.6605 x 10⁻²⁴}} g?",
+                ""
             ],
-            "guid": "k8/X}PyK<q",
+            "guid": "G^><TqovF,",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How many particles are in one mole of atoms, ions, or molecules?",
+                "Avogadro’s number of particles: 6.022 × 10²³ particles/mol"
+            ],
+            "guid": "i^)25kVF$7",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
-                "What is the special rule for binary hydrogen compounds with group 15 non-metals?",
-                "The group 15 non-metal is written&nbsp; first in the formula"
+                "How many atoms or ions are in one mole of a compound?",
+                "Avogadro’s number × atoms/ions per molecule or formula unit"
             ],
-            "guid": "MQu[FAua>_",
+            "guid": "c`E+aUpyQc",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
-                "Given that phosphorous is a group 15 non-metal, how would you write the molecular formula of a binary hydrogen compound with <b>3 hydrogen atoms, and 1 phosphorous atom</b>",
-                "PH<sub>3<br><br>NOT</sub><br><br>H<sub>3</sub>P"
+                "1 mole of any substance has the same number of molecules. T or F?",
+                "T"
             ],
-            "guid": "kK3Sj=(LSo",
+            "guid": "E,H10i}b#_",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
-                "How are binary molecular compounds with phosphorous named given that phosphorous exhibits multiple oxidation states?",
-                "Oxides of phosphorous are often named assuming phosphorous was a metal<br><br>e.g.&nbsp;<br><br>phosphorous (V) oxide"
+                "The number of moles correspond to the number of molecules. T or F?",
+                ""
             ],
-            "guid": "wO}-5Qk=>{",
+            "guid": "vJvy}pEP{(",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does percent composition tell us?",
+                "The <strong>percentage of a compound’s mass</strong> that comes from each element."
+            ],
+            "guid": "ypia?w@!=}",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Formula to calculate percent composition?",
+                "<img src=\"Screenshot 2025-08-16 162751.png\">"
+            ],
+            "guid": "w@M:{_A~By",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": []
         }

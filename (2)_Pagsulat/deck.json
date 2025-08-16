@@ -2439,6 +2439,436 @@
             "guid": "K5.J5A^P6k",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Sino nagsabi ng \"Without reflection, we go blindly on our way ,creating more unintended consequences, and failing to achieve anything useful.\"?",
+                "Margaret Wheatley"
+            ],
+            "guid": "hWi|yEy;6V",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ito&nbsp;ay isang pasulat na presentasyon ng kritikal na repleksyon o pagmumuni- muni tungkol sa isang tiyak na paksa.",
+                "Replektibong Sanaysay"
+            ],
+            "guid": "h<ju#,r3x6",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ang repleksyong papel ay maaring isulat hinggil sa?&nbsp;",
+                "1) isang <b>itinakdang babasahin</b><br>2) isang <b>lektyur o karanasan</b> (katulad ng internship, volunteer experience, retreat and recollection o educational tour)"
+            ],
+            "guid": "L`CBuG*Vw`",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ayon kay Bernales &amp; Bernardino (2013), ang&nbsp;repleksyong papel ay naglalaman ng mga?&nbsp;",
+                "(1) reaksyon, (2) damdamin at (3) pagsusuri ng isang karanasan sa napakapersonal na paraan"
+            ],
+            "guid": "g)Uw0qGv]w",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Anong ang karaniwang panauhan ang ginagamit sa replektibong sanaysay at bakit?",
+                "<b>Unang panauhan</b>, dahil nirerekord dito ang mga <b>personal</b> na karanasan"
+            ],
+            "guid": "Re+[~+vzfg",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Paano makakatulong ang mga dayari at dyornal sa pagsusulat ng replektibong sanaysay?",
+                "Maaaring gamiting paraan sa <b>pagpoproseso ng mga repleksyon bago isula</b>t ang repleksyong papel."
+            ],
+            "guid": "O/8^2RP1s9",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ano ang estruktura ng replektibong sanaysay?",
+                "1) introduksyon;<br>2)&nbsp;katawang malinaw at lohikal na naglalahad ng iyong mga inisip at/o nadarama;<br>3) kongklusyon"
+            ],
+            "guid": "z?l|_UG_Fp",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ano ang aspeto ng katawan ng replektibong sanaysay?",
+                "malinaw at lohikal"
+            ],
+            "guid": "h{_]eJZs?Z",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ano dapat ang nilalahad ng katawan?",
+                "ang mga iniisip o nadarama ng awtor"
+            ],
+            "guid": "fNqwI}<JT",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Kung may mga sanggunian sa repleksyong papel, saan ito ilalagay?",
+                "sa katapusan"
+            ],
+            "guid": "L$$[OrMr;s",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Sa replektibong sanaysay,&nbsp;maaaring kailanganin ng {{c1::in-text references}} kung gumamit ng mga ideya ng ibang tao,",
+                ""
+            ],
+            "guid": "g:5I8XACqp",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ang repleksyong papel ay tala ng mga {{c1::kaalaman}} at {{c1::kamalayan}} hinggil sa isang bagay.",
+                ""
+            ],
+            "guid": "lk.e`[+_$6",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ito ay isang interaksyon sa pagitan ng mga ideyang natanggap mula sa labas (libro, lektyur, karanasang pampaaralan, at iba pa) at ng iyong internal na pag-unawa at interpretasyon sa mga ideyang iyon",
+                "Repleksyong Papel"
+            ],
+            "guid": "O7yOi6EGbf",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ang repleksyong papel ay nag-aanyaya ng {{c1::self-reflection o pagmumuni-muni.}}",
+                ""
+            ],
+            "guid": "dg6EaTjoz6",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ito ay kinapapalooban ng <b>konstant na pagtatanong</b> hinggil sa mga sariling haka at ng kapasidad na magsuri at magsintesays ng impormasyon upang makalikha ng mga bagong pananaw at pag-unawa.",
+                "Pagmumuni-muni"
+            ],
+            "guid": "x.9Vhr_v|5",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ito ay isang patuloy na proseso na humahantong sa komitment upang mapagbuti ang isang pansarili o propesyonal na gawain.",
+                "pagmumuni-muni"
+            ],
+            "guid": "pI5krlDrMZ",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Mga tips ni Maggie Mertens sa pagsusulat ng replektibong sanaysay",
+                "1) Mga Iniisip at reaksyon<br>2) Buod<br>3) Organisasyon"
+            ],
+            "guid": "EV1v}u?}JJ",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ano ang pangunahing layunin ng seksyon na “Mga Iniisip at Reaksyon” sa replektibong papel?",
+                "Itala at ipaliwanag ang iyong damdamin at reaksyon sa binasa o karanasan, gamit ang mga ispesipikong bahagi bilang inspirasyon."
+            ],
+            "guid": "Av^DZ<WHh$",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Puwede bang umasa lamang sa personal na karanasan sa pagsulat ng replektibong papel?",
+                "Hindi; puwede itong isama, pero ang papel ay dapat nakabatay sa repleksyon sa materyal o karanasan na pinagbasehan."
+            ],
+            "guid": "E48Jk&l%mI",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ano ang pagkakaiba ng replektibong papel sa simpleng pagbubuod?",
+                "<div>Hindi lang ito buod; ito ay <b>malayang daloy ng ideya, pagsusuri, at reaksyon,</b> mas pormal kaysa sa dyornal entry.</div>"
+            ],
+            "guid": "savx}bSb8S",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ano ang dapat isama sa introduksyon ng replektibong papel?",
+                "Ano ang dapat isama sa introduksyon ng replektibong papel?"
+            ],
+            "guid": "yq{]yv|tTP",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ano ang layunin ng katawan ng replektibong papel?",
+                "Ipakita ang mga kongklusyon at paliwanag kung bakit at paano nabuo, gamit ang konkretong detalye mula sa karanasan o binasa."
+            ],
+            "guid": "ep|F+[H[*{",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ano ang dapat gawin sa konklusyon ng replektibong papel?",
+                "Ibuod ang natutunan o damdamin, iugnay sa inaasahan, at maaaring magbigay ng ibang kongklusyon o mas malalim na analisis."
+            ],
+            "guid": "d<B;$_<?^%",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">Ano ang pagkakaiba ng replektibong papel sa ibang uri ng papel?</span></b>",
+                "<span style=\"font-weight: 400;\"><b>Ang konklusyon ay sumusunod sa serye ng mga </b>kontemplatibong narasyon<b>, hindi lamang diretso o simpleng paglalahad ng impormasyon.</b></span>"
+            ],
+            "guid": "z__FhF-ft9",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ano ang unang hakbang sa pagsulat ng replektibong papel?",
+                "<span style=\"font-weight: 400;\">Piliin ang <b>paksa</b> na may malalim na personal na kahulugan sa awtor.</span>"
+            ],
+            "guid": "D.Y(CVYAe<",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">Ano ang dapat lamanin ng unang talata?</span></b>",
+                "<b><span style=\"font-weight: 400;\">Kaswal na obserbasyon sa paksa, nang wala pang halong emosyon.</span></b>"
+            ],
+            "guid": "f6bcRH)tQl",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">Paano isinasagawa ang katawan ng replektibong papel?</span></b>",
+                "<b><div><span style=\"font-weight: 400;\">Dalhin ang mambabasa sa isang emosyonal na paglalakbay&nbsp; na nag-uugnay ng impresyon, obserbasyon, emosyon, at ideya, halos katulad sa panaginip.</span></div></b>"
+            ],
+            "guid": "H<S]6mJVO:",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ilang talata ang katawang bahagi ng replektibong sanaysay?",
+                "3-4"
+            ],
+            "guid": "H9:H}*tIdc",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">Paano tapusin ang replektibong papel?</span></b>",
+                "<b><span style=\"font-weight: 400;\">Sa masining na talata na naglalarawan ng vivid na imahen, nag-aanyaya sa mambabasa sa introspeksyon.</span></b>"
+            ],
+            "guid": "oyEh=]jzv,",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">Ano ang maaaring gawin sa konklusyon para sa mambabasa?</span></b>",
+                "<b><span style=\"font-weight: 400;\">I-shift ang pokus sa mambabasa sa pamamagitan ng paglalahad ng personal na inkwiri kung paano nakaapekto ang paksa sa intelektwal o emosyonal niyang pag-iisip.</span></b>"
+            ],
+            "guid": "P,`=<1*cbm",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">Gaano kahaba ang replektibong papel?</span></b>",
+                "<b><span style=\"font-weight: 400;\">&nbsp;Karaniwan 1–2 pahina; puwede 3, ngunit higit pa rito ay labis.</span></b>"
+            ],
+            "guid": "AJw4`hG,k@",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">Ano ang dapat isaalang-alang sa saklaw ng repleksyon?</span></b>",
+                "<b><span style=\"font-weight: 400;\">Panahong saklaw ng karanasan at aralin, at mga bagay na nakaapekto, nagpasigla, o nais saliksikin pa.</span></b>"
+            ],
+            "guid": "sXl|4>`#Z)",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">Paano inihahambing ang mabuting replektibong papel sa sining?</span></b>",
+                "<b><span style=\"font-weight: 400;\">Para itong impressionistic painting na nagpapakita ng damdamin, karanasan, paniniwala, at ideya na nag-iiwan ng pagbabago sa pag-iisip ng mambabasa.</span></b>"
+            ],
+            "guid": "MWv&HO^-C0",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">Anong uri ng mga detalye ang puwedeng pagmuni-munihan sa repleksyon?</span></b>",
+                "<b><span style=\"font-weight: 400;\">&nbsp;a) Konsepto o aralin na sinasang-ayunan o tinututulan</span><span style=\"font-weight: 400;\"><br></span><span style=\"font-weight: 400;\"> b) Mga gawain sa klase o pinanood/pinarinig</span><span style=\"font-weight: 400;\"><br></span><span style=\"font-weight: 400;\"> c) Leksyon o konsepto na nakapukaw ng interes</span><span style=\"font-weight: 400;\"><br></span><span style=\"font-weight: 400;\"> d) Leksyon o konsepto na maaring iugnay sa sariling karanasan</span><span style=\"font-weight: 400;\"><br></span><span style=\"font-weight: 400;\"> e) Leksyon o konsepto na nagdulot ng tanong para sa klase</span></b>"
+            ],
+            "guid": "goeseiwAI~",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">Anong istilo ng wika ang puwede sa replektibong papel?</span></b>",
+                "<span style=\"font-weight: 400; font-style: normal; text-decoration-line: none;\">&nbsp;Puwedeng <b>pormal o kumbersasyonal</b>, basta malinaw ang mga puntong pagmumulan ng repleksyon at may konkreto nitong paliwanag.</span>"
+            ],
+            "guid": "g9~YK9{)Up",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">Bakit mahalaga ang pagbibigay ng halimbawa o aplikasyon sa klase?</span></b>",
+                "<b><span style=\"font-weight: 400;\">Para ipakita ang kaalaman sa konteksto at mas suportahan ang repleksyon sa mga aralin.</span></b>"
+            ],
+            "guid": "HYy!-8b=(-",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">Pwede bang maging simple o magaan ang tono ng replektibong papel?</span></b>",
+                "<b><span style=\"font-weight: 400;\">Oo, pero hindi ibig sabihin ay hindi seryoso; mahalaga pa rin ang talas ng pagmumuni-muni.</span></b>"
+            ],
+            "guid": "Im!7)$p]+*",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">Bakit mahalaga ang wastong gramatika at baybay sa replektibong papel?</span></b>",
+                "<b><span style=\"font-weight: 400;\">Dahil ito ay gagradohan, lalo na kung ito ay requirement sa kurso sa wika.</span></b>"
+            ],
+            "guid": "f*a47ludVn",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">Paano gamitin ang micro at macro na pagtingin sa papel?</span></b>",
+                "<span style=\"font-weight: 400;\">&nbsp;Magsimula sa sariling karanasan, pagkatapos ay sa natutunan sa klase, at sa mas malawak na usaping pambansa o iba pa.</span>"
+            ],
+            "guid": "O|x1jV.d@n",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">Ano ang dapat gawin kung gagamit ng impormasyon mula sa ibang sources?</span></b>",
+                "<b><span style=\"font-weight: 400;\">Siguraduhing mababanggit ang sanggunian sa katawan o huling bahagi ng papel.</span></b>"
+            ],
+            "guid": "ttSBuV`MLW",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">Ano ang mga dapat tandaan sa pagsusumite ng papel?</span></b>",
+                "<b><span style=\"font-weight: 400;\">I-submit sa tamang oras at lugar; kung hindi makakapasok, ipakisuyo sa kaklase.</span></b>"
+            ],
+            "guid": "iQl#T38W%)",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">Paano pumili ng pamagat para sa replektibong papel?</span></b>",
+                "<span style=\"font-weight: 400;\">Gumamit ng <b>angkop </b>na pamagat</span>"
+            ],
+            "guid": "cfO(bD{MbX",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ano ang maaring pamagat sa replektibong papel kung walang maisip?",
+                "<b><span style=\"font-weight: 400;\">&nbsp;“Sulatin Blg._” o numero ng sulatin.</span></b>"
+            ],
+            "guid": "Gl~m/L%?0h",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
         }
     ],
     "reviewLimit": null,
