@@ -100,7 +100,25 @@
     "extendNew": 0,
     "extendRev": 0,
     "media_files": [
+        "Screenshot 2025-08-13 at 6.40.36 AM.png",
+        "Screenshot 2025-08-13 at 6.53.22 AM.png",
+        "Screenshot 2025-08-13 at 6.54.45 AM.png",
         "Screenshot 2025-08-16 162751.png",
+        "a0a409ab65724a0a9a0d8fe76259caaf-ao-1-A.svg",
+        "a0a409ab65724a0a9a0d8fe76259caaf-ao-1-Q.svg",
+        "a0a409ab65724a0a9a0d8fe76259caaf-ao-2-A.svg",
+        "a0a409ab65724a0a9a0d8fe76259caaf-ao-2-Q.svg",
+        "a0a409ab65724a0a9a0d8fe76259caaf-ao-3-A.svg",
+        "a0a409ab65724a0a9a0d8fe76259caaf-ao-3-Q.svg",
+        "a0a409ab65724a0a9a0d8fe76259caaf-ao-4-A.svg",
+        "a0a409ab65724a0a9a0d8fe76259caaf-ao-4-Q.svg",
+        "a0a409ab65724a0a9a0d8fe76259caaf-ao-5-A.svg",
+        "a0a409ab65724a0a9a0d8fe76259caaf-ao-5-Q.svg",
+        "a0a409ab65724a0a9a0d8fe76259caaf-ao-6-A.svg",
+        "a0a409ab65724a0a9a0d8fe76259caaf-ao-6-Q.svg",
+        "a0a409ab65724a0a9a0d8fe76259caaf-ao-7-A.svg",
+        "a0a409ab65724a0a9a0d8fe76259caaf-ao-7-Q.svg",
+        "a0a409ab65724a0a9a0d8fe76259caaf-ao-O.svg",
         "paste-88247fae82dd3f55998cbae2fc8874caed2f9510.jpg"
     ],
     "name": "(2) Chemistry",
@@ -374,6 +392,208 @@
                 }
             ],
             "type": 1
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -279344989441727977,
+                    "name": "ID (hidden)",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -8019144233852573474,
+                    "name": "Header",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -5192177934792951139,
+                    "name": "Image",
+                    "ord": 2,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -996507654485675920,
+                    "name": "Question Mask",
+                    "ord": 3,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -2622217631836698292,
+                    "name": "Footer",
+                    "ord": 4,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 6158505670062219761,
+                    "name": "Remarks",
+                    "ord": 5,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -4411387447535134541,
+                    "name": "Sources",
+                    "ord": 6,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -7688410427295178531,
+                    "name": "Extra 1",
+                    "ord": 7,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 326092553592481837,
+                    "name": "Extra 2",
+                    "ord": 8,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -2552522292509077285,
+                    "name": "Answer Mask",
+                    "ord": 9,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 5776824685556938887,
+                    "name": "Original Mask",
+                    "ord": 10,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Image Occlusion Enhanced",
+            "originalStockKind": 1,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 1,
+            "tmpls": [
+                {
+                    "afmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n\n<script>\n// Toggle answer mask on clicking the image\nvar toggle = function() {\n  var amask = document.getElementById('io-overlay');\n  if (amask.style.display === 'block' || amask.style.display === '')\n    amask.style.display = 'none';\n  else\n    amask.style.display = 'block'\n}\n\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": 2322984612947848412,
+                    "name": "IO Card",
+                    "ord": 0,
+                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
+                }
+            ],
+            "type": 0
         }
     ],
     "notes": [
@@ -2906,6 +3126,539 @@
         {
             "__type__": "Note",
             "fields": [
+                "When elements such as H, N, O, F, Cl aren't stable in their elemental forms, they exists as what?",
+                "Gases"
+            ],
+            "guid": "LR>(bf`zeP",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "When elements such as H, N, O, F, Cl are in their \"molecular form\", what do their formula/symbols look like?",
+                "H<sub>2,&nbsp;</sub>N<sub>2,</sub>&nbsp;O<sub>2, etc.</sub>"
+            ],
+            "guid": "m8%4xFimEV",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "These two elements are not stable in their element form and exist as <b>liquids in the molecular form</b>",
+                "Br and I"
+            ],
+            "guid": "5TG@A,N/^",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How many atoms are there in a single stable molecular form of Phosophorus?",
+                "P<sub>4&nbsp;</sub>"
+            ],
+            "guid": "IrZT1$(mmN",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How many atoms are there in a single stable molecular form of sulfur?",
+                "S<sub>8</sub>"
+            ],
+            "guid": "w>(rjc6q8t",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Metals are usually {{c1::cat}}ions",
+                ""
+            ],
+            "guid": "kG4Z38jM3*",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of compound is formed by a combination of cations and anions in such a way that the resulting substance has a formula that is <b>electrically neutral</b>",
+                "Ionic compound"
+            ],
+            "guid": "CYlWANT%!@",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Give me the 4 main groups of cations (MTPH)",
+                "Main Group Metal Cations<br>Transition Metal Cations<br>Polyatomic Cation (NH<sub>4</sub><sup>+</sup>)<br>Hydrogen Ion (H<sup>+</sup>)"
+            ],
+            "guid": "zB.~t|,1/x",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Give me the 2 main groups of anions",
+                "Nonmental Anions<br>Polyatomic Anions"
+            ],
+            "guid": "gmDj>j+yNh",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the constituents of a binary ionic compound?",
+                "<b>Main group metal </b>cations and non-metals"
+            ],
+            "guid": "NlXhDBYUt{",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Where can main group metal cations be found?",
+                "Groups 1, 2 and elements Al, Ga"
+            ],
+            "guid": "BWFpFPMKY(",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the order of naming a binary ionic comound? anion-cation or cation-anion",
+                "cation-anion"
+            ],
+            "guid": "kN/W5$P6|O",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In a binary compound, Cl is the anion. What do you call it then?",
+                "chloride"
+            ],
+            "guid": "f0W&aO38u?",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Name this compound:<br><br>K<sup>+</sup>Br<sup>-</sup>",
+                "Potassium bromide"
+            ],
+            "guid": "A!5V{vH>r0",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Given \"calcium chloride\" and<br><br>Calcium is a group 2 metal<br>and Chlorine bears a charge of -1<br><br>What is the chemical formula?",
+                "CaCl<sub>2</sub>"
+            ],
+            "guid": "L9_M~;BUH#",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which group of elements primarily bears different charges?",
+                "Transition metals"
+            ],
+            "guid": "C4]>(Oss8F",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "For an ion of a metal that can have two different charges, <b>the ion with the lowest charge</b> is named by adding what suffix?",
+                "\"--ous\""
+            ],
+            "guid": "N8I02e@81Y",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "For an ion of a metal that can have two different charges,&nbsp;<b>the ion with the highest charge</b>&nbsp;is named by adding what suffix?",
+                "\"--ic\""
+            ],
+            "guid": "MGv5>tGYRy",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the historical name of copper (I)",
+                "Cuprous ion"
+            ],
+            "guid": "njOESq&OL0",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the historical name of copper (II)",
+                "cupric ion"
+            ],
+            "guid": "D;+?95Ciut",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the historical name of lead (II)",
+                "plumbous ion"
+            ],
+            "guid": "o6N0b=&:&P",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the historical name of lead (IV)",
+                "plumbic ion"
+            ],
+            "guid": "C~XG$+jv=Z",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the historical name of tin (II)",
+                "stannous ion"
+            ],
+            "guid": "?Eqvs?Z;T",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the historical name of tin (IV)",
+                "stannic oin"
+            ],
+            "guid": "r;s^l/@6]z",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Name this compound:<br><br>FeCl<sub>2</sub>",
+                "iron (II) chloride"
+            ],
+            "guid": "G7;z[B{l#=",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of ion contains different atoms linked together by <b>covalent bonds</b>",
+                "Polyatomic ions"
+            ],
+            "guid": "l^A:`P!rq",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In naming polyatomic ions, the ions, whose names end with “{{c1::ate}}” contain {{c2::one oxygen}} atom more than those, whose names end with “{{c1::ite}}”.",
+                ""
+            ],
+            "guid": "h=nD6S=Kw-",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In what series of polyatomic ions do we use the prefixes \"per-\" and \"hypo-\"",
+                "Anions made using halogens and oxygen"
+            ],
+            "guid": "xm|N6ez=Kr",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"Screenshot 2025-08-13 at 6.40.36 AM.png\"><br><br>Name these ions from top to bottom",
+                "perbromate ion<br>bromate ion<br>bromite ion<br>hypobromite ion"
+            ],
+            "guid": "LaNxlP>]4`",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "These are <b>covalent compounds</b> that have a net charge",
+                "Polyatomic ions"
+            ],
+            "guid": "w)wv/vsv`1",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A binary molecular compound is made by what?",
+                "Two nonmetals"
+            ],
+            "guid": "NEQkrjC:1.",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In a binary molecular compound made with hydrogen and nonmetals<br><br>which is named first?",
+                "Hydrogen<br><br>(e.g. Hydrogen sulfide)"
+            ],
+            "guid": "JByPD[+!Fa",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the sulfate ion called when its turned into an acid?",
+                "Sulfuric acid"
+            ],
+            "guid": "u4bu/ixSIp",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the sulfite ion called when it is turned into an acid?",
+                "sulfurous acid"
+            ],
+            "guid": "z{,xQ6{Pz7",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Name these acids from top to bottom<br><br><img src=\"Screenshot 2025-08-13 at 6.53.22 AM.png\">",
+                "perchloric acid<br>chloric acid<br>chlorous acid<br>hypochlorous acid"
+            ],
+            "guid": "t~[B|byG?`",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a0a409ab65724a0a9a0d8fe76259caaf-ao-1",
+                "",
+                "<img src=\"Screenshot 2025-08-13 at 6.54.45 AM.png\" />",
+                "<img src=\"a0a409ab65724a0a9a0d8fe76259caaf-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"a0a409ab65724a0a9a0d8fe76259caaf-ao-1-A.svg\" />",
+                "<img src=\"a0a409ab65724a0a9a0d8fe76259caaf-ao-O.svg\" />"
+            ],
+            "guid": "x`}]mEhG:i",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a0a409ab65724a0a9a0d8fe76259caaf-ao-2",
+                "",
+                "<img src=\"Screenshot 2025-08-13 at 6.54.45 AM.png\" />",
+                "<img src=\"a0a409ab65724a0a9a0d8fe76259caaf-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"a0a409ab65724a0a9a0d8fe76259caaf-ao-2-A.svg\" />",
+                "<img src=\"a0a409ab65724a0a9a0d8fe76259caaf-ao-O.svg\" />"
+            ],
+            "guid": "nF8d)v`Xp}",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a0a409ab65724a0a9a0d8fe76259caaf-ao-3",
+                "",
+                "<img src=\"Screenshot 2025-08-13 at 6.54.45 AM.png\" />",
+                "<img src=\"a0a409ab65724a0a9a0d8fe76259caaf-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"a0a409ab65724a0a9a0d8fe76259caaf-ao-3-A.svg\" />",
+                "<img src=\"a0a409ab65724a0a9a0d8fe76259caaf-ao-O.svg\" />"
+            ],
+            "guid": "Ra7tvG1S}r",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a0a409ab65724a0a9a0d8fe76259caaf-ao-4",
+                "",
+                "<img src=\"Screenshot 2025-08-13 at 6.54.45 AM.png\" />",
+                "<img src=\"a0a409ab65724a0a9a0d8fe76259caaf-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"a0a409ab65724a0a9a0d8fe76259caaf-ao-4-A.svg\" />",
+                "<img src=\"a0a409ab65724a0a9a0d8fe76259caaf-ao-O.svg\" />"
+            ],
+            "guid": "vsXQi8@&Va",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a0a409ab65724a0a9a0d8fe76259caaf-ao-5",
+                "",
+                "<img src=\"Screenshot 2025-08-13 at 6.54.45 AM.png\" />",
+                "<img src=\"a0a409ab65724a0a9a0d8fe76259caaf-ao-5-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"a0a409ab65724a0a9a0d8fe76259caaf-ao-5-A.svg\" />",
+                "<img src=\"a0a409ab65724a0a9a0d8fe76259caaf-ao-O.svg\" />"
+            ],
+            "guid": "pJ%J7^D=[>",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a0a409ab65724a0a9a0d8fe76259caaf-ao-6",
+                "",
+                "<img src=\"Screenshot 2025-08-13 at 6.54.45 AM.png\" />",
+                "<img src=\"a0a409ab65724a0a9a0d8fe76259caaf-ao-6-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"a0a409ab65724a0a9a0d8fe76259caaf-ao-6-A.svg\" />",
+                "<img src=\"a0a409ab65724a0a9a0d8fe76259caaf-ao-O.svg\" />"
+            ],
+            "guid": "C@IsfB,W.f",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a0a409ab65724a0a9a0d8fe76259caaf-ao-7",
+                "",
+                "<img src=\"Screenshot 2025-08-13 at 6.54.45 AM.png\" />",
+                "<img src=\"a0a409ab65724a0a9a0d8fe76259caaf-ao-7-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"a0a409ab65724a0a9a0d8fe76259caaf-ao-7-A.svg\" />",
+                "<img src=\"a0a409ab65724a0a9a0d8fe76259caaf-ao-O.svg\" />"
+            ],
+            "guid": "ma~RIbEIBx",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "SO<sub>3 =&nbsp;</sub>monosulfur trioxide.<br><br>What is wrong about this?",
+                "if the first element in a binary molecular compound only has one atom, then there should be no prefix"
+            ],
+            "guid": "eJD[Z?s,dH",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is thte special rule for naming binary hydrogen compounds",
+                "NO greek prefix is used<br><br>e.g. H<span style=\"font-size: 16.6667px;\">2S is <b>hydrogen sulfide, not dihydrogen sulfide</b></span>"
+            ],
+            "guid": "k8/X}PyK<q",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the special rule for binary hydrogen compounds with group 15 non-metals?",
+                "The group 15 non-metal is written&nbsp; first in the formula"
+            ],
+            "guid": "MQu[FAua>_",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Given that phosphorous is a group 15 non-metal, how would you write the molecular formula of a binary hydrogen compound with <b>3 hydrogen atoms, and 1 phosphorous atom</b>",
+                "PH<sub>3<br><br>NOT</sub><br><br>H<sub>3</sub>P"
+            ],
+            "guid": "kK3Sj=(LSo",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How are binary molecular compounds with phosphorous named given that phosphorous exhibits multiple oxidation states?",
+                "Oxides of phosphorous are often named assuming phosphorous was a metal<br><br>e.g.&nbsp;<br><br>phosphorous (V) oxide"
+            ],
+            "guid": "wO}-5Qk=>{",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "What are the 2 components in a chemical reaction?",
                 "reactants and products"
             ],
@@ -3262,6 +4015,526 @@
             "guid": "w@M:{_A~By",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Formula",
+                "Name"
+            ],
+            "guid": "7F{42@XyV",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI",
+                "Polyatomic_ions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "H⁺",
+                "Hydrogen ion"
+            ],
+            "guid": "sA^P.6)P#D",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI",
+                "Polyatomic_ions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Li⁺",
+                "Lithium ion"
+            ],
+            "guid": "Ifl4]$Z?Qg",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI",
+                "Polyatomic_ions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Na⁺",
+                "Sodium ion"
+            ],
+            "guid": "M)x<1Thps5",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI",
+                "Polyatomic_ions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "K⁺",
+                "Potassium ion"
+            ],
+            "guid": "L.@Qhg_ox@",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI",
+                "Polyatomic_ions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Mg²⁺",
+                "Magnesium ion"
+            ],
+            "guid": "qca5?`0x;V",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI",
+                "Polyatomic_ions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ca²⁺",
+                "Calcium ion"
+            ],
+            "guid": "chiDZpQ>H~",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI",
+                "Polyatomic_ions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Al³⁺",
+                "Aluminum ion"
+            ],
+            "guid": "m?MiXEWxd>",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI",
+                "Polyatomic_ions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Fe²⁺",
+                "Iron(II) ion / Ferrous ion"
+            ],
+            "guid": "me=#/T^ZU^",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI",
+                "Polyatomic_ions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Fe³⁺",
+                "Iron(III) ion / Ferric ion"
+            ],
+            "guid": "D:$+g7+*dM",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI",
+                "Polyatomic_ions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Zn²⁺",
+                "Zinc ion"
+            ],
+            "guid": "p.LSA%i^S",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI",
+                "Polyatomic_ions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Cu⁺",
+                "Copper(I) ion"
+            ],
+            "guid": "d`>%)P}yFi",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI",
+                "Polyatomic_ions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Cu²⁺",
+                "Copper(II) ion"
+            ],
+            "guid": "F}Vv3yDA#p",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI",
+                "Polyatomic_ions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "NH₄⁺",
+                "Ammonium ion"
+            ],
+            "guid": "d4<V%.PK.{",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI",
+                "Polyatomic_ions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "F⁻",
+                "Fluoride ion"
+            ],
+            "guid": "Oa8.u&&7RI",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI",
+                "Polyatomic_ions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Cl⁻",
+                "Chloride ion"
+            ],
+            "guid": "b`4&s5AHX~",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI",
+                "Polyatomic_ions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Br⁻",
+                "Bromide ion"
+            ],
+            "guid": "lf;#w+BJMV",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI",
+                "Polyatomic_ions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "I⁻",
+                "Iodide ion"
+            ],
+            "guid": "x_2^o@_|@;",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI",
+                "Polyatomic_ions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "O²⁻",
+                "Oxide ion"
+            ],
+            "guid": "rjm)1+>ZDq",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI",
+                "Polyatomic_ions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "S²⁻",
+                "Sulfide ion"
+            ],
+            "guid": "z(I$lWtfvK",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI",
+                "Polyatomic_ions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "N³⁻",
+                "Nitride ion"
+            ],
+            "guid": "v8Yc?my4D0",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI",
+                "Polyatomic_ions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "P³⁻",
+                "Phosphide ion"
+            ],
+            "guid": "yJzmI}-mb",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI",
+                "Polyatomic_ions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "OH⁻",
+                "Hydroxide ion"
+            ],
+            "guid": "HRxOP%!lf]",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI",
+                "Polyatomic_ions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "CN⁻",
+                "Cyanide ion"
+            ],
+            "guid": "q!dd(E?te7",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI",
+                "Polyatomic_ions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "NO₃⁻",
+                "Nitrate ion"
+            ],
+            "guid": "zWK%(+s>Fq",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI",
+                "Polyatomic_ions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "NO₂⁻",
+                "Nitrite ion"
+            ],
+            "guid": "PtrJAZg#?P",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI",
+                "Polyatomic_ions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "SO₄²⁻",
+                "Sulfate ion"
+            ],
+            "guid": "H,x3=t?k=.",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI",
+                "Polyatomic_ions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "SO₃²⁻",
+                "Sulfite ion"
+            ],
+            "guid": "t5+niOB1/o",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI",
+                "Polyatomic_ions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "CO₃²⁻",
+                "Carbonate ion"
+            ],
+            "guid": "d}VbOq#ay`",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI",
+                "Polyatomic_ions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "HCO₃⁻",
+                "Bicarbonate / Hydrogen carbonate ion"
+            ],
+            "guid": "daw)64+U^o",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI",
+                "Polyatomic_ions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "PO₄³⁻",
+                "Phosphate ion"
+            ],
+            "guid": "j*Dm^nkN$*",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI",
+                "Polyatomic_ions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "PO₃³⁻",
+                "Phosphite ion"
+            ],
+            "guid": "vOn6Xq+/h%",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI",
+                "Polyatomic_ions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ClO⁻",
+                "Hypochlorite ion"
+            ],
+            "guid": "gL<l:/IYDd",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI",
+                "Polyatomic_ions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ClO₂⁻",
+                "Chlorite ion"
+            ],
+            "guid": "hC^!*Kd?Ji",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI",
+                "Polyatomic_ions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ClO₃⁻",
+                "Chlorate ion"
+            ],
+            "guid": "j>LfT]g7^g",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI",
+                "Polyatomic_ions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ClO₄⁻",
+                "Perchlorate ion"
+            ],
+            "guid": "f/kaT-XR9e",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI",
+                "Polyatomic_ions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "MnO₄⁻",
+                "Permanganate ion"
+            ],
+            "guid": "y78BZR[tRQ",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI",
+                "Polyatomic_ions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "CrO₄²⁻",
+                "Chromate ion"
+            ],
+            "guid": "kU@UQ8b`&S",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI",
+                "Polyatomic_ions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Cr₂O₇²⁻",
+                "Dichromate ion"
+            ],
+            "guid": "g.0mp;+}hX",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI",
+                "Polyatomic_ions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "C₂H₃O₂⁻",
+                "Acetate ion"
+            ],
+            "guid": "nE1e~Q_4j%",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI",
+                "Polyatomic_ions"
+            ]
         }
     ],
     "reviewLimit": null,
