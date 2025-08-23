@@ -100,83 +100,37 @@
     "extendNew": 0,
     "extendRev": 0,
     "media_files": [
+        "523389c19fc745ffb93a1294cdf1912d-oa-1-A.svg",
+        "523389c19fc745ffb93a1294cdf1912d-oa-1-Q.svg",
+        "523389c19fc745ffb93a1294cdf1912d-oa-2-A.svg",
+        "523389c19fc745ffb93a1294cdf1912d-oa-2-Q.svg",
+        "523389c19fc745ffb93a1294cdf1912d-oa-3-A.svg",
+        "523389c19fc745ffb93a1294cdf1912d-oa-3-Q.svg",
+        "523389c19fc745ffb93a1294cdf1912d-oa-4-A.svg",
+        "523389c19fc745ffb93a1294cdf1912d-oa-4-Q.svg",
+        "523389c19fc745ffb93a1294cdf1912d-oa-5-A.svg",
+        "523389c19fc745ffb93a1294cdf1912d-oa-5-Q.svg",
+        "523389c19fc745ffb93a1294cdf1912d-oa-6-A.svg",
+        "523389c19fc745ffb93a1294cdf1912d-oa-6-Q.svg",
+        "523389c19fc745ffb93a1294cdf1912d-oa-7-A.svg",
+        "523389c19fc745ffb93a1294cdf1912d-oa-7-Q.svg",
+        "523389c19fc745ffb93a1294cdf1912d-oa-8-A.svg",
+        "523389c19fc745ffb93a1294cdf1912d-oa-8-Q.svg",
+        "523389c19fc745ffb93a1294cdf1912d-oa-9-A.svg",
+        "523389c19fc745ffb93a1294cdf1912d-oa-9-Q.svg",
+        "523389c19fc745ffb93a1294cdf1912d-oa-O.svg",
+        "Screenshot 2025-08-23 at 5.52.42 PM.png",
         "paste-2e7852dd6f6f5328f7f6e1ea809ea85b1ffadbcd.jpg",
         "paste-6c38d63b1029274ad5b0b8fa5058662400c7ae10.jpg",
         "paste-7fc1497142cc61e394238b9ad6946bd8285d085a.jpg",
         "paste-af4e8536279857ca182d91e88d2d86a340fc9ba5.jpg",
+        "paste-bf86f48a27895e6efa1e8c1c19c97134d9f7ad2f.jpg",
         "paste-e7c31e29228df50cbf137d4b3484ed700d937630.jpg"
     ],
     "name": "(2) CPA",
     "newLimit": null,
     "newLimitToday": null,
     "note_models": [
-        {
-            "__type__": "NoteModel",
-            "crowdanki_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
-            "flds": [
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": 9205121651523078416,
-                    "name": "Front",
-                    "ord": 0,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                },
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": -7001571941991209685,
-                    "name": "Back",
-                    "ord": 1,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "latexsvg": false,
-            "name": "Basic",
-            "originalStockKind": 1,
-            "req": [
-                [
-                    0,
-                    "any",
-                    [
-                        0
-                    ]
-                ]
-            ],
-            "sortf": 0,
-            "tmpls": [
-                {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
-                    "bafmt": "",
-                    "bfont": "",
-                    "bqfmt": "",
-                    "bsize": 0,
-                    "did": null,
-                    "id": -471929315152782166,
-                    "name": "Card 1",
-                    "ord": 0,
-                    "qfmt": "{{Front}}"
-                }
-            ],
-            "type": 0
-        },
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "6bba29fa-6617-11f0-8bc1-f5d300799d77",
@@ -310,9 +264,501 @@
                 }
             ],
             "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 9205121651523078416,
+                    "name": "Front",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -7001571941991209685,
+                    "name": "Back",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic",
+            "originalStockKind": 1,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": -471929315152782166,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n.cloze {\n    font-weight: bold;\n    color: blue;\n}\n.nightMode .cloze {\n    color: lightblue;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -5999884917947464331,
+                    "name": "Text",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": true,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": 0
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 7159354697063675009,
+                    "name": "Back Extra",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": 1
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Cloze",
+            "originalStockKind": 5,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Back Extra}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": -6628808917458755412,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -279344989441727977,
+                    "name": "ID (hidden)",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -8019144233852573474,
+                    "name": "Header",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -5192177934792951139,
+                    "name": "Image",
+                    "ord": 2,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -996507654485675920,
+                    "name": "Question Mask",
+                    "ord": 3,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -2622217631836698292,
+                    "name": "Footer",
+                    "ord": 4,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 6158505670062219761,
+                    "name": "Remarks",
+                    "ord": 5,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -4411387447535134541,
+                    "name": "Sources",
+                    "ord": 6,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -7688410427295178531,
+                    "name": "Extra 1",
+                    "ord": 7,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 326092553592481837,
+                    "name": "Extra 2",
+                    "ord": 8,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -2552522292509077285,
+                    "name": "Answer Mask",
+                    "ord": 9,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 5776824685556938887,
+                    "name": "Original Mask",
+                    "ord": 10,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Image Occlusion Enhanced",
+            "originalStockKind": 1,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 1,
+            "tmpls": [
+                {
+                    "afmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n\n<script>\n// Toggle answer mask on clicking the image\nvar toggle = function() {\n  var amask = document.getElementById('io-overlay');\n  if (amask.style.display === 'block' || amask.style.display === '')\n    amask.style.display = 'none';\n  else\n    amask.style.display = 'block'\n}\n\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": 2322984612947848412,
+                    "name": "IO Card",
+                    "ord": 0,
+                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
+                }
+            ],
+            "type": 0
         }
     ],
     "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "Color is defined as the property produced by an object of producing different {{c2::sensation on the eye}} as a result of the way the object {{c1::reflects light}}",
+                ""
+            ],
+            "guid": "vkD@:Llbb+",
+            "note_model_uuid": "6bba29fa-6617-11f0-8bc1-f5d300799d77",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The human eye can distinguish how many colors?",
+                "10 million"
+            ],
+            "guid": "izJj1X6FWX",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Defined as light sensitive cells",
+                "Cones"
+            ],
+            "guid": "i!r|Hsp{t#",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Cones are found where?",
+                "In the retina"
+            ],
+            "guid": "oSE+e]QciL",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The cones come in which types?",
+                "RGB"
+            ],
+            "guid": "A&:i<7Bcc`",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the 3 secondary colors?",
+                "Orange, green, violet"
+            ],
+            "guid": "tELb[W0a68",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How many tertiary colors are there?",
+                "6"
+            ],
+            "guid": "L0O|b5VvBx",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Complementary colors are {{c1::opposite}} on the color wheel",
+                ""
+            ],
+            "guid": "JE5@s<[=o[",
+            "note_model_uuid": "6bba29fa-6617-11f0-8bc1-f5d300799d77",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the 3 components of a monochromatic palette?",
+                "Base, Shade, Tint"
+            ],
+            "guid": "fko$~Kt&U^",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Defined as the main color of a monochromatic palette",
+                "Base"
+            ],
+            "guid": "IU>yFtlc%t",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Defined as the darker version of the base in a monochromatic palette",
+                "Shade"
+            ],
+            "guid": "i`JfBZ-KbR",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Defined as the lighter version of the base in a monochromatic palette",
+                "tint"
+            ],
+            "guid": "LI~=.AtH`v",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Defined as the name of the color regardless of value",
+                "Hue"
+            ],
+            "guid": "B@0#P2l96a",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
         {
             "__type__": "Note",
             "fields": [
@@ -604,162 +1050,6 @@
         {
             "__type__": "Note",
             "fields": [
-                "Color is defined as the property produced by an object of producing different {{c2::sensation on the eye}} as a result of the way the object {{c1::reflects light}}",
-                ""
-            ],
-            "guid": "vkD@:Llbb+",
-            "note_model_uuid": "6bba29fa-6617-11f0-8bc1-f5d300799d77",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "The human eye can distinguish how many colors?",
-                "10 million"
-            ],
-            "guid": "izJj1X6FWX",
-            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Defined as light sensitive cells",
-                "Cones"
-            ],
-            "guid": "i!r|Hsp{t#",
-            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Cones are found where?",
-                "In the retina"
-            ],
-            "guid": "oSE+e]QciL",
-            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "The cones come in which types?",
-                "RGB"
-            ],
-            "guid": "A&:i<7Bcc`",
-            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "What are the 3 secondary colors?",
-                "Orange, green, violet"
-            ],
-            "guid": "tELb[W0a68",
-            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "How many tertiary colors are there?",
-                "6"
-            ],
-            "guid": "L0O|b5VvBx",
-            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Complementary colors are {{c1::opposite}} on the color wheel",
-                ""
-            ],
-            "guid": "JE5@s<[=o[",
-            "note_model_uuid": "6bba29fa-6617-11f0-8bc1-f5d300799d77",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "What are the 3 components of a monochromatic palette?",
-                "Base, Shade, Tint"
-            ],
-            "guid": "fko$~Kt&U^",
-            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Defined as the main color of a monochromatic palette",
-                "Base"
-            ],
-            "guid": "IU>yFtlc%t",
-            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Defined as the darker version of the base in a monochromatic palette",
-                "Shade"
-            ],
-            "guid": "i`JfBZ-KbR",
-            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Defined as the lighter version of the base in a monochromatic palette",
-                "tint"
-            ],
-            "guid": "LI~=.AtH`v",
-            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Defined as the name of the color regardless of value",
-                "Hue"
-            ],
-            "guid": "B@0#P2l96a",
-            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
                 "This pre-colonial form of philippine art represents bravery, tribal affiliation, spirituality",
                 "Tattoos"
             ],
@@ -816,6 +1106,947 @@
             "tags": [
                 "Q1_Monthly"
             ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does GAMABA mean",
+                "Gawad sa Manlilikha ng Bayan"
+            ],
+            "guid": "zdP#}TDz}:",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "When was the GAMABA Act formalized?",
+                "1992"
+            ],
+            "guid": "HtX>#*/4p1",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the # of the Manlilikha ng Bayan Act?",
+                "RA No. 7355"
+            ],
+            "guid": "v5=z@B9)*u",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which body oversees the implementation of RA No. 7355",
+                "The National Commission for the Culture and the Arts"
+            ],
+            "guid": "H~!OItzF^z",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The GAMABA award is tied with a program that ensures the {{c2::transfer of their skills}} to new generations and the {{c1::promotion of the craft}} both locally and internationally",
+                ""
+            ],
+            "guid": "J*m}O>Fv`C",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In {{c1::2014}}, the Senate of the Philippines adopted {{c2::Senate Resolution No. 765}} aimed at {{c3::recognizing the accomplishments of the country's living treasures}}",
+                ""
+            ],
+            "guid": "w2YqhR5fpA",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The GAMABA award logo is a representation of what?",
+                "A representation of the human form used in traditional cloth"
+            ],
+            "guid": "m2uA;_xST-",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is found below the GAMABA logo?",
+                "\"Manlilikha ng Bayan\" in Baybayin"
+            ],
+            "guid": "QYXTw#~z0j",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In which century was Baybayin used by Filipinos?",
+                "16th century"
+            ],
+            "guid": "qJB1XyXaVg",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A GAMABA awardee should be a filipino citizen/group belonging to what?",
+                "An indigenous community in the nation"
+            ],
+            "guid": "P/-@*Af5Ut",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the minimum amount of time of existence and documentation of art for GAMABA awardees?",
+                "50 years"
+            ],
+            "guid": "K,`7sbA]$H",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Asides from making really good forms of art, another criteria for GAMABA awardees is that?",
+                "They should pass on their traditional skills to other members of the community"
+            ],
+            "guid": "p=g3.zVf(v",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In the case when a Manlilikha ng Bayan candidate is incapable of teaching their craft, what are the 3 alternative criteria?",
+                "1. Must have created a significant body of work/contributed to development of tradition<br><br>2. Played a role in the preservation/revitalization of the artistic tradition<br><br>3. They have been recognized as a master of their craft/admired for their character in their community"
+            ],
+            "guid": "f;Kh#g&ADJ",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the 6 criteria for GAMABA candidates?",
+                "1. Should be a Filipino citizen that engages in traditional art<br>2. Should have engaged in the craft for at least 50 yrs.<br>3. Should have produced works of superior quality<br>4. Should have possessed mastery of the tools &amp; materials / reputation of being a master in the community<br>5. Should pass down their skills to other members<br>6. The alternative for passing down skills"
+            ],
+            "guid": "H!AsiSR_(^",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A poet from Hanunuo Mangyan, Panaytayan, Oriental Mindoro",
+                "Ginaw Bilog"
+            ],
+            "guid": "z/jNUwa=`,",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What specific art did Ginaw Bilog make?",
+                "Ambahan"
+            ],
+            "guid": "c/Ung)]S:A",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "how many syllables are found in each lline of ambahan?",
+                "7"
+            ],
+            "guid": "j{B>n[>u0H",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In Ambahan, the messe is mostly about?",
+                "Love and Friendship"
+            ],
+            "guid": "jy%EyP)T;`",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Where was Masino Intaray from?",
+                "Brookes Point, Palawan"
+            ],
+            "guid": "fr-i{^hcH]",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Masino Intaray}} was a {{c2::musician}} and {{c2::poet}} whose expertise were the {{c3::Basal,}} {{c3::Kulilal}}, and {{c3::Bagit}}",
+                ""
+            ],
+            "guid": "eiZp-OSc>M",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In what occasions is Basal played?",
+                "Tambilaw and tinapay"
+            ],
+            "guid": ":@6(n:.Px",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is \"basal\"",
+                "A kind of musical ensemble"
+            ],
+            "guid": "x$1pVopLr^",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A ritual of rice sharing among the Palawan people",
+                "Tambilaw"
+            ],
+            "guid": "luQ0ZHwHyC",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The tambilaw is an offering to the?",
+                "to the Lord of Rice"
+            ],
+            "guid": "I9Xx}:o:d{",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is tinapay among the palawan people?",
+                "A rice wine drinking"
+            ],
+            "guid": "nBr@{we3fG",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A 2-stringed plucked lute",
+                "The Kutyapi"
+            ],
+            "guid": "lYL~`RY>2h",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "One of the most difficult to master indigenous Filipino instrument",
+                "The Kutyapi"
+            ],
+            "guid": "Hw_6}R3j?Z",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This GAMABA awardee is a musician who is a master in playing the kutyapi",
+                "Samaon Sulaiman"
+            ],
+            "guid": "pWyN.xg$>b",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Samaon Sulaiman is from?",
+                "Mamasapano, Maguindanao"
+            ],
+            "guid": "dGN*=M$`y~",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This GAMABA awardee is a T'boli textile weaver",
+                "Lang Dulay"
+            ],
+            "guid": "H/;+eOLa7A",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Where is Lang Dulay from?",
+                "T'boli, Lake Sebu, South Cotabato"
+            ],
+            "guid": "xELCJRJsQY",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A kind of fabric made of fine abaca fibers with different designs",
+                "Tnalak"
+            ],
+            "guid": "i-=:V*c+bi",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which GAMABA awardee is known for the mastery of the Tnalak?",
+                "Lang Dulay"
+            ],
+            "guid": "IaQfKs/T~A",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A textile weaver who started weaving at the age of 12 through the guidance of her mother",
+                "Salinta Monon"
+            ],
+            "guid": "OwwH(*Mc9I",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the two woven tube skirt of the Bagobo?",
+                "Sinukla and Bandura"
+            ],
+            "guid": "D*uPYVfD,q",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This GAMABA awardee used to wear the traditional hand woven tube skirt of the Bagobo",
+                "Salinta Monon"
+            ],
+            "guid": "cc_`;;E7I=",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Where is Salinta Monon from?",
+                "Tagabawa Bagobo, Bansalan, Davao del Sur"
+            ],
+            "guid": "JtB-@A{@;(",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This GAMABA awardee is the founder of the Kalinga Budong Dance Troupe",
+                "Alonzo Saclag"
+            ],
+            "guid": "u^fc@lR_dG",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Alonzo Saclag is the founder of?",
+                "Kalinga Budong Dance Troupe"
+            ],
+            "guid": "Nl!mtbd8R~",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A master of dance and the performing arts from the Kalinga tribe",
+                "Alonzo Saclag"
+            ],
+            "guid": "ES{*aBp$mG",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Where is Alonzo Saclag from?",
+                "Lubugan, Kalinga"
+            ],
+            "guid": "H/*DL5,|.>",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This GAMABA awardee is also known as the \"Epic Chanter\"",
+                "Federico Caballero"
+            ],
+            "guid": "Pb<FP@$Eng",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This GAMABA awardee is primarily known for the documentation of the oral epics of his people",
+                "Federico Caballero"
+            ],
+            "guid": "qIP>&sU_^V",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the 2 epics Federico Caballero is known to have recorded?",
+                "- Labaw Dunggon&nbsp;<br>- Humadapnon"
+            ],
+            "guid": "nb;r,w,#yM",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The longest epic to recite by federico caballero",
+                "Humadapnon"
+            ],
+            "guid": "D^K42~|}}4",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How many months of daily performances are required to completely chant Humadapnon?",
+                "2 months"
+            ],
+            "guid": "QQ`Z|p*Z)U",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Where is Federico Caballero from?",
+                "Sulod-Bukidnon, Calinog, Iloilo"
+            ],
+            "guid": "vA`_>%*;b9",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This GAMABA awardee is a Yakan",
+                "Uwang Ahadas"
+            ],
+            "guid": "O,K-M0M2Fp",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "People whom instrumental music is closely connected to the spiritual realme",
+                "Yakan"
+            ],
+            "guid": "C)k@i[UZ#!",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This instrument consists of 5 wooden logs hung horizontally from shortest to longest<br><img src=\"paste-bf86f48a27895e6efa1e8c1c19c97134d9f7ad2f.jpg\">",
+                "Kwintangan kayu"
+            ],
+            "guid": "KZ]dv<=JW+",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The kwintangan kayu is played to serenade the {{c1::palay}}",
+                ""
+            ],
+            "guid": "j}EbQ(jWRK",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This GAMABA awardee plays the Kwintangan Kayu",
+                "Uwang Ahadas"
+            ],
+            "guid": "D7u6~iDF0B",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Where is Uwang Ahadas from",
+                "Yakan Lamitan, Basailan"
+            ],
+            "guid": "io$KGpsj[,",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This GAMABA awardee wove the Pis Syabit",
+                "Darhata Sawabi"
+            ],
+            "guid": "m}vIiPtz.k",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The traditional cloth tapestry worn as a head covering by the Tausug of Jolo",
+                "Pis Syabit"
+            ],
+            "guid": "cNQb.]O[W>",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Where is Darhata Sawabi from?",
+                "Tausug, Parang, Sulu"
+            ],
+            "guid": "EGSiCTq9OS",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This GAMABA awardee is a metal smith",
+                "Eduardo Mutuc"
+            ],
+            "guid": "dsXh&o?BMo",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In what types of materials did Eduardo Mutuc create his work with?",
+                "Silver, bronze, and wood"
+            ],
+            "guid": "K15%PT|iM[",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Eduardo Mutuc only made religious artworks. T or F?",
+                "F, both religious and secular"
+            ],
+            "guid": "N?l2M,jYRp",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This GAMABA Awardee is a mat weaver",
+                "Haja Amina Appi"
+            ],
+            "guid": "ObAK7q4-@(",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Where is Eduardo Mutuc from?",
+                "Kapampangan, Apalit, Pampanga"
+            ],
+            "guid": "iIs3-EYYM[",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "One of the most treasured traditions of the Sama People",
+                "Mat weaving"
+            ],
+            "guid": "kWudO_i/#.",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The mat of the Sama people is made up of?",
+                "Pandan Leaves"
+            ],
+            "guid": "l*E$.BF!EP",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "what are the 4 steps of creating the mat of the Sama People?",
+                "1. Stripping<br>2. Sun Drying<br>3. Dyeing<br>4. Weaving"
+            ],
+            "guid": "bjBv@v%+vw",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Where is Haja Amina Appi from?",
+                "Sama Tandubas, Tawi-Tawi"
+            ],
+            "guid": "wGIx:G5J8{",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This Gamaba Awardee makes and wears the Tabungaw",
+                "Teofilo Garcia"
+            ],
+            "guid": "uZ><YQCWVg",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This form of craft is a gourd hat",
+                "Tabungaw"
+            ],
+            "guid": "f771w{1f4n",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This GAMABA awardee is known as a Casque maker",
+                "Teofilo Garcia"
+            ],
+            "guid": "I%/c[#+[$k",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Where is Teofilo Garcia from?",
+                "Ilokano, San Quintin, Abra"
+            ],
+            "guid": "LW|6/`gY,0",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The textile weaving of Ilokano from&nbsp; is known as?",
+                "Abel"
+            ],
+            "guid": "yO#snYF|#7",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What material is used in the textile weaving of Abel",
+                "Local cotton"
+            ],
+            "guid": "lPu7*arZtk",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the 3 traditional patterns of Abel",
+                "- Binakol and Inuritan<br>- Kusikos<br>- Sinan-sabong"
+            ],
+            "guid": "t}LrPcwSvt",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which pattern of Abel is geometric",
+                "Binakol and Inuritan"
+            ],
+            "guid": "hiabH6IO9B",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which pattern of Abel has spiral forms similar to orange",
+                "Kusikos"
+            ],
+            "guid": "yEBuUGJx<I",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which pattern of Abel is like flowers",
+                "Sinan-sabong"
+            ],
+            "guid": "z;/anU2~}5",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This GAMABA Awardee is an expert of Abel",
+                "Magdalena Gamayo"
+            ],
+            "guid": "fWaVYJ3fdJ",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Where is Magdalena Gamayo from?",
+                "Ilokano, Pinili, Ilocos Norte"
+            ],
+            "guid": "BbW@Du{}J6",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "523389c19fc745ffb93a1294cdf1912d-oa-1",
+                "",
+                "<img src=\"Screenshot 2025-08-23 at 5.52.42 PM.png\" />",
+                "<img src=\"523389c19fc745ffb93a1294cdf1912d-oa-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"523389c19fc745ffb93a1294cdf1912d-oa-1-A.svg\" />",
+                "<img src=\"523389c19fc745ffb93a1294cdf1912d-oa-O.svg\" />"
+            ],
+            "guid": "g+|,c`J,q,",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "523389c19fc745ffb93a1294cdf1912d-oa-2",
+                "",
+                "<img src=\"Screenshot 2025-08-23 at 5.52.42 PM.png\" />",
+                "<img src=\"523389c19fc745ffb93a1294cdf1912d-oa-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"523389c19fc745ffb93a1294cdf1912d-oa-2-A.svg\" />",
+                "<img src=\"523389c19fc745ffb93a1294cdf1912d-oa-O.svg\" />"
+            ],
+            "guid": "o7s43{G:`I",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "523389c19fc745ffb93a1294cdf1912d-oa-3",
+                "",
+                "<img src=\"Screenshot 2025-08-23 at 5.52.42 PM.png\" />",
+                "<img src=\"523389c19fc745ffb93a1294cdf1912d-oa-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"523389c19fc745ffb93a1294cdf1912d-oa-3-A.svg\" />",
+                "<img src=\"523389c19fc745ffb93a1294cdf1912d-oa-O.svg\" />"
+            ],
+            "guid": "suoxX#1[|@",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "523389c19fc745ffb93a1294cdf1912d-oa-4",
+                "",
+                "<img src=\"Screenshot 2025-08-23 at 5.52.42 PM.png\" />",
+                "<img src=\"523389c19fc745ffb93a1294cdf1912d-oa-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"523389c19fc745ffb93a1294cdf1912d-oa-4-A.svg\" />",
+                "<img src=\"523389c19fc745ffb93a1294cdf1912d-oa-O.svg\" />"
+            ],
+            "guid": "pvP?%t4cci",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "523389c19fc745ffb93a1294cdf1912d-oa-5",
+                "",
+                "<img src=\"Screenshot 2025-08-23 at 5.52.42 PM.png\" />",
+                "<img src=\"523389c19fc745ffb93a1294cdf1912d-oa-5-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"523389c19fc745ffb93a1294cdf1912d-oa-5-A.svg\" />",
+                "<img src=\"523389c19fc745ffb93a1294cdf1912d-oa-O.svg\" />"
+            ],
+            "guid": "Kn7l)l!-D~",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "523389c19fc745ffb93a1294cdf1912d-oa-6",
+                "",
+                "<img src=\"Screenshot 2025-08-23 at 5.52.42 PM.png\" />",
+                "<img src=\"523389c19fc745ffb93a1294cdf1912d-oa-6-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"523389c19fc745ffb93a1294cdf1912d-oa-6-A.svg\" />",
+                "<img src=\"523389c19fc745ffb93a1294cdf1912d-oa-O.svg\" />"
+            ],
+            "guid": "C2/{8t^$~S",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "523389c19fc745ffb93a1294cdf1912d-oa-7",
+                "",
+                "<img src=\"Screenshot 2025-08-23 at 5.52.42 PM.png\" />",
+                "<img src=\"523389c19fc745ffb93a1294cdf1912d-oa-7-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"523389c19fc745ffb93a1294cdf1912d-oa-7-A.svg\" />",
+                "<img src=\"523389c19fc745ffb93a1294cdf1912d-oa-O.svg\" />"
+            ],
+            "guid": "HX0hRg.Omz",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "523389c19fc745ffb93a1294cdf1912d-oa-8",
+                "",
+                "<img src=\"Screenshot 2025-08-23 at 5.52.42 PM.png\" />",
+                "<img src=\"523389c19fc745ffb93a1294cdf1912d-oa-8-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"523389c19fc745ffb93a1294cdf1912d-oa-8-A.svg\" />",
+                "<img src=\"523389c19fc745ffb93a1294cdf1912d-oa-O.svg\" />"
+            ],
+            "guid": "s+lJ(p8A:|",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "523389c19fc745ffb93a1294cdf1912d-oa-9",
+                "",
+                "<img src=\"Screenshot 2025-08-23 at 5.52.42 PM.png\" />",
+                "<img src=\"523389c19fc745ffb93a1294cdf1912d-oa-9-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"523389c19fc745ffb93a1294cdf1912d-oa-9-A.svg\" />",
+                "<img src=\"523389c19fc745ffb93a1294cdf1912d-oa-O.svg\" />"
+            ],
+            "guid": "m/0ip=xmHI",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
         },
         {
             "__type__": "Note",
