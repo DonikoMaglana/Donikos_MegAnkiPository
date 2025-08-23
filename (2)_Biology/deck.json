@@ -153,6 +153,15 @@
         "0ce3e40dd6094a399be59ccfd309a05a-ao-9-A.svg",
         "0ce3e40dd6094a399be59ccfd309a05a-ao-9-Q.svg",
         "0ce3e40dd6094a399be59ccfd309a05a-ao-O.svg",
+        "3f0d043678a8453c9c1e554a94df8749-ao-1-A.svg",
+        "3f0d043678a8453c9c1e554a94df8749-ao-1-Q.svg",
+        "3f0d043678a8453c9c1e554a94df8749-ao-2-A.svg",
+        "3f0d043678a8453c9c1e554a94df8749-ao-2-Q.svg",
+        "3f0d043678a8453c9c1e554a94df8749-ao-3-A.svg",
+        "3f0d043678a8453c9c1e554a94df8749-ao-3-Q.svg",
+        "3f0d043678a8453c9c1e554a94df8749-ao-4-A.svg",
+        "3f0d043678a8453c9c1e554a94df8749-ao-4-Q.svg",
+        "3f0d043678a8453c9c1e554a94df8749-ao-O.svg",
         "4dfb2bec78b54bbb9f83d4c2e532176a-ao-1-A.svg",
         "4dfb2bec78b54bbb9f83d4c2e532176a-ao-1-Q.svg",
         "4dfb2bec78b54bbb9f83d4c2e532176a-ao-2-A.svg",
@@ -202,6 +211,15 @@
         "55ef94cc80cc4b8a9c0bc53b7237ec86-ao-9-A.svg",
         "55ef94cc80cc4b8a9c0bc53b7237ec86-ao-9-Q.svg",
         "55ef94cc80cc4b8a9c0bc53b7237ec86-ao-O.svg",
+        "5daaaa2c174543b68c5c772d6c47739f-ao-1-A.svg",
+        "5daaaa2c174543b68c5c772d6c47739f-ao-1-Q.svg",
+        "5daaaa2c174543b68c5c772d6c47739f-ao-2-A.svg",
+        "5daaaa2c174543b68c5c772d6c47739f-ao-2-Q.svg",
+        "5daaaa2c174543b68c5c772d6c47739f-ao-3-A.svg",
+        "5daaaa2c174543b68c5c772d6c47739f-ao-3-Q.svg",
+        "5daaaa2c174543b68c5c772d6c47739f-ao-4-A.svg",
+        "5daaaa2c174543b68c5c772d6c47739f-ao-4-Q.svg",
+        "5daaaa2c174543b68c5c772d6c47739f-ao-O.svg",
         "6f87ba054d9e438584590f147a2fd299-ao-1-A.svg",
         "6f87ba054d9e438584590f147a2fd299-ao-1-Q.svg",
         "6f87ba054d9e438584590f147a2fd299-ao-2-A.svg",
@@ -225,6 +243,17 @@
         "Screenshot 2025-08-08 at 11.50.52 AM.png",
         "Screenshot 2025-08-08 at 2.13.08 PM.png",
         "Screenshot 2025-08-08 at 2.22.07 PM.png",
+        "Screenshot 2025-08-23 at 12.34.23 PM.png",
+        "Screenshot 2025-08-23 at 12.37.46 PM.png",
+        "Screenshot 2025-08-23 at 12.52.15 PM.png",
+        "b33239c35ff24034859adb1a081bbe47-ao-1-A.svg",
+        "b33239c35ff24034859adb1a081bbe47-ao-1-Q.svg",
+        "b33239c35ff24034859adb1a081bbe47-ao-2-A.svg",
+        "b33239c35ff24034859adb1a081bbe47-ao-2-Q.svg",
+        "b33239c35ff24034859adb1a081bbe47-ao-3-A.svg",
+        "b33239c35ff24034859adb1a081bbe47-ao-3-Q.svg",
+        "b33239c35ff24034859adb1a081bbe47-ao-O.svg",
+        "brownfatbyRaySoccio750.jpg",
         "ce5e95e0660147b985b0761f60d8c4c8-ao-1-A.svg",
         "ce5e95e0660147b985b0761f60d8c4c8-ao-1-Q.svg",
         "ce5e95e0660147b985b0761f60d8c4c8-ao-10-A.svg",
@@ -4972,6 +5001,1695 @@
                 "Ectoderm layer of the embryo"
             ],
             "guid": "D&ii`9=N!d",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "These cells are known as precursor cells",
+                "Stem cells"
+            ],
+            "guid": "md70S:)S`_",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the two different categories of stem cells?",
+                "Unipotent &amp; Pluripotent"
+            ],
+            "guid": "Gd#>k?pPf:",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Defined as a cell's capacity to give rise to only one cell type",
+                "Unipotency"
+            ],
+            "guid": "D]7@}w,B~^",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Defined as a cell's capacity to give rise to all cell types in the body, except for some",
+                "Pluripotency"
+            ],
+            "guid": "O?-q*}n(F?",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Pluripotent stem cells can give rise to all cell types except 3",
+                "Placenta, amnion, chorion"
+            ],
+            "guid": "nGGW_q-Szw",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the most primitive, undifferentiated cells in an embryo called?",
+                "Embryonic stem cells"
+            ],
+            "guid": "sDaJ.f3#0m",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Defined as the ability to differentiate into multiple cell types often due to <b>external stimuli</b>",
+                "Plasticity"
+            ],
+            "guid": "j+ql3&-]$^",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the 3 types of unipotent stem cells?",
+                "- Hematopoietic stem cells<br>- Mesenchymal stem cellls<br>- Skin stem cells"
+            ],
+            "guid": "h4_0Vd1_2Q",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of unipotent stem cells can give rise to all types of blood cells",
+                "Hematopoietic stem cells"
+            ],
+            "guid": "i4ciizqg8N",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Also known as \"bone marrow stromal cells\"",
+                "Mesenchymal stem cells"
+            ],
+            "guid": "wG,ZBv[dpb",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the 3 main varieties of cell types derived from mesenchymal stem cells?",
+                "Osteoblasts, Chondrocytes, Adipocytes and other types of connective tissue"
+            ],
+            "guid": "Iswp|K?&<l",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Where are the two places skin stem cells primarily found?",
+                "- Basal layer of the epidermis<br>- Base of hair follicles"
+            ],
+            "guid": "GzN6R78[i1",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the cell type derived from skin stem cells?",
+                "Keratinocytes"
+            ],
+            "guid": "zv^76e#s0A",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of stem cell gives rise to both hair <b>follicles</b> and the <b>epidermis</b>",
+                "Follicular stem cells"
+            ],
+            "guid": "I*l1S)*x(N",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the 3 major cell types neural stem cells give rise to?",
+                "Nerve cells/neurons, astrocytes, and oligodendrocytes"
+            ],
+            "guid": "wz[WP]okeG",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the 2 nonneuronal cells that are derived from neural stem cells",
+                "Astrocytes and oligodendrocytes"
+            ],
+            "guid": "MGvyt$=)`4",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the 4 types of cells that are derived from epithelial stem cells?",
+                "- Absorptive cells<br>- Goblet cells<br>- Paneth cells<br>- Enteroendocrine cells"
+            ],
+            "guid": "y#:+1pO#4_",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the 3 main types of blood cells (with the \"-cytes\" suffix)",
+                "- Erythrocytes<br>- Leukocytes<br>- Thrombocytes"
+            ],
+            "guid": "Ew3Dba=<^}",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the shape of erythrorocytes",
+                "Biconcave discs"
+            ],
+            "guid": "NoP8]JweRk",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Erythryocytes use what to transport oxygen?",
+                "Hemoglobin"
+            ],
+            "guid": "lsJWA`@aYW",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What percent do leukocytes account for in the blood?",
+                "1%"
+            ],
+            "guid": "B}OQA~v8Nb",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the two main categories of leukocytes?",
+                "Granulocytes and Agranulocytes"
+            ],
+            "guid": "q4^N^iA@4U",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The granules in granulocytes are?",
+                "Lysosomes"
+            ],
+            "guid": "A>B<#C,@?*",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Enumerate the 3 types of granulocytes",
+                "- Neutrophils<br>- Eosinophils<br>- Basophils"
+            ],
+            "guid": "GMzmbRx|YN",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Defined as the most common type of leukocyte",
+                "Neutrophils"
+            ],
+            "guid": "jGyx,h{)R,",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What percent of white blood cells are neutrophils?",
+                "65%"
+            ],
+            "guid": "icqKHr?T#s",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the diameter of a neutrophil?",
+                "12 to 14 µm in diameter"
+            ],
+            "guid": "zb)D]HvXh|",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How many nuclei in a neutrophil?",
+                "only 1"
+            ],
+            "guid": "Q44g-x<d|M",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Where do neutrophils originate?",
+                "Bone marrow"
+            ],
+            "guid": "fPU[$!Kc/t",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How long do neutrophils circulate in the bloodstream before entering surrounding tissues?",
+                "6 - 10 hours"
+            ],
+            "guid": "QmcOCQ1Jbl",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This is the 2nd rarest granulocyte in the blood stream",
+                "Eosinophils"
+            ],
+            "guid": "w>bREC)]4(",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the diameter of eosinophils?",
+                "12 to 17 µm"
+            ],
+            "guid": "QKn|>w&mA>",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This granulocyte contains toxic proteins",
+                "Eosinophils"
+            ],
+            "guid": "l`ih$*B1<v",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of granulocyte destroys bacteria/viruses/parasites",
+                "Eosinophils"
+            ],
+            "guid": "E8l=R:.!!_",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This is the rarest form of white blood cell in the body",
+                "Basophil"
+            ],
+            "guid": "KviLn.7HF8",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This granulocyte is responsible for defense against parasites",
+                "Basophils"
+            ],
+            "guid": "CM1+BI#Ud_",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the diameter of basophils",
+                "14 to 16 µm"
+            ],
+            "guid": "k:]q$>+?!R",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of granulocyte is responsible for causing inflammatory responses",
+                "Basophils"
+            ],
+            "guid": "H2BP(uDgL=",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of granulocyte accumulates at infected areas",
+                "Basophils"
+            ],
+            "guid": "B|3|QDa<Nv",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What do basophils release (3 things) to increase blood flow?",
+                "Histamines, serotonin, and prostaglandins"
+            ],
+            "guid": "HtCyeB(xZd",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the 2 main types of lymphocytes?",
+                "B-cells and T-cells"
+            ],
+            "guid": "seM0g2((#Z",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of lymphocytes develop into plasma cells&nbsp;",
+                "B-cells"
+            ],
+            "guid": "fu/]p:bbqw",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of lymphocyte is involved in the synthesis of antibodies",
+                "B-cells"
+            ],
+            "guid": "c7pmACt*Ow",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of lymphocyte is involved in the destruction of bacteria/viruses/cancer cells",
+                "T-cells"
+            ],
+            "guid": "L1{nSe}BM",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the 2 types of agranulocytes?",
+                "- Lymphocytes<br>- Monocytes"
+            ],
+            "guid": "E9Pdj+&^A+",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the diameter of monocytes?",
+                "20 µm in diameter"
+            ],
+            "guid": "pdsW[>5a%i",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of agranulocyte has a kidney-bean shaped nucleus",
+                "monocyte"
+            ],
+            "guid": "bE([:sLafN",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Large phagocytic cells that engulf and kill dead cells and bacterial cells",
+                "Macrophages"
+            ],
+            "guid": "qp;9mX`@Z?",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Macrophages fall under this type of agranulocyte",
+                "Monocytes"
+            ],
+            "guid": "QrWYCh^U)",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Known as \"fragments\" of cells that are vital in bleeding control",
+                "Thrombocytes"
+            ],
+            "guid": "cU>0&FG7Q8",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the lifespan of a thrombocyte once it circulates in your bloodstream?",
+                "8 to 10 days"
+            ],
+            "guid": "d1}oh]G&Y@",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Neurons transmit info throughout the body in the form of?",
+                "Electrical signals"
+            ],
+            "guid": "eAuHH@NIRe",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "b33239c35ff24034859adb1a081bbe47-ao-1",
+                "",
+                "<img src=\"Screenshot 2025-08-23 at 12.34.23 PM.png\" />",
+                "<img src=\"b33239c35ff24034859adb1a081bbe47-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"b33239c35ff24034859adb1a081bbe47-ao-1-A.svg\" />",
+                "<img src=\"b33239c35ff24034859adb1a081bbe47-ao-O.svg\" />"
+            ],
+            "guid": "K%.P[L)c:;",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "b33239c35ff24034859adb1a081bbe47-ao-2",
+                "",
+                "<img src=\"Screenshot 2025-08-23 at 12.34.23 PM.png\" />",
+                "<img src=\"b33239c35ff24034859adb1a081bbe47-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"b33239c35ff24034859adb1a081bbe47-ao-2-A.svg\" />",
+                "<img src=\"b33239c35ff24034859adb1a081bbe47-ao-O.svg\" />"
+            ],
+            "guid": "I=S%$o]K]z",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "b33239c35ff24034859adb1a081bbe47-ao-3",
+                "",
+                "<img src=\"Screenshot 2025-08-23 at 12.34.23 PM.png\" />",
+                "<img src=\"b33239c35ff24034859adb1a081bbe47-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"b33239c35ff24034859adb1a081bbe47-ao-3-A.svg\" />",
+                "<img src=\"b33239c35ff24034859adb1a081bbe47-ao-O.svg\" />"
+            ],
+            "guid": "oe%&Emnp9`",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Neuroglial cells are more commonly known as?",
+                "Glia"
+            ],
+            "guid": "E[5p(X7*l~",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Defined as cells NOT involved in the conduction of nerve impulses",
+                "Neuroglial cells"
+            ],
+            "guid": "nzDLGPn7W^",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Enumerate the 4 kinds of glia",
+                "- Astrocytes<br>- Oligodendrocytes<br>- Ependymal cells<br>- Microglial cells"
+            ],
+            "guid": "xdO&=jCCdT",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "5daaaa2c174543b68c5c772d6c47739f-ao-1",
+                "",
+                "<img src=\"Screenshot 2025-08-23 at 12.37.46 PM.png\" />",
+                "<img src=\"5daaaa2c174543b68c5c772d6c47739f-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"5daaaa2c174543b68c5c772d6c47739f-ao-1-A.svg\" />",
+                "<img src=\"5daaaa2c174543b68c5c772d6c47739f-ao-O.svg\" />"
+            ],
+            "guid": "`DMCCrP0>",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "5daaaa2c174543b68c5c772d6c47739f-ao-2",
+                "",
+                "<img src=\"Screenshot 2025-08-23 at 12.37.46 PM.png\" />",
+                "<img src=\"5daaaa2c174543b68c5c772d6c47739f-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"5daaaa2c174543b68c5c772d6c47739f-ao-2-A.svg\" />",
+                "<img src=\"5daaaa2c174543b68c5c772d6c47739f-ao-O.svg\" />"
+            ],
+            "guid": "n3;1Qrk#$6",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "5daaaa2c174543b68c5c772d6c47739f-ao-3",
+                "",
+                "<img src=\"Screenshot 2025-08-23 at 12.37.46 PM.png\" />",
+                "<img src=\"5daaaa2c174543b68c5c772d6c47739f-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"5daaaa2c174543b68c5c772d6c47739f-ao-3-A.svg\" />",
+                "<img src=\"5daaaa2c174543b68c5c772d6c47739f-ao-O.svg\" />"
+            ],
+            "guid": "D4nYr$#?S=",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "5daaaa2c174543b68c5c772d6c47739f-ao-4",
+                "",
+                "<img src=\"Screenshot 2025-08-23 at 12.37.46 PM.png\" />",
+                "<img src=\"5daaaa2c174543b68c5c772d6c47739f-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"5daaaa2c174543b68c5c772d6c47739f-ao-4-A.svg\" />",
+                "<img src=\"5daaaa2c174543b68c5c772d6c47739f-ao-O.svg\" />"
+            ],
+            "guid": "jXZ^^p=2v~",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of glia is found in the spinal cord, having a starlike appearance",
+                "Astrocytes"
+            ],
+            "guid": "f5co{Mx}(Y",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of glia is responsible for forming the myelin sheath",
+                "Oligodendrocytes"
+            ],
+            "guid": "u?pn>Oid*L",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Where are the <b>lipid-rich</b> myelin sheaths found?",
+                "Around axons"
+            ],
+            "guid": "t(`?nQ/6&5",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of glia is involved in the removal of debris from injury sites",
+                "Ependymal cells"
+            ],
+            "guid": "MAn*@ltd9I",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of glia produces <b>cerebrospinal fluid</b>",
+                "Microglial cells"
+            ],
+            "guid": "zL_A]9-u+]",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Cardio muscle cells are also called?",
+                "Cardiomyocytes"
+            ],
+            "guid": "l)j]01/z8L",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c3::Smooth muscle}} cells are arranged<br>in {{c1::sheets}} allowing them to<br>{{c2::contract simultaneously}}.",
+                ""
+            ],
+            "guid": "s@P4X19qgk",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are bronchial tubes made of?",
+                "Cartilage"
+            ],
+            "guid": "IxyYM{1=0@",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the type of tissue found in between the vertebrae in the spine?",
+                "Cartilage"
+            ],
+            "guid": "v,!)&=dt]8",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the type of tissue found at the end of the ribs?",
+                "Cartilage"
+            ],
+            "guid": "JWgSsa*+d9",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of cartilage is present within joints",
+                "Hyaline cartilage"
+            ],
+            "guid": "CnAaUN0Zk>",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Where is elastic cartilage found?",
+                "larynx, ears, and epiglottis"
+            ],
+            "guid": "u[7_x}+ki`",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Where is fibrocartilage found?",
+                "Knee and between vertebrae"
+            ],
+            "guid": "BNuH]Y4P!o",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of cell breaks down bone in the process of renewal",
+                "Osteoclasts"
+            ],
+            "guid": "G;!nA8J)rP",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of bone cell synthesizes protein which forms the organic matrix of the bone",
+                "Osteoblasts"
+            ],
+            "guid": "k)PN53hl1.",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of bone cell can detect mechanical strain being placed on the bone",
+                "Osteocytes"
+            ],
+            "guid": "MG=aS#>cko",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In response to mechanical strain, what do osteocytes do?",
+                "Secrete growth factors which active bone growth"
+            ],
+            "guid": "y3_vTm3eJW",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of bone cell lines the surface of the bone",
+                "Lining cells"
+            ],
+            "guid": "J~s0=/h8?q",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of bone cell is responsible for the <b>release of calcium from the bone into the bloodstream</b> when the levels are low",
+                "Lining cells"
+            ],
+            "guid": "PI##mn$]ej",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "3f0d043678a8453c9c1e554a94df8749-ao-1",
+                "",
+                "<img src=\"Screenshot 2025-08-23 at 12.52.15 PM.png\" />",
+                "<img src=\"3f0d043678a8453c9c1e554a94df8749-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"3f0d043678a8453c9c1e554a94df8749-ao-1-A.svg\" />",
+                "<img src=\"3f0d043678a8453c9c1e554a94df8749-ao-O.svg\" />"
+            ],
+            "guid": "ClW#N/R)Q;",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "3f0d043678a8453c9c1e554a94df8749-ao-2",
+                "",
+                "<img src=\"Screenshot 2025-08-23 at 12.52.15 PM.png\" />",
+                "<img src=\"3f0d043678a8453c9c1e554a94df8749-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"3f0d043678a8453c9c1e554a94df8749-ao-2-A.svg\" />",
+                "<img src=\"3f0d043678a8453c9c1e554a94df8749-ao-O.svg\" />"
+            ],
+            "guid": "FoV[9b9=t[",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "3f0d043678a8453c9c1e554a94df8749-ao-3",
+                "",
+                "<img src=\"Screenshot 2025-08-23 at 12.52.15 PM.png\" />",
+                "<img src=\"3f0d043678a8453c9c1e554a94df8749-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"3f0d043678a8453c9c1e554a94df8749-ao-3-A.svg\" />",
+                "<img src=\"3f0d043678a8453c9c1e554a94df8749-ao-O.svg\" />"
+            ],
+            "guid": "dU;AC`<CZV",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "3f0d043678a8453c9c1e554a94df8749-ao-4",
+                "",
+                "<img src=\"Screenshot 2025-08-23 at 12.52.15 PM.png\" />",
+                "<img src=\"3f0d043678a8453c9c1e554a94df8749-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"3f0d043678a8453c9c1e554a94df8749-ao-4-A.svg\" />",
+                "<img src=\"3f0d043678a8453c9c1e554a94df8749-ao-O.svg\" />"
+            ],
+            "guid": "x{4y,1,zj?",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of skin cell is responsible for generating keratin",
+                "keratinocytes"
+            ],
+            "guid": "iC:Ri:mi|~",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of skin cell is responsible for protecting the body by blocking toxins/pathogens",
+                "Keratinocytes"
+            ],
+            "guid": "iP}>qtZL:l",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of skin cell is responsible for preventing loss of heat/moisture",
+                "Keratinocytes"
+            ],
+            "guid": "Mt-#f<n-GT",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of skin cell produces melanin",
+                "Melanocytes"
+            ],
+            "guid": "DZW?O&gnv*",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of cell is involved in touch reception",
+                "Merkel cells"
+            ],
+            "guid": "v%@19nRfJ&",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of skin cell is involved in <b>antigen processing</b> when the skin is infected",
+                "Langerhans Cells"
+            ],
+            "guid": "rn*fIB**Wc",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "These are the cells that form the lining of blood vessels",
+                "Endothelial cells"
+            ],
+            "guid": "GS/83Y19ij",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the thickness of endothelial cells?",
+                "Flat, between 1 and 2 µm thick"
+            ],
+            "guid": "u]6YbhC#YM",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of cell make up the linings of cavities in the body like<br><br>- lungs<br>- small intestine<br>- stomach",
+                "Epithelial cells"
+            ],
+            "guid": "Hh&;rI,b+4",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of fat cells are vacuolar cells",
+                "White fat cells"
+            ],
+            "guid": "eKq{k#j9?l",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "White fat cells are also known as?",
+                "Unilocular cells"
+            ],
+            "guid": "NScJ7B=3WV",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In a white fat cell, you can find 2 things",
+                "Lipid droplet and cytoplasm<br><a href=\"https://www.google.com/url?sa=i&amp;url=https%3A%2F%2Fnews.berkeley.edu%2F2018%2F03%2F06%2Fbrown-fat-flexes-its-muscle-to-burn-energy%2F&amp;psig=AOvVaw3DLG8_Lolk-wL12Ohphlnv&amp;ust=1756011834718000&amp;source=images&amp;cd=vfe&amp;opi=89978449&amp;ved=0CBUQjRxqFwoTCLj1w_-ToI8DFQAAAAAdAAAAABAE\"><img alt=\"Brown fat flexes its muscle to burn energy — and calories - Berkeley News\" src=\"brownfatbyRaySoccio750.jpg\"></a>"
+            ],
+            "guid": ";P7aI..9o",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Brown fat cells are also known as?",
+                "Multilocular cells"
+            ],
+            "guid": "sI,,H6s3QM",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The vacuoles found in brown fat cells are shaped like?",
+                "Polygons"
+            ],
+            "guid": "qFr=([e&=^",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How long are spermatozoa?",
+                "50 µm long"
+            ],
+            "guid": "i-<Brw3XJ%",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the 3 main parts of a sperm cell from top to bottom?",
+                "- Head<br>- Midpiece region<br>- Flagellum"
+            ],
+            "guid": "oLR&1IeduG",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The egg cell is also known as the?",
+                "oocyte"
+            ],
+            "guid": "fE`3kn$H}l",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "When were oocytes produced in the ovary?",
+                "During embryological development"
+            ],
+            "guid": "eiMNce1{.z",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the process of a stem cell becoming a different cell called?",
+                "Differentiation"
+            ],
+            "guid": "iWk}HV3U-C",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<span style=\"background-color: rgb(170, 170, 255); color: rgb(255, 255, 255);\">Unipotent</span> and <span style=\"color: rgb(255, 255, 255); background-color: rgb(0, 255, 255);\">pluripotent</span> stem cells are also known as what respectively?",
+                "<span style=\"background-color: rgb(170, 170, 255);\">Adult stem</span> cells and <span style=\"background-color: rgb(0, 255, 255);\">embryonic&nbsp;</span>stem cells"
+            ],
+            "guid": "q/PB?<N8HS",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "&nbsp;Name the 4 specific regions found in neurons",
+                "- Cell body<br>- Dendrites<br>- Axons<br>- Axon terminals"
+            ],
+            "guid": "KH)<VQN&*9",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Name the characteristic attributed to nerve cells if they have multiple, two, or one dendrite/s respectively",
+                "Multipolar, bipolar, unipolar"
+            ],
+            "guid": "gCEIB~#5a",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Neuroglial cells are cells of the nervous system that modulate {{c1::synaptic action}} and rate of {{c2::impulse propagation}}",
+                ""
+            ],
+            "guid": "k1msyE=@qY",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Actin}} and {{c1::myosin}} allow muscle contraction by sliding past one<br>another, as described by {{c2::sliding filament theory}}.",
+                ""
+            ],
+            "guid": "FhxamsfCNM",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The extracellular matrix of caratilage is comprised of",
+                "- Collagen<br>- Proteoglycan<br>- Elastin fibers"
+            ],
+            "guid": "AM+1GAfKw>",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The degradation of bone is also known as?",
+                "Bone resorption"
+            ],
+            "guid": "ov,Cj`m|]y",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Are osteoclasts multi/uni nucleated?",
+                "Multinucleated"
+            ],
+            "guid": "Lwj!|LJ~Yo",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Endothelial cells}} are highly adaptable, being able to<br>migrate and adjust their numbers and arrangements to<br>accommodate the body’s needs.",
+                ""
+            ],
+            "guid": "t7*_>Sh+~X",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Epithelial cells}} are connected by tight<br>junctions, adherens, desmosomes and gap junctions.",
+                ""
+            ],
+            "guid": "K{!kvn^C5R",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is DNA made of?",
+                "Nucleotides"
+            ],
+            "guid": "RjSfD!z@F(",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are nucleotides made of?",
+                "- Nitogenous base pairs<br>- Phosphate Group<br>- Pentose sugar (Deoxyribose)"
+            ],
+            "guid": "Q1@lnr-wR%",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This component of a nucleotide holds the base in place",
+                "pentose sugar (five-carbon)"
+            ],
+            "guid": "LjFa/r//_G",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This component of a nucleotide connects one nucleotide to the next",
+                "phosphate molecule"
+            ],
+            "guid": "M4)@|x6.#z",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Adenine always pairs with?",
+                "Thymine"
+            ],
+            "guid": "lIQ$,~dJ,C",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Guanine always pairs with?",
+                "Cytosine"
+            ],
+            "guid": "c%Br}.rK%d",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In {{c2::RNA}}, uracil replaces {{c1::thymine}}",
+                ""
+            ],
+            "guid": "K,,^_q20Ns",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the range for the number of genes in a human being?",
+                "20,000 - 25,000 genes"
+            ],
+            "guid": "f?V*reqA)R",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How many chromosomes are there in humans?",
+                "46 chromosomes"
+            ],
+            "guid": "n5I]h(j*FZ",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The basic and functional unit of heredity",
+                "Gene"
+            ],
+            "guid": "z;he%5]#i|",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Made up of long chains of DNA and associated proteins",
+                "Chromosomes"
+            ],
+            "guid": "F^nw14L2d(",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the length of DNA in each nucleus of our bodies in total?",
+                "1.8 meters"
+            ],
+            "guid": "fR%x~bW8ot",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Chromosomes are counted by their?",
+                "Centromeres"
+            ],
+            "guid": "RFl#CI.Ym",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The protein complex that attaches to the spindle fibers",
+                "Kinetochore"
+            ],
+            "guid": "C;qZ,L*-Lp",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What do you call the area that connects two sister chromatids?",
+                "Centromere"
+            ],
+            "guid": "KA._<C%%>J",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the 2 main types of chromosomes",
+                "Autosomes (22 pairs)<br>and sex chromosomes (1 pair)"
+            ],
+            "guid": "rWkeC.>UR/",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Defined as pairs of chromosomes in which each of the chromosomes come from maternal and paternal parents separately.",
+                "Homologous chromosomes"
+            ],
+            "guid": "r:UKdSN(}U",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Defined as a specfic variant of a gene",
+                "Alleles"
+            ],
+            "guid": "qOPE`UxMo:",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the sex chromosomes of females?",
+                "XX"
+            ],
+            "guid": "mp<|i~jECE",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the sex chromosomes of males?",
+                "XY"
+            ],
+            "guid": "ktbuae)TN&",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The period in the cell cycle when a cell grows, carries out its normal metabolic functions, and replicates its DNA in preparation for cell division",
+                "Interphase"
+            ],
+            "guid": "nap4xq?rsO",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Defined as the stage of active cell division where the duplicated chromosomes separate and the cell divides into two new daughter cells.",
+                "Mitotic phase"
+            ],
+            "guid": "O(|1B]=ddY",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In this phase of interphase, metabolic changes prepare the cell for division",
+                "G1 Phase"
+            ],
+            "guid": "ww^`,M|5@+",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In this phase of interphase, organelles are duplicated",
+                "G1 phase"
+            ],
+            "guid": "m{_Yk(G2S?",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the point called in which teh cell is committed to division and moves into the S phase?",
+                "The restriction point"
+            ],
+            "guid": "p[]`q<;uyp",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In this phase of interphase, DNA synthesis replicates the genetic material",
+                "S phase"
+            ],
+            "guid": "jD!-}N2F3V",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In this phase of interphase, chromosomes now have two sister chromatids",
+                "S phase"
+            ],
+            "guid": "gvr({3v>%<",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In this phase of interphase, metabolic changes assemble the cytoplasmic materials for mitosis and cytokinesis",
+                "G2 phase"
+            ],
+            "guid": "cT$uCvb(5O",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In this phase of interphase, the cell double checks the chromosomes for any error",
+                "G2 phase"
+            ],
+            "guid": "PDPiqc!t?Q",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the 2 parts of the M phase?",
+                "Mitosis and Cytokinesis"
+            ],
+            "guid": "d3JTT0MKcm",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A form of eukaryotic cell division that produces two identical daughter cells",
+                "Mitosis"
+            ],
+            "guid": "G$s@``5igC",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How long does mitosis takes in animal cells?",
+                "1 hour"
+            ],
+            "guid": "w.K4GI:aI#",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This phase occupies over half of mitosis",
+                "Prophase"
+            ],
+            "guid": "O<65^(kr*E",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In this stage of mitosis, the centrosome duplicates itself to form 2 daughter centrosomes",
+                "Prophase"
+            ],
+            "guid": "G^~B!nO+Dr",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "These organize the production of microtubules that form the spindle fibers",
+                "Centrosomes"
+            ],
+            "guid": "j=M~(XMBI+",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The structure that spindle fibers form is called the?",
+                "Mitotic spindle"
+            ],
+            "guid": "D?Anu:@#mE",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In this phase of mitosis, the chromosomes led by their centromeres start to migrate to the equatorial plane",
+                "Prometaphase"
+            ],
+            "guid": "E*<2s]@6Iy",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In this stage of mitosis, the chromosomes align themselves along the plate of the spindle apparatus",
+                "Metaphase"
+            ],
+            "guid": "Pcd*lO.U.-",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The shortest stage of mitosis",
+                "Anaphase"
+            ],
+            "guid": "m~+oSqYV<w",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In this stage of mitosis, the centromeres divide and the sister chromatids are pulled apart",
+                "Anaphase"
+            ],
+            "guid": "y2_Kuq`Rlr",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In anaphase, the separated sister chromatids are now called?",
+                "Daughter chromosomes"
+            ],
+            "guid": "CtTwh*xmDz",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In this stage of mitosis, the nuclear membrane reforms around the chromosomes at either poles of the cell",
+                "Telophase"
+            ],
+            "guid": "pwhU9C%,cb",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The final cellular division to form two new cells",
+                "Cytokinesis"
+            ],
+            "guid": "I+]9_Tkn^[",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In cytokinesis of plant cells, what occurs?",
+                "A cell plate forms along the line of the metaphase plate"
+            ],
+            "guid": "FFD25@#?qN",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div><div><div><div><div><div><div><div><br>In cytokinesis of animal cells, what occurs?<br></div><div></div></div></div></div></div></div></div></div><div><div></div><br></div>",
+                "A constriction of the cytoplasm"
+            ],
+            "guid": "nlu5<z,>i~",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": []
         }
