@@ -642,6 +642,16 @@
         {
             "__type__": "Note",
             "fields": [
+                "{{c1::Baumeister (1999)}} defined self concept as an {{c2::individual's belief about himself, including personal attributes and who/what the&nbsp;self is}}",
+                ""
+            ],
+            "guid": "n>i&S%sPG0",
+            "note_model_uuid": "6bba29fa-6617-11f0-8bc1-f5d300799d77",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "{{c1::Carl Rogers (1959)}} said that self concept has 3 components",
                 ""
             ],
@@ -1016,16 +1026,6 @@
             "tags": [
                 "Q1_Monthly"
             ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "{{c1::Baumeister (1999)}} defined self concept as an {{c2::individual's belief about himself, including personal attributes and who/what the&nbsp;self is}}",
-                ""
-            ],
-            "guid": "n>i&S%sPG0",
-            "note_model_uuid": "6bba29fa-6617-11f0-8bc1-f5d300799d77",
-            "tags": []
         },
         {
             "__type__": "Note",
@@ -1440,16 +1440,6 @@
         {
             "__type__": "Note",
             "fields": [
-                "{{c1::Stress}} is a {{c2::physical}}, {{c2::chemical}}, or {{c2::emotional factor}} that causes {{c3::bodily}} and {{c3::mental}} tension and may be a factor in {{c4::disease causation}}.",
-                ""
-            ],
-            "guid": "NF,}N~LR<3",
-            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
                 "Defined as the process by which we perceive and respond to certain events that we view as challenging or threatening",
                 "Stress"
             ],
@@ -1534,6 +1524,416 @@
                 "- Learn to solve problems.<br>-&nbsp;Learn to develop harmonious relationship with others.<br>-&nbsp;Learn to have attainable goals.<br>-&nbsp;Learn to learn from mistakes.<br>-&nbsp;Learn to be academically, socially, and skilfully<br>competent.<br>-&nbsp;Learn to be wise, positive, and disciplined when stressed.<br>-&nbsp;Learn to eat healthy food and exercise regularly.<br>-&nbsp;Learn to relax and enjoy life.<br>-&nbsp;Learn to enjoy hobbies.<br>-&nbsp;Learn to be optimistic."
             ],
             "guid": "rz|HOA$+b)",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Stress}} is a {{c2::physical}}, {{c2::chemical}}, or {{c2::emotional factor}} that causes {{c3::bodily}} and {{c3::mental}} tension and may be a factor in {{c4::disease causation}}.",
+                ""
+            ],
+            "guid": "NF,}N~LR<3",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Mind}} is one of the strongest and most useful powers that every individual possesses",
+                ""
+            ],
+            "guid": "E6/4-2nJw>",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the four greatest powers of the mind?",
+                "1) Imagination<br>2) Focus<br>3) Perseverance<br>4) Meditation"
+            ],
+            "guid": "Jyg5gd0It@",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The ability of the mind to create mental pictures of things not yet experienced",
+                "Imagination"
+            ],
+            "guid": "Qn7?G=w6HV",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A power of the mind that focuses on direct attention and energy to a specific task or goal",
+                "Focus"
+            ],
+            "guid": "hjqj[pSCSI",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The power of the mind to continue despite challenges or failures",
+                "Perseverance"
+            ],
+            "guid": "nNS2V(n${O",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The power of calming the mind to gain clarity, peace, and awareness",
+                "Meditation"
+            ],
+            "guid": "G]5<67aa;[",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who created the Theory of Brain Laterilization?",
+                "Roger Sperry and Robert Ornstein"
+            ],
+            "guid": "OTjQGd]dm|",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does brain lateralization mean?",
+                "Division of functions between the left and right hemispheres"
+            ],
+            "guid": "HbO_pAIa5o",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does the theory of brain lateralization explain?",
+                "A person’s behavior, interests, personality, and mode of thinking based on their dominant brain side."
+            ],
+            "guid": "Ea)c[flgV6",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What connects the left and right hemispheres of the brain?",
+                "<div>Corpus callosum</div>"
+            ],
+            "guid": "o0p.woS>tD",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What nerve fiber allows the two hemispheres of the brain to communicate?",
+                "Corpus callosum"
+            ],
+            "guid": "*o{FfzW]`",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which hemisphere is linked to logical thinking?",
+                "Left hemisphere"
+            ],
+            "guid": "c^+S{7~BJ~",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which hemisphere is linked to creativity and spatial ability?",
+                "Right hemisphere"
+            ],
+            "guid": "ET^fMw?!w#",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Left-brained or Right-brained:&nbsp;<b>organized</b>?",
+                "Left-brained"
+            ],
+            "guid": "GxTeKbio4W",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Left-brained or Right-brained:&nbsp;<b>logical</b>?",
+                "Left-brained&nbsp;"
+            ],
+            "guid": "c.GCz*#lnY",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Left-brained or Right-brained:&nbsp;<b>detail-oriented</b>?",
+                "Left-brained&nbsp;"
+            ],
+            "guid": "qdc59<>Ui+",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Left-brained or Right-brained trait:&nbsp;<b>process ideas in methodical step-by-step manner which leads them to commit less mistakes</b>?",
+                "Left-brained"
+            ],
+            "guid": "g_E25+i5`:",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Left-brained or Right-brained:&nbsp;<b>favor rigid schedules and deadlines</b>?",
+                "Left-brained"
+            ],
+            "guid": "f,qk>S};P/",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Left-brained or Right-brained:&nbsp;<b>auditory learners</b>?",
+                "Left-brained"
+            ],
+            "guid": "kJJZRZc|jP",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Left-brained or Right-brained:&nbsp;<b>more emotional</b>?",
+                "Right-brained"
+            ],
+            "guid": "f00yFI)C{d",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Left-brained or Right-brained:&nbsp;<b>intuitive</b>?",
+                "Right-brained"
+            ],
+            "guid": "dxQPf8KOuy",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Left-brained or Right-brained:&nbsp;<b>believers of imaginations and fantasies</b>?",
+                "Right-brained"
+            ],
+            "guid": "w?y)BZC7At",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Left-brained or Right-brained:&nbsp;<b>risk-takers</b>?",
+                "Right-brained"
+            ],
+            "guid": "uiK$5<DAT^",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Left-brained or Right-brained:&nbsp;<b>creative</b>?",
+                "Right-brained"
+            ],
+            "guid": "L*y(oAfU>;",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Left-brained or Right-brained:&nbsp;<b>unpredictable</b>?",
+                "Right-brained"
+            ],
+            "guid": "goL?D/QtEU",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Left-brained or Right-brained:&nbsp;<b>disorganized</b>?",
+                "Right-brained"
+            ],
+            "guid": "OJnuQQqotL",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Left-brained or Right-brained:&nbsp;<b>unable to make clear their priorities?</b>",
+                "Right-brained"
+            ],
+            "guid": "L)r/GoHA}D",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Left-brained or Right-brained:&nbsp;<b>lack time management</b>?",
+                "Right-brained"
+            ],
+            "guid": "NFvYSE,qkp",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "List at least 5 characteristics of a left-brained individual",
+                "<ul><li>organized</li><li>logical</li><li>detail-oriented</li><li>process ideas in a step-by-step manner</li><li>rigid schedules and deadlines</li><li>auditory learners</li></ul>"
+            ],
+            "guid": "o:@cw[+F..",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "List at least 5 characteristics of a right-brained individual",
+                "<ul><li>more emotional</li><li>intuitive</li><li>believers of imaginations and fantasies</li><li>risk-takers</li><li>creative</li><li>unpredictable</li><li>disorganized</li><li>unable to make clear their priorities</li><li>lack time management</li></ul>"
+            ],
+            "guid": "b@,-t~sVt=",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This is a thinking technique popularied by Tony Buzan",
+                "Mind map"
+            ],
+            "guid": "jMXV07Kf~r",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who popularized the mind map?",
+                "Tony Buzan"
+            ],
+            "guid": "BH$AEz$8r8",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This is a thinking technique used to visually organize information",
+                "Mind map"
+            ],
+            "guid": "A]E*6.Y1FN",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It is a creative and logical way of organizing thoughts and ideas in mind through a diagram.",
+                "Mind map"
+            ],
+            "guid": "fR:dGnp_3K",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The most effective way of thinking and learning is to integrate both hemispheres",
+                "Whole-brain functioning"
+            ],
+            "guid": "KKb8ze{=Nq",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is a mind map usually created around?",
+                "A single concept"
+            ],
+            "guid": "d8+6^>GD/_",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Where is the main concept drawn in a mind map?",
+                "In the center of a blank page"
+            ],
+            "guid": "ANW<;*nc+y",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What types of representations are added to a mind map?",
+                "Images, words, and parts of words"
+            ],
+            "guid": "nRkAwJie%e",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the purpose of adding representations in a mind map?",
+                "To associate ideas with the main concept"
+            ],
+            "guid": "GvHu>ZL+bA",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the steps in creating a mind map?",
+                "1) Decide on what type of mind map you will create<br>2) Think of the main idea for your mind map<br>3) Add branches to the main idea<br>4) Supplement with keywords<br>5) Incorporate colors into the branches<br>6) Attach images"
+            ],
+            "guid": "cH/^0b$DIv",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": []
         }

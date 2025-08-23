@@ -106,73 +106,6 @@
     "note_models": [
         {
             "__type__": "NoteModel",
-            "crowdanki_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
-            "flds": [
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": -3440420830186103260,
-                    "name": "Front",
-                    "ord": 0,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                },
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": -2982641992784944465,
-                    "name": "Back",
-                    "ord": 1,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "latexsvg": false,
-            "name": "Basic-9a0c7",
-            "originalStockKind": 1,
-            "req": [
-                [
-                    0,
-                    "any",
-                    [
-                        0
-                    ]
-                ]
-            ],
-            "sortf": 0,
-            "tmpls": [
-                {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
-                    "bafmt": "",
-                    "bfont": "",
-                    "bqfmt": "",
-                    "bsize": 0,
-                    "did": null,
-                    "id": -4396753340091107072,
-                    "name": "Card 1",
-                    "ord": 0,
-                    "qfmt": "{{Front}}"
-                }
-            ],
-            "type": 0
-        },
-        {
-            "__type__": "NoteModel",
             "crowdanki_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
             "flds": [
@@ -308,6 +241,73 @@
         },
         {
             "__type__": "NoteModel",
+            "crowdanki_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -3440420830186103260,
+                    "name": "Front",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -2982641992784944465,
+                    "name": "Back",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic-9a0c7",
+            "originalStockKind": 1,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": -4396753340091107072,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0
+        },
+        {
+            "__type__": "NoteModel",
             "crowdanki_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
             "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n.cloze {\n    font-weight: bold;\n    color: blue;\n}\n.nightMode .cloze {\n    color: lightblue;\n}\n",
             "flds": [
@@ -375,54 +375,6 @@
         }
     ],
     "notes": [
-        {
-            "__type__": "Note",
-            "fields": [
-                "Defined as the \"2nd coming\"",
-                "Parousia"
-            ],
-            "guid": "MJJ{hF/fSC",
-            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "People in purgatory pray to go to heaven. T or F?",
-                "F, they cannot pray and rely on alive people to do so for them."
-            ],
-            "guid": "J;zR&~xYK(",
-            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "What are the two types of judgement?",
-                "- General judgement<br>- Individual judgement"
-            ],
-            "guid": "F{5A59G?Hx",
-            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "When it is decided that a person is going to hell/heaven/purgatory, which type of judgement is that?",
-                "Individual judgement"
-            ],
-            "guid": "yxj&O7NSal",
-            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
         {
             "__type__": "Note",
             "fields": [
@@ -846,6 +798,54 @@
         {
             "__type__": "Note",
             "fields": [
+                "Defined as the \"2nd coming\"",
+                "Parousia"
+            ],
+            "guid": "MJJ{hF/fSC",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "People in purgatory pray to go to heaven. T or F?",
+                "F, they cannot pray and rely on alive people to do so for them."
+            ],
+            "guid": "J;zR&~xYK(",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the two types of judgement?",
+                "- General judgement<br>- Individual judgement"
+            ],
+            "guid": "F{5A59G?Hx",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "When it is decided that a person is going to hell/heaven/purgatory, which type of judgement is that?",
+                "Individual judgement"
+            ],
+            "guid": "yxj&O7NSal",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "<span style=\"color: rgb(233, 215, 255);\">In&nbsp;which&nbsp;CLVED&nbsp;(1,&nbsp;2,&nbsp;3&nbsp;or&nbsp;4)&nbsp;is&nbsp;the&nbsp;Old&nbsp;Testament&nbsp;being&nbsp;the&nbsp;one&nbsp;focused&nbsp;on?</span>",
                 "<span style=\"color: rgb(233, 215, 255);\">CLVED 1</span>"
             ],
@@ -998,6 +998,366 @@
             "tags": [
                 "Q1_Monthly"
             ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This body reveals God's love and saves humanity through His Passion.&nbsp;",
+                "Physical Body of Christ"
+            ],
+            "guid": "lhO6zO&e=[",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What type of body of Christ: \"The Word became flesh and dwelt among us.\"",
+                "Physical Body of Christ (Historical)"
+            ],
+            "guid": "b?bnHNm^Ky",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What did Pneumatomachi teach about the Holy Spirit?",
+                "The Holy Spirit is a created being"
+            ],
+            "guid": "Ne20KTd0s5",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who spread Pneumatomachi and when?",
+                "Macedonius, 4th century"
+            ],
+            "guid": "ueabD=cio6",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which council condemned Pneumatomachi?",
+                "Council of Constantinople (381 AD)"
+            ],
+            "guid": "OKdMUA8hV]",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What truth about the Holy Spirit does the Church affirm in response to Pneumatomachi?",
+                "The Holy Spirit is fully divine, consubstantial with the Father and Son"
+            ],
+            "guid": "L;Joq!@04F",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What did Adoptionism teach about Jesus?",
+                "Jesus was a mere human “adopted” by God"
+            ],
+            "guid": "D:0UESO]#]",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who opposed Adoptionism?",
+                "St. Irenaeus and early Church Fathers"
+            ],
+            "guid": "P.v+P}XMWG",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What truth about Jesus does the Church affirm in response to Adoptionism?",
+                "Jesus is truly God and truly man from conception"
+            ],
+            "guid": "iHZbuW]9Hl",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What did Arianism teach about Jesus?",
+                "Jesus is a created being, not fully God"
+            ],
+            "guid": "p,]P&(N{TK",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who taught Arianism and when?",
+                "Arius, early 4th century"
+            ],
+            "guid": "Ax(,h>$[9;",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which council condemned Arianism?",
+                "Council of Nicaea (325 AD)"
+            ],
+            "guid": "qdIb>@kW:b",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What truth about Jesus does the Church affirm in response to Arianism?",
+                "Jesus is consubstantial with the Father, fully divine"
+            ],
+            "guid": "icSqy1WT,D",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What did Apollinarianism teach about Jesus?",
+                "Jesus had a human body but not a human mind or soul"
+            ],
+            "guid": "D5`u/)Z?A6",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who taught Apollinarianism and when?",
+                "Apollinaris of Laodicea, 4th century"
+            ],
+            "guid": "o^eF-IIiTi",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which council condemned Apollinarianism?",
+                "First Council of Constantinople (381 AD)"
+            ],
+            "guid": "c6GbMK@euw",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What truth about Jesus does the Church affirm in response to Apollinarianism?",
+                "Jesus is fully human and fully divine, with a human mind and soul"
+            ],
+            "guid": "k8Ro@0_jE2",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What did Nestorianism teach about Jesus?",
+                "Jesus is two separate persons, one human and one divine"
+            ],
+            "guid": "qYh9jjcI@m",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who taught Nestorianism and when?",
+                "Nestorius, early 5th century"
+            ],
+            "guid": "u|m:wI`+`B",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which council condemned Nestorianism?",
+                "Council of Ephesus (431 AD)"
+            ],
+            "guid": "AjELpH[^><",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What truth about Jesus does the Church affirm in response to Nestorianism?",
+                "Jesus is one person with two natures, fully God and fully man (Hypostatic Union)"
+            ],
+            "guid": "Fyk:X>Z{Br",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A belief or teaching that goes against the official and essential doctrines of the Church.",
+                "Heresy"
+            ],
+            "guid": "Dvqtj~V(?=",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What was the purpose of the Nicene Creed (325 AD)?",
+                "Combat Arianism; affirm Jesus’ divinity"
+            ],
+            "guid": "Ay(slcBte@",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What was the purpose of the First Council of Constantinople (381 AD)?",
+                "<div>Affirm Holy Spirit’s divinity; oppose Pneumatomachi &amp; Apollinarianism</div>\n<div></div>"
+            ],
+            "guid": "yQN|f7kI$k",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What was the purpose of the Council of Ephesus (431 AD)?",
+                "Affirm unity of Christ’s person; Mary as Theotokos; oppose Nestorianism"
+            ],
+            "guid": "B;EU&kM*F8",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which Church Father opposed Arianism?",
+                "St. Athanasius"
+            ],
+            "guid": "BRlDggb.FR",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which Church Father opposed Adoptionism?",
+                "St. Irenaeus"
+            ],
+            "guid": "vG/c21PgAr",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which Church Father opposed Nestorianism?",
+                "St. Cyril of Alexandria"
+            ],
+            "guid": "f`cQp$]yXX",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What truth about Jesus is clarified through these heresies?",
+                "<div>Jesus is fully God and fully man</div>\n<div></div>"
+            ],
+            "guid": "N0[6!|Z=!Z",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the Hypostatic Union?",
+                "One person, two natures of Christ"
+            ],
+            "guid": "uO$ihtAY(-",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does Consubstantial mean?",
+                "Of the same essence"
+            ],
+            "guid": "x!R4t6],}2",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Denies the divinity of the Holy Spirit; claims the Spirit is a created being.",
+                "Pneumatomachi"
+            ],
+            "guid": "DXXJ@KK!36",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Teaches that Jesus was a mere human who was “adopted” by God at His baptism or resurrection.",
+                "Adoptionism"
+            ],
+            "guid": "Apc}gfYT=y",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Denies that Jesus is fully God; says He was a created being and not co-eternal with the Father.",
+                "Arianism"
+            ],
+            "guid": "us)2R`Wi_G",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Claims that Jesus had a human body but no human mind or soul; the Divine Logos replaced His rational soul.",
+                "Apollinarianism"
+            ],
+            "guid": "r1nom6lDI%",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Teaches that Jesus is two separate persons—one human and one divine—instead of one person with two natures.",
+                "Nestorianism"
+            ],
+            "guid": "w8hG|-r4$a",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
         }
     ],
     "reviewLimit": null,

@@ -3298,6 +3298,516 @@
             "guid": "nSK`$d]+-J",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the main purpose of statistical tools?",
+                "Data sorting and cleaning"
+            ],
+            "guid": "Hqjo&=-(oR",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What additional purpose do statistical tools serve besides sorting and cleaning?",
+                "Identifying and remedying data quality issues"
+            ],
+            "guid": "H}otE=r_M/",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Through what methods do statistical tools fix data quality issues?",
+                "Data-cleaning techniques"
+            ],
+            "guid": "hah74Jn$RC",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What should be noted when dealing with large data sets?",
+                "Not all data may be relevant"
+            ],
+            "guid": "b#UO]]n2<^",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What happens when respondents do not finish the whole document?",
+                "Data becomes invalid"
+            ],
+            "guid": "k_xl$k;bD$",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What type of statistical analysis summarizes and describes data patterns?",
+                "Descriptive statistics"
+            ],
+            "guid": "ra(W8$]?(6",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The type of analysis of data that helps describe, show or constructively summarize data points such that patterns might emerge that fulfill every condition of the data.",
+                "Descriptive statistics"
+            ],
+            "guid": "Gjq0?<i.~F",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This is concerned with populations and use sample data to infer about the population or test hypotheses.",
+                "Inferential Statistics"
+            ],
+            "guid": "E9j6jYFk;n",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which statistics use sample data to make predictions about a population?",
+                "Inferential Statistics"
+            ],
+            "guid": "Eg|>:|,8t{",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "With inferential statistics why do you take data from <b>samples</b>?",
+                "to make generalizations about a population"
+            ],
+            "guid": "vP18;<+0N",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the four types of descriptive statistics?",
+                "1) Frequency counts<br>2) Percentages<br>3) Mean<br>4) Standard deviation"
+            ],
+            "guid": "%hvg[X)_1",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What statistical tool counts the number of times each variable occurs?",
+                "frequency counts"
+            ],
+            "guid": "m_=T}bk<u9",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How is a percentage calculated in statistics?",
+                "Frequency divided by total participants, multiplied by 100"
+            ],
+            "guid": "dA@r|U_-ri",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is another term for the mean?",
+                "average"
+            ],
+            "guid": "js,2q?9qKL",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is another term for the average?",
+                "mean"
+            ],
+            "guid": "o,BN^H{U&3",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How to find the mean?",
+                "Add all the numbers together and divide by how many numbers there are."
+            ],
+            "guid": "L|Hh-<~Uv=",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which descriptive statistic expresses data as a portion of the total?",
+                "Percentages"
+            ],
+            "guid": "K=PBe`(Qhj",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which descriptive statistic measures how spread out data is relative to the mean?",
+                "Standard deviation"
+            ],
+            "guid": "e(o0|Du/XD",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which descriptive statistic calculates the average of a set of numbers?",
+                "mean"
+            ],
+            "guid": "It(57kgB_n",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does standard deviation measure?",
+                "Dispersion relative to the mean"
+            ],
+            "guid": "fG2kys2x_`",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How is standard deviation calculated?",
+                "Take the <strong>square root</strong> of the variance."
+            ],
+            "guid": "Ra~|Myxo%`",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the three types of inferential statistics?",
+                "1) T-Test<br>2) Analysis of Variance (ANOVA)<br>3) Pearson-r"
+            ],
+            "guid": "i@(||&tv3^",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which inferential statistic tests for a significant difference between<b> two</b> group means?",
+                "T-Test"
+            ],
+            "guid": "T(Y8Y3J_t",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does ANOVA stand for?",
+                "Analysis of Variance"
+            ],
+            "guid": "brK:jut<Wv",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This is a statistical method that separates observed variance data into different components to use for additional tests.",
+                "Analysis of Variance (ANOVA)"
+            ],
+            "guid": "AH?}H>`jE-",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which inferential statistic tests for differences among three or more groups?",
+                "ANOVA"
+            ],
+            "guid": "kpjQ+Lli?1",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does the Pearson correlation coefficient (Pearson-r) measure?",
+                "Relationship between two or more variables"
+            ],
+            "guid": "OrPCp3>6:<",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does a Pearson-r value indicate about two variables?",
+                "The degree to which they are linearly related"
+            ],
+            "guid": "GCTx.F.]#K",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Is Pearson-r used to measure differences or relationships?",
+                "relationships"
+            ],
+            "guid": "h=Y=^idmr*",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What type of variables can Pearson-r be used with?",
+                "quantitative variables (interval/ratio)"
+            ],
+            "guid": "Oe74epCoZZ",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the other term for Pearson-r?",
+                "Pearson product-moment correlation coefficient"
+            ],
+            "guid": "g(/0wDU|!R",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does the level of significance indicate?",
+                "<div>&nbsp;Strength of evidence needed to <b>reject</b> the null hypothesis</div>"
+            ],
+            "guid": "DO5:A=^dQ^",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is another name for the level of significance?",
+                "Alpha (α)"
+            ],
+            "guid": "L{.|.QW9;W",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does it mean if the p-value is less than 0.05?",
+                "There is a significant effect"
+            ],
+            "guid": "vr+GZ4*:GL",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does it mean if the p-value is greater than 0.05?",
+                "There is no significant effect"
+            ],
+            "guid": "I{C6KPW#t<",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does the p-value represent in statistics?",
+                "The probability of obtaining the observed results if the <b>null hypothesis is true</b>"
+            ],
+            "guid": "txg/B;:yF=",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What statistical tool is used in SOP 1:&nbsp;What is the demographic profile of the respondents in terms of age, sex, and strand?",
+                "Frequency count<br>Percentage"
+            ],
+            "guid": "fUxq%7RpD*",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What statistical tool is used in SOP 2:&nbsp;What is the level of anxiety among the students in terms of: (provide indicators)?",
+                "Mean and Standard Deviation"
+            ],
+            "guid": "tT3*IN{Q.r",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What statistical tool is used in SOP 3:&nbsp;What is the level of depression among the students in terms of: (provide Indicators)?",
+                "Mean and SD"
+            ],
+            "guid": "F]S6CQ[f:.",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What statistical tool is used in SOP 4 and 5?&nbsp;",
+                "T-Test or ANOVA"
+            ],
+            "guid": "m~[hsBCU?`",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What statistical tool is used in SOP 6:&nbsp;Is there a significant relationship between the levels of anxiety and depression among the students?",
+                "Pearson - r"
+            ],
+            "guid": "sSi_^n>_CR",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In a Mean Matrix, what does the interval 4.20–5.00 represent?",
+                "Very high&nbsp;"
+            ],
+            "guid": "gz%(&hj~CA",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In a <strong>Mean Matrix</strong>, what does the interval 3.80–4.19 represent?",
+                "High"
+            ],
+            "guid": "Re@i&jrA?n",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In a <strong>Mean Matrix</strong>, what does the interval 2.60–3.39 represent?",
+                "Moderate"
+            ],
+            "guid": "Nb2G.Dt7e-",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In a&nbsp;<strong>Mean Matrix</strong>, what does the interval 1.80–2.59 represent?",
+                "Low"
+            ],
+            "guid": "k81v54d)Od",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In a&nbsp;<strong>Mean Matrix</strong>, what does the interval 1.00–1.79 represent?",
+                "Very low"
+            ],
+            "guid": "OvFa0ffcA^",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In a <strong>Mean Matrix</strong>, how is the interval 4.20–5.00 interpreted?",
+                "Always / Very high frequency"
+            ],
+            "guid": "b+5+(#=Xky",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In a <strong>Mean Matrix</strong>, what does the interval 3.40–4.19 indicate?",
+                "Oftentimes / High frequency"
+            ],
+            "guid": "Dq,c@0RDs.",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In a <strong>Mean Matrix</strong>, what does the interval 2.60–3.39 indicate?",
+                "Sometimes / Moderate frequency"
+            ],
+            "guid": "uv*S06^WD/",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In a <strong>Mean Matrix</strong>, what does the interval 1.80–2.59 indicate?",
+                "Seldom / Low frequency"
+            ],
+            "guid": "gx0F:c,be!",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In a <strong>Mean Matrix</strong>, what does the interval 1.00-1.79 indicate?",
+                "Never / Very low frequency"
+            ],
+            "guid": "d(#R``:Ve6",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
         }
     ],
     "reviewLimit": null,

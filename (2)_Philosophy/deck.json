@@ -2524,571 +2524,6 @@
         {
             "__type__": "Note",
             "fields": [
-                "Who said this, and what year:<br><br>“Epistemology is a science devoted to the discovery of the proper method of <b>acquiring or validating knowledge</b>”",
-                "Rand, 1990"
-            ],
-            "guid": "iI!(j=Fj;I",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "What are the 2 main purposes of epistemology",
-                "1. Acquire knowledge<br>2. Validate knowledge"
-            ],
-            "guid": "BXU=s$!bUQ",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "They said that we can acquire knowledge using our senses",
-                "Empiricists"
-            ],
-            "guid": "Cssy3_LVTz",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "They said that to think is to think of something; you cannot think about nothing",
-                "Rationalists"
-            ],
-            "guid": "yqLpp_o1$Z",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "What are the 5 natures of knowledge in order?",
-                "1. Reality<br>2. Perception<br>3. Concept<br>4. Proposition<br>5. Inference"
-            ],
-            "guid": "zCR2me`?M%",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "What we see, hear,<br>feel, taste, or smell<br>informs us about<br>the world. It is also<br>the most flawed part<br>of knowledge.<br><br>Which nature of knowledge is this?",
-                "Perception"
-            ],
-            "guid": "sHOF]gZ]6+",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "\"to know is to know something. existence is all there to know\"<br><br>Which nature of knowledge is this?",
-                "Reality"
-            ],
-            "guid": "AGn~Mv:)2K",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "For something to be known, it must first exist&nbsp;<br><br>Which nature of knowledge is this?",
-                "Reality"
-            ],
-            "guid": "Q=p*/n:bzR",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Knowledge begins with perceptual knowledge. Stimulus through our senses<br><br>Which nature of knowledge is this?",
-                "Perception"
-            ],
-            "guid": "J@{X%M/c3x",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "“Abstractions from<br>abstractions.<br>Connecting<br>chunks of<br>knowledge.”<br><br>Which nature of knowledge is this?",
-                "Concept"
-            ],
-            "guid": "iFiu]e340<",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Allows us to organize and categorize our experiences<br><br>Which nature of knowledge is this?",
-                "Concept"
-            ],
-            "guid": "dq(9;J--ba",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "A declarative sentence.<br><br>Which nature of knowledge is this?",
-                "Proposition"
-            ],
-            "guid": "]$J(4y>>?",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "A statement that affirms of denies something",
-                "Proposition"
-            ],
-            "guid": "pKH[Y0??SA",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "A statement that is capable of being true or false",
-                "Proposition"
-            ],
-            "guid": "xqb][]l<<s",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "A reasoning process<br><br>Which nature of knowledge is this?",
-                "Inference"
-            ],
-            "guid": "F>T^_]7_ub",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "What are the two parts of an inference?",
-                "Premise and Conclusion"
-            ],
-            "guid": "yJgBL/}%UC",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "This part of an inference provides justification evidence and proof",
-                "Premise"
-            ],
-            "guid": "dQ&yZ:=[D_",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "This part of the inference is a staatement that we want to prove",
-                "Inference"
-            ],
-            "guid": "Bz0<(|0,Yn",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "0f95fb91844d4f6ab696dfb926b7ec30-ao-1",
-                "",
-                "<img src=\"Screenshot 2025-08-05 at 12.40.10 AM.png\" />",
-                "<img src=\"0f95fb91844d4f6ab696dfb926b7ec30-ao-1-Q.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"0f95fb91844d4f6ab696dfb926b7ec30-ao-1-A.svg\">",
-                "<img src=\"0f95fb91844d4f6ab696dfb926b7ec30-ao-O.svg\" />"
-            ],
-            "guid": "l$s?~1Re*]",
-            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "0f95fb91844d4f6ab696dfb926b7ec30-ao-2",
-                "",
-                "<img src=\"Screenshot 2025-08-05 at 12.40.10 AM.png\" />",
-                "<img src=\"0f95fb91844d4f6ab696dfb926b7ec30-ao-2-Q.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"0f95fb91844d4f6ab696dfb926b7ec30-ao-2-A.svg\">",
-                "<img src=\"0f95fb91844d4f6ab696dfb926b7ec30-ao-O.svg\" />"
-            ],
-            "guid": "jf6Oez?bpy",
-            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "0f95fb91844d4f6ab696dfb926b7ec30-ao-3",
-                "",
-                "<img src=\"Screenshot 2025-08-05 at 12.40.10 AM.png\" />",
-                "<img src=\"0f95fb91844d4f6ab696dfb926b7ec30-ao-3-Q.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"0f95fb91844d4f6ab696dfb926b7ec30-ao-3-A.svg\">",
-                "<img src=\"0f95fb91844d4f6ab696dfb926b7ec30-ao-O.svg\" />"
-            ],
-            "guid": "FGRM@gR3s^",
-            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "0f95fb91844d4f6ab696dfb926b7ec30-ao-4",
-                "",
-                "<img src=\"Screenshot 2025-08-05 at 12.40.10 AM.png\" />",
-                "<img src=\"0f95fb91844d4f6ab696dfb926b7ec30-ao-4-Q.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"0f95fb91844d4f6ab696dfb926b7ec30-ao-4-A.svg\" />",
-                "<img src=\"0f95fb91844d4f6ab696dfb926b7ec30-ao-O.svg\" />"
-            ],
-            "guid": "k{4]B3d?pl",
-            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "0f95fb91844d4f6ab696dfb926b7ec30-ao-5",
-                "",
-                "<img src=\"Screenshot 2025-08-05 at 12.40.10 AM.png\" />",
-                "<img src=\"0f95fb91844d4f6ab696dfb926b7ec30-ao-5-Q.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"0f95fb91844d4f6ab696dfb926b7ec30-ao-5-A.svg\">",
-                "<img src=\"0f95fb91844d4f6ab696dfb926b7ec30-ao-O.svg\">"
-            ],
-            "guid": "u{m5$5rLuQ",
-            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Helps us distinguish true statements from false ones through structured reasoning",
-                "Logic"
-            ],
-            "guid": "DcIk`28jd%",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "A logically valid argument leads from<br>premises to a conclusion in a way that?&nbsp;",
-                "if the premises are true, the conclusion must be true."
-            ],
-            "guid": "kWkq*D:(:0",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "The art of reasoning that follows systematic processes",
-                "Logic"
-            ],
-            "guid": "m=#mZ,|_ni",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "What are the 5 natures of truth in order?",
-                "1. Logic<br>2. Common Sense<br>3. Knowledge<br>4. Opinions<br>5. Arguments"
-            ],
-            "guid": "PWmA<SK[^$",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "It is a prudent, shallow judgment used to<br>validate whether if a thing is valid or not.",
-                "Common sense"
-            ],
-            "guid": "?i}|x@dfJ",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Refers to practical, everyday reasoning that most people accept as sound without requiring deep analysis.",
-                "Common sense"
-            ],
-            "guid": "IHSf2tO$V2",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "A <b>justified true belief</b> — it must be<br>true, you must believe it, and you must have justification for believing it.",
-                "Knowledge"
-            ],
-            "guid": "eK5;m)-D)p",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Personal beliefs, preferences, or judgments that may or may not be based on facts or logical reasoning.",
-                "Opinions"
-            ],
-            "guid": "yl~<6ZhV}u",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Tools used to arrive at or defend truth claims.&nbsp;",
-                "Arguments"
-            ],
-            "guid": "rU1IcqvGE@",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "A short but very deep book written by Ludwig Wittgenstein",
-                "Tractatus Logico-philosophicus"
-            ],
-            "guid": "E^B%oroHGL",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Who wrote Tractatus logico-philosophicus?",
-                "Ludwig Wittgenstein"
-            ],
-            "guid": "Q#Pdr*z<O6",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "This philosopher wanted to understand how language, thought, and reality all connect",
-                "Ludwig Wittgenstein"
-            ],
-            "guid": "l@[ne}i{/(",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "What is Ludwig Wittgenstein's famous quote?",
-                "\"The world is all that is the case\""
-            ],
-            "guid": "y[ARc1h&&>",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "What does \"the world is all that is the case\" mean?",
-                "The world is made up of facts"
-            ],
-            "guid": "v*cbb~p`pv",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "\"{{c2::Whereof one cannot speak}}, {{c1::thereof one must be silent}}.\"",
-                ""
-            ],
-            "guid": "joe?N-Cs%#",
-            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "According to Wittgenstein, what should we do when we encounter concepts that are too deep to describe using words?",
-                "Stay silent"
-            ],
-            "guid": "h!r/ovOQ-J",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "According to Wittgenstein, what is philosophy's job?",
-                "To make thoughts clear"
-            ],
-            "guid": "uDnF-)q[<6",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "This is defined as a fact or reality that is objective and <b>independent of anyone’s belief.</b>",
-                "Truth"
-            ],
-            "guid": "wE-r5^@<:Y",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "This theory states that a statement is true if it aligns with reality",
-                "Correspondence theory of truth"
-            ],
-            "guid": "hWO)j)tz>n",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "\"There is a tree outside the window\" This is true if there really is a tree outside the window.&nbsp;<br><br><br>What theory of truth is this?",
-                "Correspondence theory of truth"
-            ],
-            "guid": "O9lo]Mww]1",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "This theory of truth states that a statement is true if it fits with a system of other truths",
-                "Coherence theory of truth"
-            ],
-            "guid": "F%R*hgLVi3",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "This theory of truth states that a statement is true if it works or is useful in real life.",
-                "Pragmatic theory of truth"
-            ],
-            "guid": "FFVF^P!uYw",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "\"2 + 2 = 4\" is true because it is consistent with the concepts of arithmetic<br><br>Which theory of truth is this?",
-                "Coherence theory of truth"
-            ],
-            "guid": "bddH4~M_cW",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "\"Washing hands prevents sickness\" is true because it works and leads to healthy results<br><br>Which theory of truth is this?",
-                "Pragmatic theory of truth"
-            ],
-            "guid": "D09)mAHY:l",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "What are the 4 natures of opinion? (BICO)<br><br>1. Based on emotion<br>2. Inherently biased<br>3. Cannot be confirmed<br>4. Open to interpretation",
-                ""
-            ],
-            "guid": "ASA:-D/k|D",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Opinions often come<br>from personal feelings<br>or preferences, not<br>from solid evidence or<br>reason.<br><br>Which nature of opinion is this?",
-                "Based on emotions"
-            ],
-            "guid": "MV0KL6@z:9",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Since opinions are<br>subjective, different<br>people can interpret the<br>same situation or idea in<br>completely different ways.<br><br>Which nature of opinion is this?",
-                "Open to interpretation"
-            ],
-            "guid": "c3HcIaBgFL",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Unlike facts or truths, opinions<br>cannot be definitively proven<br>using evidence or logic. They<br>may be supported, but never fully<br>confirmed in a universal sense.<br><br>which nature of truth is this?",
-                "Cannot be confirmed"
-            ],
-            "guid": "xJ4mesY^I,",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Opinions carry the<br>backgrounds, and experiences of<br>the person who holds them.<br><br>Which nature of opinion is this?",
-                "Inherently biased"
-            ],
-            "guid": "b80^x}wZ=(",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
                 "Why are humans complex? (4)",
                 "because they are capable of thinking,feeling, choosing, and seeking meaning."
             ],
@@ -3773,6 +3208,571 @@
                 "Ludwig Wittgenstein"
             ],
             "guid": "Et5GpXPM3C",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who said this, and what year:<br><br>“Epistemology is a science devoted to the discovery of the proper method of <b>acquiring or validating knowledge</b>”",
+                "Rand, 1990"
+            ],
+            "guid": "iI!(j=Fj;I",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the 2 main purposes of epistemology",
+                "1. Acquire knowledge<br>2. Validate knowledge"
+            ],
+            "guid": "BXU=s$!bUQ",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "They said that we can acquire knowledge using our senses",
+                "Empiricists"
+            ],
+            "guid": "Cssy3_LVTz",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "They said that to think is to think of something; you cannot think about nothing",
+                "Rationalists"
+            ],
+            "guid": "yqLpp_o1$Z",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the 5 natures of knowledge in order?",
+                "1. Reality<br>2. Perception<br>3. Concept<br>4. Proposition<br>5. Inference"
+            ],
+            "guid": "zCR2me`?M%",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What we see, hear,<br>feel, taste, or smell<br>informs us about<br>the world. It is also<br>the most flawed part<br>of knowledge.<br><br>Which nature of knowledge is this?",
+                "Perception"
+            ],
+            "guid": "sHOF]gZ]6+",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "\"to know is to know something. existence is all there to know\"<br><br>Which nature of knowledge is this?",
+                "Reality"
+            ],
+            "guid": "AGn~Mv:)2K",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "For something to be known, it must first exist&nbsp;<br><br>Which nature of knowledge is this?",
+                "Reality"
+            ],
+            "guid": "Q=p*/n:bzR",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Knowledge begins with perceptual knowledge. Stimulus through our senses<br><br>Which nature of knowledge is this?",
+                "Perception"
+            ],
+            "guid": "J@{X%M/c3x",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "“Abstractions from<br>abstractions.<br>Connecting<br>chunks of<br>knowledge.”<br><br>Which nature of knowledge is this?",
+                "Concept"
+            ],
+            "guid": "iFiu]e340<",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Allows us to organize and categorize our experiences<br><br>Which nature of knowledge is this?",
+                "Concept"
+            ],
+            "guid": "dq(9;J--ba",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A declarative sentence.<br><br>Which nature of knowledge is this?",
+                "Proposition"
+            ],
+            "guid": "]$J(4y>>?",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A statement that affirms of denies something",
+                "Proposition"
+            ],
+            "guid": "pKH[Y0??SA",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A statement that is capable of being true or false",
+                "Proposition"
+            ],
+            "guid": "xqb][]l<<s",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A reasoning process<br><br>Which nature of knowledge is this?",
+                "Inference"
+            ],
+            "guid": "F>T^_]7_ub",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the two parts of an inference?",
+                "Premise and Conclusion"
+            ],
+            "guid": "yJgBL/}%UC",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This part of an inference provides justification evidence and proof",
+                "Premise"
+            ],
+            "guid": "dQ&yZ:=[D_",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This part of the inference is a staatement that we want to prove",
+                "Inference"
+            ],
+            "guid": "Bz0<(|0,Yn",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "0f95fb91844d4f6ab696dfb926b7ec30-ao-1",
+                "",
+                "<img src=\"Screenshot 2025-08-05 at 12.40.10 AM.png\" />",
+                "<img src=\"0f95fb91844d4f6ab696dfb926b7ec30-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"0f95fb91844d4f6ab696dfb926b7ec30-ao-1-A.svg\">",
+                "<img src=\"0f95fb91844d4f6ab696dfb926b7ec30-ao-O.svg\" />"
+            ],
+            "guid": "l$s?~1Re*]",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "0f95fb91844d4f6ab696dfb926b7ec30-ao-2",
+                "",
+                "<img src=\"Screenshot 2025-08-05 at 12.40.10 AM.png\" />",
+                "<img src=\"0f95fb91844d4f6ab696dfb926b7ec30-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"0f95fb91844d4f6ab696dfb926b7ec30-ao-2-A.svg\">",
+                "<img src=\"0f95fb91844d4f6ab696dfb926b7ec30-ao-O.svg\" />"
+            ],
+            "guid": "jf6Oez?bpy",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "0f95fb91844d4f6ab696dfb926b7ec30-ao-3",
+                "",
+                "<img src=\"Screenshot 2025-08-05 at 12.40.10 AM.png\" />",
+                "<img src=\"0f95fb91844d4f6ab696dfb926b7ec30-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"0f95fb91844d4f6ab696dfb926b7ec30-ao-3-A.svg\">",
+                "<img src=\"0f95fb91844d4f6ab696dfb926b7ec30-ao-O.svg\" />"
+            ],
+            "guid": "FGRM@gR3s^",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "0f95fb91844d4f6ab696dfb926b7ec30-ao-4",
+                "",
+                "<img src=\"Screenshot 2025-08-05 at 12.40.10 AM.png\" />",
+                "<img src=\"0f95fb91844d4f6ab696dfb926b7ec30-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"0f95fb91844d4f6ab696dfb926b7ec30-ao-4-A.svg\" />",
+                "<img src=\"0f95fb91844d4f6ab696dfb926b7ec30-ao-O.svg\" />"
+            ],
+            "guid": "k{4]B3d?pl",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "0f95fb91844d4f6ab696dfb926b7ec30-ao-5",
+                "",
+                "<img src=\"Screenshot 2025-08-05 at 12.40.10 AM.png\" />",
+                "<img src=\"0f95fb91844d4f6ab696dfb926b7ec30-ao-5-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"0f95fb91844d4f6ab696dfb926b7ec30-ao-5-A.svg\">",
+                "<img src=\"0f95fb91844d4f6ab696dfb926b7ec30-ao-O.svg\">"
+            ],
+            "guid": "u{m5$5rLuQ",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Helps us distinguish true statements from false ones through structured reasoning",
+                "Logic"
+            ],
+            "guid": "DcIk`28jd%",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A logically valid argument leads from<br>premises to a conclusion in a way that?&nbsp;",
+                "if the premises are true, the conclusion must be true."
+            ],
+            "guid": "kWkq*D:(:0",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The art of reasoning that follows systematic processes",
+                "Logic"
+            ],
+            "guid": "m=#mZ,|_ni",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the 5 natures of truth in order?",
+                "1. Logic<br>2. Common Sense<br>3. Knowledge<br>4. Opinions<br>5. Arguments"
+            ],
+            "guid": "PWmA<SK[^$",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It is a prudent, shallow judgment used to<br>validate whether if a thing is valid or not.",
+                "Common sense"
+            ],
+            "guid": "?i}|x@dfJ",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Refers to practical, everyday reasoning that most people accept as sound without requiring deep analysis.",
+                "Common sense"
+            ],
+            "guid": "IHSf2tO$V2",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A <b>justified true belief</b> — it must be<br>true, you must believe it, and you must have justification for believing it.",
+                "Knowledge"
+            ],
+            "guid": "eK5;m)-D)p",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Personal beliefs, preferences, or judgments that may or may not be based on facts or logical reasoning.",
+                "Opinions"
+            ],
+            "guid": "yl~<6ZhV}u",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Tools used to arrive at or defend truth claims.&nbsp;",
+                "Arguments"
+            ],
+            "guid": "rU1IcqvGE@",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A short but very deep book written by Ludwig Wittgenstein",
+                "Tractatus Logico-philosophicus"
+            ],
+            "guid": "E^B%oroHGL",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who wrote Tractatus logico-philosophicus?",
+                "Ludwig Wittgenstein"
+            ],
+            "guid": "Q#Pdr*z<O6",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This philosopher wanted to understand how language, thought, and reality all connect",
+                "Ludwig Wittgenstein"
+            ],
+            "guid": "l@[ne}i{/(",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is Ludwig Wittgenstein's famous quote?",
+                "\"The world is all that is the case\""
+            ],
+            "guid": "y[ARc1h&&>",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does \"the world is all that is the case\" mean?",
+                "The world is made up of facts"
+            ],
+            "guid": "v*cbb~p`pv",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "\"{{c2::Whereof one cannot speak}}, {{c1::thereof one must be silent}}.\"",
+                ""
+            ],
+            "guid": "joe?N-Cs%#",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "According to Wittgenstein, what should we do when we encounter concepts that are too deep to describe using words?",
+                "Stay silent"
+            ],
+            "guid": "h!r/ovOQ-J",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "According to Wittgenstein, what is philosophy's job?",
+                "To make thoughts clear"
+            ],
+            "guid": "uDnF-)q[<6",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This is defined as a fact or reality that is objective and <b>independent of anyone’s belief.</b>",
+                "Truth"
+            ],
+            "guid": "wE-r5^@<:Y",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This theory states that a statement is true if it aligns with reality",
+                "Correspondence theory of truth"
+            ],
+            "guid": "hWO)j)tz>n",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "\"There is a tree outside the window\" This is true if there really is a tree outside the window.&nbsp;<br><br><br>What theory of truth is this?",
+                "Correspondence theory of truth"
+            ],
+            "guid": "O9lo]Mww]1",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This theory of truth states that a statement is true if it fits with a system of other truths",
+                "Coherence theory of truth"
+            ],
+            "guid": "F%R*hgLVi3",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This theory of truth states that a statement is true if it works or is useful in real life.",
+                "Pragmatic theory of truth"
+            ],
+            "guid": "FFVF^P!uYw",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "\"2 + 2 = 4\" is true because it is consistent with the concepts of arithmetic<br><br>Which theory of truth is this?",
+                "Coherence theory of truth"
+            ],
+            "guid": "bddH4~M_cW",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "\"Washing hands prevents sickness\" is true because it works and leads to healthy results<br><br>Which theory of truth is this?",
+                "Pragmatic theory of truth"
+            ],
+            "guid": "D09)mAHY:l",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the 4 natures of opinion? (BICO)<br><br>1. Based on emotion<br>2. Inherently biased<br>3. Cannot be confirmed<br>4. Open to interpretation",
+                ""
+            ],
+            "guid": "ASA:-D/k|D",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Opinions often come<br>from personal feelings<br>or preferences, not<br>from solid evidence or<br>reason.<br><br>Which nature of opinion is this?",
+                "Based on emotions"
+            ],
+            "guid": "MV0KL6@z:9",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Since opinions are<br>subjective, different<br>people can interpret the<br>same situation or idea in<br>completely different ways.<br><br>Which nature of opinion is this?",
+                "Open to interpretation"
+            ],
+            "guid": "c3HcIaBgFL",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Unlike facts or truths, opinions<br>cannot be definitively proven<br>using evidence or logic. They<br>may be supported, but never fully<br>confirmed in a universal sense.<br><br>which nature of truth is this?",
+                "Cannot be confirmed"
+            ],
+            "guid": "xJ4mesY^I,",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Opinions carry the<br>backgrounds, and experiences of<br>the person who holds them.<br><br>Which nature of opinion is this?",
+                "Inherently biased"
+            ],
+            "guid": "b80^x}wZ=(",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": []
         },
@@ -4553,6 +4553,346 @@
                 "Frugality"
             ],
             "guid": "st>m`eGo>W",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What causes ecological crisis?",
+                "Unjust utilization of the environment"
+            ],
+            "guid": "w##pVMu-@{",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Give 4 natural disorders in the universe.",
+                "Earthquake<br>Typhoon<br>Volcanic Eruption<br>Flood"
+            ],
+            "guid": "PqWvStesz(",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Give 4 environmental disorders in the universe.",
+                "Climate Change<br>Pollution<br>Biodiversity Loss<br>Scarcity"
+            ],
+            "guid": "fRYY>%c&7z",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Give 4 societal disorders in the universe.",
+                "War and violence<br>Economic Instability<br>Pandemic<br>Abuse of Power"
+            ],
+            "guid": "na?M)5;_6E",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Are humans separate from nature?",
+                "No, humans are part of the environmental force"
+            ],
+            "guid": "vx.R^E8{7[",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What affects humans?",
+                "Changes in the environment"
+            ],
+            "guid": "j$,rv%|A!y",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What affects the environment?",
+                "Human activities"
+            ],
+            "guid": "LO+|4ZLX7w",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What should humans have toward the environment?",
+                "Environmental responsibility"
+            ],
+            "guid": "oHW!xJqF5R",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does anthropocentrism believe about humans?",
+                "Humans are <b>superior</b> and central to the universe while nature is considered as the <b>means to survive.</b>"
+            ],
+            "guid": "eg:N,;}@%p",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Humans are&nbsp;<b>superior</b>&nbsp;and central to the universe while nature is considered as the&nbsp;<b>means to survive.</b>",
+                "Anthropocentrism"
+            ],
+            "guid": "L;TFYy[zZ-",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This view believes that humans are the most important species and is free to transform the nature.",
+                "Anthropocentrism"
+            ],
+            "guid": "eS{_1hu^Ru",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "With this view, people changes the environment to suit their needs in order to utilize its resources for building structures and attaining survival needs.",
+                "Anthroprocentrism"
+            ],
+            "guid": "IiOR`sN,N,",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does ecocentrism value?",
+                "Ecosystems and biological communities"
+            ],
+            "guid": "bG2vws(=;2",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This view places great value on ecosystems and biological communities.",
+                "Ecocentrism"
+            ],
+            "guid": "B1MU]t*%8S",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In this view, humanity’s effect on the world can be better understood if we view the person as a complex source of change within their own world.",
+                "Ecocentrism"
+            ],
+            "guid": "C/-JkbC;-w",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In which relation is nature treated as an <b>object for use</b>?",
+                "I-It Relation"
+            ],
+            "guid": "j%(U!rK|xX",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A relationship where the nature is treated as an object, something to be used, analyzed, or experienced for personal benefit.",
+                "I-It Relation"
+            ],
+            "guid": "LX>nSf~<ZU",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This relationship is utilitarian and one-sided.",
+                "I-It Relation"
+            ],
+            "guid": "H(}*$u?.)z",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What kind of man-universe relationship does this exemplify:&nbsp;<b>Cutting off trees for lumber</b>?",
+                "I-It Relation"
+            ],
+            "guid": "kAGVid]SpW",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In which relation is nature treated as a subject with intrinsic value?",
+                "I-Thou Relation"
+            ],
+            "guid": "m5h#uP=3U*",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A relationship where the nature is treated as a subject, a unique being with intrinsic value, not merely as an object or means to an end.",
+                "I-Thou Relation"
+            ],
+            "guid": "x;&_;+/4,$",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This man-universe relationship is<b> mutual and reciprocal.</b>",
+                "I-Thou Relation"
+            ],
+            "guid": "PR/-^Ll$*?",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What kind of man-universe relationship does this exemplify: Seeing a tree as a living entity.?",
+                "I-Thou relation"
+            ],
+            "guid": "p=qcOgwgX8",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What question does Environmental Virtue Ethics ask?",
+                "<div>What kind of person should I be to live harmoniously with the environment?</div>\n<div></div>"
+            ],
+            "guid": "n|;OYv7i{v",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the 4 characteristics that one should have to live harmoniously with the environment?",
+                "1) Respect for nature<br>2) Humility<br>3) Simplicity<br>4) Stewardship"
+            ],
+            "guid": "f9C=DJoG[*",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What environmental virtue means caring for nature without expecting something in return?",
+                "Respect for nature"
+            ],
+            "guid": "dO?&dSl^dy",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What environmental virtue means recognizing that humans are part of nature?",
+                "Humility"
+            ],
+            "guid": "jnl_|&*xl$",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What virtue means living without excess?",
+                "Simplicity"
+            ],
+            "guid": "k-enSgB7yY",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What virtue means taking care of nature for future generations?",
+                "Stewardship"
+            ],
+            "guid": "f:h0Uqzo=9",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What vice means overconsumption?",
+                "Greed"
+            ],
+            "guid": "IreVff{w,t",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What vice means indifference to environmental damage?",
+                "Apathy"
+            ],
+            "guid": "s$guJw`qtS",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What vice means thinking humans are above nature?",
+                "Arrogance"
+            ],
+            "guid": "d-7y7Ld[K",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does “environment” mean in environmental philosophy?",
+                "Total surroundings where humans and other beings live"
+            ],
+            "guid": "ex+)GFg}fK",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The total surroundings in which humans and other beings live — whether those surroundings are natural or artificial.",
+                "Environment"
+            ],
+            "guid": "rc~6^<Y=H",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": []
         }

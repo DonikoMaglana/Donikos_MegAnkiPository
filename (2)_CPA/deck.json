@@ -99,11 +99,84 @@
     "dyn": 0,
     "extendNew": 0,
     "extendRev": 0,
-    "media_files": [],
+    "media_files": [
+        "paste-2e7852dd6f6f5328f7f6e1ea809ea85b1ffadbcd.jpg",
+        "paste-6c38d63b1029274ad5b0b8fa5058662400c7ae10.jpg",
+        "paste-7fc1497142cc61e394238b9ad6946bd8285d085a.jpg",
+        "paste-af4e8536279857ca182d91e88d2d86a340fc9ba5.jpg",
+        "paste-e7c31e29228df50cbf137d4b3484ed700d937630.jpg"
+    ],
     "name": "(2) CPA",
     "newLimit": null,
     "newLimitToday": null,
     "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 9205121651523078416,
+                    "name": "Front",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -7001571941991209685,
+                    "name": "Back",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic",
+            "originalStockKind": 1,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": -471929315152782166,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0
+        },
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "6bba29fa-6617-11f0-8bc1-f5d300799d77",
@@ -237,232 +310,9 @@
                 }
             ],
             "type": 0
-        },
-        {
-            "__type__": "NoteModel",
-            "crowdanki_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
-            "flds": [
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": 9205121651523078416,
-                    "name": "Front",
-                    "ord": 0,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                },
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": -7001571941991209685,
-                    "name": "Back",
-                    "ord": 1,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "latexsvg": false,
-            "name": "Basic",
-            "originalStockKind": 1,
-            "req": [
-                [
-                    0,
-                    "any",
-                    [
-                        0
-                    ]
-                ]
-            ],
-            "sortf": 0,
-            "tmpls": [
-                {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
-                    "bafmt": "",
-                    "bfont": "",
-                    "bqfmt": "",
-                    "bsize": 0,
-                    "did": null,
-                    "id": -471929315152782166,
-                    "name": "Card 1",
-                    "ord": 0,
-                    "qfmt": "{{Front}}"
-                }
-            ],
-            "type": 0
         }
     ],
     "notes": [
-        {
-            "__type__": "Note",
-            "fields": [
-                "Color is defined as the property produced by an object of producing different {{c2::sensation on the eye}} as a result of the way the object {{c1::reflects light}}",
-                ""
-            ],
-            "guid": "vkD@:Llbb+",
-            "note_model_uuid": "6bba29fa-6617-11f0-8bc1-f5d300799d77",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "The human eye can distinguish how many colors?",
-                "10 million"
-            ],
-            "guid": "izJj1X6FWX",
-            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Defined as light sensitive cells",
-                "Cones"
-            ],
-            "guid": "i!r|Hsp{t#",
-            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Cones are found where?",
-                "In the retina"
-            ],
-            "guid": "oSE+e]QciL",
-            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "The cones come in which types?",
-                "RGB"
-            ],
-            "guid": "A&:i<7Bcc`",
-            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "What are the 3 secondary colors?",
-                "Orange, green, violet"
-            ],
-            "guid": "tELb[W0a68",
-            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "How many tertiary colors are there?",
-                "6"
-            ],
-            "guid": "L0O|b5VvBx",
-            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Complementary colors are {{c1::opposite}} on the color wheel",
-                ""
-            ],
-            "guid": "JE5@s<[=o[",
-            "note_model_uuid": "6bba29fa-6617-11f0-8bc1-f5d300799d77",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "What are the 3 components of a monochromatic palette?",
-                "Base, Shade, Tint"
-            ],
-            "guid": "fko$~Kt&U^",
-            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Defined as the main color of a monochromatic palette",
-                "Base"
-            ],
-            "guid": "IU>yFtlc%t",
-            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Defined as the darker version of the base in a monochromatic palette",
-                "Shade"
-            ],
-            "guid": "i`JfBZ-KbR",
-            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Defined as the lighter version of the base in a monochromatic palette",
-                "tint"
-            ],
-            "guid": "LI~=.AtH`v",
-            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Defined as the name of the color regardless of value",
-                "Hue"
-            ],
-            "guid": "B@0#P2l96a",
-            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
         {
             "__type__": "Note",
             "fields": [
@@ -754,6 +604,162 @@
         {
             "__type__": "Note",
             "fields": [
+                "Color is defined as the property produced by an object of producing different {{c2::sensation on the eye}} as a result of the way the object {{c1::reflects light}}",
+                ""
+            ],
+            "guid": "vkD@:Llbb+",
+            "note_model_uuid": "6bba29fa-6617-11f0-8bc1-f5d300799d77",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The human eye can distinguish how many colors?",
+                "10 million"
+            ],
+            "guid": "izJj1X6FWX",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Defined as light sensitive cells",
+                "Cones"
+            ],
+            "guid": "i!r|Hsp{t#",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Cones are found where?",
+                "In the retina"
+            ],
+            "guid": "oSE+e]QciL",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The cones come in which types?",
+                "RGB"
+            ],
+            "guid": "A&:i<7Bcc`",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the 3 secondary colors?",
+                "Orange, green, violet"
+            ],
+            "guid": "tELb[W0a68",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How many tertiary colors are there?",
+                "6"
+            ],
+            "guid": "L0O|b5VvBx",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Complementary colors are {{c1::opposite}} on the color wheel",
+                ""
+            ],
+            "guid": "JE5@s<[=o[",
+            "note_model_uuid": "6bba29fa-6617-11f0-8bc1-f5d300799d77",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the 3 components of a monochromatic palette?",
+                "Base, Shade, Tint"
+            ],
+            "guid": "fko$~Kt&U^",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Defined as the main color of a monochromatic palette",
+                "Base"
+            ],
+            "guid": "IU>yFtlc%t",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Defined as the darker version of the base in a monochromatic palette",
+                "Shade"
+            ],
+            "guid": "i`JfBZ-KbR",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Defined as the lighter version of the base in a monochromatic palette",
+                "tint"
+            ],
+            "guid": "LI~=.AtH`v",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Defined as the name of the color regardless of value",
+                "Hue"
+            ],
+            "guid": "B@0#P2l96a",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "This pre-colonial form of philippine art represents bravery, tribal affiliation, spirituality",
                 "Tattoos"
             ],
@@ -810,6 +816,296 @@
             "tags": [
                 "Q1_Monthly"
             ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the two categories of art?",
+                "1) Major Arts<br>2) Minor Arts"
+            ],
+            "guid": "M{w/c@Zbp.",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is another term of major arts?",
+                "Fine/Aesthetic Arts"
+            ],
+            "guid": "NV<[:(<F[+",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is another term for Minor Arts?",
+                "Utilitarian or Practical Arts"
+            ],
+            "guid": "DFwHl~.PWr",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of art is primarily for aesthetic enjoyment through the senses, especially the visual and auditory.",
+                "Major Arts (Fine or Aesthetic)"
+            ],
+            "guid": "Eh]Rttf<.e",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It involves changing certain materials or media for aesthetic pleasure",
+                "Major Arts&nbsp;"
+            ],
+            "guid": "H!1VayD]oZ",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of art is&nbsp;<b><span style=\"font-weight: 400;\">intended for practical use or utility.&nbsp;</span></b>",
+                "Minor Arts (Practical/Utilitarian)"
+            ],
+            "guid": "j_{}wleu/+",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It involves changing of raw materials for utilitarian purposes",
+                "Minor Arts"
+            ],
+            "guid": "t?ge7-G=eO",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What must Practical/Utilitarian Arts possess besides utility?",
+                "Ornamental or artistic qualities"
+            ],
+            "guid": "MkK.sv=)b!",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Why must Practical/Utilitarian Arts have artistic qualities?",
+                "To make them useful and beautiful"
+            ],
+            "guid": "ukYzMmlN=h",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It is the changing of raw materials into some significant product for human consumption or use.",
+                "Industrial Art"
+            ],
+            "guid": "I-01Q?AxAn",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the main purpose of Industrial Art?",
+                "To create products for human consumption or use"
+            ],
+            "guid": "vc$S=&9-][",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Name some materials used in Industrial Art.",
+                "Wood, metal, fabric, tools, or clothing"
+            ],
+            "guid": "CSYg{:w!HO",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is Industrial Art?",
+                "The changing of raw materials into a significant product for human use"
+            ],
+            "guid": "KnldVueJbD",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Determine what type of art from the given example/s:&nbsp;<b><span style=\"font-weight: 400;\">manufacture of automobiles, home appliances&nbsp;</span></b>",
+                "Indsutrial art"
+            ],
+            "guid": "Q1moVp:/z0",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This refers mostly to household arts such as: flower arrangement, interior, decoration and others.",
+                "<b><div><span style=\"font-weight: 400;\">Applied or Household Art</span></div></b>"
+            ],
+            "guid": "Q(aji(iUjq",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Identify what type of art based on example/s:<b><div><span style=\"font-weight: 400;\">flower arrangement, interior, decoration, dress making, home-making, embroidery, cooking</span></div></b>",
+                "Applied/Household Art"
+            ],
+            "guid": "D4(mOb/-K}",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This includes city or town planning, maintenance, and beautification of parks, plazas, roads, bridges, and farms.",
+                "Civic Art"
+            ],
+            "guid": "scxm2rD?Bg",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It refers to civic planning and beautification in order to improve the standard of living.",
+                "Civic Art"
+            ],
+            "guid": "rRFJr5l.,r",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This involves business propaganda in the form of advertisements in newspapers and magazines, sign paintings, billboards announcements, leaflets, displays, poster designing, movie illustrations and many more.",
+                "<b><div><span style=\"font-weight: 400;\">Commercial Art</span></div></b>"
+            ],
+            "guid": "iC!iDk{F_J",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It is anything printed from raised or sunken reliefs and plane surfaces.",
+                "Graphic Art"
+            ],
+            "guid": "b&0.Xr-[&s",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This refers to agronomy, horticulture, husbandry, and farming",
+                "<b><div><span style=\"font-weight: 400;\">Agricultural Art</span></div></b>"
+            ],
+            "guid": "PdY^8mQ!kJ",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This includes merchandising, accounting, bookkeeping, typewriting, stenography, salesmanship and business administration.",
+                "Business Art"
+            ],
+            "guid": "N-VJHa#9lz",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It includes shallow and deep sea fishing, fish refrigeration and culture, net weaving.",
+                "Fishery Art"
+            ],
+            "guid": "hY8t</^fK/",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It includes first aid treatments, medicinal manufacturing,&nbsp; surgery, medical operations, rehabilitation and others.",
+                "Medical or Clinical Art"
+            ],
+            "guid": "s>,UzXac2N",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Identify what type of industrial art:<br><img src=\"paste-af4e8536279857ca182d91e88d2d86a340fc9ba5.jpg\">",
+                "shell-craft"
+            ],
+            "guid": "I,n^fB~ToD",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Identify what type of industrial art:<br><img src=\"paste-e7c31e29228df50cbf137d4b3484ed700d937630.jpg\">",
+                "Leather art"
+            ],
+            "guid": "h89nNeVgyh",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Identify what type of industrial art:<br><img src=\"paste-7fc1497142cc61e394238b9ad6946bd8285d085a.jpg\">",
+                "bamboo art"
+            ],
+            "guid": "prjg|Eo>*=",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Identify what type of industrial art:<br><img src=\"paste-2e7852dd6f6f5328f7f6e1ea809ea85b1ffadbcd.jpg\">",
+                "Shoe making"
+            ],
+            "guid": "Q~F7n?a8-i",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Identify what type of industrial art:<br><img src=\"paste-6c38d63b1029274ad5b0b8fa5058662400c7ae10.jpg\">",
+                "pottery-making"
+            ],
+            "guid": "q/>%5`k%bK",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
         }
     ],
     "reviewLimit": null,
