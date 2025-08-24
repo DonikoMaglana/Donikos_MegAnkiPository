@@ -2869,6 +2869,438 @@
             "guid": "Gl~m/L%?0h",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ang paglalakbay at pagbabago ng kapaligiran ay nagbibigay ng bagong sigla sa isip. Sino ang nagsabi nito?",
+                "Seneca"
+            ],
+            "guid": "pdNwrSw+:|",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Bukod sa pagiging porma ng pagpapahinga, anong oportunidad ang ibinibigay sa atin ng paglalakbay?",
+                "Binibigyan tayo nito ng oportunidad na pansamantalang tumigil at pag-isipan ang nakasanayan."
+            ],
+            "guid": "w?ef^YN3F7",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Paano tayo pinalalaya ng paglalakbay ayon sa teksto?",
+                "Pinalalaya tayo nito sa regularidad ng buhay at pinalalawak ang ating kamalayan at perspektiba."
+            ],
+            "guid": "ht0+KGr}#`",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ano ang nagiging resulta ng pagdanas sa kultura, pagpapahalaga, at pamumuhay ng ibang lahi sa pamamagitan ng paglalakbay?",
+                "Nakapagmumunika tayo sa sariling karanasan batay sa pagsasakonteksto nito sa mas malawak na karanasan ng kapwa at lipunan."
+            ],
+            "guid": "rLKL{@2g+!",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Sino-sino ang nagsagawa ng pag-aaral noong 2013 na nagpakita ng benepisyo ng paglalakbay sa kalusugan?",
+                "Global Commission on Aging, Transamerica Center for Retirement Studies, at U.S. Travel Association"
+            ],
+            "guid": "x_I?:|Q2EN",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ayon sa pag-aaral noong 2013, anong mga sakit na kaakibat ng pagtanda ang naiiwasan sa pamamagitan ng paglalakbay?",
+                "Dementia at Alzheimer&#x27;s disease"
+            ],
+            "guid": "DO#o4WKV,e",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ayon sa pag-aaral, ano ang kaugnayan ng dalas ng pagbabakasyon ng mga babae sa kanilang kalusugan sa puso?",
+                "Ang mga babaeng nagbabakasyon tuwing anim na taon o mas mababa pa ay may mas mataas na kaso ng atake sa puso at pagkamatay kumpara sa mga nagbabakasyon dalawang beses sa isang taon."
+            ],
+            "guid": "c]B`BXxH*x",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ano ang ipinakita ng pag-aaral tungkol sa mga lalaking hindi nagbabakasyon kada taon?",
+                "Mayroon silang 30% na mas mataas na pagkakataong mamatay mula sa sakit sa puso."
+            ],
+            "guid": "nuW4064(-^",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ayon sa pag-aaral noong 2013, ano ang epekto ng paglalakbay sa &quot;mood&quot; at pananaw sa buhay ng isang tao?",
+                "Pinabubuti nito ang mood, at 86% ng mga kalahok na bumibyahe kada taon ay may positibong pagtingin sa buhay."
+            ],
+            "guid": "NKeF;;OydU",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Bukod sa mga larawan, paano pa mas maidodokumento ang isang paglalakbay para maging mas makabuluhan?",
+                "Sa pamamagitan ng pagsulat ng sanaysay."
+            ],
+            "guid": "s:1(SJMdO0",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ano ang travelogue?",
+                "Isang dokumentaryo, pelikula, palabas sa telebisyon o ano mang bahagi ng panitikan na nagpapakita at nagdodokumento ng iba&#x27;t ibang lugar na binisita at mga karanasan dito ng isang turista at dokumentarista."
+            ],
+            "guid": "PEFDr[qPNd",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ano ang naging dahilan ng paglaganap ng travel blogging?",
+                "Ang paglaganap ng social media."
+            ],
+            "guid": "P$i6a_Ha9^",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ano ang isa sa mga naitutulong ng travel blog sa mga manlalakbay?",
+                "Nabibigyan sila ng ideya kung ano ang aasahang makita, mabisita, madanas at makain sa isang lugar."
+            ],
+            "guid": "BDD4dtjwGA",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Bukod sa mga lugar na makikita, ano pa ang maaaring ibigay na ideya ng isang travel blog?",
+                "Nagbibigay ito ng ideya sa posibleng itineraryo o iskedyul ng pamamasyal, at ang posibleng magiging gastos sa bawat aktibidad."
+            ],
+            "guid": "b7$@B])8{)",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ano ang layunin ng pagsulat tungkol sa isang paglalakbay?",
+                "Makapagbigay ng malalim na insight at kakaibang anggulo tungkol sa isang destinasyon."
+            ],
+            "guid": "P!u[UWYL}o",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Upang maging epektibo, ano ang dapat magawa ng isang sulatin tungkol sa paglalakbay sa mga mambabasa?",
+                "Kailangang mahikayat ang mga mambabasa na danasin at bisitahin din ang lugar na isinusulat."
+            ],
+            "guid": "ilr<K1:Vk^",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Sino ang nagbigay ng mga payo kung paano epektibong makapagsusulat habang naglalakbay noong 2013?",
+                "Dinty Moore"
+            ],
+            "guid": "D|tm(A/?B!",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ayon kay Dinty Moore (2013), ano ang unang dapat gawin bago pa man dumating sa isang destinasyon para sa isang manunulat?",
+                "Magsaliksik at magbasa nang malalim tungkol sa destinasyon."
+            ],
+            "guid": "JL%=.0vn]G",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Bukod sa mga guidebook, ano pa ang mga dapat saliksikin ayon kay Moore para mas maunawaan ang isang lugar?",
+                "Ang kasaysayan, ekonomiya, kultura, agrikultura, pagkain, relihiyon, at mga paniniwala ng isang lugar."
+            ],
+            "guid": "y)^([r&EU}",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Bakit mahalaga ang malalim na pananaliksik bago maglakbay ayon kay Moore?",
+                "Upang mas maunawaan ang mga kakaibang bahagi ng kultural na praktis at ang konteksto nito."
+            ],
+            "guid": "tU,_r]H8xV",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ayon kay Moore, ano ang ibig sabihin ng &quot;mag-isip nang labas pa sa ordinaryo&quot; sa pagsulat ng lakbay-sanaysay?",
+                "Kailangan mong magpakita ng mas malalim na anggulo, magkwento ng karanasan, humanap ng malalim na kahulugan, at ilarawan ito sa malikhaing paraan."
+            ],
+            "guid": "JdE(1?iR#&",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Paano nagkakaiba ang isang manunulat ng paglalakbay at isang turista ayon kay Moore?",
+                "Ang turista ay nasa bakasyon, habang ang manunulat ay may mas malalim na tungkulin at layunin sa paglalakbay."
+            ],
+            "guid": "bgisWjm*]3",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ano ang dalawang praktikal na bagay na makakatulong sa epektibong pagsulat habang naglalakbay?",
+                "Ang pagkuha ng larawan at mga tala sa mga bagay na naoobserbahan at naririnig."
+            ],
+            "guid": "vkG^tf9__*",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "(Gabay ni Moore #1) Kailangan bang pumunta sa ibang bansa o malayong lugar para makahanap ng paksang isusulat para sa isang lakbay-sanaysay?",
+                "Hindi. Maaaring humanap ng paksa kahit sa mga kalapit na lugar lamang."
+            ],
+            "guid": "KAv+=3@+di",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "(Gabay ni Moore #2) Bakit hindi dapat piliting pasyalan ang napakaraming lugar sa iilang araw lamang?",
+                "Upang maging malalim at malawak ang pagdanas sa karanasan sa isang lugar, na magreresulta sa malalim na insight na maibibigay sa sanaysay."
+            ],
+            "guid": "Q6B?z_>iF:",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "(Gabay ni Moore #3) Ano ang dapat isama sa sanaysay upang maging mas makabuluhan ito at maipakita ang kultura ng isang lugar?",
+                "Ang kwentong-buhay ng mga tao sa iyong sanaysay."
+            ],
+            "guid": "CQ3k$4L]l}",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "(Gabay ni Moore #4) Ano ang payo ni Moore tungkol sa mga karaniwang atraksyon at pasyalan na nakikita sa mga postcard?",
+                "Huwag magpakupot sa mga normal na atraksyon at pasyalan; huwag piliting isulat ang mga madalas nang nakikita sa postcard ng mga turista."
+            ],
+            "guid": "p0ZU#<gIU$",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Sino ang awtor na ginamit na halimbawa ni Moore na nagsulat tungkol sa mga ordinaryong karanasan sa paglalakbay?",
+                "Pico Iyer, awtor ng &quot;The Global Soul: Jet Lag, Shopping Malls, and the Search for Home&quot;."
+            ],
+            "guid": "gd&T(=k~ly",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ano ang mga halimbawa ng &quot;napaka-ordinaryong karanasan&quot; na inilarawan ni Pico Iyer sa kanyang Lakbay-Sanaysay sa Tsina?",
+                "Ang obserbasyon sa kultura ng airport at eksplorasyon sa pinakamalaking kainan ng KFC sa Tiananmen Square."
+            ],
+            "guid": "Ih2n`[R[^y",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "(Gabay ni Moore #5) Kailangan bang laging positibo at puno ng kaligayahan ang isang lakbay-sanaysay?",
+                "Hindi. Kung nabiktima ka ng pagnanakaw o panloloko habang naglalakbay, dapat mong isulat kung ano ang naramdaman mo tungkol dito."
+            ],
+            "guid": "KvfF`]@ICh",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "(Gabay ni Moore #6) Ano ang payo ni Moore tungkol sa pagkain ng isang lugar?",
+                "Alamin ang mga natatanging pagkain na sa lugar lamang na binisita matitikman at pag-aralang lutuin ito, marahil sa tulong ng mga lokal."
+            ],
+            "guid": "mrXwB.2sOJ",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "(Gabay ni Moore #7) Sa halip na mga popular at malalaking katedral, ano ang iminumungkahi ni Moore na bisitahin?",
+                "Ang maliliit na pook-sambahan ng mga taong hindi gaanong napupuntahan."
+            ],
+            "guid": "Q<xdr>7E~g",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ano ang dapat isulat tungkol sa pagbisita sa maliliit at hindi gaanong sikat na pook-sambahan?",
+                "Ang kapayakan ng pananampalataya rito."
+            ],
+            "guid": "K4@AGpf$%.",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Bakit magandang maging paksa ng isang Lakbay-Sanaysay ang pagbisita sa maliliit na pook-sambahan?",
+                "Dahil ito ang mga paksang hindi madalas nababasa sa mga aklat at iba pang babasahin."
+            ],
+            "guid": "Ek6p*GUah",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "(Gabay ni Moore #8) Bukod sa karanasan, ano pa ang mahalagang elemento na dapat isulat sa isang lakbay-sanaysay?",
+                "Ang personal na repleksyon sa paglalakbay."
+            ],
+            "guid": "jzQ<W+8Uc9",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Bakit magkakaiba ang kalalabasan ng isang Lakbay-Sanaysay na isinulat ng iba&#x27;t ibang tao (hal. guro at mag-aaral)?",
+                "Dahil iba-iba ang kanilang karanasan at personal na repleksyon."
+            ],
+            "guid": "rC&>$JgUni",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
         }
     ],
     "reviewLimit": null,
