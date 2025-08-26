@@ -133,6 +133,73 @@
     "note_models": [
         {
             "__type__": "NoteModel",
+            "crowdanki_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 9205121651523078416,
+                    "name": "Front",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -7001571941991209685,
+                    "name": "Back",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic",
+            "originalStockKind": 1,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": -471929315152782166,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0
+        },
+        {
+            "__type__": "NoteModel",
             "crowdanki_uuid": "6bba29fa-6617-11f0-8bc1-f5d300799d77",
             "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n.cloze {\n    font-weight: bold;\n    color: blue;\n}\n.nightMode .cloze {\n    color: lightblue;\n}\n",
             "flds": [
@@ -258,73 +325,6 @@
                     "bsize": 0,
                     "did": null,
                     "id": -4396753340091107072,
-                    "name": "Card 1",
-                    "ord": 0,
-                    "qfmt": "{{Front}}"
-                }
-            ],
-            "type": 0
-        },
-        {
-            "__type__": "NoteModel",
-            "crowdanki_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
-            "flds": [
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": 9205121651523078416,
-                    "name": "Front",
-                    "ord": 0,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                },
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": -7001571941991209685,
-                    "name": "Back",
-                    "ord": 1,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "latexsvg": false,
-            "name": "Basic",
-            "originalStockKind": 1,
-            "req": [
-                [
-                    0,
-                    "any",
-                    [
-                        0
-                    ]
-                ]
-            ],
-            "sortf": 0,
-            "tmpls": [
-                {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
-                    "bafmt": "",
-                    "bfont": "",
-                    "bqfmt": "",
-                    "bsize": 0,
-                    "did": null,
-                    "id": -471929315152782166,
                     "name": "Card 1",
                     "ord": 0,
                     "qfmt": "{{Front}}"
@@ -606,6 +606,294 @@
         {
             "__type__": "Note",
             "fields": [
+                "Timeline of Philippine Art History",
+                "Ethnic - Islamic - Spanish - American - Japanese - Modern - Contemporary"
+            ],
+            "guid": "y:TQjHF:)P",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In this era, art was intergral to life, for rituals and daily use",
+                "Ethnic/ Pre-colonial Art"
+            ],
+            "guid": "s,j!~5B.&Z",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This era includes tattoos, cave paintings, musical instruments, architecture, clothes",
+                "Ethnic/ Pre-colonial Art"
+            ],
+            "guid": "xREc3``AO`",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The art of this era includes geometric designs",
+                "Islamic art"
+            ],
+            "guid": "pI?w(:9r!Z",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the oldest mosque and is a National Cultural Treasure?",
+                "Sheik Karum Al Makdum Mosque"
+            ],
+            "guid": "m>_2.O`_wd",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "When was Makdum Mosque built?",
+                "1380"
+            ],
+            "guid": "mkvN?8kNVC",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the legendary bird of Maranao people",
+                "Sarimanok"
+            ],
+            "guid": "y2%0=;&(xh",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does sarimanok symbolize?",
+                "prosperity"
+            ],
+            "guid": ",=+r<GB(T",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This era in Philippine art history was a huge help to propagate Roman Catholic religious faith and support colonial order",
+                "Spanish Arts"
+            ],
+            "guid": "Q(1bYqWq^e",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This era in art focuses on themes of faith and catechism",
+                "Spanish arts"
+            ],
+            "guid": "hj-CR;!?-0",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This era in Philippine art history introduced secular forms of art",
+                "American art"
+            ],
+            "guid": "Q5(ZvRQi3d",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This era of art includes idyllic sceneries, integrateion commercial and advertising arts",
+                "American arts"
+            ],
+            "guid": "yKQI#;ck,u",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "He is the grand old man of Filipino art",
+                "Fernando Amorsolo"
+            ],
+            "guid": "q~OOY&+A~i",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In which era were the Oblation statue, Malacañang Palace, The Builders made?",
+                "American arts"
+            ],
+            "guid": "xdMB$l~N(.",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who made the Oblation Statue?",
+                "Guillermo Tolentino"
+            ],
+            "guid": "C#/fPD<zUF",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who made The Builders painting?",
+                "Victorio Edades"
+            ],
+            "guid": "lFE)EGpm-n",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which colonizer advocated for the culture of East Asia?",
+                "Japanese arts"
+            ],
+            "guid": "sHIn5AZmk^",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In these era, they were \"orientalizing\" or adaptation of Asia, or \"Asia for Asians\"",
+                "Japanese arts"
+            ],
+            "guid": "p]Te;YV2:2",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who were the people introduced water colors and inks to Filipinos?",
+                "Japanese art"
+            ],
+            "guid": "xzF9()ZRT`",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This era happened after WW2&nbsp;",
+                "Modern arts"
+            ],
+            "guid": "r8b*tgy_d;",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The arts of this era focused on <b>national identity.</b>",
+                "Modern arts"
+            ],
+            "guid": "GNKO[n*WJb",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A Filipino painter of Chinese descent and was a National Artist for Visual Arts",
+                "Ang Kiukok"
+            ],
+            "guid": "sx[dxNTjtR",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In this era, artists started using their art to comment on social issues",
+                "Contemporary art"
+            ],
+            "guid": "Q%h00kQDRu",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This era included the theme of <b>social realism</b>",
+                "Contemporary art"
+            ],
+            "guid": "iLwkjuWFgF",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "Color is defined as the property produced by an object of producing different {{c2::sensation on the eye}} as a result of the way the object {{c1::reflects light}}",
                 ""
             ],
@@ -762,294 +1050,6 @@
         {
             "__type__": "Note",
             "fields": [
-                "Timeline of Philippine Art History",
-                "Ethnic - Islamic - Spanish - American - Japanese - Modern - Contemporary"
-            ],
-            "guid": "y:TQjHF:)P",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "intergral to life, for rituals and daily use",
-                "Ethnic/ Pre-colonial Art"
-            ],
-            "guid": "s,j!~5B.&Z",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "tattoos, cave paintings, musical instruments, architecture, clothes",
-                "Ethnic/ Pre-colonial Art"
-            ],
-            "guid": "xREc3``AO`",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "geometric designs",
-                "Islamic art"
-            ],
-            "guid": "pI?w(:9r!Z",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "oldest mosque and is a National Cultural Treasure",
-                "Sheik Karum Al Makdum Mosque"
-            ],
-            "guid": "m>_2.O`_wd",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "When was Makdum Mosque built?",
-                "1380"
-            ],
-            "guid": "mkvN?8kNVC",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "legendary bird of Maranao people",
-                "Sarimanok"
-            ],
-            "guid": "y2%0=;&(xh",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "what does sarimanok symbolize?",
-                "prosperity"
-            ],
-            "guid": ",=+r<GB(T",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "huge help to propagate Roman Catholic religious faith and support colonial order",
-                "Spanish Arts"
-            ],
-            "guid": "Q(1bYqWq^e",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "faith and catechism",
-                "Spanish arts"
-            ],
-            "guid": "hj-CR;!?-0",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "secular forms of art",
-                "American art"
-            ],
-            "guid": "Q5(ZvRQi3d",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "idyllic sceneries, integrate commercial and advertisng arts",
-                "American arts"
-            ],
-            "guid": "yKQI#;ck,u",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Grand old man of Filipino art",
-                "Fernando Amorsolo"
-            ],
-            "guid": "q~OOY&+A~i",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Oblation statue, Malacañang Palace, The Builders",
-                "American arts"
-            ],
-            "guid": "xdMB$l~N(.",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Who made Oblation Statue",
-                "Guillermo Tolentino"
-            ],
-            "guid": "C#/fPD<zUF",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Who made The Builders",
-                "Victorio Edades"
-            ],
-            "guid": "lFE)EGpm-n",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "advocated for the culture of East Asia",
-                "Japanese arts"
-            ],
-            "guid": "sHIn5AZmk^",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "orientalizing: adapatation of Asia, \"Asia for Asians\"",
-                "Japanese arts"
-            ],
-            "guid": "p]Te;YV2:2",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "introduced water colors and inks",
-                "Japanese art"
-            ],
-            "guid": "xzF9()ZRT`",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "happened after WW2&nbsp;",
-                "Modern arts"
-            ],
-            "guid": "r8b*tgy_d;",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "focused on national identity",
-                "Modern arts"
-            ],
-            "guid": "GNKO[n*WJb",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "a Filipino painter of Chinese descent and was a National Artist for Visual Arts",
-                "Ang Kiukok"
-            ],
-            "guid": "sx[dxNTjtR",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "artist started using their art to comment on social issues",
-                "Contemporary art"
-            ],
-            "guid": "Q%h00kQDRu",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "social realism",
-                "Contemporary art"
-            ],
-            "guid": "iLwkjuWFgF",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
                 "This pre-colonial form of philippine art represents bravery, tribal affiliation, spirituality",
                 "Tattoos"
             ],
@@ -1106,6 +1106,296 @@
             "tags": [
                 "Q1_Monthly"
             ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the two categories of art?",
+                "1) Major Arts<br>2) Minor Arts"
+            ],
+            "guid": "M{w/c@Zbp.",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is another term of major arts?",
+                "Fine/Aesthetic Arts"
+            ],
+            "guid": "NV<[:(<F[+",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is another term for Minor Arts?",
+                "Utilitarian or Practical Arts"
+            ],
+            "guid": "DFwHl~.PWr",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of art is primarily for aesthetic enjoyment through the senses, especially the visual and auditory.",
+                "Major Arts (Fine or Aesthetic)"
+            ],
+            "guid": "Eh]Rttf<.e",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It involves changing certain materials or media for aesthetic pleasure",
+                "Major Arts&nbsp;"
+            ],
+            "guid": "H!1VayD]oZ",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of art is&nbsp;<b><span style=\"font-weight: 400;\">intended for practical use or utility.&nbsp;</span></b>",
+                "Minor Arts (Practical/Utilitarian)"
+            ],
+            "guid": "j_{}wleu/+",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It involves changing of raw materials for utilitarian purposes",
+                "Minor Arts"
+            ],
+            "guid": "t?ge7-G=eO",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What must Practical/Utilitarian Arts possess besides utility?",
+                "Ornamental or artistic qualities"
+            ],
+            "guid": "MkK.sv=)b!",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Why must Practical/Utilitarian Arts have artistic qualities?",
+                "To make them useful and beautiful"
+            ],
+            "guid": "ukYzMmlN=h",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It is the changing of raw materials into some significant product for human consumption or use.",
+                "Industrial Art"
+            ],
+            "guid": "I-01Q?AxAn",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the main purpose of Industrial Art?",
+                "To create products for human consumption or use"
+            ],
+            "guid": "vc$S=&9-][",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Name some materials used in Industrial Art.",
+                "Wood, metal, fabric, tools, or clothing"
+            ],
+            "guid": "CSYg{:w!HO",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is Industrial Art?",
+                "The changing of raw materials into a significant product for human use"
+            ],
+            "guid": "KnldVueJbD",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Determine what type of art from the given example/s:&nbsp;<b><span style=\"font-weight: 400;\">manufacture of automobiles, home appliances&nbsp;</span></b>",
+                "Indsutrial art"
+            ],
+            "guid": "Q1moVp:/z0",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This refers mostly to household arts such as: flower arrangement, interior, decoration and others.",
+                "<b><div><span style=\"font-weight: 400;\">Applied or Household Art</span></div></b>"
+            ],
+            "guid": "Q(aji(iUjq",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Identify what type of art based on example/s:<b><div><span style=\"font-weight: 400;\">flower arrangement, interior, decoration, dress making, home-making, embroidery, cooking</span></div></b>",
+                "Applied/Household Art"
+            ],
+            "guid": "D4(mOb/-K}",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This includes city or town planning, maintenance, and beautification of parks, plazas, roads, bridges, and farms.",
+                "Civic Art"
+            ],
+            "guid": "scxm2rD?Bg",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It refers to civic planning and beautification in order to improve the standard of living.",
+                "Civic Art"
+            ],
+            "guid": "rRFJr5l.,r",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This involves business propaganda in the form of advertisements in newspapers and magazines, sign paintings, billboards announcements, leaflets, displays, poster designing, movie illustrations and many more.",
+                "<b><div><span style=\"font-weight: 400;\">Commercial Art</span></div></b>"
+            ],
+            "guid": "iC!iDk{F_J",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It is anything printed from raised or sunken reliefs and plane surfaces.",
+                "Graphic Art"
+            ],
+            "guid": "b&0.Xr-[&s",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This refers to agronomy, horticulture, husbandry, and farming",
+                "<b><div><span style=\"font-weight: 400;\">Agricultural Art</span></div></b>"
+            ],
+            "guid": "PdY^8mQ!kJ",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This includes merchandising, accounting, bookkeeping, typewriting, stenography, salesmanship and business administration.",
+                "Business Art"
+            ],
+            "guid": "N-VJHa#9lz",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It includes shallow and deep sea fishing, fish refrigeration and culture, net weaving.",
+                "Fishery Art"
+            ],
+            "guid": "hY8t</^fK/",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It includes first aid treatments, medicinal manufacturing,&nbsp; surgery, medical operations, rehabilitation and others.",
+                "Medical or Clinical Art"
+            ],
+            "guid": "s>,UzXac2N",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Identify what type of industrial art:<br><img src=\"paste-af4e8536279857ca182d91e88d2d86a340fc9ba5.jpg\">",
+                "shell-craft"
+            ],
+            "guid": "I,n^fB~ToD",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Identify what type of industrial art:<br><img src=\"paste-e7c31e29228df50cbf137d4b3484ed700d937630.jpg\">",
+                "Leather art"
+            ],
+            "guid": "h89nNeVgyh",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Identify what type of industrial art:<br><img src=\"paste-7fc1497142cc61e394238b9ad6946bd8285d085a.jpg\">",
+                "bamboo art"
+            ],
+            "guid": "prjg|Eo>*=",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Identify what type of industrial art:<br><img src=\"paste-2e7852dd6f6f5328f7f6e1ea809ea85b1ffadbcd.jpg\">",
+                "Shoe making"
+            ],
+            "guid": "Q~F7n?a8-i",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Identify what type of industrial art:<br><img src=\"paste-6c38d63b1029274ad5b0b8fa5058662400c7ae10.jpg\">",
+                "pottery-making"
+            ],
+            "guid": "q/>%5`k%bK",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
         },
         {
             "__type__": "Note",
@@ -1890,7 +2180,7 @@
                 "",
                 "",
                 "<img src=\"523389c19fc745ffb93a1294cdf1912d-oa-1-A.svg\" />",
-                "<img src=\"523389c19fc745ffb93a1294cdf1912d-oa-O.svg\" />"
+                "<img src=\"523389c19fc745ffb93a1294cdf1912d-oa-O.svg\">"
             ],
             "guid": "g+|,c`J,q,",
             "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
@@ -1966,7 +2256,7 @@
                 "",
                 "",
                 "<img src=\"523389c19fc745ffb93a1294cdf1912d-oa-5-A.svg\" />",
-                "<img src=\"523389c19fc745ffb93a1294cdf1912d-oa-O.svg\" />"
+                "<img src=\"523389c19fc745ffb93a1294cdf1912d-oa-O.svg\">"
             ],
             "guid": "Kn7l)l!-D~",
             "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
@@ -2042,300 +2332,10 @@
                 "",
                 "",
                 "<img src=\"523389c19fc745ffb93a1294cdf1912d-oa-9-A.svg\" />",
-                "<img src=\"523389c19fc745ffb93a1294cdf1912d-oa-O.svg\" />"
+                "<img src=\"523389c19fc745ffb93a1294cdf1912d-oa-O.svg\">"
             ],
             "guid": "m/0ip=xmHI",
             "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "What are the two categories of art?",
-                "1) Major Arts<br>2) Minor Arts"
-            ],
-            "guid": "M{w/c@Zbp.",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "What is another term of major arts?",
-                "Fine/Aesthetic Arts"
-            ],
-            "guid": "NV<[:(<F[+",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "What is another term for Minor Arts?",
-                "Utilitarian or Practical Arts"
-            ],
-            "guid": "DFwHl~.PWr",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "This type of art is primarily for aesthetic enjoyment through the senses, especially the visual and auditory.",
-                "Major Arts (Fine or Aesthetic)"
-            ],
-            "guid": "Eh]Rttf<.e",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "It involves changing certain materials or media for aesthetic pleasure",
-                "Major Arts&nbsp;"
-            ],
-            "guid": "H!1VayD]oZ",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "This type of art is&nbsp;<b><span style=\"font-weight: 400;\">intended for practical use or utility.&nbsp;</span></b>",
-                "Minor Arts (Practical/Utilitarian)"
-            ],
-            "guid": "j_{}wleu/+",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "It involves changing of raw materials for utilitarian purposes",
-                "Minor Arts"
-            ],
-            "guid": "t?ge7-G=eO",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "What must Practical/Utilitarian Arts possess besides utility?",
-                "Ornamental or artistic qualities"
-            ],
-            "guid": "MkK.sv=)b!",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Why must Practical/Utilitarian Arts have artistic qualities?",
-                "To make them useful and beautiful"
-            ],
-            "guid": "ukYzMmlN=h",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "It is the changing of raw materials into some significant product for human consumption or use.",
-                "Industrial Art"
-            ],
-            "guid": "I-01Q?AxAn",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "What is the main purpose of Industrial Art?",
-                "To create products for human consumption or use"
-            ],
-            "guid": "vc$S=&9-][",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Name some materials used in Industrial Art.",
-                "Wood, metal, fabric, tools, or clothing"
-            ],
-            "guid": "CSYg{:w!HO",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "What is Industrial Art?",
-                "The changing of raw materials into a significant product for human use"
-            ],
-            "guid": "KnldVueJbD",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Determine what type of art from the given example/s:&nbsp;<b><span style=\"font-weight: 400;\">manufacture of automobiles, home appliances&nbsp;</span></b>",
-                "Indsutrial art"
-            ],
-            "guid": "Q1moVp:/z0",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "This refers mostly to household arts such as: flower arrangement, interior, decoration and others.",
-                "<b><div><span style=\"font-weight: 400;\">Applied or Household Art</span></div></b>"
-            ],
-            "guid": "Q(aji(iUjq",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Identify what type of art based on example/s:<b><div><span style=\"font-weight: 400;\">flower arrangement, interior, decoration, dress making, home-making, embroidery, cooking</span></div></b>",
-                "Applied/Household Art"
-            ],
-            "guid": "D4(mOb/-K}",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "This includes city or town planning, maintenance, and beautification of parks, plazas, roads, bridges, and farms.",
-                "Civic Art"
-            ],
-            "guid": "scxm2rD?Bg",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "It refers to civic planning and beautification in order to improve the standard of living.",
-                "Civic Art"
-            ],
-            "guid": "rRFJr5l.,r",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "This involves business propaganda in the form of advertisements in newspapers and magazines, sign paintings, billboards announcements, leaflets, displays, poster designing, movie illustrations and many more.",
-                "<b><div><span style=\"font-weight: 400;\">Commercial Art</span></div></b>"
-            ],
-            "guid": "iC!iDk{F_J",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "It is anything printed from raised or sunken reliefs and plane surfaces.",
-                "Graphic Art"
-            ],
-            "guid": "b&0.Xr-[&s",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "This refers to agronomy, horticulture, husbandry, and farming",
-                "<b><div><span style=\"font-weight: 400;\">Agricultural Art</span></div></b>"
-            ],
-            "guid": "PdY^8mQ!kJ",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "This includes merchandising, accounting, bookkeeping, typewriting, stenography, salesmanship and business administration.",
-                "Business Art"
-            ],
-            "guid": "N-VJHa#9lz",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "It includes shallow and deep sea fishing, fish refrigeration and culture, net weaving.",
-                "Fishery Art"
-            ],
-            "guid": "hY8t</^fK/",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "It includes first aid treatments, medicinal manufacturing,&nbsp; surgery, medical operations, rehabilitation and others.",
-                "Medical or Clinical Art"
-            ],
-            "guid": "s>,UzXac2N",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Identify what type of industrial art:<br><img src=\"paste-af4e8536279857ca182d91e88d2d86a340fc9ba5.jpg\">",
-                "shell-craft"
-            ],
-            "guid": "I,n^fB~ToD",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Identify what type of industrial art:<br><img src=\"paste-e7c31e29228df50cbf137d4b3484ed700d937630.jpg\">",
-                "Leather art"
-            ],
-            "guid": "h89nNeVgyh",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Identify what type of industrial art:<br><img src=\"paste-7fc1497142cc61e394238b9ad6946bd8285d085a.jpg\">",
-                "bamboo art"
-            ],
-            "guid": "prjg|Eo>*=",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Identify what type of industrial art:<br><img src=\"paste-2e7852dd6f6f5328f7f6e1ea809ea85b1ffadbcd.jpg\">",
-                "Shoe making"
-            ],
-            "guid": "Q~F7n?a8-i",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Identify what type of industrial art:<br><img src=\"paste-6c38d63b1029274ad5b0b8fa5058662400c7ae10.jpg\">",
-                "pottery-making"
-            ],
-            "guid": "q/>%5`k%bK",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": []
         },
         {
@@ -2529,6 +2529,86 @@
             "tags": [
                 "AI"
             ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the material used in sinukla and bandura in Bagobo tribe?",
+                "abaca fibers"
+            ],
+            "guid": "h7EAw+Qu#l",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the material in Pis Syabit?",
+                "cotton"
+            ],
+            "guid": "eYbj0LNq{h",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is/are the type of material used in Abel?",
+                "cotton and silk"
+            ],
+            "guid": "pFN3u4VN9G",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Why is medical art considered an art?",
+                "Because it involves a combination of skill, creativity, and precision&nbsp;"
+            ],
+            "guid": "E?gxZ-a^[$",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This art includes enhancing quality of life of the residents",
+                "Civic art"
+            ],
+            "guid": "GMP^5c>rL@",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This art involves beautifying living spaces",
+                "Applied/Household art"
+            ],
+            "guid": "v{1b2e&Fyd",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of art focuses on evoking emotion and beauty",
+                "Major Arts"
+            ],
+            "guid": "OUfI1wVT.V",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of art is for beauty and usefulness",
+                "Minor arts"
+            ],
+            "guid": "hlh7WNB]15",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
         }
     ],
     "reviewLimit": null,
