@@ -1947,6 +1947,26 @@
             "guid": "Ffu{Xh`x4.",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Name this Bible Verse:<br><br>\"The fool says in his heart, there is no God\"",
+                "Ps. 14: 1"
+            ],
+            "guid": "k?l!1}[2oB",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Name this Bible Verse:<br><br>\"Who is the liar? He who denies that Jesus is the Christ\"",
+                "1 Jn. 2: 22"
+            ],
+            "guid": "pU[#N=`9ii",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
         }
     ],
     "reviewLimit": null,

@@ -2337,6 +2337,198 @@
             "guid": "q/>%5`k%bK",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the citizenship requirement for a *living* artist to be nominated for the award?",
+                "They must have been a Filipino citizen for the last ten years prior to nomination."
+            ],
+            "guid": "eWslZ%s3`?",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Can an artist who has already passed away receive the award?",
+                "Yes, under specific conditions."
+            ],
+            "guid": "x;eR}X([d!",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the key condition for an artist to be awarded posthumously (after death)?",
+                "They must have died *after* the establishment of the award in 1972."
+            ],
+            "guid": "J_]X-kjY{,",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What was the citizenship requirement for an artist who is being considered for a posthumous award?",
+                "They must have been a Filipino citizen at the time of their death."
+            ],
+            "guid": "kKi/oc!&)p",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "According to the criteria, how must an artist&#x27;s work contribute to the Filipino identity?",
+                "It must have helped build a Filipino sense of nationhood."
+            ],
+            "guid": "u93&@*@yZ5",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Through what two aspects of their work should an artist build a sense of nationhood?",
+                "Through the content and form of their works."
+            ],
+            "guid": "Ho$}hE4)J+",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How must an artist distinguish themselves in terms of creative expression or style?",
+                "They must have pioneered a mode of creative expression or style."
+            ],
+            "guid": "Q9r,wCB0cj",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Beyond just pioneering a style, what lasting effect must an artist have on their field?",
+                "They must have made an impact on succeeding generations of artists."
+            ],
+            "guid": "G:S/0j.,X#",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the requirement regarding the quantity and significance of an artist&#x27;s work?",
+                "They must have created a significant body of works."
+            ],
+            "guid": "wdk$Q^H`N_",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the requirement regarding the quality and consistency of an artist&#x27;s practice?",
+                "They must have consistently displayed excellence in the practice of their art form."
+            ],
+            "guid": "hQ(p?WV=%+",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the ultimate result of creating a significant body of work and displaying consistent excellence?",
+                "Enriching artistic expression or style."
+            ],
+            "guid": "Mq$-RBENq[",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the final, broad requirement regarding an artist&#x27;s reputation and recognition?",
+                "They must enjoy broad acceptance."
+            ],
+            "guid": "l%7A4UyrmH",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is one way an artist can demonstrate &quot;broad acceptance&quot; through official honors?",
+                "Through prestigious national and/or international recognition."
+            ],
+            "guid": "dsql=sa<7W",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is another way an artist can show &quot;broad acceptance&quot; related to competitions or events?",
+                "Through receiving awards in prestigious national and/or international events."
+            ],
+            "guid": "Df79Tgj66n",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How can reviews and critiques from experts contribute to an artist&#x27;s &quot;broad acceptance&quot;?",
+                "Through critical acclaim and/or positive reviews of their works."
+            ],
+            "guid": "lfE$z:o`/`",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What form of recognition from fellow artists is considered a measure of &quot;broad acceptance&quot;?",
+                "Earning respect and esteem from peers within their artistic discipline."
+            ],
+            "guid": "yF-_!zt#7`",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "AI"
+            ]
         }
     ],
     "reviewLimit": null,
