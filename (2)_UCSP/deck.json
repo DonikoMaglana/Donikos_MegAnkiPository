@@ -100,6 +100,17 @@
     "extendNew": 0,
     "extendRev": 0,
     "media_files": [
+        "2814a918f7754b19a94e5d91fa38ac55-ao-1-A.svg",
+        "2814a918f7754b19a94e5d91fa38ac55-ao-1-Q.svg",
+        "2814a918f7754b19a94e5d91fa38ac55-ao-2-A.svg",
+        "2814a918f7754b19a94e5d91fa38ac55-ao-2-Q.svg",
+        "2814a918f7754b19a94e5d91fa38ac55-ao-3-A.svg",
+        "2814a918f7754b19a94e5d91fa38ac55-ao-3-Q.svg",
+        "2814a918f7754b19a94e5d91fa38ac55-ao-4-A.svg",
+        "2814a918f7754b19a94e5d91fa38ac55-ao-4-Q.svg",
+        "2814a918f7754b19a94e5d91fa38ac55-ao-5-A.svg",
+        "2814a918f7754b19a94e5d91fa38ac55-ao-5-Q.svg",
+        "2814a918f7754b19a94e5d91fa38ac55-ao-O.svg",
         "4366f0a4b1144bfdbedfacb7e77015af-ao-1-A.svg",
         "4366f0a4b1144bfdbedfacb7e77015af-ao-1-Q.svg",
         "4366f0a4b1144bfdbedfacb7e77015af-ao-2-A.svg",
@@ -113,79 +124,13 @@
         "4366f0a4b1144bfdbedfacb7e77015af-ao-6-A.svg",
         "4366f0a4b1144bfdbedfacb7e77015af-ao-6-Q.svg",
         "4366f0a4b1144bfdbedfacb7e77015af-ao-O.svg",
+        "tmp60oqucoc.jpg",
         "tmpalznjqok.jpg"
     ],
     "name": "(2) UCSP",
     "newLimit": null,
     "newLimitToday": null,
     "note_models": [
-        {
-            "__type__": "NoteModel",
-            "crowdanki_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
-            "flds": [
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": 9205121651523078416,
-                    "name": "Front",
-                    "ord": 0,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                },
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": -7001571941991209685,
-                    "name": "Back",
-                    "ord": 1,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "latexsvg": false,
-            "name": "Basic",
-            "originalStockKind": 1,
-            "req": [
-                [
-                    0,
-                    "any",
-                    [
-                        0
-                    ]
-                ]
-            ],
-            "sortf": 0,
-            "tmpls": [
-                {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
-                    "bafmt": "",
-                    "bfont": "",
-                    "bqfmt": "",
-                    "bsize": 0,
-                    "did": null,
-                    "id": -471929315152782166,
-                    "name": "Card 1",
-                    "ord": 0,
-                    "qfmt": "{{Front}}"
-                }
-            ],
-            "type": 0
-        },
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
@@ -319,6 +264,73 @@
                 }
             ],
             "type": 1
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 9205121651523078416,
+                    "name": "Front",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -7001571941991209685,
+                    "name": "Back",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic",
+            "originalStockKind": 1,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": -471929315152782166,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0
         },
         {
             "__type__": "NoteModel",
@@ -594,408 +606,13 @@
         {
             "__type__": "Note",
             "fields": [
-                "Presidential and vice-presidential elections occur every _____ ____ of _____ every ___ year.",
-                "second&nbsp;Monday of May, sixth"
-            ],
-            "guid": "zEmtY8o7TX",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "all elected officials, except those at the barangay level, start (and end) their terms of office on ____ of the election year.",
-                "June 30"
-            ],
-            "guid": "w-zhr0zZ~4",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "a social or religious custom prohibiting or forbidding discussion of a particular practice or forbidding association with a particular person, place, or thing.",
-                "Taboo"
-            ],
-            "guid": "m*qq@0t3W,",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "-an activity or behavior that is considered completely unacceptable or forbidden.",
-                "Taboo"
-            ],
-            "guid": "Nm]LWe{V]U",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "In Papua New Guinea: older women are also not supposed to eat ___ when pregnant, unmarried young men will receive the best food and do not have many food taboos",
-                "fish eggs"
-            ],
-            "guid": "z8o7E<W/wD",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "______ is a staple of the Brazilian diet. But not all ____are enjoyed by all Brazilians.",
-                "Seafood, fish&nbsp;"
-            ],
-            "guid": "uL.Q*}%)Ms",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "If you happen to be traveling to China, minding your ____ is the same as minding your manners.",
-                "chopsticks"
-            ],
-            "guid": "Bk2q/p77T2",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "In ____: After finishing meal at a restaurant, do not leave your chopsticks sticking up in the left-over rice at the bottom of your bowl.",
-                "China"
-            ],
-            "guid": "m0Lmp)5;vJ",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "_____ is not necessarily caring in Japanese culture.",
-                "Sharing"
-            ],
-            "guid": "KZEFIST,,_",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "In Japan: If you do plan on sharing your meal, you must place the _____ on a small plate and then pass it to the recipient.",
-                "tasting morsel&nbsp;"
-            ],
-            "guid": "E}8anxUtAV",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "In Russia: if you are hoping to court a lady at a restaurant, do not expect to go ____.",
-                "dutch (palibre or kkb)"
-            ],
-            "guid": "f1mQxMBgH/",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Food taboos in India vary according to ____.",
-                "religion"
-            ],
-            "guid": "cno.kiTQ,H",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "For those that practice Hinduism, eating a ___ in prohibited.",
-                "cow&nbsp;"
-            ],
-            "guid": "o;4ZMcu4e!",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Islamic and Muslim families not only avoid ___ for religious reasons, they feel that ____ are bred in absolutely revolting conditions and are not worthy<br>of consumption.",
-                "pork, pigs"
-            ],
-            "guid": "wb|;~Hv#r%",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "In ____: it is considered rude to accept the first offering of food. Politely decline at first, but when offered a second time — which you likely will be — feel free to accept.",
-                "Italy"
-            ],
-            "guid": "H#X3!~L~^K",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "In Jamaica, It is believed that if children eat ____ before they learn to speak, they will never talk. Eating half an ____ will make the child<br>grow into a thief and drinking ____ from a baby bottle will turn them into a drunkard.",
-                "chicken, egg, milk"
-            ],
-            "guid": "EuA@QMy+lh",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "they also feel particularly strongly about coconut milk. Another widely held belief is that children who drink this type of milk will make them unintelligent.",
-                "Nigerian Taboo"
-            ],
-            "guid": "Fq)-D7i(}A",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "It is considered rude to rush through a meal or hurry your order along. You also never want to ask for a doggy-bag or leave food<br>on your plate, the implication being that you did not enjoy your meal.",
-                "French Taboos"
-            ],
-            "guid": "mK$L|TKl)%",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "A good leader is a ____ leader.",
-                "self actualized"
-            ],
-            "guid": "hSm3zf[ern",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "<b><span style=\"font-weight: 400;\">A </span><span style=\"font-weight: 400;\">good </span><span style=\"font-weight: 400;\">political </span><span style=\"font-weight: 400;\">leader </span><span style=\"font-weight: 400;\">does </span><span style=\"font-weight: 400;\">not </span><span style=\"font-weight: 400;\">take </span><span style=\"font-weight: 400;\">what </span><span style=\"font-weight: 400;\">is </span><span style=\"font-weight: 400;\">similar </span><span style=\"font-weight: 400;\">to </span><span style=\"font-weight: 400;\">his </span><span style=\"font-weight: 400;\">views </span><span style=\"font-weight: 400;\">as </span><span style=\"font-weight: 400;\">facts </span><span style=\"font-weight: 400;\">and </span><span style=\"font-weight: 400;\">base </span><span style=\"font-weight: 400;\">his </span><span style=\"font-weight: 400;\">decisions </span><span style=\"font-weight: 400;\">on </span><span style=\"font-weight: 400;\">that</span><span style=\"font-weight: 400;\">. </span><span style=\"font-weight: 400;\">He uses </span><span style=\"font-weight: 400;\">reliable </span><span style=\"font-weight: 400;\">and </span><span style=\"font-weight: 400;\">unfiltered </span><span style=\"font-weight: 400;\">information </span><span style=\"font-weight: 400;\">to </span><span style=\"font-weight: 400;\">make </span><span style=\"font-weight: 400;\">judgments </span><span style=\"font-weight: 400;\">and </span><span style=\"font-weight: 400;\">to </span><span style=\"font-weight: 400;\">come </span><span style=\"font-weight: 400;\">up </span><span style=\"font-weight: 400;\">with </span><span style=\"font-weight: 400;\">resolutions</span><span style=\"font-weight: 400;\">.</span></b>",
-                "<b>Is fair and objective.</b>"
-            ],
-            "guid": "mx>`tMDZ(w",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "A good leader stands above any specific religious or political views of his own and is independent of any attachment to a specific agenda. His personal beliefs become his private matters and he learns to leave them out the door once he steps into a leadership role. In other words, his belief expands so that it includes everyone's beliefs.",
-                "<b>Is moving above himself and serving the society</b>"
-            ],
-            "guid": "hI{J|7I&5L",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "<b><div><span style=\"font-weight: 400;\">A good </span><span style=\"font-weight: 400;\">leader </span><span style=\"font-weight: 400;\">has </span><span style=\"font-weight: 400;\">been able </span><span style=\"font-weight: 400;\">to </span><span style=\"font-weight: 400;\">move </span><span style=\"font-weight: 400;\">above&nbsp;</span></div><span style=\"font-weight: 400;\">and </span><span style=\"font-weight: 400;\">beyond </span><span style=\"font-weight: 400;\">any egoistic </span><span style=\"font-weight: 400;\">and </span><span style=\"font-weight: 400;\">primitive </span><span style=\"font-weight: 400;\">need </span><span style=\"font-weight: 400;\">for </span><span style=\"font-weight: 400;\">power</span><span style=\"font-weight: 400;\">, </span><span style=\"font-weight: 400;\">attention</span><span style=\"font-weight: 400;\">, </span><span style=\"font-weight: 400;\">or </span><span style=\"font-weight: 400;\">establishing </span><span style=\"font-weight: 400;\">his </span><span style=\"font-weight: 400;\">personal </span><span style=\"font-weight: 400;\">agendas </span><span style=\"font-weight: 400;\">and </span><span style=\"font-weight: 400;\">works </span><span style=\"font-weight: 400;\">with </span><span style=\"font-weight: 400;\">the intention </span><span style=\"font-weight: 400;\">of </span><span style=\"font-weight: 400;\">good</span><span style=\"font-weight: 400;\">-</span><span style=\"font-weight: 400;\">for</span><span style=\"font-weight: 400;\">-</span><span style=\"font-weight: 400;\">all</span><span style=\"font-weight: 400;\">.&nbsp;</span></b><br>",
-                "<b>Is not seeking fame and attention</b>"
-            ],
-            "guid": "l4j}|s_15x",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "A good leader says it as it is even if it feels uncomfortable for many to hear it. He is not a people pleaser in a sense that he would say anything to please others even if that means manipulating or misguiding the public. It takes a lot of courage to do this and a good leader has that courage.",
-                "<b><span style=\"font-weight: 400;\">&nbsp;</span>Is not into hiding the truth for the sake of looking good</b>"
-            ],
-            "guid": "eHo;==lP=S",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "A good leader is focused and does not get distracted. His goals, whether small or large, are reasonable and achievable and are directed towards the long term results not quick and temporary fixes that may backfire.",
-                "<b><div>Is focused on specific, achievable, and measurable goals and demands&nbsp;</div><div>outcomes</div></b>"
-            ],
-            "guid": "C8qS)^]}w@",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "A good leader helps people understand that they are accountable for their society and its outcome and teaches them to make compromises and responsible choices. He does not support a sense of self-serving entitlement that has gone too far and is counter- productive for the society as a whole.",
-                "<b>Encourages people to be accountable for their actions</b>"
-            ],
-            "guid": "Er(:;,g{m1",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "A good leader understands that in order for the whole society to be a functional and healthy one, some adjustments need to be made and people need to learn to give some in order to gain some.",
-                "<b>Does not pay attention to being politically correct but ethically so.</b>"
-            ],
-            "guid": "rI^z`W>irw",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "A good leader makes a sustainable promise and is a man of his words.",
-                "<b>Does not make idealistic promises but realistic ones<span style=\"font-weight: 400;\">.</span></b>"
-            ],
-            "guid": "hn?Sc5_Tt<",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "People know where they are standing with an authentic leader. He does not hide bad news just because it is uncomfortable to the public's ear.",
-                "<b><span style=\"font-weight: 400;\">Is </span>honest even if it does not get approval</b>"
-            ],
-            "guid": "DR=WClkSY/",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "<b><div><span style=\"font-weight: 400;\">He </span><span style=\"font-weight: 400;\">realizes </span><span style=\"font-weight: 400;\">that </span><span style=\"font-weight: 400;\">in order </span><span style=\"font-weight: 400;\">for </span><span style=\"font-weight: 400;\">us </span><span style=\"font-weight: 400;\">to </span><span style=\"font-weight: 400;\">live </span><span style=\"font-weight: 400;\">in&nbsp;</span></div><span style=\"font-weight: 400;\">prosperity </span><span style=\"font-weight: 400;\">as </span><span style=\"font-weight: 400;\">a </span><span style=\"font-weight: 400;\">powerful </span><span style=\"font-weight: 400;\">and </span><span style=\"font-weight: 400;\">blessed </span><span style=\"font-weight: 400;\">country</span><span style=\"font-weight: 400;\">, </span><span style=\"font-weight: 400;\">reasonable </span><span style=\"font-weight: 400;\">steps </span><span style=\"font-weight: 400;\">need </span><span style=\"font-weight: 400;\">to </span><span style=\"font-weight: 400;\">be </span><span style=\"font-weight: 400;\">taken </span><span style=\"font-weight: 400;\">to </span><span style=\"font-weight: 400;\">make </span><span style=\"font-weight: 400;\">sure </span><span style=\"font-weight: 400;\">others </span><span style=\"font-weight: 400;\">achieve </span><span style=\"font-weight: 400;\">the </span><span style=\"font-weight: 400;\">same </span><span style=\"font-weight: 400;\">goals</span><span style=\"font-weight: 400;\">. </span><span style=\"font-weight: 400;\">He </span><span style=\"font-weight: 400;\">is </span><span style=\"font-weight: 400;\">aware </span><span style=\"font-weight: 400;\">that </span><span style=\"font-weight: 400;\">with </span><span style=\"font-weight: 400;\">power </span><span style=\"font-weight: 400;\">comes </span><span style=\"font-weight: 400;\">responsibility </span><span style=\"font-weight: 400;\">and </span><span style=\"font-weight: 400;\">that </span><span style=\"font-weight: 400;\">now </span><span style=\"font-weight: 400;\">more </span><span style=\"font-weight: 400;\">than </span><span style=\"font-weight: 400;\">ever</span><span style=\"font-weight: 400;\">, </span><span style=\"font-weight: 400;\">through </span><span style=\"font-weight: 400;\">technology</span><span style=\"font-weight: 400;\">, </span><span style=\"font-weight: 400;\">we </span><span style=\"font-weight: 400;\">are </span><span style=\"font-weight: 400;\">becoming </span><span style=\"font-weight: 400;\">more </span><span style=\"font-weight: 400;\">and </span><span style=\"font-weight: 400;\">more </span><span style=\"font-weight: 400;\">inner </span><span style=\"font-weight: 400;\">related</span><span style=\"font-weight: 400;\">, </span><span style=\"font-weight: 400;\">globally</span><span style=\"font-weight: 400;\">.&nbsp;</span></b><br>",
-                "<b>Thinks globally and acts locally</b>"
-            ],
-            "guid": "mzB]mTQwjF",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "A good leader is secure enough with himself to take personal responsibility when one is needed. In other words, a good political leader has an internal locus of control while he is aware of the effects of the external forces.",
-                "<b>Takes personal responsibility</b>"
-            ],
-            "guid": "IZeBO:L1wG",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "A good political leader has a healthy emotional IQ and has learned to move above his emotions, conditionings, and his fixations to specific outcomes to think logically and globally. In other words, he is rational and in control of his emotions and when the public is going through the emotional roller coaster, he is there to guide them through it.",
-                "<b>Remains level headed and has a sense of humor</b>"
-            ],
-            "guid": "b^Xf-0.dk!",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "A good leader is thirsty for factual, expert oriented and unbiased knowledge all the time and on all levels.",
-                "<b>Has a curious mind</b>"
-            ],
-            "guid": "Mkrh0n^;Z^",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "A leader that can be trusted does not take others down for himself to go up. He is more of a collaborator than a competitor. He tries to build bridges rather than destroy them. He is a natural mediator rather than one that creates conflict, tension, and separation.",
-                "<b>Does not make himself look good by assaulting others</b>"
-            ],
-            "guid": "mn}a5%]-a:",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
                 "Characteristics of men/women that are socially constructed",
                 "Gender"
             ],
             "guid": "MT[Pg%!l^{",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -1008,6 +625,7 @@
             "guid": "x4H^Nljs8t",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -1020,6 +638,7 @@
             "guid": "fpAgL#f{5)",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -1032,6 +651,7 @@
             "guid": "BB0L<N(-(<",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -1044,6 +664,7 @@
             "guid": "y+$B(!!Nb3",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -1056,6 +677,7 @@
             "guid": "P>P6nM1<j&",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -1068,6 +690,7 @@
             "guid": "A=rA7#p6:c",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -1080,6 +703,7 @@
             "guid": "g]L?%M3In7",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -1092,6 +716,7 @@
             "guid": "i]Ju_3To+7",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -1104,6 +729,7 @@
             "guid": "bw|1R}Jvm>",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -1116,6 +742,7 @@
             "guid": "O3x:Xe3_7J",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -1128,6 +755,7 @@
             "guid": "w%vtxkG&yh",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -1140,6 +768,7 @@
             "guid": "N.5VxD-hJE",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -1152,6 +781,7 @@
             "guid": "D5m24zMZx&",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -1164,6 +794,7 @@
             "guid": "jzk7&BBdpO",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -1176,6 +807,7 @@
             "guid": "l[pA(rY;Qz",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -1188,6 +820,7 @@
             "guid": "b/5eC$4GKc",
             "note_model_uuid": "6bba29fa-6617-11f0-8bc1-f5d300799d77",
             "tags": [
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -1200,6 +833,7 @@
             "guid": "HG_$DH7&sA",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -1212,6 +846,7 @@
             "guid": "joGtfwWlug",
             "note_model_uuid": "6bba29fa-6617-11f0-8bc1-f5d300799d77",
             "tags": [
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -1224,6 +859,7 @@
             "guid": "G*nPKM#!Ib",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -1236,6 +872,7 @@
             "guid": "DK@~Wr/Qz3",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -1248,6 +885,7 @@
             "guid": "LS#2xZc@EZ",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -1260,6 +898,7 @@
             "guid": "F4_8!)S.!G",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -1272,6 +911,7 @@
             "guid": "MiDo^A2<zW",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -1284,6 +924,7 @@
             "guid": "mK{yZVa)/M",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -1296,6 +937,7 @@
             "guid": "bKKD],dv|T",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -1308,6 +950,7 @@
             "guid": "Q%fFA=3L=o",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -1320,6 +963,7 @@
             "guid": "dG&LOlAZ-x",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -1332,6 +976,7 @@
             "guid": "xoK|h*Qf<-",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -1344,6 +989,7 @@
             "guid": "Fw[f%q^fYK",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -1356,6 +1002,7 @@
             "guid": "DOuZn#4qEm",
             "note_model_uuid": "6bba29fa-6617-11f0-8bc1-f5d300799d77",
             "tags": [
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -1368,6 +1015,7 @@
             "guid": "o;tFd,&vs0",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -1380,6 +1028,7 @@
             "guid": "e-@)0xc,Fg",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -1392,6 +1041,7 @@
             "guid": "exmZQklmQS",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -1404,6 +1054,7 @@
             "guid": "pn*8<-7hQ&",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -1416,6 +1067,7 @@
             "guid": "pD>#(Nf5~d",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -1428,6 +1080,7 @@
             "guid": "Lh;5Ig:7GK",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -1440,6 +1093,7 @@
             "guid": "u9HzJU/fu3",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -1452,6 +1106,7 @@
             "guid": "Le2G/rMaEr",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -1464,306 +1119,7 @@
             "guid": "NaGt)u6Sb3",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "{{c1::Society}} is universal among human beings",
-                "Society"
-            ],
-            "guid": "GD#lT[@rt$",
-            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Society is {{c1::organized}}",
-                ""
-            ],
-            "guid": "mv_T<s5(@g",
-            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Society has performed {{c1::major adaptive functions}}",
-                ""
-            ],
-            "guid": "xDh*+G$rwe",
-            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "{{c1::Culture}} is a powerful force that affects the lives of the people.",
-                ""
-            ],
-            "guid": "L&~2fkz]G^",
-            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "How does culture shapes and guides people’s perceptions of reality?",
-                "By providing fundamental avenues to the meaning of existence, rules of proper conduct, among others."
-            ],
-            "guid": "K.aVa;T4*w",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "{{c1::Texting}} is used for information and communication purposes,",
-                ""
-            ],
-            "guid": "NY,x+3!,4`",
-            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "What is the act of composing and sending brief, electronic messages between two or more mobile phones.",
-                "Texting"
-            ],
-            "guid": "ANw$8|frli",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "How can texting be used for illegal means?",
-                "to commit a crime or swindling."
-            ],
-            "guid": "Ft#,{J`Cx",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "What does SMS stand for?",
-                "Short Message Service"
-            ],
-            "guid": "QPUG|Q0^ME",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "What does MMS stand for?",
-                "Multimedia Messaging Service"
-            ],
-            "guid": "C<kES-vOSz",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "MMS vs SMS?",
-                "SMS - only text message, MMS - includes messages containing image, video, and sound content"
-            ],
-            "guid": "nI1Jk#7]&M",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "limited to text-based messages",
-                "SMS"
-            ],
-            "guid": "bxX;M3hWm>",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "allows for the inclusion of multimedia content like images, videos, and audio, along with tex",
-                "MMS"
-            ],
-            "guid": "ll.i9/4f}j",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "families across borders with one or more family members located in different countries.",
-                "Transnational families"
-            ],
-            "guid": "OI^uxqA1uS",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "<b>a family consisting of two parents and their children</b>",
-                "Nuclear Family"
-            ],
-            "guid": "KCg,(o5^,W",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "a family that extends beyond the nuclear family, including relatives",
-                "Extended family"
-            ],
-            "guid": "FN/_g13{OE",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "a feeling of collective welfare and unity",
-                "familyhood"
-            ],
-            "guid": "FNUi9ft-T$",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "a form of service provided by local government agencies private companies or by the barangay people for community development",
-                "Local Public Services"
-            ],
-            "guid": "lR63Z;|ICi",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Private associations and barangay leaders undertake local community work to enhance {{c1::peace}} and {{c1::order}}, beautification and sanitation, safety and security of the barangay people.",
-                ""
-            ],
-            "guid": "uhlVT_qJ5&",
-            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Private associations and barangay leaders undertake local community work to enhance peace and order, {{c1::beautification}} and {{c1::sanitation}}, safety and security of the barangay people.",
-                ""
-            ],
-            "guid": "uc6o5xJPS!",
-            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Private associations and barangay&nbsp;leaders undertake local community&nbsp;work to enhance peace and order,&nbsp;beautification and sanitation,&nbsp;{{c1::safety}} and {{c1::security}} of the barangay&nbsp;people.",
-                ""
-            ],
-            "guid": "zww/xoIDo~",
-            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Examples of local public services",
-                "- Brigada-eskwela<br>• Tree planting<br>• Beautification of certain barangay<br>• Barangay activities undertaken by<br>the NSTP/ROTC students"
-            ],
-            "guid": "y11`xG9;#0",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "a new trend in socio- cultural change in our present society",
-                "Youth Volunteerism"
-            ],
-            "guid": "C44:QG`o(B",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "What does everyone benefit when young people have the chance to serve their communities?",
-                "- gain skills necessary to succeed in school, in the workplace, and in life.<br>- community develops strong, diverse groups of inspired, civically-engaged young people."
-            ],
-            "guid": "FeQN5lZ-Ss",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Jose Rizal's poem to youth",
-                "A la Juventud Filipina"
-            ],
-            "guid": "n6@iSbX]5k",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -1776,6 +1132,761 @@
             "guid": "v/X8|5a,Zp",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Presidential and vice-presidential elections occur every _____ ____ of _____ every ___ year.",
+                "second&nbsp;Monday of May, sixth"
+            ],
+            "guid": "zEmtY8o7TX",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "all elected officials, except those at the barangay level, start (and end) their terms of office on ____ of the election year.",
+                "June 30"
+            ],
+            "guid": "w-zhr0zZ~4",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a social or religious custom prohibiting or forbidding discussion of a particular practice or forbidding association with a particular person, place, or thing.",
+                "Taboo"
+            ],
+            "guid": "m*qq@0t3W,",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "-an activity or behavior that is considered completely unacceptable or forbidden.",
+                "Taboo"
+            ],
+            "guid": "Nm]LWe{V]U",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In Papua New Guinea: older women are also not supposed to eat ___ when pregnant, unmarried young men will receive the best food and do not have many food taboos",
+                "fish eggs"
+            ],
+            "guid": "z8o7E<W/wD",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "______ is a staple of the Brazilian diet. But not all ____are enjoyed by all Brazilians.",
+                "Seafood, fish&nbsp;"
+            ],
+            "guid": "uL.Q*}%)Ms",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "If you happen to be traveling to China, minding your ____ is the same as minding your manners.",
+                "chopsticks"
+            ],
+            "guid": "Bk2q/p77T2",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In ____: After finishing meal at a restaurant, do not leave your chopsticks sticking up in the left-over rice at the bottom of your bowl.",
+                "China"
+            ],
+            "guid": "m0Lmp)5;vJ",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "_____ is not necessarily caring in Japanese culture.",
+                "Sharing"
+            ],
+            "guid": "KZEFIST,,_",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In Japan: If you do plan on sharing your meal, you must place the _____ on a small plate and then pass it to the recipient.",
+                "tasting morsel&nbsp;"
+            ],
+            "guid": "E}8anxUtAV",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In Russia: if you are hoping to court a lady at a restaurant, do not expect to go ____.",
+                "dutch (palibre or kkb)"
+            ],
+            "guid": "f1mQxMBgH/",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Food taboos in India vary according to ____.",
+                "religion"
+            ],
+            "guid": "cno.kiTQ,H",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "For those that practice Hinduism, eating a ___ in prohibited.",
+                "cow&nbsp;"
+            ],
+            "guid": "o;4ZMcu4e!",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Islamic and Muslim families not only avoid ___ for religious reasons, they feel that ____ are bred in absolutely revolting conditions and are not worthy<br>of consumption.",
+                "pork, pigs"
+            ],
+            "guid": "wb|;~Hv#r%",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In ____: it is considered rude to accept the first offering of food. Politely decline at first, but when offered a second time — which you likely will be — feel free to accept.",
+                "Italy"
+            ],
+            "guid": "H#X3!~L~^K",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In Jamaica, It is believed that if children eat ____ before they learn to speak, they will never talk. Eating half an ____ will make the child<br>grow into a thief and drinking ____ from a baby bottle will turn them into a drunkard.",
+                "chicken, egg, milk"
+            ],
+            "guid": "EuA@QMy+lh",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "they also feel particularly strongly about coconut milk. Another widely held belief is that children who drink this type of milk will make them unintelligent.",
+                "Nigerian Taboo"
+            ],
+            "guid": "Fq)-D7i(}A",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It is considered rude to rush through a meal or hurry your order along. You also never want to ask for a doggy-bag or leave food<br>on your plate, the implication being that you did not enjoy your meal.",
+                "French Taboos"
+            ],
+            "guid": "mK$L|TKl)%",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A good leader is a ____ leader.",
+                "self actualized"
+            ],
+            "guid": "hSm3zf[ern",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">A </span><span style=\"font-weight: 400;\">good </span><span style=\"font-weight: 400;\">political </span><span style=\"font-weight: 400;\">leader </span><span style=\"font-weight: 400;\">does </span><span style=\"font-weight: 400;\">not </span><span style=\"font-weight: 400;\">take </span><span style=\"font-weight: 400;\">what </span><span style=\"font-weight: 400;\">is </span><span style=\"font-weight: 400;\">similar </span><span style=\"font-weight: 400;\">to </span><span style=\"font-weight: 400;\">his </span><span style=\"font-weight: 400;\">views </span><span style=\"font-weight: 400;\">as </span><span style=\"font-weight: 400;\">facts </span><span style=\"font-weight: 400;\">and </span><span style=\"font-weight: 400;\">base </span><span style=\"font-weight: 400;\">his </span><span style=\"font-weight: 400;\">decisions </span><span style=\"font-weight: 400;\">on </span><span style=\"font-weight: 400;\">that</span><span style=\"font-weight: 400;\">. </span><span style=\"font-weight: 400;\">He uses </span><span style=\"font-weight: 400;\">reliable </span><span style=\"font-weight: 400;\">and </span><span style=\"font-weight: 400;\">unfiltered </span><span style=\"font-weight: 400;\">information </span><span style=\"font-weight: 400;\">to </span><span style=\"font-weight: 400;\">make </span><span style=\"font-weight: 400;\">judgments </span><span style=\"font-weight: 400;\">and </span><span style=\"font-weight: 400;\">to </span><span style=\"font-weight: 400;\">come </span><span style=\"font-weight: 400;\">up </span><span style=\"font-weight: 400;\">with </span><span style=\"font-weight: 400;\">resolutions</span><span style=\"font-weight: 400;\">.</span></b>",
+                "<b>Is fair and objective.</b>"
+            ],
+            "guid": "mx>`tMDZ(w",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A good leader stands above any specific religious or political views of his own and is independent of any attachment to a specific agenda. His personal beliefs become his private matters and he learns to leave them out the door once he steps into a leadership role. In other words, his belief expands so that it includes everyone's beliefs.",
+                "<b>Is moving above himself and serving the society</b>"
+            ],
+            "guid": "hI{J|7I&5L",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><div><span style=\"font-weight: 400;\">A good </span><span style=\"font-weight: 400;\">leader </span><span style=\"font-weight: 400;\">has </span><span style=\"font-weight: 400;\">been able </span><span style=\"font-weight: 400;\">to </span><span style=\"font-weight: 400;\">move </span><span style=\"font-weight: 400;\">above&nbsp;</span></div><span style=\"font-weight: 400;\">and </span><span style=\"font-weight: 400;\">beyond </span><span style=\"font-weight: 400;\">any egoistic </span><span style=\"font-weight: 400;\">and </span><span style=\"font-weight: 400;\">primitive </span><span style=\"font-weight: 400;\">need </span><span style=\"font-weight: 400;\">for </span><span style=\"font-weight: 400;\">power</span><span style=\"font-weight: 400;\">, </span><span style=\"font-weight: 400;\">attention</span><span style=\"font-weight: 400;\">, </span><span style=\"font-weight: 400;\">or </span><span style=\"font-weight: 400;\">establishing </span><span style=\"font-weight: 400;\">his </span><span style=\"font-weight: 400;\">personal </span><span style=\"font-weight: 400;\">agendas </span><span style=\"font-weight: 400;\">and </span><span style=\"font-weight: 400;\">works </span><span style=\"font-weight: 400;\">with </span><span style=\"font-weight: 400;\">the intention </span><span style=\"font-weight: 400;\">of </span><span style=\"font-weight: 400;\">good</span><span style=\"font-weight: 400;\">-</span><span style=\"font-weight: 400;\">for</span><span style=\"font-weight: 400;\">-</span><span style=\"font-weight: 400;\">all</span><span style=\"font-weight: 400;\">.&nbsp;</span></b><br>",
+                "<b>Is not seeking fame and attention</b>"
+            ],
+            "guid": "l4j}|s_15x",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A good leader says it as it is even if it feels uncomfortable for many to hear it. He is not a people pleaser in a sense that he would say anything to please others even if that means manipulating or misguiding the public. It takes a lot of courage to do this and a good leader has that courage.",
+                "<b><span style=\"font-weight: 400;\">&nbsp;</span>Is not into hiding the truth for the sake of looking good</b>"
+            ],
+            "guid": "eHo;==lP=S",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A good leader is focused and does not get distracted. His goals, whether small or large, are reasonable and achievable and are directed towards the long term results not quick and temporary fixes that may backfire.",
+                "<b><div>Is focused on specific, achievable, and measurable goals and demands&nbsp;</div><div>outcomes</div></b>"
+            ],
+            "guid": "C8qS)^]}w@",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A good leader helps people understand that they are accountable for their society and its outcome and teaches them to make compromises and responsible choices. He does not support a sense of self-serving entitlement that has gone too far and is counter- productive for the society as a whole.",
+                "<b>Encourages people to be accountable for their actions</b>"
+            ],
+            "guid": "Er(:;,g{m1",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A good leader understands that in order for the whole society to be a functional and healthy one, some adjustments need to be made and people need to learn to give some in order to gain some.",
+                "<b>Does not pay attention to being politically correct but ethically so.</b>"
+            ],
+            "guid": "rI^z`W>irw",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A good leader makes a sustainable promise and is a man of his words.",
+                "<b>Does not make idealistic promises but realistic ones<span style=\"font-weight: 400;\">.</span></b>"
+            ],
+            "guid": "hn?Sc5_Tt<",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "People know where they are standing with an authentic leader. He does not hide bad news just because it is uncomfortable to the public's ear.",
+                "<b><span style=\"font-weight: 400;\">Is </span>honest even if it does not get approval</b>"
+            ],
+            "guid": "DR=WClkSY/",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><div><span style=\"font-weight: 400;\">He </span><span style=\"font-weight: 400;\">realizes </span><span style=\"font-weight: 400;\">that </span><span style=\"font-weight: 400;\">in order </span><span style=\"font-weight: 400;\">for </span><span style=\"font-weight: 400;\">us </span><span style=\"font-weight: 400;\">to </span><span style=\"font-weight: 400;\">live </span><span style=\"font-weight: 400;\">in&nbsp;</span></div><span style=\"font-weight: 400;\">prosperity </span><span style=\"font-weight: 400;\">as </span><span style=\"font-weight: 400;\">a </span><span style=\"font-weight: 400;\">powerful </span><span style=\"font-weight: 400;\">and </span><span style=\"font-weight: 400;\">blessed </span><span style=\"font-weight: 400;\">country</span><span style=\"font-weight: 400;\">, </span><span style=\"font-weight: 400;\">reasonable </span><span style=\"font-weight: 400;\">steps </span><span style=\"font-weight: 400;\">need </span><span style=\"font-weight: 400;\">to </span><span style=\"font-weight: 400;\">be </span><span style=\"font-weight: 400;\">taken </span><span style=\"font-weight: 400;\">to </span><span style=\"font-weight: 400;\">make </span><span style=\"font-weight: 400;\">sure </span><span style=\"font-weight: 400;\">others </span><span style=\"font-weight: 400;\">achieve </span><span style=\"font-weight: 400;\">the </span><span style=\"font-weight: 400;\">same </span><span style=\"font-weight: 400;\">goals</span><span style=\"font-weight: 400;\">. </span><span style=\"font-weight: 400;\">He </span><span style=\"font-weight: 400;\">is </span><span style=\"font-weight: 400;\">aware </span><span style=\"font-weight: 400;\">that </span><span style=\"font-weight: 400;\">with </span><span style=\"font-weight: 400;\">power </span><span style=\"font-weight: 400;\">comes </span><span style=\"font-weight: 400;\">responsibility </span><span style=\"font-weight: 400;\">and </span><span style=\"font-weight: 400;\">that </span><span style=\"font-weight: 400;\">now </span><span style=\"font-weight: 400;\">more </span><span style=\"font-weight: 400;\">than </span><span style=\"font-weight: 400;\">ever</span><span style=\"font-weight: 400;\">, </span><span style=\"font-weight: 400;\">through </span><span style=\"font-weight: 400;\">technology</span><span style=\"font-weight: 400;\">, </span><span style=\"font-weight: 400;\">we </span><span style=\"font-weight: 400;\">are </span><span style=\"font-weight: 400;\">becoming </span><span style=\"font-weight: 400;\">more </span><span style=\"font-weight: 400;\">and </span><span style=\"font-weight: 400;\">more </span><span style=\"font-weight: 400;\">inner </span><span style=\"font-weight: 400;\">related</span><span style=\"font-weight: 400;\">, </span><span style=\"font-weight: 400;\">globally</span><span style=\"font-weight: 400;\">.&nbsp;</span></b><br>",
+                "<b>Thinks globally and acts locally</b>"
+            ],
+            "guid": "mzB]mTQwjF",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A good leader is secure enough with himself to take personal responsibility when one is needed. In other words, a good political leader has an internal locus of control while he is aware of the effects of the external forces.",
+                "<b>Takes personal responsibility</b>"
+            ],
+            "guid": "IZeBO:L1wG",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A good political leader has a healthy emotional IQ and has learned to move above his emotions, conditionings, and his fixations to specific outcomes to think logically and globally. In other words, he is rational and in control of his emotions and when the public is going through the emotional roller coaster, he is there to guide them through it.",
+                "<b>Remains level headed and has a sense of humor</b>"
+            ],
+            "guid": "b^Xf-0.dk!",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A good leader is thirsty for factual, expert oriented and unbiased knowledge all the time and on all levels.",
+                "<b>Has a curious mind</b>"
+            ],
+            "guid": "Mkrh0n^;Z^",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A leader that can be trusted does not take others down for himself to go up. He is more of a collaborator than a competitor. He tries to build bridges rather than destroy them. He is a natural mediator rather than one that creates conflict, tension, and separation.",
+                "<b>Does not make himself look good by assaulting others</b>"
+            ],
+            "guid": "mn}a5%]-a:",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Society}} is universal among human beings",
+                "Society"
+            ],
+            "guid": "GD#lT[@rt$",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Society is {{c1::organized}}",
+                ""
+            ],
+            "guid": "mv_T<s5(@g",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Society has performed {{c1::major adaptive functions}}",
+                ""
+            ],
+            "guid": "xDh*+G$rwe",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Culture}} is a powerful force that affects the lives of the people.",
+                ""
+            ],
+            "guid": "L&~2fkz]G^",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How does culture shapes and guides people’s perceptions of reality?",
+                "By providing fundamental avenues to the meaning of existence, rules of proper conduct, among others."
+            ],
+            "guid": "K.aVa;T4*w",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Texting}} is used for information and communication purposes,",
+                ""
+            ],
+            "guid": "NY,x+3!,4`",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the act of composing and sending brief, electronic messages between two or more mobile phones.",
+                "Texting"
+            ],
+            "guid": "ANw$8|frli",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How can texting be used for illegal means?",
+                "to commit a crime or swindling."
+            ],
+            "guid": "Ft#,{J`Cx",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does SMS stand for?",
+                "Short Message Service"
+            ],
+            "guid": "QPUG|Q0^ME",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does MMS stand for?",
+                "Multimedia Messaging Service"
+            ],
+            "guid": "C<kES-vOSz",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "MMS vs SMS?",
+                "SMS - only text message, MMS - includes messages containing image, video, and sound content"
+            ],
+            "guid": "nI1Jk#7]&M",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "limited to text-based messages",
+                "SMS"
+            ],
+            "guid": "bxX;M3hWm>",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "allows for the inclusion of multimedia content like images, videos, and audio, along with tex",
+                "MMS"
+            ],
+            "guid": "ll.i9/4f}j",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "families across borders with one or more family members located in different countries.",
+                "Transnational families"
+            ],
+            "guid": "OI^uxqA1uS",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b>a family consisting of two parents and their children</b>",
+                "Nuclear Family"
+            ],
+            "guid": "KCg,(o5^,W",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a family that extends beyond the nuclear family, including relatives",
+                "Extended family"
+            ],
+            "guid": "FN/_g13{OE",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a feeling of collective welfare and unity",
+                "familyhood"
+            ],
+            "guid": "FNUi9ft-T$",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a form of service provided by local government agencies private companies or by the barangay people for community development",
+                "Local Public Services"
+            ],
+            "guid": "lR63Z;|ICi",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Private associations and barangay leaders undertake local community work to enhance {{c1::peace}} and {{c1::order}}, beautification and sanitation, safety and security of the barangay people.",
+                ""
+            ],
+            "guid": "uhlVT_qJ5&",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Private associations and barangay leaders undertake local community work to enhance peace and order, {{c1::beautification}} and {{c1::sanitation}}, safety and security of the barangay people.",
+                ""
+            ],
+            "guid": "uc6o5xJPS!",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Private associations and barangay&nbsp;leaders undertake local community&nbsp;work to enhance peace and order,&nbsp;beautification and sanitation,&nbsp;{{c1::safety}} and {{c1::security}} of the barangay&nbsp;people.",
+                ""
+            ],
+            "guid": "zww/xoIDo~",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Examples of local public services",
+                "- Brigada-eskwela<br>• Tree planting<br>• Beautification of certain barangay<br>• Barangay activities undertaken by<br>the NSTP/ROTC students"
+            ],
+            "guid": "y11`xG9;#0",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a new trend in socio- cultural change in our present society",
+                "Youth Volunteerism"
+            ],
+            "guid": "C44:QG`o(B",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does everyone benefit when young people have the chance to serve their communities?",
+                "- gain skills necessary to succeed in school, in the workplace, and in life.<br>- community develops strong, diverse groups of inspired, civically-engaged young people."
+            ],
+            "guid": "FeQN5lZ-Ss",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Jose Rizal's poem to youth",
+                "A la Juventud Filipina"
+            ],
+            "guid": "n6@iSbX]5k",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -1788,6 +1899,7 @@
             "guid": "wZ4R&t/Pev",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": [
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -1800,6 +1912,7 @@
             "guid": "u/c^{/SFrl",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": [
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -1812,6 +1925,7 @@
             "guid": "Gin:ymV`)$",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": [
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -1824,6 +1938,7 @@
             "guid": "C*M4I$}u>~",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": [
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -1836,6 +1951,7 @@
             "guid": "P;{qOcF@8]",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": [
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -1848,6 +1964,7 @@
             "guid": "Hn8)6x^oA8",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": [
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -1860,6 +1977,7 @@
             "guid": "gtOo?A|T5^",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": [
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -1871,7 +1989,9 @@
             ],
             "guid": "kH23ycu;,v",
             "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -1881,7 +2001,9 @@
             ],
             "guid": "l!|2^fkN3s",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -1891,7 +2013,9 @@
             ],
             "guid": "dK1%^an!XP",
             "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -1901,7 +2025,9 @@
             ],
             "guid": "hydA/YN$,?",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -1911,7 +2037,9 @@
             ],
             "guid": "A,[duI,Z{@",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -1921,7 +2049,9 @@
             ],
             "guid": "OPAf#t5k(>",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -1931,7 +2061,9 @@
             ],
             "guid": "by)]RRDt3D",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -1941,7 +2073,9 @@
             ],
             "guid": "NK^W2lK#u#",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -1951,7 +2085,9 @@
             ],
             "guid": "y2+7m#q5Fi",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -1961,7 +2097,9 @@
             ],
             "guid": "l3_XNHm=Jk",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -1971,7 +2109,9 @@
             ],
             "guid": "A&E4]!Pt1H",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -1981,7 +2121,9 @@
             ],
             "guid": "Qp7xIB#4P.",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -1991,7 +2133,9 @@
             ],
             "guid": "B$ZRhePB-Q",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2001,7 +2145,9 @@
             ],
             "guid": "ISMp]keVly",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2011,7 +2157,9 @@
             ],
             "guid": "mGAbf>W2{W",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2021,7 +2169,9 @@
             ],
             "guid": "gsUi~yOy;d",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2031,7 +2181,9 @@
             ],
             "guid": "rh91AIf;&m",
             "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2041,7 +2193,9 @@
             ],
             "guid": "HYq395zyYo",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2051,7 +2205,9 @@
             ],
             "guid": "tM9UrdgOk-",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2061,7 +2217,9 @@
             ],
             "guid": "f>jgYLCPUw",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2071,7 +2229,9 @@
             ],
             "guid": "RhiY~#j.dj",
             "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2081,7 +2241,9 @@
             ],
             "guid": "tw[QTrM+O7",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2091,7 +2253,9 @@
             ],
             "guid": "L]qE&]:b4t",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2101,7 +2265,9 @@
             ],
             "guid": "I`E3:ggD@;",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2111,7 +2277,9 @@
             ],
             "guid": "p-`sp_9emf",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2121,7 +2289,9 @@
             ],
             "guid": "K==#I|>+w=",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2131,7 +2301,9 @@
             ],
             "guid": "JQ%&!3K/Q;",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2141,7 +2313,9 @@
             ],
             "guid": "loL8I)Qp7L",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2151,7 +2325,9 @@
             ],
             "guid": "E;wKyvV+Jh",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2161,7 +2337,9 @@
             ],
             "guid": "HZTexhAqry",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2171,7 +2349,9 @@
             ],
             "guid": "g#&j.F:{+~",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2181,7 +2361,9 @@
             ],
             "guid": "q!%5pKRY^,",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2191,7 +2373,9 @@
             ],
             "guid": "BmPdO_TiW",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2201,7 +2385,9 @@
             ],
             "guid": "IF&xHIr^DN",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2211,7 +2397,9 @@
             ],
             "guid": "dDoVH*2WVS",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2221,7 +2409,9 @@
             ],
             "guid": "hA;@yYw;4I",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2231,7 +2421,9 @@
             ],
             "guid": "M:8aQ8UFj~",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2241,7 +2433,9 @@
             ],
             "guid": "qm2-NPA:%M",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2251,7 +2445,9 @@
             ],
             "guid": "yjeGNqq@g(",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2261,7 +2457,9 @@
             ],
             "guid": "c5yK+Ms~<:",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2271,7 +2469,9 @@
             ],
             "guid": "nXMpPkd68p",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2281,7 +2481,9 @@
             ],
             "guid": "db2Jzqs#8e",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2291,7 +2493,9 @@
             ],
             "guid": "w(e6K@8c5O",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2301,7 +2505,9 @@
             ],
             "guid": "B4i?)A#DZ5",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2311,7 +2517,9 @@
             ],
             "guid": "A5Y*n)!%(@",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2321,7 +2529,9 @@
             ],
             "guid": "hd;dDo`G-I",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2331,7 +2541,9 @@
             ],
             "guid": "l=@v@Wf3}g",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2341,7 +2553,9 @@
             ],
             "guid": "wSKw,YajBn",
             "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2351,7 +2565,9 @@
             ],
             "guid": "QX>r/[:QPO",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2361,7 +2577,9 @@
             ],
             "guid": "PE5QY}FhyT",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2371,7 +2589,9 @@
             ],
             "guid": "wjh*bVH[Mf",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2381,7 +2601,9 @@
             ],
             "guid": "q0!fhmU$)X",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2391,7 +2613,9 @@
             ],
             "guid": "l5RJr=K6?w",
             "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2401,7 +2625,9 @@
             ],
             "guid": "lsEvbIc35G",
             "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2411,7 +2637,9 @@
             ],
             "guid": "NUBHdtW(R_",
             "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2421,7 +2649,9 @@
             ],
             "guid": "M_M1X0[gRq",
             "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2431,7 +2661,9 @@
             ],
             "guid": "O<DBM,^#Z:",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2441,7 +2673,9 @@
             ],
             "guid": "HE-6YQfOlT",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2451,7 +2685,9 @@
             ],
             "guid": "xu:r:U[)GF",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2461,7 +2697,9 @@
             ],
             "guid": "o$eLf2*Sr3",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2471,7 +2709,9 @@
             ],
             "guid": "BBeKVVQ+2]",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2481,7 +2721,9 @@
             ],
             "guid": "lkdrAmARO/",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2491,7 +2733,9 @@
             ],
             "guid": "vHGSc%WMWD",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2501,7 +2745,9 @@
             ],
             "guid": "ld3L}SC&}m",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2511,7 +2757,9 @@
             ],
             "guid": "j+U}-N`P~C",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2521,7 +2769,9 @@
             ],
             "guid": "E0PNI;HeCU",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2531,7 +2781,9 @@
             ],
             "guid": "N>b;fH^,=M",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2541,7 +2793,9 @@
             ],
             "guid": "D3jZyk$Yw}",
             "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2551,7 +2805,9 @@
             ],
             "guid": "tE^FK6.DJt",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2561,7 +2817,9 @@
             ],
             "guid": "jCbh6}[{Cm",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2571,7 +2829,9 @@
             ],
             "guid": "G`j~C&}X_-",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2581,7 +2841,9 @@
             ],
             "guid": "G97_cJYMk<",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2591,7 +2853,9 @@
             ],
             "guid": "q0^X?=:gpo",
             "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2601,7 +2865,9 @@
             ],
             "guid": "Ha*iVIqZes",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2611,7 +2877,9 @@
             ],
             "guid": "CB%X}!;R6`",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2621,7 +2889,9 @@
             ],
             "guid": "v(%]SC>9.H",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2631,7 +2901,9 @@
             ],
             "guid": "hA5@&U%-w3",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2641,7 +2913,9 @@
             ],
             "guid": "u(uIH_Pw+9",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2651,7 +2925,9 @@
             ],
             "guid": "b`1|bm,_XO",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2661,7 +2937,9 @@
             ],
             "guid": "ehDun_dyR.",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2671,7 +2949,9 @@
             ],
             "guid": "A9hW7QeA6*",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2681,7 +2961,9 @@
             ],
             "guid": "wDWE.ue-P}",
             "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2700,7 +2982,9 @@
             ],
             "guid": "C@v:&FAG=^",
             "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2719,7 +3003,9 @@
             ],
             "guid": "u4dB::E)4",
             "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2738,7 +3024,9 @@
             ],
             "guid": "euv8Rhu72m",
             "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2757,7 +3045,9 @@
             ],
             "guid": "lj7S@,&P@t",
             "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2776,7 +3066,9 @@
             ],
             "guid": "k24R!L7.Rf",
             "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2795,7 +3087,9 @@
             ],
             "guid": "IRYF|qOy{:",
             "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2805,7 +3099,9 @@
             ],
             "guid": "p2?$e+Kygb",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2815,7 +3111,9 @@
             ],
             "guid": "r<zV4roHCV",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2825,7 +3123,9 @@
             ],
             "guid": "tO(fX~T^qy",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2835,7 +3135,9 @@
             ],
             "guid": "GkD`oUkd]y",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2845,7 +3147,9 @@
             ],
             "guid": "C8n`qU7jm",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2855,7 +3159,9 @@
             ],
             "guid": "gfZ*W7y!QQ",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2865,7 +3171,9 @@
             ],
             "guid": "O_Nvw+Q1:N",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2875,7 +3183,9 @@
             ],
             "guid": "oZ#YN&M_>x",
             "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2885,7 +3195,9 @@
             ],
             "guid": "b@![}R-(Z.",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2895,7 +3207,9 @@
             ],
             "guid": "Pn[M|s{S;E",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2905,7 +3219,9 @@
             ],
             "guid": "jsfOy#(Zf;",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2915,7 +3231,9 @@
             ],
             "guid": "pU7Xic`r7h",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2925,7 +3243,9 @@
             ],
             "guid": "e,XV0_)&nJ",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2935,7 +3255,9 @@
             ],
             "guid": "cqAb%2Sn5P",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2945,7 +3267,9 @@
             ],
             "guid": "Ay@?k*2G!/",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2955,7 +3279,9 @@
             ],
             "guid": "nl:-vi!<B+",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2965,7 +3291,9 @@
             ],
             "guid": "NU/*J7CSw@",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2975,7 +3303,9 @@
             ],
             "guid": "Jr)5RYC,U8",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2985,7 +3315,9 @@
             ],
             "guid": "D%pilNr!.|",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -2995,7 +3327,9 @@
             ],
             "guid": "jQjTj3Gr|e",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -3005,7 +3339,9 @@
             ],
             "guid": "Em)(#x&E]A",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -3015,7 +3351,9 @@
             ],
             "guid": "i`C)GP83nT",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -3025,7 +3363,9 @@
             ],
             "guid": "G5+C~MlVvi",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -3035,7 +3375,9 @@
             ],
             "guid": "Hqfe.d|[DT",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -3045,7 +3387,9 @@
             ],
             "guid": "OW%&HDa:!e",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -3055,7 +3399,9 @@
             ],
             "guid": "e$PX{~kw!3",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -3065,7 +3411,9 @@
             ],
             "guid": "na3wir`Ynt",
             "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -3075,7 +3423,9 @@
             ],
             "guid": "l8I$dJBsgv",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -3085,7 +3435,9 @@
             ],
             "guid": "xjwqgA+9.^",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -3095,7 +3447,9 @@
             ],
             "guid": "qKb,E{l3Hm",
             "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -3105,7 +3459,9 @@
             ],
             "guid": "CKA|:4IleW",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -3115,7 +3471,9 @@
             ],
             "guid": "Ce[iX0f7UQ",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -3125,7 +3483,9 @@
             ],
             "guid": "mfbYA<fpQw",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": []
+            "tags": [
+                "Q1"
+            ]
         },
         {
             "__type__": "Note",
@@ -3134,6 +3494,613 @@
                 "Xenocentrism"
             ],
             "guid": "IKT(2XgJ^@",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "An act of submitting oneself to the norms and conventions of a society",
+                "Conformity"
+            ],
+            "guid": "QKV)DrMHd4",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Behavior which involves change in order to fit in",
+                "Conformity"
+            ],
+            "guid": "DY=xI?w3qr",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Defined as a behavior, traits, beliefs or other characteristics that violates a norm and causes a negative reaction",
+                "Deviance"
+            ],
+            "guid": "x>:acK^z",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The definition of deviance is generally the same across culture time and situations. T or F?",
+                "F, varies widley"
+            ],
+            "guid": "qqaq)v5]!J",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What&nbsp; are the 2 criteria for Merton's Typology of Deviance",
+                "1. A person's adherence to cultural goals<br>2. A person's beliefs in how to attain their goals"
+            ],
+            "guid": "MS`A*6VB`{",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who created the Deviance Typology",
+                "Robert K. Merton"
+            ],
+            "guid": "A21v?l(*P2",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Enumerate the 5 types of deviance",
+                "1. Conformity<br>2. Innovation<br>3. Ritualism<br>4. Retreatism<br>5. Rebellion"
+            ],
+            "guid": "FTq852C~w,",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "2814a918f7754b19a94e5d91fa38ac55-ao-1",
+                "",
+                "<img src=\"tmp60oqucoc.jpg\" />",
+                "<img src=\"2814a918f7754b19a94e5d91fa38ac55-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"2814a918f7754b19a94e5d91fa38ac55-ao-1-A.svg\" />",
+                "<img src=\"2814a918f7754b19a94e5d91fa38ac55-ao-O.svg\" />"
+            ],
+            "guid": "M,,9k?*VY@",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "2814a918f7754b19a94e5d91fa38ac55-ao-2",
+                "",
+                "<img src=\"tmp60oqucoc.jpg\" />",
+                "<img src=\"2814a918f7754b19a94e5d91fa38ac55-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"2814a918f7754b19a94e5d91fa38ac55-ao-2-A.svg\" />",
+                "<img src=\"2814a918f7754b19a94e5d91fa38ac55-ao-O.svg\" />"
+            ],
+            "guid": "u/POZVe(:<",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "2814a918f7754b19a94e5d91fa38ac55-ao-3",
+                "",
+                "<img src=\"tmp60oqucoc.jpg\" />",
+                "<img src=\"2814a918f7754b19a94e5d91fa38ac55-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"2814a918f7754b19a94e5d91fa38ac55-ao-3-A.svg\" />",
+                "<img src=\"2814a918f7754b19a94e5d91fa38ac55-ao-O.svg\" />"
+            ],
+            "guid": "GFL(dzq6iQ",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "2814a918f7754b19a94e5d91fa38ac55-ao-4",
+                "",
+                "<img src=\"tmp60oqucoc.jpg\" />",
+                "<img src=\"2814a918f7754b19a94e5d91fa38ac55-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"2814a918f7754b19a94e5d91fa38ac55-ao-4-A.svg\" />",
+                "<img src=\"2814a918f7754b19a94e5d91fa38ac55-ao-O.svg\" />"
+            ],
+            "guid": "wNXf]d_G@",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "2814a918f7754b19a94e5d91fa38ac55-ao-5",
+                "",
+                "<img src=\"tmp60oqucoc.jpg\" />",
+                "<img src=\"2814a918f7754b19a94e5d91fa38ac55-ao-5-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"2814a918f7754b19a94e5d91fa38ac55-ao-5-A.svg\" />",
+                "<img src=\"2814a918f7754b19a94e5d91fa38ac55-ao-O.svg\" />"
+            ],
+            "guid": "rBrT3{kx6,",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "These are group of people that follow the norms, and also trust the system which would help them achieve their goals",
+                "Conformity"
+            ],
+            "guid": "N^_/S?/tgl",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The people that accept the society's goal, however, they reject the way on how to get the society's goal",
+                "Innovators"
+            ],
+            "guid": "NkQ2ReL{Yx",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "These are the people that reject the goals of the society but they still accept the means by doing the same things as conformists",
+                "Ritualists"
+            ],
+            "guid": "Hd`{+h~Ed>",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Type of people who reject both the goals means of the society, which makes them deviant",
+                "Retreatism"
+            ],
+            "guid": "PXD=a4I={+",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "These are people who are not satisfied with the current system, but instead they are the one who want to create new goals and means for society, which is deviant",
+                "Rebels"
+            ],
+            "guid": "Mkp[(5t~DU",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "\"A woman's nude picture displayed in the classroom or office is considered a deviance, but when displayed in an art exhibit it is not.\"<br><br>Which characteristic of deviance is this?",
+                "It is understood within its social context"
+            ],
+            "guid": "H:;,BT6V`]",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "\"Gambling is not a deviance when now law prohibits it doing it is a deviance\"",
+                "Deviance may change over time"
+            ],
+            "guid": "jJ<,#Hq>[&",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "\"A single woman who leaves the home in the late evening without a chaperone or companion is considered a deviance but if a single man does it, it is not a deviance\"<br><br>Which characteristic of deviance is this?",
+                "Deviance depends upon the status and role a person holds"
+            ],
+            "guid": "mh|5n7yX!H",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "\"A celebrity gay who wears woman's apparel is funny the behavior is not a deviance. a minor who is drinking alcohol is a deviant but not in the case of an adult doing the same\"<br><br>Which characteristic of deviance is this?",
+                "Deviance depends on the audience norm"
+            ],
+            "guid": "HG7lNTwLzO",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the 2 main forms of deviance",
+                "A. According to violation of societal norm<br><br>B. According to acceptance of the goal"
+            ],
+            "guid": "pRKE=5CE5X",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In this subform of deviance, the individual disagrees with the prescribed norms but is tolerated by others or his behavior is successfully concealed",
+                "Primary deviance"
+            ],
+            "guid": "i~#Yx-Q80<",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In this subtype of deviance, the individual is a criminal or deviant because of his previous deviant behavior",
+                "Secondary deviance"
+            ],
+            "guid": "l%yJA3;9xD",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This labeling act is carried on throughout the person's life that forces him to commit delinquent acts",
+                "Secondary deviance"
+            ],
+            "guid": "gu~wT,u8.#",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Give me 3 examples of primary deviance",
+                "- Cheating in the examination<br>- Throwing pieces of paper wrappers on the floor<br>- Throwing garbage on the street in an anti-literring area<br>- Smoking in a smoke-free area<br>- Urinating in a no-urinating zone"
+            ],
+            "guid": "OltPOc;cu3",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the 2 forms of deviance according to violation of societal norm?",
+                "1. Primary and secondary deviance<br>2. Individual and group deviation"
+            ],
+            "guid": "A/o$WzQ9ul",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In this subform of deviance, the person commits a deviant behavior of his own group or sub-culture",
+                "Individual deviance"
+            ],
+            "guid": "E$+nK8(kn&",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "All society are organized around<br>{{c1::conflict}}, {{c1::unequal division of labor}},<br>and {{c1::important decision-making}} that<br>affects the whole group.",
+                ""
+            ],
+            "guid": "iK9+@ZI&w8",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Defined as smaller units that compose a society",
+                "Groups<br>"
+            ],
+            "guid": "m<>!iU|QtZ",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A unit of interacting personalities with an interdependence of roles and status existing between members",
+                "Groups"
+            ],
+            "guid": "I+i)z0h[$!",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A collection of individuals who have relations witih one anotehr that make them interdependent to some signficant degree",
+                "Social group"
+            ],
+            "guid": "x&iMiXH{NI",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A necessary condition that exists within social groups because it is what <b>enables its members to pursue shared goals</b>",
+                "Interdependence"
+            ],
+            "guid": "lISKUUXR8=",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Profoundly defines our identity and as well as our roles in society",
+                "Social groups"
+            ],
+            "guid": "A;CQcOmN~",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the 3 main groups within society",
+                "- Primary group<br>- Secondary group<br>- Reference group"
+            ],
+            "guid": "qD|K>ow$!i",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A {{c1::primary group}} is a small, intimate, less specialized group whose members engage in face to face and {{c2::emotion-based}} interaction over an extended period of time",
+                ""
+            ],
+            "guid": "gOCOW`jYC6",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In this type of group, members share personal and lasting relationships",
+                "Primary group"
+            ],
+            "guid": "K>@(OQVT.|",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In this kind of group, the relationships are psychologically comforting to the individuals involved and provide a source of support",
+                "Primary group"
+            ],
+            "guid": "K}<4_V.XR`",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Give me the 3 examples of some primary groups",
+                "1. Family<br>2. Friends&nbsp;<br>3. Love relationships"
+            ],
+            "guid": "J$GNk.-T%W",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A larger and less intimate and more<br>specialized groups where members engage<br>in an impersonal and objective-oriented<br>relationship for a limited time.",
+                "Secondary group"
+            ],
+            "guid": "Bka_KK0wB<",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It something involves weak emotion and<br>interpersonal ties",
+                "Secondary group"
+            ],
+            "guid": "e?|m`mrK&V",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Give me the two examples of secondary groups",
+                "1. School<br>2. Place of employment"
+            ],
+            "guid": "l|&{X0s>4x",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A collection of people that we use as a standard of<br>comparison for ourselves regardless of whether we<br>are part of that group.",
+                "Reference group"
+            ],
+            "guid": "ekB@E(OD3D",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A group to which we compare ourselves. It serves<br>as the standard to which we base our behavior and<br>attitudes.",
+                "Reference group"
+            ],
+            "guid": "f8x%heNKF{",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Are used in order to evaluate and<br>determine the nature of given individuals",
+                "Reference group"
+            ],
+            "guid": "r|v_4.x:*y",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the two kinds of reference groups",
+                "- In-group<br>- Out-group"
+            ],
+            "guid": "dPZzlJv%iU",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A group to which one belongs and with which one feels a sense of identity",
+                "In-group"
+            ],
+            "guid": "v`1gX=|@h^",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A group to which one does not belong<br>and to which he or she may feel a sense<br>of competitiveness or hostility.",
+                "out-group"
+            ],
+            "guid": "b117AHJL?G",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It is a social group with which an individual does not identify",
+                "out-group"
+            ],
+            "guid": "o;9v}dryCS",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the 3 types of reference group",
+                "1. Informal reference groups<br>2. Formal reference groups<br>3. Membership reference groups"
+            ],
+            "guid": "QgP/%`UiMk",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of reference group is based on the group's shared interest and goals. Members react on a personal level",
+                "Informal reference groups"
+            ],
+            "guid": "eis2`4%>_4",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "THis type of reference group has a specific goal or mission",
+                "Formal reference group"
+            ],
+            "guid": "P6zAy_m[yL",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of reference grouup are groups that are in agreement as regards attitude norms and behaviors",
+                "membership reference groups"
+            ],
+            "guid": "N)(W--oLT|",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which type of reference groups are family and friends",
+                "informal reference groups"
+            ],
+            "guid": "dyMnS9s$[b",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which type of reference groups are employee unions, military, church organizations",
+                "formal reference groups"
+            ],
+            "guid": "h.+7TBjlL*",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which type of reference groups are \"GABRIELA&nbsp; in the Philippines which prioritizes women's rights\"",
+                "Membership reference groups"
+            ],
+            "guid": "p%~l@fEleu",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": []
         }

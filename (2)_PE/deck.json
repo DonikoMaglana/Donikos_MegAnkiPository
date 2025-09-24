@@ -99,7 +99,23 @@
     "dyn": 0,
     "extendNew": 0,
     "extendRev": 0,
-    "media_files": [],
+    "media_files": [
+        "Screenshot 2025-09-24 at 1.53.28 PM.png",
+        "Screenshot 2025-09-24 at 1.54.17 PM.png",
+        "Screenshot 2025-09-24 at 1.55.13 PM.png",
+        "Screenshot 2025-09-24 at 1.55.27 PM.png",
+        "Screenshot 2025-09-24 at 1.55.42 PM.png",
+        "Screenshot 2025-09-24 at 1.55.59 PM.png",
+        "Screenshot 2025-09-24 at 1.56.16 PM.png",
+        "Screenshot 2025-09-24 at 1.56.41 PM.png",
+        "Screenshot 2025-09-24 at 1.57.06 PM.png",
+        "Screenshot 2025-09-24 at 1.57.33 PM.png",
+        "Screenshot 2025-09-24 at 1.57.50 PM.png",
+        "Screenshot 2025-09-24 at 1.58.02 PM.png",
+        "Screenshot 2025-09-24 at 1.58.48 PM.png",
+        "Screenshot 2025-09-24 at 1.59.10 PM.png",
+        "Screenshot 2025-09-24 at 1.59.25 PM.png"
+    ],
     "name": "(2) PE",
     "newLimit": null,
     "newLimitToday": null,
@@ -170,6 +186,73 @@
                 }
             ],
             "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 9205121651523078416,
+                    "name": "Front",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -7001571941991209685,
+                    "name": "Back",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic",
+            "originalStockKind": 1,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": -471929315152782166,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0
         }
     ],
     "notes": [
@@ -182,6 +265,7 @@
             "guid": "B|(}u^-#0Z",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -195,6 +279,7 @@
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
                 "AI",
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -208,6 +293,7 @@
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
                 "AI",
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -221,6 +307,7 @@
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
                 "AI",
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -234,6 +321,7 @@
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
                 "AI",
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -247,6 +335,7 @@
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
                 "AI",
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -260,6 +349,7 @@
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
                 "AI",
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -273,6 +363,7 @@
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
                 "AI",
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -286,6 +377,7 @@
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
                 "AI",
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -299,6 +391,7 @@
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
                 "AI",
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -312,6 +405,7 @@
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
                 "AI",
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -325,6 +419,7 @@
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
                 "AI",
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -338,6 +433,7 @@
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
                 "AI",
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -351,6 +447,7 @@
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
                 "AI",
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -364,6 +461,7 @@
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
                 "AI",
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -377,6 +475,7 @@
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
                 "AI",
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -390,6 +489,7 @@
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
                 "AI",
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -403,6 +503,7 @@
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
                 "AI",
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -416,6 +517,7 @@
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
                 "AI",
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -429,6 +531,7 @@
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
                 "AI",
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -442,6 +545,7 @@
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
                 "AI",
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -455,6 +559,7 @@
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
                 "AI",
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -468,6 +573,7 @@
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
                 "AI",
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -481,6 +587,7 @@
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
                 "AI",
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -494,6 +601,7 @@
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
                 "AI",
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -507,6 +615,7 @@
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
                 "AI",
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -520,6 +629,7 @@
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
                 "AI",
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -533,6 +643,7 @@
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
                 "AI",
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -546,6 +657,7 @@
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
                 "AI",
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -559,6 +671,7 @@
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
                 "AI",
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -572,6 +685,7 @@
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
                 "AI",
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -585,6 +699,7 @@
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
                 "AI",
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -598,6 +713,7 @@
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
                 "AI",
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -611,6 +727,7 @@
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
                 "AI",
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -623,6 +740,7 @@
             "guid": "z*g93N/d=g",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
+                "Q1",
                 "Q1_Monthly"
             ]
         },
@@ -635,8 +753,399 @@
             "guid": "lW%8Vgb]_C",
             "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
+                "Q1",
                 "Q1_Monthly"
             ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It refers to street dance styles performed to _______ music or part of _____ cutlure",
+                "Hiphop"
+            ],
+            "guid": "Qr%p<5emMu",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the 3 styles associated with hiphop",
+                "Breaking, Locking, Popping"
+            ],
+            "guid": "PQc]UZG+`N",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Considered as the first hip-hop dance style",
+                "Breaking"
+            ],
+            "guid": "Fe&&hQt30c",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the other term for breaking?",
+                "B-boying"
+            ],
+            "guid": "dn*[MU1G>5",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the 4 fundamental dances of breaking",
+                "toprock, downrock, freezes, and power moves"
+            ],
+            "guid": "xBn|hx8hl0",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In this style, dancers hold their positions longer",
+                "Locking"
+            ],
+            "guid": "c(QK85ldkB",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It is characterized by frequently stopping in place and after a brief freeze moving again",
+                "Locking"
+            ],
+            "guid": "j[3fi~t(@y",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It is when the dancer jerks his or body in a manner that resembles having muscle contractions",
+                "Popping"
+            ],
+            "guid": "CVb;o^P&FZ",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the 4 benefits of dancing hiphop?",
+                "● Stronger and Toned Muscles<br>● Alternative Weight Loss<br>● Improves Cardiovascular Strengths and other Fitness Components<br>● Develops Personal Satisfaction and Better Social Skills"
+            ],
+            "guid": "zr/aDXbf=T",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Refers to a type of group dance that intends to give motivation and support to a sporting team",
+                "Cheerdance"
+            ],
+            "guid": "FD{,f&#J:,",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "He is known as the father of cheerleading",
+                "Johnny Campbell"
+            ],
+            "guid": "L=Ir{0iG.%",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the 4 purposes of cheerdance",
+                "● to perform and cheer for the team.<br>● to show you have the spirit for the team.<br>● to develop a sense of camaraderie and teamwork, and<br>● to pump up the crowd to support the team."
+            ],
+            "guid": "py,Vir[D)~",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "National governing body of cheerleading and cheerdance in the country",
+                "Cheerleading Philippines Federation (CPF)"
+            ],
+            "guid": "JHF{G,e$N4",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A set of partner dance, which are enjoyed both socially and competitively around the world",
+                "Ballroom dance"
+            ],
+            "guid": "saZSCY&Wnc",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What word is ballroom dancing derived from",
+                "\"ball\""
+            ],
+            "guid": "Lb>/>VBz%K",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which word does the word \"ball\" originate from and in what language",
+                "Ballare, Latin"
+            ],
+            "guid": "roWdUu:/t4",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does the word \"Ballare\" mean",
+                "To dance"
+            ],
+            "guid": "p|4~iT>mrk",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Enumerate the 4 modern standard ballroom dances",
+                "Waltz, Tango, Slow foxtrot and Quickstep"
+            ],
+            "guid": "t?KWHY_jP9",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Enumerate the 5 latin american ballroom dances",
+                "Samba, cha-cha-cha, rumba, paso doble, and jive"
+            ],
+            "guid": "Bn05CRSewA",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A progressive dance marked by long, flowing movements and <b>\"rise and fall\"</b>",
+                "Waltz"
+            ],
+            "guid": "PS]q%q;6H:",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It appears to glide around the floor with almost no effort",
+                "Waltz"
+            ],
+            "guid": "W^~,#.Ftj",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It is considered by many to be the most romantic and sensual of all latin ballroom dances",
+                "Rumba"
+            ],
+            "guid": "p*M::%!}7Z",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A lively flirtatious ballroom&nbsp; dance full of passion and energy",
+                "Cha Cha"
+            ],
+            "guid": "dNS_9@A#l0",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It is modeled after the sound, drama, and movement of the Spanish bullfight",
+                "Pasa doble"
+            ],
+            "guid": "r)LJMWPMIt",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"Screenshot 2025-09-24 at 1.53.28 PM.png\"><br><br>Which cheerdance move is this?",
+                "Feet together"
+            ],
+            "guid": "P.I,AkFg@,",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<br><img src=\"Screenshot 2025-09-24 at 1.54.17 PM.png\"><br>Which cheerdance move is this (2 names)?",
+                "Feet apart/hands on waist"
+            ],
+            "guid": "xo*9qEr#XE",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<br><img src=\"Screenshot 2025-09-24 at 1.55.13 PM.png\"><br><br>Which cheerdance move is this?",
+                "Front Lunge"
+            ],
+            "guid": "pR@7xJXULS",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"Screenshot 2025-09-24 at 1.55.27 PM.png\"><br>Which cheerdance move is this?",
+                "Touchdown"
+            ],
+            "guid": "^g?!l[w]6",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"Screenshot 2025-09-24 at 1.55.42 PM.png\"><br><br>Which cheerdance move is this?",
+                "Clasp"
+            ],
+            "guid": "DD5-+|0,M?",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"Screenshot 2025-09-24 at 1.55.59 PM.png\"><br><br>Which cheerdance move is this?",
+                "Candlestick"
+            ],
+            "guid": "lGvrEnoI9x",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"Screenshot 2025-09-24 at 1.56.16 PM.png\"><br><br>Which cheerdance move is this?",
+                "Bow &amp; arrow"
+            ],
+            "guid": "FvM(FK$cb;",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"Screenshot 2025-09-24 at 1.56.41 PM.png\"><br><br>Which cheerdance move is this?",
+                "Low clasp"
+            ],
+            "guid": "P>74<j_v`w",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"Screenshot 2025-09-24 at 1.57.06 PM.png\"><br><br>Which cheerdance move is this?",
+                "High V"
+            ],
+            "guid": "da+=)s3sOl",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"Screenshot 2025-09-24 at 1.57.33 PM.png\"><br><br>Which cheerdance move is this?",
+                "Low V"
+            ],
+            "guid": "jnxO-TCyv*",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"Screenshot 2025-09-24 at 1.57.50 PM.png\"><br><br>Which cheerdance move is this?",
+                "Dagger"
+            ],
+            "guid": "m0y!LI!rjz",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"Screenshot 2025-09-24 at 1.58.02 PM.png\"><br><br>Which cheerdance move is this?",
+                "Punch"
+            ],
+            "guid": "L:<M9}84mX",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"Screenshot 2025-09-24 at 1.58.48 PM.png\"><br><br>Which cheerdance move is this?",
+                "T-position"
+            ],
+            "guid": "sxLnnBI~=|",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"Screenshot 2025-09-24 at 1.59.10 PM.png\"><br><br>Which cheerdance move is this?",
+                "broken T position"
+            ],
+            "guid": "P$#R0up!qE",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"Screenshot 2025-09-24 at 1.59.25 PM.png\"><br><br>Which cheerdance move is this?",
+                "Diagonal position"
+            ],
+            "guid": "f|O+s/E~|M",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
         }
     ],
     "reviewLimit": null,
