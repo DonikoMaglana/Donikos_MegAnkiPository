@@ -4895,6 +4895,2174 @@
             "guid": "rc~6^<Y=H",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The capacity of a person to think, choose, and act according to reason and will, <b>without being forced by external control</b>, while still being bound by responsibility for the consequences of those choices.",
+                "Freedom"
+            ],
+            "guid": "EZCdhx*s<#",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Every human action has an {{c1::effect}}.",
+                ""
+            ],
+            "guid": "L5CBc_ke#-",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In learning the concept of freedom, we learn that being free {{c1::does not}} mean we act without limits.",
+                ""
+            ],
+            "guid": "kE>9Inhr?9",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Being free means to act without limits, T or F?",
+                "F,&nbsp;In learning the concept of freedom, we learn that being free does not mean we act without limits."
+            ],
+            "guid": "diaPI@ND~$",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This&nbsp;means being accountable for one’s actions.",
+                "True freedom/ accountability"
+            ],
+            "guid": "tOA4Cp-T+W",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Freedom + Responsibility = ?",
+                "True freedom"
+            ],
+            "guid": "I[2QvFNOeF",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Guilt cannot be transferred, T or F?",
+                "True,&nbsp;you are the only one responsible to the consequences of your actions."
+            ],
+            "guid": "bC-`46]UBW",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Freedom always carries {{c1::consequences}} that affect ourselves, others, and even society.",
+                ""
+            ],
+            "guid": "v)Rj}i~=Q3",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "&nbsp;Freedom is bound by {{c1::responsibility}} for the {{c2::consequences}} of those choices.",
+                ""
+            ],
+            "guid": "fX9*^p*<07",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This is an act for survival and is involuntarily or done instinctively",
+                "Acts of Man"
+            ],
+            "guid": "LjpDd=NbA:",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Some acts that human beings do are also performed by animals.",
+                "Acts of Man"
+            ],
+            "guid": "J6%)v6v#_j",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Actions that are performed without knowledge, freedom, or consent of the will.",
+                "Acts of Man"
+            ],
+            "guid": "p#X*G)sPK2",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This action is natural, instinctive, or biological functions.",
+                "Acts of Man"
+            ],
+            "guid": "OD>tIS;T5p",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of action has no&nbsp;deliberate control by the intellect and will.",
+                "Acts of Man"
+            ],
+            "guid": "FwtGi8yTq_",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "These acts are not morally accountable since they are automatic and not chosen.",
+                "Acts of Man"
+            ],
+            "guid": "t{I7p4:!om",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Involuntary acts are morally accountable, T or F?",
+                "F"
+            ],
+            "guid": "Or8wOJy#Ma",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "There are actions considered as human acts or “to do what we ought”",
+                "Human acts"
+            ],
+            "guid": "nNIZ/4_dTa",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "These actions are voluntary or doing it according to your will.",
+                "Human Acts"
+            ],
+            "guid": "F>Ie8UO;~%",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Actions that are done with knowledge, freedom, and consent of the will.",
+                "Human Acts"
+            ],
+            "guid": "n^=K$n06WG",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "These are done knowingly (awareness of what you are doing).",
+                "Human acts"
+            ],
+            "guid": "iDLAaXs%TV",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of action is done freely&nbsp;",
+                "Human acts"
+            ],
+            "guid": "ITTI-*xjbb",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of action is done intentionally (with purpose).",
+                "Human acts"
+            ],
+            "guid": "qAE*r+b`~$",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "These actions are morally accountable because they require deep deliberation (thinking before doing).",
+                "Human acts"
+            ],
+            "guid": "QiyvKujYi,",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Why are human acts morally accountable?",
+                "Because they involve deep deliberation (thinking before doing)."
+            ],
+            "guid": "dSZ(_P]zQI",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What types of acts are these: sneezing, breathing, sleeping",
+                "Acts of Man"
+            ],
+            "guid": "l&_NdG/6}}",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What types of acts are these: Returning a wallet, not studying before exam?",
+                "Human Acts"
+            ],
+            "guid": "E)KsN+,9:L",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This is the belief that all events, including human actions, are caused by prior events or natural laws, leaving no room for true freedom.",
+                "Determinism"
+            ],
+            "guid": "gx1.#1aaY0",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The key idea of this concept is that everything is&nbsp;governed by cause- and-effect chains.",
+                "Determinism"
+            ],
+            "guid": "d]VUAPTjF`",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This idea believes that even our decisions are outcomes of biology, environment, upbringing, and prior events.",
+                "Determinism"
+            ],
+            "guid": "q+=u)lFu.{",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What concept does this situation exemplify:&nbsp;You enrolled in a medical school because your parents want you to become a doctor?",
+                "Determinism"
+            ],
+            "guid": "G;{mvotjB:",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of determinism&nbsp;denies free will completely (everything is pre-determined).",
+                "Hard determinism"
+            ],
+            "guid": "EyZ/:LE~NT",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This kind of determinism claims determinism and free will can coexist; we act freely if we act according to our desires, even if those desires are caused.",
+                "Soft determinism"
+            ],
+            "guid": "zFZ:}Q7[t#",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The ability of humans to make choices that are genuinely their own, not completely determined by external causes or divine will.",
+                "Indeterminism (Libertarianism)"
+            ],
+            "guid": "N&?W5By^i}",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The key idea of this concept is that people have control over their actions and can choose between alternatives.",
+                "Indeterminism (Libertarianism)"
+            ],
+            "guid": "A?MUGCBt`6",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In weighing dilemma, you must consider {{c1::obligation}} and {{c1::responsibility}}.",
+                ""
+            ],
+            "guid": "c3/dU8ifhk",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "An {{c1::obligation}} is a duty or requirement to act (or not to act) in a certain way.",
+                ""
+            ],
+            "guid": "nt1urxaBh#",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Responsibility}} is the accountability that comes with freedom and obligation.",
+                ""
+            ],
+            "guid": "B7(AAV*!=H",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Responsibility is the {{c1::accountability}} that comes with freedom and obligation.",
+                ""
+            ],
+            "guid": "C!&*8l{Q{E",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Responsibility is the accountability that comes with {{c1::freedom}} and {{c1::obligation.}}",
+                ""
+            ],
+            "guid": "i?X|Fl<NO7",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This arises from laws, social norms, moral principles, or personal commitments.",
+                "Obligation"
+            ],
+            "guid": "t-;sP5RCik",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It is being answerable for the consequences of one’s actions, whether good or bad.",
+                "Responsibility"
+            ],
+            "guid": "QqzZ2zD]ti",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A decision made mainly through reasoning, analysis, and reflection. It",
+                "Intellectual Choice"
+            ],
+            "guid": "d^E?IG0p/w",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of decision answers for hypothetical moral values.",
+                "Intellectual Choice"
+            ],
+            "guid": "Lv33-YDvS1",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This choice deals&nbsp;with abstract ideas, principles, and truths.",
+                "Intellectual Choice"
+            ],
+            "guid": "N_mf-p?)|.",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This decision focuses on:&nbsp;What is true, logical, or morally right.",
+                "Intellectual Choice"
+            ],
+            "guid": "x/Kn=&<S#)",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A decision made to address concrete, everyday situations.",
+                "Practical Choice"
+            ],
+            "guid": "y9L#Pg@)7P",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of choice&nbsp;answers for an actual moral dilemma.",
+                "Practical Choice"
+            ],
+            "guid": "tRuXbX/Cq[",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of decision&nbsp;deals with actions, behavior, and real- life consequences.",
+                "Practical Choice"
+            ],
+            "guid": "cSR^v$pSDz",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of choice focuses on what is useful, doable, or beneficial in a specific context.",
+                "Practical Choice"
+            ],
+            "guid": "G<%O3CX!Lf",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "“FREE WILL MUST ACT ACCORDING TO DUTY AND UNIVERSAL MORAL LAW. Who said this?",
+                "Immanuel Kant"
+            ],
+            "guid": "k9w?CKTNsa",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The capacity of humans to choose independently.",
+                "Free will"
+            ],
+            "guid": "toHc!#Wg_z",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does philosophy assume about human control?",
+                "That we are not completely controlled by fate, biology, or environment."
+            ],
+            "guid": "H|X!pLU)|~",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What happens if there is no free will?",
+                "Morality collapses."
+            ],
+            "guid": "bnu|QlWseQ",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the problem of free will in philosophy?",
+                "It is a paradox in the universe about whether actions are determined or not."
+            ],
+            "guid": "w*w18:j_^%",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does cause and effect suggest about free will?",
+                "That everything is determined by fate (determinism)."
+            ],
+            "guid": "m3uSF#^X=_",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does randomness and disorderliness suggest about free will?",
+                "<div>That nothing is truly determined (indeterminism).</div>"
+            ],
+            "guid": "Om]V;RrD8i",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What problem arises if determinism is true?",
+                "Why should people be accountable for their actions?"
+            ],
+            "guid": "q+fvF8Co4u",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What problem arises if indeterminism is true?",
+                "How can freedom exist in a world governed by natural laws?"
+            ],
+            "guid": "g*8PB!ZN}Z",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What paradox do we feel about the world and our choices?",
+                "<div>The world has causes, yet we also feel responsible for our choices.</div>"
+            ],
+            "guid": "k=3.OtC*3s",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "When do we feel free in our experience?",
+                "When we choose, because we feel we “could’ve done otherwise.”"
+            ],
+            "guid": "bhVB5_*gp7",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does theory say about our choices?",
+                "They are shaped or even predetermined."
+            ],
+            "guid": "fuf1*|(?:F",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It is the inner moral compass of a person",
+                "Conscience"
+            ],
+            "guid": "MAB{qqrej5",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It is the&nbsp;ability of human reason to judge whether an act is right or wrong, good or bad.",
+                "Conscience"
+            ],
+            "guid": "e<&WGNwDz[",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It is not just a “feeling, ” but a rational judgment guided by moral law, values, and one’s upbringing.",
+                "Conscience"
+            ],
+            "guid": "xKNeX~M6[^",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the three functions of conscience?",
+                "1. A guide (before we act)<br>2. A judge (while we act)<br>3. An evaluator (after we act)"
+            ],
+            "guid": "O,SI{S#+n7",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the function of conscience before we act?",
+                "A guide — helps us decide right from wrong"
+            ],
+            "guid": "LLq*%7U]_(",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the function of conscience <em>while we act</em>?",
+                "A judge — gives a feeling of unease during wrongdoing"
+            ],
+            "guid": "mWd>kko}mT",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the function of conscience <em>after we act</em>?",
+                "An evaluator — makes us feel regret after wrongdoing."
+            ],
+            "guid": "g|9Af6CU??",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This function of consciences decides whether something is right or wrong.",
+                "Guide"
+            ],
+            "guid": "F#!%ubCF==",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This function of conscience is the feeling of&nbsp;<b>unease</b>&nbsp;when you are doing something wrong",
+                "judge"
+            ],
+            "guid": "Dp^X<a}>mT",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This function of conscience is the regret you feel once you are done doing something wrong",
+                "evaluator"
+            ],
+            "guid": "JG^uX&vO)M",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c2::Conscience}} makes us {{c1::accountable}}.",
+                ""
+            ],
+            "guid": "dJ7ioqs^!_",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Without {{c1::conscience}}, freedom may lead to abuse, selfishness, or harm.",
+                ""
+            ],
+            "guid": "f[iA_6<izQ",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Without conscience, freedom may lead to {{c1::abuse}}, {{c1::selfishness}}, or {{c1::harm}}.",
+                ""
+            ],
+            "guid": "IRm[Yf6:$%",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Without conscience, {{c1::freedom}} may lead to abuse, selfishness, or harm.",
+                ""
+            ],
+            "guid": "BncE*S2gu@",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Acting against conscience = {{c1::moral guilt.}}",
+                ""
+            ],
+            "guid": "uYrYpfl6;U",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Acting against conscience}} = moral guilt.",
+                ""
+            ],
+            "guid": "EcIub]/1y1",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Acting according to conscience = {{c1::moral integrity.}}",
+                ""
+            ],
+            "guid": "i>>Dxwcd]u",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Acting according to conscience}} = moral integrity.",
+                ""
+            ],
+            "guid": "B>dekk!|~4",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who said true freedom is choosing what reason recognizes as the good life?",
+                "Aristotle"
+            ],
+            "guid": "oFFa!]z=Zt",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the Greek term for the good life according to Aristotle?",
+                "eudaimonia"
+            ],
+            "guid": "smrIe/f!J`",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What concept of balance is linked to Aristotle’s idea of freedom?",
+                "Golden Mean"
+            ],
+            "guid": "Bu9Jx<1F7K",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does Aristotle mean by true freedom?",
+                "Not doing whatever you want, but choosing what reason recognizes as the good life (eudaimonia)."
+            ],
+            "guid": "QC,##qw:WZ",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is Aristotle’s “Golden Mean”?",
+                "The balance or moderation in pursuing the good life."
+            ],
+            "guid": "QEkrzG_>XS",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who proposed the Fourfold Classification of Law?",
+                "St. Thomas Aquinas"
+            ],
+            "guid": "g7Dt@E=L|a",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What law is God’s wisdom governing the universe?",
+                "Eternal Law"
+            ],
+            "guid": "A.U^%O]KB1",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What law is moral principles written in human nature?",
+                "Natural Law"
+            ],
+            "guid": "D{+ec%p4.4",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What law is created by society for order?",
+                "Human Law"
+            ],
+            "guid": "fN8*HcN&G",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What law is revealed by God, e.g., the 10 Commandments?",
+                "Divine Law"
+            ],
+            "guid": "oqkWb-i)D?",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "According to Thomas Aquinas, what frees the soul from selfishness?",
+                "Love"
+            ],
+            "guid": "Dg.wle::@-",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is spiritual freedom according to Thomas Aquinas?",
+                "Liberation from sin"
+            ],
+            "guid": "M~ts$pn,`M",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "According to St. Thomas Aquinas, freedom is {{c1::liberation from sin}} and {{c2::misuse of will,}} aligning choices with God.",
+                ""
+            ],
+            "guid": "Ey|l|^w4s?",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who said, “Man is condemned to be free”?",
+                "Jean-Paul Sartre"
+            ],
+            "guid": "fXq^N,6pbt",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "According to Sartre, what does denying freedom mean denying?",
+                "Responsibility"
+            ],
+            "guid": "L}d0z>|;%f",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "According to Jean Paul Sartre:&nbsp;To deny {{c1::freedom}} is to deny {{c2::responsibility}}.",
+                ""
+            ],
+            "guid": "B,`fApn]W<",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who said, “Existence precedes essence”?",
+                "Jean-Paul Sartre"
+            ],
+            "guid": "b==WCo#G/d",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "According to Sartre, what precedes essence?",
+                "Existence"
+            ],
+            "guid": "tGW9^av%Mq",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The identity or value must be created by the individual. By posing the acts that constitute them, they make their existence more significant.",
+                "“Existence precedes essence.\""
+            ],
+            "guid": "g=.<Y-GG=h",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who described humans in the state of nature as selfish and in conflict?",
+                "Thomas Hobbes"
+            ],
+            "guid": "fw};FMgzyJ",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is Hobbes’ concept of natural law called?",
+                "Lex Naturalis"
+            ],
+            "guid": "BrsS#1:wIb",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "According to Hobbes, what does Lex Naturalis tell humans to seek?",
+                "Peace and self-preservation"
+            ],
+            "guid": "q_t.Zfid|!",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Human beings in the “state of nature” as selfish and in conflict.",
+                "Lex Naturalis"
+            ],
+            "guid": "yblCW=t};2",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who proposed the Social Contract?",
+                "ean-Jacques Rousseau"
+            ],
+            "guid": "z|S(fS>xQV",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "According to Rousseau, what is the Social Contract based on?",
+                "General will"
+            ],
+            "guid": "i#byxyEy>d",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Through the {{c1::social contract}}, people agree to form a community based on the general will (common good).",
+                ""
+            ],
+            "guid": "u.M*28O{qk",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who proposed the Categorical Imperative?",
+                "Immanuel Kant"
+            ],
+            "guid": "fM{yP[$aK?",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "According to Kant, what must a maxim be able to become?",
+                "Universal law"
+            ],
+            "guid": "r@uyH_aOfs",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "According to Kant, how must humanity always be treated?",
+                "As an end"
+            ],
+            "guid": "ODVgQm-bGY",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "According to Kant, how must humanity never be treated?",
+                "As a means"
+            ],
+            "guid": "vHq5,2w,-H",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "According to Immanuel Kant: Treat humanity, whether in your own person or in that of another, always as an {{c1::end}} and never merely as a {{c1::means}}.",
+                ""
+            ],
+            "guid": "dabojZfqqn",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Act only according to that maxim whereby you can at the same time will that it should become a universal law.",
+                "Categorical Imperative"
+            ],
+            "guid": "mZ+,Fb!p+G",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Act only according to that {{c1::maxim}} whereby you can at the same time will that it should become a {{c2::universal law}}.",
+                ""
+            ],
+            "guid": "BkUD$uwtRx",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does “Kapwa” mean?",
+                "The shared self"
+            ],
+            "guid": "o?n[3SFx?f",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does Kapwa suggest about “I” and “Other”?",
+                "There is a unified existence of both"
+            ],
+            "guid": "wG`(9ECw,O",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Even if we are different, what happens to our lives?",
+                "They constantly touch and overlap"
+            ],
+            "guid": "yTf$6*Ui=Y",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What can we not do without others?",
+                "Survive, grow, or define ourselves"
+            ],
+            "guid": "mo<U%2*x^Z",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the three things that intersubjectivity reminds us of?",
+                "1. We exist with others<br>2. Our freedom is connected<br>3. Respect and empathy build harmony"
+            ],
+            "guid": "emhLQP[tuD",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does intersubjectivity remind us about existence?",
+                "We exist with others"
+            ],
+            "guid": "Oqf>IX4Ao_",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does intersubjectivity remind us about freedom?",
+                "It is connected with others"
+            ],
+            "guid": "c<*MED8FUC",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What builds harmony in intersubjectivity?",
+                "Respect and empathy"
+            ],
+            "guid": "rFM.&%njdn",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What Filipino philosophy teaches that we treat others as part of our “loob”?",
+                "Kalooban"
+            ],
+            "guid": "l2o}:z]=pi",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In the philosophy of Kalooban, how do Filipinos view other people?",
+                "As part of their loob"
+            ],
+            "guid": "cRAF[;58A5",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "According to Kalooban, what replaces the idea of “Others”?",
+                "Kapwa"
+            ],
+            "guid": "l~-ck+<:k6",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does Kapwa mean in the context of Kalooban?",
+                "Sharing lives with others"
+            ],
+            "guid": "Qo]:(~G5O$",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What unique strengths do PWDs often show?",
+                "Creativity, perseverance, and empathy"
+            ],
+            "guid": "QCw7ao~igd",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who was the deafblind author and activist?",
+                "Helen Keller"
+            ],
+            "guid": "Gsur.W5f3Y",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who was born without limbs and became a motivational speaker?",
+                "Nick Vujicic"
+            ],
+            "guid": "lu`9c^YBz/",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What strengths do many underprivileged individuals show?",
+                "Resilience, resourcefulness, and community solidarity"
+            ],
+            "guid": "G7uu(EWtOF",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who sustains communities with their hard work?",
+                "Street vendors and farmers"
+            ],
+            "guid": "n!6zSq|r-9",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who feeds the nation through their work?",
+                "Farmers and fishers"
+            ],
+            "guid": "ral7EK$YU$",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What unique contributions do women bring to society?",
+                "Perspectives, leadership, and nurturing roles"
+            ],
+            "guid": "P%>b6c>h[o",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who was the Filipina revolutionary leader?",
+                "Gabriela Silang"
+            ],
+            "guid": "EQ2pa:siwb",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who proposed the “I-Thou Relationship”?",
+                "Martin Buber"
+            ],
+            "guid": "jGYfz!.S]:",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "According to Buber, when do we become truly human?",
+                "<div>Through genuine dialogue</div>\n<div></div>"
+            ],
+            "guid": "ysoo</&6HF",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In what encounter does intersubjectivity arise?",
+                "I-Thou encounter"
+            ],
+            "guid": "K8BV>~U](-",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What qualities are present in the I-Thou relationship?",
+                "Openness, respect, and mutual recognition"
+            ],
+            "guid": "j<OO.B)sHm",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is a “True Person” in intersubjectivity?",
+                "Someone who values connection, respects human dignity, practices empathy, and lives in solidarity with others."
+            ],
+            "guid": "j<bF&tY$2C",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How does a true person view humanity?",
+                "Not as separate individuals, but as a community of shared selves."
+            ],
+            "guid": "Ih$L,fg}p_",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Does a true person place conditions on valuing others?",
+                "<div>No, they do so without asking for condition.</div>"
+            ],
+            "guid": "AqVw(0$2fR",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who said this:&nbsp;“A person mustn ever be treated as a means to an end, but always as an end in themselves\"",
+                "Karol Wojtyla"
+            ],
+            "guid": "c4)dQ9@;k1",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does “No man is an island” mean?",
+                "A human person cannot survive without the existence of others."
+            ],
+            "guid": "iTHMHzK4Ow",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "One cannot survive without the existence of the other.",
+                "\"No man is an island\""
+            ],
+            "guid": "DV<CWI-aKa",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Aside from being rational, what else is a human person?",
+                "A social being"
+            ],
+            "guid": "oK]qQNi/1L",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does intersubjectivity simply mean?",
+                "“I–Other.”"
+            ],
+            "guid": "ce_^K:;!E(",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div>The study of the “quest of knowing.”</div>\n<div></div>",
+                "Epistemology"
+            ],
+            "guid": "dC`G,bLN1Z",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Key questions of epistemology?",
+                "<ul><li><div>How do we perceive knowledge?</div>\n</li><li>\n<div>How do we verify knowledge as true knowledge?</div></li></ul>\n"
+            ],
+            "guid": "zn5XMXs0yv",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In intersubjectivity, what does epistemology deal with?",
+                "How I know others exist and how I understand their inner world."
+            ],
+            "guid": "hp)X)6ta-}",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the study of the “quest for the nature of being”?",
+                "Ontology"
+            ],
+            "guid": "bo/9(]qfxI",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The relationship of {{c1::“I”}} and {{c1::“Other”}} is the central focus of intersubjectivity.",
+                ""
+            ],
+            "guid": "O96HcBKOZ-",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In intersubjectivity, what does ontology deal with?",
+                "The reality of the self and others"
+            ],
+            "guid": "r(VuFoAdwE",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Key questions of ontology?",
+                "1. How do we define a being? <br>2. How do we verify the reason why that being exists?"
+            ],
+            "guid": "Ox4`NdXZz`",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Name the two types of I–Other relationships.",
+                "I–It relationship and I–Thou relationship"
+            ],
+            "guid": "x%}i!,7sWM",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who said, “Being is, non-being is not”?",
+                "Parmenides"
+            ],
+            "guid": "k*R:<v@UN#",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It refers to whatever is real—whether physical (like a tree), mental (like an idea), or spiritual (like God, in theology).",
+                "Being"
+            ],
+            "guid": "iAoS`25^81",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It is anything that exists.",
+                "Being"
+            ],
+            "guid": "PC~ZHyLnV$",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What types of reality can a being have?",
+                "Physical, mental, or spiritual"
+            ],
+            "guid": "bT]/^/T?Vt",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In a being, it is what something is (its nature)",
+                "essence"
+            ],
+            "guid": "euJRsh6oCr",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In a being, it is that something is (it exists in reality)",
+                "Existence"
+            ],
+            "guid": "uN?dTj*i]Y",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How do we know something is truly a being?",
+                "If it truly exists"
+            ],
+            "guid": "p-&CKl(=_Q",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "We know that something is {{c1::“being”}} if it truly exists. It’s not similar terms with “{{c2::becoming}}” and {{c3::“non-being}}.",
+                ""
+            ],
+            "guid": "hTh?T[IynK",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Why do we study intersubjectivity?",
+                "Because “Others” exist, so do “I”"
+            ],
+            "guid": "v9d:5FFuUT",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the requirements to study intersubjectivity?",
+                "1. Be aware of the existence of “Others”<br>2. Be aware how “Others” see “I”<br>3. Be aware of “I” in the “Others” (Seeming)"
+            ],
+            "guid": "wu8?cH<ybM",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It refers to the way something appears to us, regardless of whether it is truly real or not.",
+                "Seeming"
+            ],
+            "guid": "g_kds2w-!_",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the beginning of an authentic relationship through dialogue?",
+                "Acknowledging the presence of each other and<br>recognizing one’s differences"
+            ],
+            "guid": "v(g0tS@,#w",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who emphasized harmony through relationships in intersubjectivity?",
+                "Confucius"
+            ],
+            "guid": "E_PWh+:<MN",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "According to Confucius, what shapes moral life?",
+                "Relationships (child-parent, ruler-subject, friend-friend, etc.)"
+            ],
+            "guid": "ztY=J(znAD",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "\"Do not do to others what you do not want done to yourself\", whose moral principle is this?",
+                "Confucius"
+            ],
+            "guid": "xZ$T;AKL94",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How do we become truly human according to Buber?",
+                "Through genuine dialogue"
+            ],
+            "guid": "PO(dMfc_VP",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Where does intersubjectivity arise according to Buber?",
+                "In the I–Thou encounter"
+            ],
+            "guid": "s+ZT1m*~4F",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who emphasized the person as subject and end?",
+                "Karol Wojtyła"
+            ],
+            "guid": "L@:La9BThM",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "According to Wojtyła, what are the highest forms of intersubjectivity?",
+                "Human love and solidarity"
+            ],
+            "guid": "Cpm$Q@,/Y~",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How does a person find himself according to Wojtyła?",
+                "Through a sincere gift of self"
+            ],
+            "guid": "Q~j%n[EfCx",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who said this&nbsp;“The person finds himself only through a sincere gift of self.\"?",
+                "Karol Wojtyla"
+            ],
+            "guid": "J~f203(0j[",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does the subjective quadrant focus on?",
+                "The personal, internal experience of an individual."
+            ],
+            "guid": "g22R>$c1nF",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does subjective experience include?",
+                "Feelings, beliefs, desires"
+            ],
+            "guid": "JS3<pU@|FC",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How do we view the world in the subjective quadrant?",
+                "Through the lens of the self"
+            ],
+            "guid": "q;drVYG%HZ",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does the objective quadrant focus on?",
+                "External, measurable phenomena independent of personal feelings"
+            ],
+            "guid": "ts:RB9]un}",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How do we see others in the objective quadrant?",
+                "As objects of study, like data or statistics"
+            ],
+            "guid": "K&UF*POi+7",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does the interobjective quadrant focus on?",
+                "Shared systems, structures, and institutions"
+            ],
+            "guid": "t}@Q8D>`Ya",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How do people create meaning in the interobjective quadrant?",
+                "Through laws, culture, traditions, and language"
+            ],
+            "guid": "Eww[)@O-m*",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does the intersubjective quadrant focus on?",
+                "Mutual recognition and relationships between persons as subjects"
+            ],
+            "guid": "CZv%cDa`Wp",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How do we see people in the intersubjective quadrant?",
+                "As persons with dignity in dialogue"
+            ],
+            "guid": "sm1Lv($[i>",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_Monthly"
+            ]
         }
     ],
     "reviewLimit": null,
