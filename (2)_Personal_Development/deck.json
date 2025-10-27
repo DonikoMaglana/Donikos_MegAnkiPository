@@ -100,6 +100,7 @@
     "extendNew": 0,
     "extendRev": 0,
     "media_files": [
+        "Screenshot 2025-10-27 162608.png",
         "c4c2d3a924a34dd282f4f32a00d92f60-ao-1-A.svg",
         "c4c2d3a924a34dd282f4f32a00d92f60-ao-1-Q.svg",
         "c4c2d3a924a34dd282f4f32a00d92f60-ao-2-A.svg",
@@ -113,6 +114,23 @@
         "c4c2d3a924a34dd282f4f32a00d92f60-ao-6-A.svg",
         "c4c2d3a924a34dd282f4f32a00d92f60-ao-6-Q.svg",
         "c4c2d3a924a34dd282f4f32a00d92f60-ao-O.svg",
+        "e8cd76c390d84c13b75f44015a8f383c-ao-1-A.svg",
+        "e8cd76c390d84c13b75f44015a8f383c-ao-1-Q.svg",
+        "e8cd76c390d84c13b75f44015a8f383c-ao-2-A.svg",
+        "e8cd76c390d84c13b75f44015a8f383c-ao-2-Q.svg",
+        "e8cd76c390d84c13b75f44015a8f383c-ao-3-A.svg",
+        "e8cd76c390d84c13b75f44015a8f383c-ao-3-Q.svg",
+        "e8cd76c390d84c13b75f44015a8f383c-ao-4-A.svg",
+        "e8cd76c390d84c13b75f44015a8f383c-ao-4-Q.svg",
+        "e8cd76c390d84c13b75f44015a8f383c-ao-5-A.svg",
+        "e8cd76c390d84c13b75f44015a8f383c-ao-5-Q.svg",
+        "e8cd76c390d84c13b75f44015a8f383c-ao-6-A.svg",
+        "e8cd76c390d84c13b75f44015a8f383c-ao-6-Q.svg",
+        "e8cd76c390d84c13b75f44015a8f383c-ao-7-A.svg",
+        "e8cd76c390d84c13b75f44015a8f383c-ao-7-Q.svg",
+        "e8cd76c390d84c13b75f44015a8f383c-ao-8-A.svg",
+        "e8cd76c390d84c13b75f44015a8f383c-ao-8-Q.svg",
+        "e8cd76c390d84c13b75f44015a8f383c-ao-O.svg",
         "tmp6khu_eke.jpg"
     ],
     "name": "(2) Personal Development",
@@ -588,6 +606,208 @@
                 }
             ],
             "type": 1
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -279344989441727977,
+                    "name": "ID (hidden)",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -8019144233852573474,
+                    "name": "Header",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -5192177934792951139,
+                    "name": "Image",
+                    "ord": 2,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -996507654485675920,
+                    "name": "Question Mask",
+                    "ord": 3,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -2622217631836698292,
+                    "name": "Footer",
+                    "ord": 4,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 6158505670062219761,
+                    "name": "Remarks",
+                    "ord": 5,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -4411387447535134541,
+                    "name": "Sources",
+                    "ord": 6,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -7688410427295178531,
+                    "name": "Extra 1",
+                    "ord": 7,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 326092553592481837,
+                    "name": "Extra 2",
+                    "ord": 8,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -2552522292509077285,
+                    "name": "Answer Mask",
+                    "ord": 9,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 5776824685556938887,
+                    "name": "Original Mask",
+                    "ord": 10,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Image Occlusion Enhanced",
+            "originalStockKind": 1,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 1,
+            "tmpls": [
+                {
+                    "afmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n\n<script>\n// Toggle answer mask on clicking the image\nvar toggle = function() {\n  var amask = document.getElementById('io-overlay');\n  if (amask.style.display === 'block' || amask.style.display === '')\n    amask.style.display = 'none';\n  else\n    amask.style.display = 'block'\n}\n\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": 2322984612947848412,
+                    "name": "IO Card",
+                    "ord": 0,
+                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
+                }
+            ],
+            "type": 0
         }
     ],
     "notes": [
@@ -641,6 +861,18 @@
             "tags": [
                 "Q1",
                 "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Baumeister (1999)}} defined self concept as an {{c2::individual's belief about himself, including personal attributes and who/what the&nbsp;self is}}",
+                ""
+            ],
+            "guid": "n>i&S%sPG0",
+            "note_model_uuid": "6bba29fa-6617-11f0-8bc1-f5d300799d77",
+            "tags": [
+                "Q1"
             ]
         },
         {
@@ -1046,18 +1278,6 @@
             "tags": [
                 "Q1",
                 "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "{{c1::Baumeister (1999)}} defined self concept as an {{c2::individual's belief about himself, including personal attributes and who/what the&nbsp;self is}}",
-                ""
-            ],
-            "guid": "n>i&S%sPG0",
-            "note_model_uuid": "6bba29fa-6617-11f0-8bc1-f5d300799d77",
-            "tags": [
-                "Q1"
             ]
         },
         {
@@ -1555,18 +1775,6 @@
         {
             "__type__": "Note",
             "fields": [
-                "{{c1::Stress}} is a {{c2::physical}}, {{c2::chemical}}, or {{c2::emotional factor}} that causes {{c3::bodily}} and {{c3::mental}} tension and may be a factor in {{c4::disease causation}}.",
-                ""
-            ],
-            "guid": "NF,}N~LR<3",
-            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
-            "tags": [
-                "Q1"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
                 "Defined as the process by which we perceive and respond to certain events that we view as challenging or threatening",
                 "Stress"
             ],
@@ -1668,6 +1876,18 @@
             ],
             "guid": "rz|HOA$+b)",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Stress}} is a {{c2::physical}}, {{c2::chemical}}, or {{c2::emotional factor}} that causes {{c3::bodily}} and {{c3::mental}} tension and may be a factor in {{c4::disease causation}}.",
+                ""
+            ],
+            "guid": "NF,}N~LR<3",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
             "tags": [
                 "Q1"
             ]
@@ -2861,6 +3081,1132 @@
             "guid": "tG}5.84_S0",
             "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">A group of people that has been bonded together because of </span><span style=\"font-weight: 400; text-decoration-line: underline;\">blood relations</span></b>",
+                "Family"
+            ],
+            "guid": "y8rV(8FOpK",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "According to sociology, this is the&nbsp;<b>basic</b>&nbsp;unit of society",
+                "Family"
+            ],
+            "guid": "B`Td*NXYC+",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the most important agent of socialization?",
+                "Family"
+            ],
+            "guid": "n0]#GocMR?",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It <b>is&nbsp;</b>responsible for determining one’s <span style=\"font-style: italic;\">attitudes towards religion</span> and <span style=\"font-style: italic;\">establishing career goals</span>",
+                "Family"
+            ],
+            "guid": "kAj4t8$$nD",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">Our experiences in the family have a&nbsp;</span></b>{{c1::lifelong impact}}<b><span style=\"font-weight: 400;\">&nbsp;on us</span></b>",
+                ""
+            ],
+            "guid": "DP^4viswFr",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "According to Internal Organizations, what are the classifications of family?",
+                "Nuclear and extended"
+            ],
+            "guid": "tv5IcncdDz",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It is a family&nbsp;<b><span style=\"font-weight: 400;\">composed of husband, wife and children.</span></b>",
+                "Nuclear"
+            ],
+            "guid": "pboi0liIfy",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It is a family&nbsp;<b><span style=\"font-weight: 400;\">including grandparents, uncles and cousins as part of the family.</span></b>",
+                "Extended"
+            ],
+            "guid": "E9L^@xa|lo",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Three classifications of family according to descent",
+                "1) Patrilineal<br>2) Matrilineal<br>3) Bilateral"
+            ],
+            "guid": "d*X+*{$L8n",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">When family trace their relationships and affiliations with the paternal side.</span></b>",
+                "Patrilineal"
+            ],
+            "guid": "N^[NDa?(Hj",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">When family trace their relationships and affiliations with the maternal side.</span></b>",
+                "Matrilineal"
+            ],
+            "guid": "BQWIlBSku4",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "When family trace their relationships and affiliations in both parents.",
+                "Bilateral"
+            ],
+            "guid": "bWOVb+Gx0}",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Three types of family according to power/authority",
+                "1) Patriarichal<br>2) Matriarchal<br>3) Egalitarian"
+            ],
+            "guid": "xJt0_Hm};N",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In this type, t<b><span style=\"font-weight: 400;\">he authority is vested on the oldest male member of the family.&nbsp;</span></b>",
+                "Patriarchal"
+            ],
+            "guid": "k4<m.C,r6T",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In this classification of family, th<b><span style=\"font-weight: 400;\">e mother or grandmother dominates the household</span></b>",
+                "Matriarchal"
+            ],
+            "guid": "p03]GU-*K.",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In this type of classification of family,&nbsp;<b><span style=\"font-weight: 400;\">both husband and wife exercise equal authority.</span></b>",
+                "Egalitarian"
+            ],
+            "guid": "bITm]]?S6~",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Four types of family according to residence",
+                "1) Neo-local<br>2) Matrilocal<br>3) Patrilocal<br>4) Bilocal"
+            ],
+            "guid": "wiNqi_+I.4",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The new couple reside in a new place, <b>independent </b>from their parents.&nbsp;",
+                "Neo-local"
+            ],
+            "guid": "fn_pK47u)4",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">The couple reside with or near the parents of the wife.</span></b>",
+                "Matrilocal"
+            ],
+            "guid": "i~DpYG!HW1",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">The couple reside with or near the parents of the husband.&nbsp;</span></b>",
+                "Patrilocal"
+            ],
+            "guid": "d#q#+}R#z3",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">The married couple resides alternately with either of their parents.</span></b>",
+                "Bilocal"
+            ],
+            "guid": "Icvny9t#6(",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">The&nbsp;</span></b>{{c1::extended family}}<b>&nbsp;is the traditional family plus the parents of either the husband or the wife<span style=\"font-weight: 400;\">, or both their parents, depending on the arrangements they make</span></b>",
+                ""
+            ],
+            "guid": "qEf,GS=+Gd",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The {{c1::mixed race}} family implies that the composition of the members have either one or more different racial identity.",
+                ""
+            ],
+            "guid": "Gghd-gY9ol",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">Among the many members of the family, it is the&nbsp;</span></b>{{c1::parents}}<b>&nbsp;that exert greater influence on their children</b>",
+                ""
+            ],
+            "guid": "MK#opcEFVF",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">According to&nbsp;</span></b>{{c1::Markus Kitayama (1991),}}<b><span style=\"font-weight: 400;\">&nbsp;many non-Western cultures adhere to the concept of connectedness of human beings.&nbsp;</span></b>",
+                ""
+            ],
+            "guid": "y.GGR|ff=m",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who identified the four parenting styles?",
+                "Diana Baumrind"
+            ],
+            "guid": "y7G3e(uKwp",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of parenting style is when&nbsp;<b><span style=\"font-weight: 400;\">parents are not involved in apart of their children’s life</span></b>",
+                "Neglectful parenting"
+            ],
+            "guid": "w6E`)y.Pk:",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This parenting style involves&nbsp;<b><span style=\"font-weight: 400;\">parents who take care of the physical and superficial needs of their child but neglect other aspects of parenting like discipline and emotional Involvement.</span></b>",
+                "Neglectful Parenting"
+            ],
+            "guid": "c!!p?tl<Il",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This style describes very strict parents who are not open to compromise and discussion.",
+                "Authoritarian parenting"
+            ],
+            "guid": "ymY*{8e4-v",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Their parenting involves exerting and excessive control and restrictions on things that their children can do.",
+                "Authoritarian parenting"
+            ],
+            "guid": "NC4RUrm]f{",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of parenting style is very democratic.",
+                "Authoritative"
+            ],
+            "guid": "j|B=_6oN@<",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Parents encourage independence and discussion and exercise the appropriate level of control in the lives of children.",
+                "Authoritative parenting"
+            ],
+            "guid": "qqU8G8QeG2",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Also known as permissive parenting wherein parents often have little to no control of their children and exhibit too much affection",
+                "Indulgent parenting"
+            ],
+            "guid": "xMUi><V;:a",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of parenting involves&nbsp;having or indicating a tendency to be overly generous to or lenient with someone.",
+                "Indulgent parenting"
+            ],
+            "guid": "AaI3N8`28@",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "These are the principles behind one's behavior",
+                "Values"
+            ],
+            "guid": "QG]ATGh&Yl",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This ideal believed to be source from, but not limited to, the family and have been shared and passed on from one generation to the next",
+                "Values"
+            ],
+            "guid": "dV@:S:~QU+",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the five (5) common filipino values? (RGIHG)",
+                "1. Magalang (Respectful)<br>2. Utang na loob (Gratitude)<br>3. Importansiya ng Pamilya (Importance of Family)<br>4. Matulungin (Helpful)<br>5. Pakikisama sa Kapuwa (Going along)"
+            ],
+            "guid": "Lc7`j.;2/g",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This Filipino value encourages the use of \"po\" and \"opo\"",
+                "Pagiging Magalang"
+            ],
+            "guid": "eAZ_CeF`X-",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Using words like “po” and “opo,” doing “pagmano,” and saying “paki” or “please” when making requests are examples of what Filipino value?",
+                "Pagiging Magalang (Respectful)"
+            ],
+            "guid": "H&F`J#mU:%",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What words are used as sign of respect in Filipino culture?",
+                "\"po\" and \"opo\""
+            ],
+            "guid": "LCX96E458@",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What words are used to make a request?",
+                "\"paki\" or \"please\""
+            ],
+            "guid": "IqzMfC=+Ls",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Filipino value that means to pay or return the favor",
+                "Utang na loob"
+            ],
+            "guid": "q43i_<@S2g",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">Filipino value that involves doing everything for their sake and welfare&nbsp;</span></b>",
+                "<b>IMPORTANSIYA NG PAMILYA (<span style=\"font-style: italic;\">IMPORTANCE OF FAMILY</span>)&nbsp;</b>"
+            ],
+            "guid": "j(uL1Fo`Jp",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">Filipino are generally helpful and were taught this value even at a young age, what value is this?&nbsp;</span></b>",
+                "<b>PAGIGING MATULUNGIN (<span style=\"font-style: italic;\">BEING HELPFUL</span>)&nbsp;</b>"
+            ],
+            "guid": "hDYu3E?S:T",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This involves c<b><span style=\"font-weight: 400;\">ooperating with others to maintain good relationship</span></b>",
+                "<b>PAKIKISAMA SA KAPUWA (GOING ALONG)&nbsp;</b>"
+            ],
+            "guid": "fu.37:CfhG",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The process of improving one’s personality traits and characteristics.",
+                "Personality development"
+            ],
+            "guid": "AFq]kl31`J",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It involves understanding and modifying personality traits such as emotional intelligence, empathy, assertiveness, and social skills.",
+                "Personality development"
+            ],
+            "guid": "b7b=E)rs]2",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Personal development}} refers to the process of improving one’s skills, knowledge, and abilities to reach taheir full potential.",
+                ""
+            ],
+            "guid": "H?SPA:V/<T",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It encompasses a wide range of activities, including education, career advancement, personal growth, and self-improvement.",
+                "Personal development"
+            ],
+            "guid": "cp=I{MYaOt",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who said \"an unexamined life is not worth living\"",
+                "Socrates"
+            ],
+            "guid": "qL%j;NW2cO",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A Japanese ideology, it is what makes you get up every morning and keeps you going.",
+                "Ikigai"
+            ],
+            "guid": "qp:-vw7uP<",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "e8cd76c390d84c13b75f44015a8f383c-ao-1",
+                "",
+                "<img src=\"Screenshot 2025-10-27 162608.png\">",
+                "<img src=\"e8cd76c390d84c13b75f44015a8f383c-ao-1-Q.svg\">",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"e8cd76c390d84c13b75f44015a8f383c-ao-1-A.svg\">",
+                "<img src=\"e8cd76c390d84c13b75f44015a8f383c-ao-O.svg\">"
+            ],
+            "guid": "l5[[p0H;3P",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "e8cd76c390d84c13b75f44015a8f383c-ao-2",
+                "",
+                "<img src=\"Screenshot 2025-10-27 162608.png\" />",
+                "<img src=\"e8cd76c390d84c13b75f44015a8f383c-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"e8cd76c390d84c13b75f44015a8f383c-ao-2-A.svg\">",
+                "<img src=\"e8cd76c390d84c13b75f44015a8f383c-ao-O.svg\" />"
+            ],
+            "guid": "e*+t(T)K$W",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "e8cd76c390d84c13b75f44015a8f383c-ao-3",
+                "",
+                "<img src=\"Screenshot 2025-10-27 162608.png\" />",
+                "<img src=\"e8cd76c390d84c13b75f44015a8f383c-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"e8cd76c390d84c13b75f44015a8f383c-ao-3-A.svg\">",
+                "<img src=\"e8cd76c390d84c13b75f44015a8f383c-ao-O.svg\" />"
+            ],
+            "guid": "jU[P>R8o~X",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "e8cd76c390d84c13b75f44015a8f383c-ao-4",
+                "",
+                "<img src=\"Screenshot 2025-10-27 162608.png\" />",
+                "<img src=\"e8cd76c390d84c13b75f44015a8f383c-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"e8cd76c390d84c13b75f44015a8f383c-ao-4-A.svg\">",
+                "<img src=\"e8cd76c390d84c13b75f44015a8f383c-ao-O.svg\" />"
+            ],
+            "guid": "Ft}_a~QuU)",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "e8cd76c390d84c13b75f44015a8f383c-ao-5",
+                "",
+                "<img src=\"Screenshot 2025-10-27 162608.png\" />",
+                "<img src=\"e8cd76c390d84c13b75f44015a8f383c-ao-5-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"e8cd76c390d84c13b75f44015a8f383c-ao-5-A.svg\">",
+                "<img src=\"e8cd76c390d84c13b75f44015a8f383c-ao-O.svg\" />"
+            ],
+            "guid": "r}6F&P7[M",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "e8cd76c390d84c13b75f44015a8f383c-ao-6",
+                "",
+                "<img src=\"Screenshot 2025-10-27 162608.png\" />",
+                "<img src=\"e8cd76c390d84c13b75f44015a8f383c-ao-6-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"e8cd76c390d84c13b75f44015a8f383c-ao-6-A.svg\">",
+                "<img src=\"e8cd76c390d84c13b75f44015a8f383c-ao-O.svg\">"
+            ],
+            "guid": "JLJ(/-&tll",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "e8cd76c390d84c13b75f44015a8f383c-ao-7",
+                "",
+                "<img src=\"Screenshot 2025-10-27 162608.png\" />",
+                "<img src=\"e8cd76c390d84c13b75f44015a8f383c-ao-7-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"e8cd76c390d84c13b75f44015a8f383c-ao-7-A.svg\">",
+                "<img src=\"e8cd76c390d84c13b75f44015a8f383c-ao-O.svg\" />"
+            ],
+            "guid": "?-QFSnNtM",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "e8cd76c390d84c13b75f44015a8f383c-ao-8",
+                "",
+                "<img src=\"Screenshot 2025-10-27 162608.png\" />",
+                "<img src=\"e8cd76c390d84c13b75f44015a8f383c-ao-8-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"e8cd76c390d84c13b75f44015a8f383c-ao-8-A.svg\">",
+                "<img src=\"e8cd76c390d84c13b75f44015a8f383c-ao-O.svg\" />"
+            ],
+            "guid": "fjvhCeBLx[",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Having a {{c1::purpose}} creates the drive to push through the pain points that coe when it gets tough.",
+                ""
+            ],
+            "guid": "n,om]]Hd(5",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Carer choice should match your {{c1::personality traits}}",
+                ""
+            ],
+            "guid": "hkI$IG>fUA",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "To know thyself is the beginning of {{c1::wisdom}}",
+                ""
+            ],
+            "guid": "Nfdd%JBx{9",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This personality type is quietly reserved and deeply focused",
+                "Introvert"
+            ],
+            "guid": "I1?,q,4kL2",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This personality type is reflective and thoughtful",
+                "Introvert"
+            ],
+            "guid": "M*%A(5+Zm9",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This personality type is outgoing and talkative",
+                "Extrovert"
+            ],
+            "guid": "mp9EUG|8Y{",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This personality type is socially enthusiastic and group-oriented",
+                "Extrovert"
+            ],
+            "guid": "Cv>0ORd:XP",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This personality type is solitude-seeking and introspectively engaged",
+                "Introvert"
+            ],
+            "guid": "MNfHH,H;Kv",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Also called preferences, are activities that you enjoy doing.",
+                "Interests"
+            ],
+            "guid": "icn3UY<&XB",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "These may include your likes or dislikes, or the things that motivate you.",
+                "Interests"
+            ],
+            "guid": "B5lajIQfW(",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "When your work is aligned with your {{c1::interest}}, you will find your work exciting and challenging.",
+                ""
+            ],
+            "guid": "sFy[tFy:S/",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Your abilities and proficiencies that have been developed through training or formal education.",
+                "Skills"
+            ],
+            "guid": "yQeHOY#Z$L",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the personal factors that might affect career decisions? (7)",
+                "<b><ul><li><div>Personality&nbsp;</div></li><li><div><span style=\"font-weight: 400;\">&nbsp;</span>Interest</div></li><li><div>Skills</div></li><li><div>Previous Experience</div></li><li><div>Childhood Fantasies</div></li><li><div>Self - Sabotaging Thoughts&nbsp;</div></li><li><div>Life roles&nbsp;</div></li></ul></b>"
+            ],
+            "guid": "KnGgTsA9a(",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Skills}} are what you are good at.",
+                ""
+            ],
+            "guid": "kac~%#<FSC",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Having {{c1::positive experiences}} and {{c1::role models}}<br>working in specific careers may influence the set of<br>careers we consider as options for ourselves.&nbsp;",
+                ""
+            ],
+            "guid": "LuTzimh)VG",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Known as the fantasy stage, where early ideas about careers are formed, takes place up to age 11.",
+                "Childhood fantasies"
+            ],
+            "guid": "KJ%~1&ba:V",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What do you want to be when you grow up? You may remember this question from your childhood, and it may have helped shape how you thought about careers then, as well as later in life.",
+                "Childhood fantasies"
+            ],
+            "guid": "qfP|o$Qhmy",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "These are thoughts that deter a person from developing a<br>healthy and wholesome self-concept.",
+                "Self-Sabotaging Thoughts"
+            ],
+            "guid": "r_M8Y=upj_",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What can a person do to&nbsp;make him realistic about his capabilities and limitations?",
+                "Knowing their strengths and weaknesses"
+            ],
+            "guid": "KYgK7my){H",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "They are dynamic and have requirements, and external forces that affect our careers and how we make choices for ourselves",
+                "Life roles"
+            ],
+            "guid": "tSZ6%A{>Ua",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "They are a:<br>High school dropout at 16<b><br></b>“He lacked imagination and had no good ideas”<b><br></b>Got turned down 302 times",
+                "Walt Disney"
+            ],
+            "guid": "fx`:{-0uBF",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "He:<br>- was \"too stupid to learn anything” <br>- Invented a commercially viable electric bulb",
+                "Thomas Edison"
+            ],
+            "guid": "N)Afb*%r?`",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "He did not speak until he was 4 and not read until he was 7, but he&nbsp;<b>changed the face of modern physics</b>",
+                "Albert Einstein"
+            ],
+            "guid": "il#-5AFoSX",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Prefers practical, hands-on, and physical activities; enjoys working with tools, machines, or animals.",
+                "Realistic"
+            ],
+            "guid": "u5?#ea6P,f",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Enjoys observing, investigating, and analyzing things or ideas; often interested in science or research.",
+                "Investigative"
+            ],
+            "guid": "jjQ/vNG_Cw",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Creative and expressive; enjoys art, music, writing, or other forms of self-expression.",
+                "Artistic"
+            ],
+            "guid": "Dx*vI^;3TB",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Likes working with people to help, teach, or care for them; often empathetic and supportive.",
+                "Social"
+            ],
+            "guid": "ftI#ms|EPx",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Enjoys leading, persuading, and influencing others; often interested in business or leadership roles.",
+                "Enterprising"
+            ],
+            "guid": "J};`5r8U_S",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Prefers structured tasks, organization, and working with data or details; enjoys order and accuracy.",
+                "Conventional"
+            ],
+            "guid": "qh3_pVy*`P",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
         }
     ],
     "reviewLimit": null,

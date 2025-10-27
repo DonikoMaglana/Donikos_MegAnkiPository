@@ -133,6 +133,73 @@
     "note_models": [
         {
             "__type__": "NoteModel",
+            "crowdanki_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 9205121651523078416,
+                    "name": "Front",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -7001571941991209685,
+                    "name": "Back",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic",
+            "originalStockKind": 1,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": -471929315152782166,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0
+        },
+        {
+            "__type__": "NoteModel",
             "crowdanki_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
             "flds": [
@@ -264,73 +331,6 @@
                 }
             ],
             "type": 1
-        },
-        {
-            "__type__": "NoteModel",
-            "crowdanki_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
-            "flds": [
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": 9205121651523078416,
-                    "name": "Front",
-                    "ord": 0,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                },
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": -7001571941991209685,
-                    "name": "Back",
-                    "ord": 1,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "latexsvg": false,
-            "name": "Basic",
-            "originalStockKind": 1,
-            "req": [
-                [
-                    0,
-                    "any",
-                    [
-                        0
-                    ]
-                ]
-            ],
-            "sortf": 0,
-            "tmpls": [
-                {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
-                    "bafmt": "",
-                    "bfont": "",
-                    "bqfmt": "",
-                    "bsize": 0,
-                    "did": null,
-                    "id": -471929315152782166,
-                    "name": "Card 1",
-                    "ord": 0,
-                    "qfmt": "{{Front}}"
-                }
-            ],
-            "type": 0
         },
         {
             "__type__": "NoteModel",
@@ -603,6 +603,435 @@
         }
     ],
     "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "Presidential and vice-presidential elections occur every _____ ____ of _____ every ___ year.",
+                "second&nbsp;Monday of May, sixth"
+            ],
+            "guid": "zEmtY8o7TX",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "all elected officials, except those at the barangay level, start (and end) their terms of office on ____ of the election year.",
+                "June 30"
+            ],
+            "guid": "w-zhr0zZ~4",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a social or religious custom prohibiting or forbidding discussion of a particular practice or forbidding association with a particular person, place, or thing.",
+                "Taboo"
+            ],
+            "guid": "m*qq@0t3W,",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "-an activity or behavior that is considered completely unacceptable or forbidden.",
+                "Taboo"
+            ],
+            "guid": "Nm]LWe{V]U",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In Papua New Guinea: older women are also not supposed to eat ___ when pregnant, unmarried young men will receive the best food and do not have many food taboos",
+                "fish eggs"
+            ],
+            "guid": "z8o7E<W/wD",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "______ is a staple of the Brazilian diet. But not all ____are enjoyed by all Brazilians.",
+                "Seafood, fish&nbsp;"
+            ],
+            "guid": "uL.Q*}%)Ms",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "If you happen to be traveling to China, minding your ____ is the same as minding your manners.",
+                "chopsticks"
+            ],
+            "guid": "Bk2q/p77T2",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In ____: After finishing meal at a restaurant, do not leave your chopsticks sticking up in the left-over rice at the bottom of your bowl.",
+                "China"
+            ],
+            "guid": "m0Lmp)5;vJ",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "_____ is not necessarily caring in Japanese culture.",
+                "Sharing"
+            ],
+            "guid": "KZEFIST,,_",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In Japan: If you do plan on sharing your meal, you must place the _____ on a small plate and then pass it to the recipient.",
+                "tasting morsel&nbsp;"
+            ],
+            "guid": "E}8anxUtAV",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In Russia: if you are hoping to court a lady at a restaurant, do not expect to go ____.",
+                "dutch (palibre or kkb)"
+            ],
+            "guid": "f1mQxMBgH/",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Food taboos in India vary according to ____.",
+                "religion"
+            ],
+            "guid": "cno.kiTQ,H",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "For those that practice Hinduism, eating a ___ in prohibited.",
+                "cow&nbsp;"
+            ],
+            "guid": "o;4ZMcu4e!",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Islamic and Muslim families not only avoid ___ for religious reasons, they feel that ____ are bred in absolutely revolting conditions and are not worthy<br>of consumption.",
+                "pork, pigs"
+            ],
+            "guid": "wb|;~Hv#r%",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In ____: it is considered rude to accept the first offering of food. Politely decline at first, but when offered a second time — which you likely will be — feel free to accept.",
+                "Italy"
+            ],
+            "guid": "H#X3!~L~^K",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In Jamaica, It is believed that if children eat ____ before they learn to speak, they will never talk. Eating half an ____ will make the child<br>grow into a thief and drinking ____ from a baby bottle will turn them into a drunkard.",
+                "chicken, egg, milk"
+            ],
+            "guid": "EuA@QMy+lh",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "they also feel particularly strongly about coconut milk. Another widely held belief is that children who drink this type of milk will make them unintelligent.",
+                "Nigerian Taboo"
+            ],
+            "guid": "Fq)-D7i(}A",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It is considered rude to rush through a meal or hurry your order along. You also never want to ask for a doggy-bag or leave food<br>on your plate, the implication being that you did not enjoy your meal.",
+                "French Taboos"
+            ],
+            "guid": "mK$L|TKl)%",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A good leader is a ____ leader.",
+                "self actualized"
+            ],
+            "guid": "hSm3zf[ern",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">A </span><span style=\"font-weight: 400;\">good </span><span style=\"font-weight: 400;\">political </span><span style=\"font-weight: 400;\">leader </span><span style=\"font-weight: 400;\">does </span><span style=\"font-weight: 400;\">not </span><span style=\"font-weight: 400;\">take </span><span style=\"font-weight: 400;\">what </span><span style=\"font-weight: 400;\">is </span><span style=\"font-weight: 400;\">similar </span><span style=\"font-weight: 400;\">to </span><span style=\"font-weight: 400;\">his </span><span style=\"font-weight: 400;\">views </span><span style=\"font-weight: 400;\">as </span><span style=\"font-weight: 400;\">facts </span><span style=\"font-weight: 400;\">and </span><span style=\"font-weight: 400;\">base </span><span style=\"font-weight: 400;\">his </span><span style=\"font-weight: 400;\">decisions </span><span style=\"font-weight: 400;\">on </span><span style=\"font-weight: 400;\">that</span><span style=\"font-weight: 400;\">. </span><span style=\"font-weight: 400;\">He uses </span><span style=\"font-weight: 400;\">reliable </span><span style=\"font-weight: 400;\">and </span><span style=\"font-weight: 400;\">unfiltered </span><span style=\"font-weight: 400;\">information </span><span style=\"font-weight: 400;\">to </span><span style=\"font-weight: 400;\">make </span><span style=\"font-weight: 400;\">judgments </span><span style=\"font-weight: 400;\">and </span><span style=\"font-weight: 400;\">to </span><span style=\"font-weight: 400;\">come </span><span style=\"font-weight: 400;\">up </span><span style=\"font-weight: 400;\">with </span><span style=\"font-weight: 400;\">resolutions</span><span style=\"font-weight: 400;\">.</span></b>",
+                "<b>Is fair and objective.</b>"
+            ],
+            "guid": "mx>`tMDZ(w",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A good leader stands above any specific religious or political views of his own and is independent of any attachment to a specific agenda. His personal beliefs become his private matters and he learns to leave them out the door once he steps into a leadership role. In other words, his belief expands so that it includes everyone's beliefs.",
+                "<b>Is moving above himself and serving the society</b>"
+            ],
+            "guid": "hI{J|7I&5L",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><div><span style=\"font-weight: 400;\">A good </span><span style=\"font-weight: 400;\">leader </span><span style=\"font-weight: 400;\">has </span><span style=\"font-weight: 400;\">been able </span><span style=\"font-weight: 400;\">to </span><span style=\"font-weight: 400;\">move </span><span style=\"font-weight: 400;\">above&nbsp;</span></div><span style=\"font-weight: 400;\">and </span><span style=\"font-weight: 400;\">beyond </span><span style=\"font-weight: 400;\">any egoistic </span><span style=\"font-weight: 400;\">and </span><span style=\"font-weight: 400;\">primitive </span><span style=\"font-weight: 400;\">need </span><span style=\"font-weight: 400;\">for </span><span style=\"font-weight: 400;\">power</span><span style=\"font-weight: 400;\">, </span><span style=\"font-weight: 400;\">attention</span><span style=\"font-weight: 400;\">, </span><span style=\"font-weight: 400;\">or </span><span style=\"font-weight: 400;\">establishing </span><span style=\"font-weight: 400;\">his </span><span style=\"font-weight: 400;\">personal </span><span style=\"font-weight: 400;\">agendas </span><span style=\"font-weight: 400;\">and </span><span style=\"font-weight: 400;\">works </span><span style=\"font-weight: 400;\">with </span><span style=\"font-weight: 400;\">the intention </span><span style=\"font-weight: 400;\">of </span><span style=\"font-weight: 400;\">good</span><span style=\"font-weight: 400;\">-</span><span style=\"font-weight: 400;\">for</span><span style=\"font-weight: 400;\">-</span><span style=\"font-weight: 400;\">all</span><span style=\"font-weight: 400;\">.&nbsp;</span></b><br>",
+                "<b>Is not seeking fame and attention</b>"
+            ],
+            "guid": "l4j}|s_15x",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A good leader says it as it is even if it feels uncomfortable for many to hear it. He is not a people pleaser in a sense that he would say anything to please others even if that means manipulating or misguiding the public. It takes a lot of courage to do this and a good leader has that courage.",
+                "<b><span style=\"font-weight: 400;\">&nbsp;</span>Is not into hiding the truth for the sake of looking good</b>"
+            ],
+            "guid": "eHo;==lP=S",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A good leader is focused and does not get distracted. His goals, whether small or large, are reasonable and achievable and are directed towards the long term results not quick and temporary fixes that may backfire.",
+                "<b><div>Is focused on specific, achievable, and measurable goals and demands&nbsp;</div><div>outcomes</div></b>"
+            ],
+            "guid": "C8qS)^]}w@",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A good leader helps people understand that they are accountable for their society and its outcome and teaches them to make compromises and responsible choices. He does not support a sense of self-serving entitlement that has gone too far and is counter- productive for the society as a whole.",
+                "<b>Encourages people to be accountable for their actions</b>"
+            ],
+            "guid": "Er(:;,g{m1",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A good leader understands that in order for the whole society to be a functional and healthy one, some adjustments need to be made and people need to learn to give some in order to gain some.",
+                "<b>Does not pay attention to being politically correct but ethically so.</b>"
+            ],
+            "guid": "rI^z`W>irw",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A good leader makes a sustainable promise and is a man of his words.",
+                "<b>Does not make idealistic promises but realistic ones<span style=\"font-weight: 400;\">.</span></b>"
+            ],
+            "guid": "hn?Sc5_Tt<",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "People know where they are standing with an authentic leader. He does not hide bad news just because it is uncomfortable to the public's ear.",
+                "<b><span style=\"font-weight: 400;\">Is </span>honest even if it does not get approval</b>"
+            ],
+            "guid": "DR=WClkSY/",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><div><span style=\"font-weight: 400;\">He </span><span style=\"font-weight: 400;\">realizes </span><span style=\"font-weight: 400;\">that </span><span style=\"font-weight: 400;\">in order </span><span style=\"font-weight: 400;\">for </span><span style=\"font-weight: 400;\">us </span><span style=\"font-weight: 400;\">to </span><span style=\"font-weight: 400;\">live </span><span style=\"font-weight: 400;\">in&nbsp;</span></div><span style=\"font-weight: 400;\">prosperity </span><span style=\"font-weight: 400;\">as </span><span style=\"font-weight: 400;\">a </span><span style=\"font-weight: 400;\">powerful </span><span style=\"font-weight: 400;\">and </span><span style=\"font-weight: 400;\">blessed </span><span style=\"font-weight: 400;\">country</span><span style=\"font-weight: 400;\">, </span><span style=\"font-weight: 400;\">reasonable </span><span style=\"font-weight: 400;\">steps </span><span style=\"font-weight: 400;\">need </span><span style=\"font-weight: 400;\">to </span><span style=\"font-weight: 400;\">be </span><span style=\"font-weight: 400;\">taken </span><span style=\"font-weight: 400;\">to </span><span style=\"font-weight: 400;\">make </span><span style=\"font-weight: 400;\">sure </span><span style=\"font-weight: 400;\">others </span><span style=\"font-weight: 400;\">achieve </span><span style=\"font-weight: 400;\">the </span><span style=\"font-weight: 400;\">same </span><span style=\"font-weight: 400;\">goals</span><span style=\"font-weight: 400;\">. </span><span style=\"font-weight: 400;\">He </span><span style=\"font-weight: 400;\">is </span><span style=\"font-weight: 400;\">aware </span><span style=\"font-weight: 400;\">that </span><span style=\"font-weight: 400;\">with </span><span style=\"font-weight: 400;\">power </span><span style=\"font-weight: 400;\">comes </span><span style=\"font-weight: 400;\">responsibility </span><span style=\"font-weight: 400;\">and </span><span style=\"font-weight: 400;\">that </span><span style=\"font-weight: 400;\">now </span><span style=\"font-weight: 400;\">more </span><span style=\"font-weight: 400;\">than </span><span style=\"font-weight: 400;\">ever</span><span style=\"font-weight: 400;\">, </span><span style=\"font-weight: 400;\">through </span><span style=\"font-weight: 400;\">technology</span><span style=\"font-weight: 400;\">, </span><span style=\"font-weight: 400;\">we </span><span style=\"font-weight: 400;\">are </span><span style=\"font-weight: 400;\">becoming </span><span style=\"font-weight: 400;\">more </span><span style=\"font-weight: 400;\">and </span><span style=\"font-weight: 400;\">more </span><span style=\"font-weight: 400;\">inner </span><span style=\"font-weight: 400;\">related</span><span style=\"font-weight: 400;\">, </span><span style=\"font-weight: 400;\">globally</span><span style=\"font-weight: 400;\">.&nbsp;</span></b><br>",
+                "<b>Thinks globally and acts locally</b>"
+            ],
+            "guid": "mzB]mTQwjF",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A good leader is secure enough with himself to take personal responsibility when one is needed. In other words, a good political leader has an internal locus of control while he is aware of the effects of the external forces.",
+                "<b>Takes personal responsibility</b>"
+            ],
+            "guid": "IZeBO:L1wG",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A good political leader has a healthy emotional IQ and has learned to move above his emotions, conditionings, and his fixations to specific outcomes to think logically and globally. In other words, he is rational and in control of his emotions and when the public is going through the emotional roller coaster, he is there to guide them through it.",
+                "<b>Remains level headed and has a sense of humor</b>"
+            ],
+            "guid": "b^Xf-0.dk!",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A good leader is thirsty for factual, expert oriented and unbiased knowledge all the time and on all levels.",
+                "<b>Has a curious mind</b>"
+            ],
+            "guid": "Mkrh0n^;Z^",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A leader that can be trusted does not take others down for himself to go up. He is more of a collaborator than a competitor. He tries to build bridges rather than destroy them. He is a natural mediator rather than one that creates conflict, tension, and separation.",
+                "<b>Does not make himself look good by assaulting others</b>"
+            ],
+            "guid": "mn}a5%]-a:",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
         {
             "__type__": "Note",
             "fields": [
@@ -1126,448 +1555,6 @@
         {
             "__type__": "Note",
             "fields": [
-                "This is a github test",
-                "yes"
-            ],
-            "guid": "v/X8|5a,Zp",
-            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
-            "tags": [
-                "Q1",
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Presidential and vice-presidential elections occur every _____ ____ of _____ every ___ year.",
-                "second&nbsp;Monday of May, sixth"
-            ],
-            "guid": "zEmtY8o7TX",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1",
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "all elected officials, except those at the barangay level, start (and end) their terms of office on ____ of the election year.",
-                "June 30"
-            ],
-            "guid": "w-zhr0zZ~4",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1",
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "a social or religious custom prohibiting or forbidding discussion of a particular practice or forbidding association with a particular person, place, or thing.",
-                "Taboo"
-            ],
-            "guid": "m*qq@0t3W,",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1",
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "-an activity or behavior that is considered completely unacceptable or forbidden.",
-                "Taboo"
-            ],
-            "guid": "Nm]LWe{V]U",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1",
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "In Papua New Guinea: older women are also not supposed to eat ___ when pregnant, unmarried young men will receive the best food and do not have many food taboos",
-                "fish eggs"
-            ],
-            "guid": "z8o7E<W/wD",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1",
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "______ is a staple of the Brazilian diet. But not all ____are enjoyed by all Brazilians.",
-                "Seafood, fish&nbsp;"
-            ],
-            "guid": "uL.Q*}%)Ms",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1",
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "If you happen to be traveling to China, minding your ____ is the same as minding your manners.",
-                "chopsticks"
-            ],
-            "guid": "Bk2q/p77T2",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1",
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "In ____: After finishing meal at a restaurant, do not leave your chopsticks sticking up in the left-over rice at the bottom of your bowl.",
-                "China"
-            ],
-            "guid": "m0Lmp)5;vJ",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1",
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "_____ is not necessarily caring in Japanese culture.",
-                "Sharing"
-            ],
-            "guid": "KZEFIST,,_",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1",
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "In Japan: If you do plan on sharing your meal, you must place the _____ on a small plate and then pass it to the recipient.",
-                "tasting morsel&nbsp;"
-            ],
-            "guid": "E}8anxUtAV",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1",
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "In Russia: if you are hoping to court a lady at a restaurant, do not expect to go ____.",
-                "dutch (palibre or kkb)"
-            ],
-            "guid": "f1mQxMBgH/",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1",
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Food taboos in India vary according to ____.",
-                "religion"
-            ],
-            "guid": "cno.kiTQ,H",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1",
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "For those that practice Hinduism, eating a ___ in prohibited.",
-                "cow&nbsp;"
-            ],
-            "guid": "o;4ZMcu4e!",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1",
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Islamic and Muslim families not only avoid ___ for religious reasons, they feel that ____ are bred in absolutely revolting conditions and are not worthy<br>of consumption.",
-                "pork, pigs"
-            ],
-            "guid": "wb|;~Hv#r%",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1",
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "In ____: it is considered rude to accept the first offering of food. Politely decline at first, but when offered a second time — which you likely will be — feel free to accept.",
-                "Italy"
-            ],
-            "guid": "H#X3!~L~^K",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1",
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "In Jamaica, It is believed that if children eat ____ before they learn to speak, they will never talk. Eating half an ____ will make the child<br>grow into a thief and drinking ____ from a baby bottle will turn them into a drunkard.",
-                "chicken, egg, milk"
-            ],
-            "guid": "EuA@QMy+lh",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1",
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "they also feel particularly strongly about coconut milk. Another widely held belief is that children who drink this type of milk will make them unintelligent.",
-                "Nigerian Taboo"
-            ],
-            "guid": "Fq)-D7i(}A",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1",
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "It is considered rude to rush through a meal or hurry your order along. You also never want to ask for a doggy-bag or leave food<br>on your plate, the implication being that you did not enjoy your meal.",
-                "French Taboos"
-            ],
-            "guid": "mK$L|TKl)%",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1",
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "A good leader is a ____ leader.",
-                "self actualized"
-            ],
-            "guid": "hSm3zf[ern",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1",
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "<b><span style=\"font-weight: 400;\">A </span><span style=\"font-weight: 400;\">good </span><span style=\"font-weight: 400;\">political </span><span style=\"font-weight: 400;\">leader </span><span style=\"font-weight: 400;\">does </span><span style=\"font-weight: 400;\">not </span><span style=\"font-weight: 400;\">take </span><span style=\"font-weight: 400;\">what </span><span style=\"font-weight: 400;\">is </span><span style=\"font-weight: 400;\">similar </span><span style=\"font-weight: 400;\">to </span><span style=\"font-weight: 400;\">his </span><span style=\"font-weight: 400;\">views </span><span style=\"font-weight: 400;\">as </span><span style=\"font-weight: 400;\">facts </span><span style=\"font-weight: 400;\">and </span><span style=\"font-weight: 400;\">base </span><span style=\"font-weight: 400;\">his </span><span style=\"font-weight: 400;\">decisions </span><span style=\"font-weight: 400;\">on </span><span style=\"font-weight: 400;\">that</span><span style=\"font-weight: 400;\">. </span><span style=\"font-weight: 400;\">He uses </span><span style=\"font-weight: 400;\">reliable </span><span style=\"font-weight: 400;\">and </span><span style=\"font-weight: 400;\">unfiltered </span><span style=\"font-weight: 400;\">information </span><span style=\"font-weight: 400;\">to </span><span style=\"font-weight: 400;\">make </span><span style=\"font-weight: 400;\">judgments </span><span style=\"font-weight: 400;\">and </span><span style=\"font-weight: 400;\">to </span><span style=\"font-weight: 400;\">come </span><span style=\"font-weight: 400;\">up </span><span style=\"font-weight: 400;\">with </span><span style=\"font-weight: 400;\">resolutions</span><span style=\"font-weight: 400;\">.</span></b>",
-                "<b>Is fair and objective.</b>"
-            ],
-            "guid": "mx>`tMDZ(w",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1",
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "A good leader stands above any specific religious or political views of his own and is independent of any attachment to a specific agenda. His personal beliefs become his private matters and he learns to leave them out the door once he steps into a leadership role. In other words, his belief expands so that it includes everyone's beliefs.",
-                "<b>Is moving above himself and serving the society</b>"
-            ],
-            "guid": "hI{J|7I&5L",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1",
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "<b><div><span style=\"font-weight: 400;\">A good </span><span style=\"font-weight: 400;\">leader </span><span style=\"font-weight: 400;\">has </span><span style=\"font-weight: 400;\">been able </span><span style=\"font-weight: 400;\">to </span><span style=\"font-weight: 400;\">move </span><span style=\"font-weight: 400;\">above&nbsp;</span></div><span style=\"font-weight: 400;\">and </span><span style=\"font-weight: 400;\">beyond </span><span style=\"font-weight: 400;\">any egoistic </span><span style=\"font-weight: 400;\">and </span><span style=\"font-weight: 400;\">primitive </span><span style=\"font-weight: 400;\">need </span><span style=\"font-weight: 400;\">for </span><span style=\"font-weight: 400;\">power</span><span style=\"font-weight: 400;\">, </span><span style=\"font-weight: 400;\">attention</span><span style=\"font-weight: 400;\">, </span><span style=\"font-weight: 400;\">or </span><span style=\"font-weight: 400;\">establishing </span><span style=\"font-weight: 400;\">his </span><span style=\"font-weight: 400;\">personal </span><span style=\"font-weight: 400;\">agendas </span><span style=\"font-weight: 400;\">and </span><span style=\"font-weight: 400;\">works </span><span style=\"font-weight: 400;\">with </span><span style=\"font-weight: 400;\">the intention </span><span style=\"font-weight: 400;\">of </span><span style=\"font-weight: 400;\">good</span><span style=\"font-weight: 400;\">-</span><span style=\"font-weight: 400;\">for</span><span style=\"font-weight: 400;\">-</span><span style=\"font-weight: 400;\">all</span><span style=\"font-weight: 400;\">.&nbsp;</span></b><br>",
-                "<b>Is not seeking fame and attention</b>"
-            ],
-            "guid": "l4j}|s_15x",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1",
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "A good leader says it as it is even if it feels uncomfortable for many to hear it. He is not a people pleaser in a sense that he would say anything to please others even if that means manipulating or misguiding the public. It takes a lot of courage to do this and a good leader has that courage.",
-                "<b><span style=\"font-weight: 400;\">&nbsp;</span>Is not into hiding the truth for the sake of looking good</b>"
-            ],
-            "guid": "eHo;==lP=S",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1",
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "A good leader is focused and does not get distracted. His goals, whether small or large, are reasonable and achievable and are directed towards the long term results not quick and temporary fixes that may backfire.",
-                "<b><div>Is focused on specific, achievable, and measurable goals and demands&nbsp;</div><div>outcomes</div></b>"
-            ],
-            "guid": "C8qS)^]}w@",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1",
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "A good leader helps people understand that they are accountable for their society and its outcome and teaches them to make compromises and responsible choices. He does not support a sense of self-serving entitlement that has gone too far and is counter- productive for the society as a whole.",
-                "<b>Encourages people to be accountable for their actions</b>"
-            ],
-            "guid": "Er(:;,g{m1",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1",
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "A good leader understands that in order for the whole society to be a functional and healthy one, some adjustments need to be made and people need to learn to give some in order to gain some.",
-                "<b>Does not pay attention to being politically correct but ethically so.</b>"
-            ],
-            "guid": "rI^z`W>irw",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1",
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "A good leader makes a sustainable promise and is a man of his words.",
-                "<b>Does not make idealistic promises but realistic ones<span style=\"font-weight: 400;\">.</span></b>"
-            ],
-            "guid": "hn?Sc5_Tt<",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1",
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "People know where they are standing with an authentic leader. He does not hide bad news just because it is uncomfortable to the public's ear.",
-                "<b><span style=\"font-weight: 400;\">Is </span>honest even if it does not get approval</b>"
-            ],
-            "guid": "DR=WClkSY/",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1",
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "<b><div><span style=\"font-weight: 400;\">He </span><span style=\"font-weight: 400;\">realizes </span><span style=\"font-weight: 400;\">that </span><span style=\"font-weight: 400;\">in order </span><span style=\"font-weight: 400;\">for </span><span style=\"font-weight: 400;\">us </span><span style=\"font-weight: 400;\">to </span><span style=\"font-weight: 400;\">live </span><span style=\"font-weight: 400;\">in&nbsp;</span></div><span style=\"font-weight: 400;\">prosperity </span><span style=\"font-weight: 400;\">as </span><span style=\"font-weight: 400;\">a </span><span style=\"font-weight: 400;\">powerful </span><span style=\"font-weight: 400;\">and </span><span style=\"font-weight: 400;\">blessed </span><span style=\"font-weight: 400;\">country</span><span style=\"font-weight: 400;\">, </span><span style=\"font-weight: 400;\">reasonable </span><span style=\"font-weight: 400;\">steps </span><span style=\"font-weight: 400;\">need </span><span style=\"font-weight: 400;\">to </span><span style=\"font-weight: 400;\">be </span><span style=\"font-weight: 400;\">taken </span><span style=\"font-weight: 400;\">to </span><span style=\"font-weight: 400;\">make </span><span style=\"font-weight: 400;\">sure </span><span style=\"font-weight: 400;\">others </span><span style=\"font-weight: 400;\">achieve </span><span style=\"font-weight: 400;\">the </span><span style=\"font-weight: 400;\">same </span><span style=\"font-weight: 400;\">goals</span><span style=\"font-weight: 400;\">. </span><span style=\"font-weight: 400;\">He </span><span style=\"font-weight: 400;\">is </span><span style=\"font-weight: 400;\">aware </span><span style=\"font-weight: 400;\">that </span><span style=\"font-weight: 400;\">with </span><span style=\"font-weight: 400;\">power </span><span style=\"font-weight: 400;\">comes </span><span style=\"font-weight: 400;\">responsibility </span><span style=\"font-weight: 400;\">and </span><span style=\"font-weight: 400;\">that </span><span style=\"font-weight: 400;\">now </span><span style=\"font-weight: 400;\">more </span><span style=\"font-weight: 400;\">than </span><span style=\"font-weight: 400;\">ever</span><span style=\"font-weight: 400;\">, </span><span style=\"font-weight: 400;\">through </span><span style=\"font-weight: 400;\">technology</span><span style=\"font-weight: 400;\">, </span><span style=\"font-weight: 400;\">we </span><span style=\"font-weight: 400;\">are </span><span style=\"font-weight: 400;\">becoming </span><span style=\"font-weight: 400;\">more </span><span style=\"font-weight: 400;\">and </span><span style=\"font-weight: 400;\">more </span><span style=\"font-weight: 400;\">inner </span><span style=\"font-weight: 400;\">related</span><span style=\"font-weight: 400;\">, </span><span style=\"font-weight: 400;\">globally</span><span style=\"font-weight: 400;\">.&nbsp;</span></b><br>",
-                "<b>Thinks globally and acts locally</b>"
-            ],
-            "guid": "mzB]mTQwjF",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1",
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "A good leader is secure enough with himself to take personal responsibility when one is needed. In other words, a good political leader has an internal locus of control while he is aware of the effects of the external forces.",
-                "<b>Takes personal responsibility</b>"
-            ],
-            "guid": "IZeBO:L1wG",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1",
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "A good political leader has a healthy emotional IQ and has learned to move above his emotions, conditionings, and his fixations to specific outcomes to think logically and globally. In other words, he is rational and in control of his emotions and when the public is going through the emotional roller coaster, he is there to guide them through it.",
-                "<b>Remains level headed and has a sense of humor</b>"
-            ],
-            "guid": "b^Xf-0.dk!",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1",
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "A good leader is thirsty for factual, expert oriented and unbiased knowledge all the time and on all levels.",
-                "<b>Has a curious mind</b>"
-            ],
-            "guid": "Mkrh0n^;Z^",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1",
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "A leader that can be trusted does not take others down for himself to go up. He is more of a collaborator than a competitor. He tries to build bridges rather than destroy them. He is a natural mediator rather than one that creates conflict, tension, and separation.",
-                "<b>Does not make himself look good by assaulting others</b>"
-            ],
-            "guid": "mn}a5%]-a:",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1",
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
                 "{{c1::Society}} is universal among human beings",
                 "Society"
             ],
@@ -1885,6 +1872,19 @@
             ],
             "guid": "n6@iSbX]5k",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This is a github test",
+                "yes"
+            ],
+            "guid": "v/X8|5a,Zp",
+            "note_model_uuid": "6bba2b3a-6617-11f0-8bc1-f5d300799d77",
             "tags": [
                 "Q1",
                 "Q1_Monthly"
@@ -3601,7 +3601,7 @@
                 "",
                 "",
                 "<img src=\"2814a918f7754b19a94e5d91fa38ac55-ao-2-A.svg\" />",
-                "<img src=\"2814a918f7754b19a94e5d91fa38ac55-ao-O.svg\" />"
+                "<img src=\"2814a918f7754b19a94e5d91fa38ac55-ao-O.svg\">"
             ],
             "guid": "u/POZVe(:<",
             "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
@@ -4103,6 +4103,1370 @@
             "guid": "p%~l@fEleu",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It viewed as a social institution organized around production, consumption and distribution of goods and services.",
+                "Economy/ State instituitions&nbsp;"
+            ],
+            "guid": "b,>-l`#/u(",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "These are examples of what kind of instituitions?<br>DFA, DOF, DepEd, DOH, AFP",
+                "State Instituitions"
+            ],
+            "guid": "oM!izn={.7",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It is a form of gift exchange between two parties wherein return is expected after product or gift giving",
+                "Reciprocity"
+            ],
+            "guid": "vM-Jbc[]sr",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It is moving funds among two or more accounts held by the same or different individuals.",
+                "<div><div><div><div><div><div><div><div>Transfers in BANKING</div></div></div></div></div></div></div></div>"
+            ],
+            "guid": "kGp_qsjP|c",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does the government implement to address issues of poverty, education, and health?",
+                "conditional cash transfer program"
+            ],
+            "guid": ">[3I%^MC(",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It is conveyance of title to a property from the seller to the buyer through deed of transfer, following payment of the price.",
+                "Transfers in REAL ESTATE"
+            ],
+            "guid": "AnA9u]*fWV",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does the government implement to redistribute agricultural lands to promote social equity and rural development?",
+                "Land reform program"
+            ],
+            "guid": "vz2uR,SNm[",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It is the act of the government to distribute income from the wealthy businesses and citizens to the less wealthy&nbsp;",
+                "Redistribution"
+            ],
+            "guid": "Q)H)MI`WHQ",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It is where individuals with higher incomes are taxed at higher rates than those with lower incomes",
+                "taxation policy"
+            ],
+            "guid": "nA@Y&-|RWn",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This policy is designed to redistribute wealth by placing a heavier tax burden on the affluent.",
+                "taxation policy"
+            ],
+            "guid": "mJf|yUd:#i",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does the government implement so that people with bigger income are taxed at higher rates than those with smaller incomes?",
+                "taxation policy"
+            ],
+            "guid": "wz.w=JFk{w",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It is when <b>buyer and seller</b> interact with one another to exchange goods for an amount of money",
+                "Market Transaction"
+            ],
+            "guid": "uVl[g`&Tt`",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A transaction where the government, as a state institution, buys goods and services for public projects such as construction materials, technology, or consulting.",
+                "Government Procurement"
+            ],
+            "guid": "jPg7{?SP|o",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div>A system of private ownership and enterprise that acts based on their own private and self- interest<br></div>",
+                "Markets"
+            ],
+            "guid": "Kr^e05C@>g",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The governing body of the society",
+                "State"
+            ],
+            "guid": "sM3!+B6Zh!",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In a state one should have? (4)",
+                "- inhabitants<br>- territory<br>- governments<br>- laws"
+            ],
+            "guid": "m=k-:@Y+$T",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "These refers to organizations and entities that operate outside the direct control of the government or state authorities.&nbsp;",
+                "<div><div><div><div><div><div><div><div>NON - STATE INSTITUITIONS</div></div></div></div></div></div></div></div>"
+            ],
+            "guid": "wg=W.;m45[",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "These institutions play a crucial role in shaping and influencing culture, society, and politics.",
+                "Non - state institutions"
+            ],
+            "guid": "vh6G=hn1X(",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "These are examples of what kind of instituitions?<br>Catholic Bishop’s Conference of the Phil<br>Gawad Kalinga<br>Center for Media Freedom and Responsibility<br>Makati Business Club<br>Haribon Foundation",
+                "Non - state insitutions"
+            ],
+            "guid": "C]TA|i}54f",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Its most basic role is the regulation of the flow the society’s flow of money.",
+                "<span style=\"font-weight: 700;\">Banks</span>"
+            ],
+            "guid": "FN4ap$`pwE",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Is known as a body of people acting as a single entity.",
+                "Corporations"
+            ],
+            "guid": "DxnB5sX`C3",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who creates corporations?",
+                "group of shareholders who have ownership of the corporation"
+            ],
+            "guid": ">mMV<LwIf",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Corporations usually set up to create {{c1::profit}} to and provide return for {{c2::shareholders}}.",
+                ""
+            ],
+            "guid": "BUJry472-$",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How can corporations influence societal values?",
+                "Corporate Social Responsibility (CSR)"
+            ],
+            "guid": "iR(7_E)VjJ",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "These entities contribute to economic development, job creation, and innovation.&nbsp;",
+                "Corporations"
+            ],
+            "guid": "FQIhsfbhLF",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Are associations owned by people who voluntarily cooperate with each other under the influence of their social, economic and cultural benefits.",
+                "Cooperatives"
+            ],
+            "guid": "Mxh*Jd2&s<",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "These were created mainly for human to organize a mutual benefit for each other",
+                "cooperatives"
+            ],
+            "guid": "M`L0u!r`w1",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "These are typically owned by non- profit communities and businesses alike",
+                "cooperatives"
+            ],
+            "guid": "hyHHX))*Rg",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "&nbsp;It is a major cooperative federation in the Philippines.",
+                "National Confederation of Cooperatives (NATCCO)"
+            ],
+            "guid": "CM?{P=rAbf",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is NATCCO",
+                "National Confideration of Cooperatives"
+            ],
+            "guid": "KjOor_A4kk",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "These were organized by workers to share in a mutual benefit between members.",
+                "Trade Unions"
+            ],
+            "guid": "ICz9~o-+:G",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It also called labor unions",
+                "Trade unions"
+            ],
+            "guid": "wXNIx?.MQY",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It is composed of workers and laborers who band together to <b>protect the integrity of their trade</b>, improve safety standards of their work and achieve.",
+                "Trade unions"
+            ],
+            "guid": "QJ@Y%UMy*%",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "These institutions engage in negotiations with both the private sector and the government to ensure the welfare and protection of Filipino workers.",
+                "Trade Unions"
+            ],
+            "guid": "P^S:n]MqhW",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does TUCP mean?",
+                "Trade Union Congress of the Philippines"
+            ],
+            "guid": "uQ,]&Y*19m",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The&nbsp;<b><span style=\"font-weight: 400;\">web of social relationship that </span>connects<span style=\"font-weight: 400;\"> people in society</span></b>",
+                "Kinship"
+            ],
+            "guid": "v5]q}Rh7sG",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It is the&nbsp;<b><span style=\"font-weight: 400;\">relations formed between members of society</span></b>",
+                "kinship"
+            ],
+            "guid": "Bs%6]-TvJd",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">It is the study of the </span><span style=\"text-decoration-line: underline;\">patterns of social relationships</span></b>",
+                "kinship"
+            ],
+            "guid": "wP?HnBffg`",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">The</span> origin background<span style=\"font-weight: 400;\"> of a person in terms of family or nationality&nbsp;</span></b>",
+                "Descent"
+            ],
+            "guid": "BkX>xdfiBv",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It is a biological relationship",
+                "Descent"
+            ],
+            "guid": "k<!KV*%B;y",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the three types of kinship?",
+                "Kinship by:<br>1. Blood<br>2. Marriage<br>3. Ritual"
+            ],
+            "guid": "E|~N>f866J",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the 2 main types of kindship by blood?",
+                "1. Unilineal Descent<br>2. Bilateral Descent"
+            ],
+            "guid": "Bi<AHMePx(",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of descent describes that a person is affiliated with a group of kin through descent links of ONE SEX only",
+                "Unilineal Descent"
+            ],
+            "guid": "EpoS>eF!J|",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of descent means that a person considers relatives from both the mother’s and father’s sides as equally important.",
+                "Bilateral Descent"
+            ],
+            "guid": "N[YJQ%y)]q",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of descent affiliates a person with relatives from the father’s side only, tracing kinship through men.",
+                "Patrilineal Descent"
+            ],
+            "guid": "hiq=!5$jxQ",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of descent affiliates a person with relatives from the mother’s side only, tracing kinship through women.",
+                "Matrilineal Descent"
+            ],
+            "guid": "J+bxB6(b,_",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It is a&nbsp;<b><span style=\"font-weight: 400;\">socially approved </span>sexual and economic union</b>",
+                "Marriage"
+            ],
+            "guid": "hbltV_iZWs",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Two types of marriage",
+                "Monogamy and Polygamy"
+            ],
+            "guid": "i~$2plX/J-",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It is a form of marriage where one man marries one woman",
+                "Monogamy"
+            ],
+            "guid": "Jb4r2o$X:Z",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It is called plural marriage",
+                "Polygamy"
+            ],
+            "guid": "F>*pe8<HJ+",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Type of polygamic marraige where one man marries more than one woman",
+                "Polygyny"
+            ],
+            "guid": "n{56;(@`H$",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Type of polygamous marriage where one woman marries with more than one man",
+                "Polyandry"
+            ],
+            "guid": "tL^R66=~({",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This is means the marriage of two or more women withtwo or more men",
+                "Cenogamy"
+            ],
+            "guid": "t/@ajTT9Mi",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It is marraige within clan",
+                "Endogamy"
+            ],
+            "guid": "sM(5apgRBh",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It is marriage outside clan",
+                "Exogamy"
+            ],
+            "guid": "jo6nV#jd<A",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">It is a privileged social relationship established by ritual such as that of </span>godparents<span style=\"font-weight: 400;\"> or </span>fraternal orders</b>",
+                "Kinship by Ritual"
+            ],
+            "guid": "c?%DKVJwf;",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This refers to i<b>nstitutional relationship<span style=\"font-weight: 400;\"> between </span><span style=\"text-decoration-line: underline;\">compadres</span></b>",
+                "Compadrazgo"
+            ],
+            "guid": "qd6zPk9CM%",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The relationship between <span style=\"font-weight: bold;\">the parents and godparents</span> of a child is an important bond that <span style=\"font-style: italic;\">originates when a child is baptize</span>",
+                "Compadres"
+            ],
+            "guid": "q!]eo+hNN;",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It is a family unit that c<b><span style=\"font-weight: 400;\">onsist of </span>single couple<span style=\"font-weight: 400;\"> or monogamous family:</span> husband, wife, and their children</b>",
+                "Nuclear Family"
+            ],
+            "guid": "EWkRsU>y<a",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A family unit that c<b><span style=\"font-weight: 400;\">onsist of </span>husband and wife and their children with relatives&nbsp;</b>",
+                "Extended family"
+            ],
+            "guid": "fnW$xH7NsH",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It is a family unit that c<b><span style=\"font-weight: 400;\">onsist of one or both parents who have children from a </span>previous relationship but combined to form a new family</b>",
+                "Reconstituted Family"
+            ],
+            "guid": "Oo@2Q{G|kc",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Three types of family by Residence",
+                "1) Patrilocal Residence<br>2) Matrilocal Residence<br>3) Bilocal Residence"
+            ],
+            "guid": "w]pxGH7e*`",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A family unit headed by one parent, either father or mother only, raising a child or children",
+                "Single Parent Family"
+            ],
+            "guid": "ydSkhU0l!o",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Type of family by residence wherein&nbsp;<span style=\"font-weight: 400;\"><b>son stays and daughter leaves so married couple lives with </b>husband’s parents</span>",
+                "Patrilocal residence"
+            ],
+            "guid": "x78_TO&cvW",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Type of family by residence wherein&nbsp;<b><span style=\"font-weight: 400;\">daughter stays son leaves, and couple lives with wife’s parents</span></b>",
+                "Matrilocal Residence"
+            ],
+            "guid": "B!e9s`:]Yt",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Type of family by residence where&nbsp;<b><span style=\"font-weight: 400;\">either son or daughter leaves so that married couple lives either the wife’s or husband’s parents</span></b>",
+                "Bilocal residence"
+            ],
+            "guid": "deTg!^DyMa",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who said that&nbsp;“Education is the most powerful weapon which you can use to change the world.”",
+                "Nelson Mandela"
+            ],
+            "guid": "dNHa+#B_^a",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It is the p<b><span style=\"font-weight: 400;\">rocess of acquiring knowledge through study or imparting the knowledge by the way of instructions or some other practical procedure&nbsp;</span></b>",
+                "Education"
+            ],
+            "guid": "i)/9_r;^:*",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the three types of education?",
+                "1) Formal<br>2) Informal<br>3) Non-formal"
+            ],
+            "guid": "hG&_5r>v;e",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of education&nbsp;<b><span style=\"font-weight: 400;\">usually takes place in the premises of the school, where a person may learn basic, academic, or trade skills.</span></b>",
+                "Formal education"
+            ],
+            "guid": "j/Q,lf!L>q",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Whn does fomal education begin?",
+                "Elementary school"
+            ],
+            "guid": "m9r%x,-=*s",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It is associated with a specific or stage and is provided under a certain set of rules and regulations.",
+                "Formal education/ Formal learning"
+            ],
+            "guid": "vM4xDn_2@8",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "These are examples of what type of education?<br>Learning in a classroom, School grading/certification, college, and university degrees",
+                "Formal education"
+            ],
+            "guid": "KPd7Gj7E&E",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the five charavteristics of formal education?",
+                "1) Structure hierarchically<br>2) Planned and deliberate<br>3) Chronological grading system<br>4) Syllabus and subject-oriented<br>5) Child is taught by teachers"
+            ],
+            "guid": "o/_))<`Ug.",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It is&nbsp;<b><span style=\"font-weight: 400;\">is when you are not studying in a school and do not use any particular learning method.</span></b>",
+                "Informal education"
+            ],
+            "guid": "q$:c.yi;{g",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In this type of education, conscious efforts are not involved.",
+                "Informal education"
+            ],
+            "guid": "E5@Vjc=k^^",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of education is&nbsp;neither pre-planned nor deliberate",
+                "Informal education"
+            ],
+            "guid": "e0s(M;xu=9",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What kind of education are these?<br>Teaching the child some basics such as numeric characters, someone learning his/her mother tongue, a spontaneous type of learning,",
+                "Informal Education"
+            ],
+            "guid": "jikl;#`e5u",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of education is&nbsp;independent of boundary walls.",
+                "Informal education"
+            ],
+            "guid": "N$T=7qG!S$",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of education has no definite syllabus",
+                "Informal Education"
+            ],
+            "guid": "k1R4;Sbi77",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of education does not require fees nor gain certificates",
+                "Informal education"
+            ],
+            "guid": "h`OLw=eO_p",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In This type of education, you can get from any source",
+                "Informal education"
+            ],
+            "guid": "u![1f9ASnK",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of education is structured hierarchically",
+                ""
+            ],
+            "guid": "mYIZ=,F[u~",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of education is planned and deliberate",
+                ""
+            ],
+            "guid": "etR.VP~)C4",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of education has scheduled fees and has a syllabus",
+                "Formal Education"
+            ],
+            "guid": "y+)`dE.D7[",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This refers to education that occurs outside the formal school system.",
+                "Non-formal education"
+            ],
+            "guid": "yl8ViG7zZ8",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This&nbsp;refers to planned, structured programmes and processes of personal and social education for young people designed to improve a range of skills and competences, outside the formal educational curriculum.",
+                "Non-formal education"
+            ],
+            "guid": "ef%u]uJ/-/",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What type of education are these?<br>Swimming classes, debating societies, choirs, sports clubs",
+                "Nonformal education"
+            ],
+            "guid": "HV)_cu5Y2A",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of education offers flexible courses according to the abilities of the student.",
+                "Non-formal education"
+            ],
+            "guid": "BF,@(?.pIM",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of education caters to any age group",
+                "Non-formal education"
+            ],
+            "guid": "f9%nSXL_hq",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of education give student the freedom to choose from full-time or part-time learning",
+                "Non-formal education"
+            ],
+            "guid": "yojd4b*2]L",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What do you usually get in non-formal education?",
+                "skills &amp; capabilities"
+            ],
+            "guid": "n>-[=/CK-6",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What do you acquire in formal education?",
+                "Diplomas &amp; degrees"
+            ],
+            "guid": "En6V2dVTz2",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What do you get in informal education?",
+                "Personal development and self-fulfillment"
+            ],
+            "guid": "y`:{eu_%ui",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Formal education}} is linked with schools and training institutions",
+                ""
+            ],
+            "guid": "HnSi,8E4N&",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Non-formal education}} with community groups and other organizations",
+                ""
+            ],
+            "guid": "Qt%@#b`1wN",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Informal education}} covers what is left, e.g. interactions with friends, family and work colleagues.",
+                ""
+            ],
+            "guid": "C_}z!<<lXN",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It&nbsp;describes the socioeconomic levels of a society as “layers,” with the wealthiest and most powerful citizens being at the top.",
+                "Social stratitfication"
+            ],
+            "guid": "CVN}Z)@@#}",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">The hierarchical status of a person is achieved through their effort and based economic system</span></b>",
+                "<b>Open Class System&nbsp;</b>"
+            ],
+            "guid": "FoO:!OJ(fJ",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "When a group of people are given different opportunities depending on their characteristics",
+                "Closed Class System"
+            ],
+            "guid": "qdp}kyoEDS",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">Is the social position on is born into and personal characteristics beyond one control&nbsp;</span></b>",
+                "Ascribed status"
+            ],
+            "guid": "vwVUK@$`G/",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It is one’s social standing that depends on personal accomplishments.",
+                "Achieved status"
+            ],
+            "guid": "DvEDCjQ:k~",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The open class system involves 3 layers, namely:",
+                "Upper, middle, lower class"
+            ],
+            "guid": "mtoBj~A%%V",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The caste system is what kind of class system?",
+                "Closed class system"
+            ],
+            "guid": "nu^g`YAJi0",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The caste system involves?",
+                "Outcast, Sudra, Viasya, Kshatryia, and Bhramin"
+            ],
+            "guid": "r<ja64U+`C",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In the caste system, these are the priests, scholars, and philosophers who teach and study.",
+                "Brahmins"
+            ],
+            "guid": "o&+N#VQ:b$",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In the caste system, these are the warriors, rulers, and those concerned with defense and administration of the village",
+                "Kshatriyas"
+            ],
+            "guid": "sWO<E[TBS|",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "These are the traders, merchants and people involved in agricultural production in the caste system",
+                "Vaishyas"
+            ],
+            "guid": "i`kW/=~L!I",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "These are the peasants and common folk who make up the laborers and servants for the other castes in the caste system",
+                "Sudras"
+            ],
+            "guid": "KiaDCBC;kA",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "They are street sweepers and latrine cleaners",
+                "Outcast/Untouchable"
+            ],
+            "guid": "uYPjz`^nED",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This theory&nbsp;examines any social phenomenon through the lens that there is a natural human instinct towards conflict.",
+                "Conflict theory"
+            ],
+            "guid": "Cu+),D}6>Z",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This theory looks at society as a competition for limited resources",
+                "Conflict theoy"
+            ],
+            "guid": "McyO^(PXp=",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "He saw&nbsp;society as being made up of individuals in different social classes who must compete for social, material, and political resources",
+                "Karl Marx"
+            ],
+            "guid": "gUp|;{,+%i",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Marx is not saying that {{c1::conflict}} is good or bad, but instead that it is an unavoidable aspect of human nature and helps explain why things are the way they are.",
+                ""
+            ],
+            "guid": "Al$yF|oqXf",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
         }
     ],
     "reviewLimit": null,
