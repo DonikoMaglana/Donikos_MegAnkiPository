@@ -7063,6 +7063,1494 @@
             "tags": [
                 "Q2_Monthly"
             ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who said “Man is by nature a political animal”?",
+                "Aristotle"
+            ],
+            "guid": "FssXYKy3og",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "According to Aristotle, where can people reach their full potential?",
+                "Polis (city-state)"
+            ],
+            "guid": "fn%|v8UBp5",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does society provide according to Aristotle?",
+                "Moral education and laws"
+            ],
+            "guid": "Z=-V}=O[|",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is populi?",
+                "people"
+            ],
+            "guid": "Q4[.VAi6<!",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is polis?",
+                "city-state"
+            ],
+            "guid": "urDAd5,d+?",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who believed life without society would be “solitary, poor, nasty, brutish, and short”?",
+                "Thomas Hobbes"
+            ],
+            "guid": "rIUJ<X+QA^",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What protects individuals from chaos according to Thomas Hobbes?",
+                "Social contract and strong authority"
+            ],
+            "guid": "M2L;_Q>vmN",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is Thomas Hobbes’s term for strong authority that maintains order?",
+                "<div>Leviathan</div>"
+            ],
+            "guid": "fO&PHYF]&b",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who saw humans as naturally good but corrupted by society?",
+                "Jean-Jacques Rousseau"
+            ],
+            "guid": "b<>&>%)hb/",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What idea of Rousseau emphasizes collective identity?",
+                "General will"
+            ],
+            "guid": "y&&KOtiL`7",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who believed society is structured by economic relations?",
+                "Karl Marx"
+            ],
+            "guid": "hs0t&~N]k%",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "According to Karl Marx, what shapes human identity and consciousness?",
+                "one’s place in society’s material system (e.g., worker vs. capitalist)."
+            ],
+            "guid": "r{FHJ%v<&}",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Why is society necessary according to Rousseau?",
+                "allows people to develop collective identity"
+            ],
+            "guid": "d18OPGU~d@",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who said society provides “social facts” that influence behavior?",
+                "Émile Durkheim"
+            ],
+            "guid": "cfDZH]Xg|e",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are social facts according to Durkheim?",
+                "Rules, norms, and traditions that shape behavior"
+            ],
+            "guid": "Pif*$aLK~O",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who believed society is the arena to practice the categorical imperative?",
+                "Immanuel Kant"
+            ],
+            "guid": "c7Dttau88G",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is Kant’s idea of the categorical imperative?",
+                "Treat others as ends, not means"
+            ],
+            "guid": "vzLgL::iWU",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who believed humans are born with a “tabula rasa” or blank slate?",
+                "John Locke"
+            ],
+            "guid": "vV()[(:A_1",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "According to John Locke, what shapes knowledge and morality?",
+                "Society through experience, education, and law"
+            ],
+            "guid": "P$nhf0)>V&",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What concept did Hobbes propose to maintain order and protect individuals from chaos?",
+                "Social contract"
+            ],
+            "guid": "r8cxh^5ony",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the term for the collective identity of society?",
+                "general will"
+            ],
+            "guid": "QooIeu:l*B",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does “tabula rasa” mean?",
+                "Blank slate"
+            ],
+            "guid": "ihBl@^4j]5",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the basic unit of society?",
+                "Family"
+            ],
+            "guid": "q,j~&0k_N+",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Why is the family the basic unit of society?",
+                "it is&nbsp;where human life begins and grows."
+            ],
+            "guid": "mzC9*Z)3@4",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the first community a person belongs to?",
+                "family"
+            ],
+            "guid": "nZS~;C=mX{",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the family the primary source of?",
+                "<div>Identity and values</div>"
+            ],
+            "guid": "n`KWdj36G7",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who are the first teachers of values, discipline, culture, and traditions?",
+                "Family"
+            ],
+            "guid": "bnp&Ej+va^",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What social system allows two or more people to be completely themselves?",
+                "friendship"
+            ],
+            "guid": "GRmRI7~<~w",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What social system brings new knowledge through research?",
+                "school"
+            ],
+            "guid": "eiV=P-4DO0",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What social system unites people of similar faith?",
+                "religion"
+            ],
+            "guid": "b_(xh-8%T8",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does religion as a social system share with people?",
+                "Faith, values, and culture"
+            ],
+            "guid": "mGCY(_~NqY",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What ancient philosopher defined justice in <em>The Republic</em>?",
+                "Plato"
+            ],
+            "guid": "fV]7j+%YYg",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "According to Plato, what are the three classes in society?",
+                "Artisan class, warriors, rulers"
+            ],
+            "guid": "i7^USiUmhQ",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What social system is the body of policy-making?",
+                "Government"
+            ],
+            "guid": "Fa`W+8jHOU",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who are people that can inspire, motivate, and change public opinion?",
+                "Influential people"
+            ],
+            "guid": "m!MH^dlBM=",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What social system allows humans to connect and express themselves online?",
+                "social media"
+            ],
+            "guid": "q+`-S=DyuP",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are rules of behavior in society called?",
+                "Norms"
+            ],
+            "guid": "sk`7uWH-S>",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What refers to a shared way of life?",
+                "culture"
+            ],
+            "guid": "vpEbcDMl[7",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are passed-down practices in society called?",
+                "traditions"
+            ],
+            "guid": "tv#px=x|.c",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What refers to the responsibilities of citizens?",
+                "civic duty"
+            ],
+            "guid": "r.frY-NILg",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What represents what is important to people?",
+                "Values"
+            ],
+            "guid": "Gj6QItO43$",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What represents what people believe to be true?",
+                "beliefs"
+            ],
+            "guid": "FukDo?k_i!",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What distinguishes what is right or wrong?",
+                "morals"
+            ],
+            "guid": "ey[fv]*}.S",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the reflection or study of morals?",
+                "ethics"
+            ],
+            "guid": "jAi`uZ4-s|",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What stage of life is characterized by dependence on others?",
+                "<div>Infancy</div>"
+            ],
+            "guid": "Kw(y}1{((~",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What stage of life focuses on learning from society?",
+                "childhood"
+            ],
+            "guid": "oTda_j_*GB",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What stage of life involves forming one’s identity?",
+                "Adolescence"
+            ],
+            "guid": "kjb$gd*_s4",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What stage of life involves contributing to society?",
+                "Adulthood"
+            ],
+            "guid": "w@{Z3BN4{f",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What stage of life is associated with wisdom?",
+                "Maturity"
+            ],
+            "guid": "s`}K]F=1zD",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does the phrase “Divided we fall, united we stand” mean?",
+                "Unity brings strength; division brings weakness."
+            ],
+            "guid": "zQ6hW)9g|5",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the four major forms of societies?",
+                "Pre-industrial<br>Industrial<br>Post-industrial<br>Digital"
+            ],
+            "guid": "qk~U^Z(f5V",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is a small-scale society bound by kinship and moral codes called?",
+                "Tribal society"
+            ],
+            "guid": "hFmd:r.9kL",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How do people in tribal societies survive?",
+                "<div>Hunting, farming, and sharing responsibilities</div>"
+            ],
+            "guid": "x%1R[Jj;H!",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who usually shapes traditions and survival practices in tribal societies?",
+                "leaders or chiefs"
+            ],
+            "guid": "eUl(d^Sx5|",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What kind of hierarchy exists in a feudal society?",
+                "Lords, vassals, and peasants"
+            ],
+            "guid": "K,kN#tH8CU",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What shaped governance and community order in feudal societies?",
+                "Labor, loyalty, and military service"
+            ],
+            "guid": "y/V|C1;@<@",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What marks the rise of the industrial society?",
+                "Technology and machines"
+            ],
+            "guid": "jFw@N*g9Ew",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Society was shaped by people’s {{c1::creativity}} and need for {{c1::efficiency}}, showing the human capacity to innovate.",
+                ""
+            ],
+            "guid": "k1]y!v0;}K",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What drove industrial society’s progress?",
+                "Discoveries, inventions, and innovations"
+            ],
+            "guid": "i524S_[gX,",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is emphasized in a post-industrial society?",
+                "Education, innovation, and professional labor"
+            ],
+            "guid": "sGwVX0@OLI",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What defines the digital society and information age?",
+                "Digital platforms, social media, and technologies"
+            ],
+            "guid": "I?OjGkdp)@",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who is responsible for meaningful participation online?",
+                "<div>Digital citizens</div>"
+            ],
+            "guid": "yaHDpNWBH3",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the challenge in digital society related to personal interaction?",
+                "The disembodied subject"
+            ],
+            "guid": "C{9<q50VM`",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A person who uses the internet responsibly and ethically",
+                "digital citizen"
+            ],
+            "guid": "me~TBq;;W8",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "People who live more in the virtual world than physical interactions",
+                "digital beings"
+            ],
+            "guid": "f)VJ4>;)Kv",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What truth do all human advancements reveal?",
+                "every progess has good and bad effects (double impact)"
+            ],
+            "guid": "P05xE*&>l!",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What do inventions and discoveries express?",
+                "Human creativity and the drive to improve life"
+            ],
+            "guid": "n#,,Civ?$x",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Transformation of traditional societies into industrialized ones",
+                "modernization"
+            ],
+            "guid": "Pvu1?{2rC/",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It&nbsp;means adapting to the demands of a rapidly changing world.",
+                "Modernization"
+            ],
+            "guid": "i^,MU5>2Y}",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does the phrase “Modernization is inevitable!” mean?",
+                "Societies must adapt to a rapidly changing world"
+            ],
+            "guid": "HZI2rGj{1B",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Greek god and deity of death.",
+                "Thanatos"
+            ],
+            "guid": "ye#@M`X!%e",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The philosophy, psychology, and science of death and dying.",
+                "Thanatology"
+            ],
+            "guid": "C9d.<:.N5a",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who said, “To fear death is to think oneself wise when one is not”?",
+                "Socrates"
+            ],
+            "guid": "CC/)MrQweX",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "“TO TALK ABOUT {{c2::DEATH}} IS TO TALK ABOUT {{c1::LIFE!}}”",
+                ""
+            ],
+            "guid": "DK?B<z=.tn",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "According to Socrates, what are the two possibilities after death?",
+                "Dreamless sleep or the soul’s journey to another place"
+            ],
+            "guid": "y?Iv@ad-QP",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Death is not to be feared because it is either a {{c1::dreamless sleep}} or the soul’s {{c1::journey to another place}}.",
+                ""
+            ],
+            "guid": "sf?[=j%d|P",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who said, “We should not fear death, for when death is, we are not; and when we are, death is not”?",
+                "Epicurus"
+            ],
+            "guid": "g}6Zme4X^n",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "According to Epicurus, why should death not cause anxiety?",
+                "Because we never experience being dead"
+            ],
+            "guid": "B:F(i8b58q",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who described humans as “beings-toward-death”?",
+                "Martin Heidegger"
+            ],
+            "guid": "K0NgT7o:|D",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "According to Heidegger, what gives authenticity and urgency to life?",
+                "Awareness of death"
+            ],
+            "guid": "D{zhuKTPK*",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who said, “Death limits human freedom; it is the ultimate end of possibilities”?",
+                "Jean-Paul Sartre"
+            ],
+            "guid": "rgeB=Jr*/J",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "According to Sartre, what happens to our essence after death?",
+                "It ceases to exist, ending our freedom"
+            ],
+            "guid": "sC51A.zz|N",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who proposed the five stages of grief?",
+                "<div>Elisabeth Kübler-Ross</div>"
+            ],
+            "guid": "o3D/t+fl]>",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the five stages of grief according to Kübler-Ross?",
+                "1) Denial<br>2) Anger<br>3) Bargaining<br>4) Depression<br>5) Acceptance"
+            ],
+            "guid": "OT<50ZuL?3",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which stage of grief:&nbsp;“This can’t be happening.”",
+                "Denial"
+            ],
+            "guid": "p$u[[*LP0{",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which stage of grief:&nbsp;“Why me?”",
+                "Anger"
+            ],
+            "guid": "i~qC9dS4F9",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which stage of grief: \"If I have just a little more time…”",
+                "Bargaining"
+            ],
+            "guid": "MeiLZ(.1ix",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which stage of grief: sadness and regret",
+                "Depression"
+            ],
+            "guid": "Q~-.3}}KD`",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which stage of grief: inner peace and readiness.",
+                "Acceptance"
+            ],
+            "guid": "nr9E9I[^`n",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In Christianity, what does death lead to?",
+                "Eternal life"
+            ],
+            "guid": "b9j]2l<mV2",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What gives Christians hope beyond the grave?",
+                "Faith"
+            ],
+            "guid": "Ed=Vbj;[)g",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In Buddhism, what cycle does death belong to?",
+                "samsara"
+            ],
+            "guid": "fM$$@TGJj3",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What frees one from suffering and illusion in Buddhism?",
+                "Enlightenment (Nirvana)"
+            ],
+            "guid": "uDm&;Y7tgO",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In Hinduism, what reincarnates based on karma?",
+                "The soul (Atman)"
+            ],
+            "guid": "ut!Srk+;Mn",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How is suffering viewed in philosophy?",
+                "A fundamental part of being human"
+            ],
+            "guid": "F+F{kW!J3>",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Many philosophers argue that suffering gives {{c1::depth}} and {{c1::meaning}} to life.",
+                ""
+            ],
+            "guid": "yYK?g%b[vF",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who said, “What doesn’t kill me makes me stronger”?",
+                "<div>Friedrich Nietzsche</div>"
+            ],
+            "guid": "IrdFad!J:&",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does Memento Mori! mean?",
+                "“Remember you must die!”"
+            ],
+            "guid": "b$Q{*B98DI",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This is a philosophical reminder to live meaningfully because death is inevitable",
+                "Memento Mori"
+            ],
+            "guid": "qthW5<qixZ",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who said&nbsp;“The unexamined life is not worth living.”",
+                "Socrates"
+            ],
+            "guid": "z!u83w[na[",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does&nbsp;“The unexamined life is not worth living.” call us to do?",
+                "Know yourself; reflection gives life meaning."
+            ],
+            "guid": "gRG,;p(#J{",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who said \"Everything is dust in the wind.”",
+                "Kansas"
+            ],
+            "guid": "dJ59(+Jcx6",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does Theism say about the meaning of life?",
+                "Life’s meaning is given by God."
+            ],
+            "guid": "qVGWvBcW.G",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who are the key philosophers of Theism?",
+                "St. Augustine and St. Thomas Aquinas."
+            ],
+            "guid": "cF!H#EEQ=c",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "According to Aquinas, what is the ultimate end of man?",
+                "Happiness in the vision of God."
+            ],
+            "guid": "qnw@i.a9u4",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In Theism, do humans create or discover meaning?",
+                "discover meaning"
+            ],
+            "guid": "r<#CDk(+$m",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This is the meaning of life is given by oneself.",
+                "Existentialism"
+            ],
+            "guid": "mK_-gu[5)g",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who are the key philosophers of Existentialism?",
+                "Jean-Paul Sartre<br>Soren Kierkegaard"
+            ],
+            "guid": "nTeM#30^#+",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who said “Man is condemned to be free”?",
+                "Jean-Paul Sartre."
+            ],
+            "guid": "EA%J|vne>Y",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does “existence precedes essence” mean?",
+                "<div>We define ourselves through our choices.</div>"
+            ],
+            "guid": "Kx068n$~uA",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This philosohpy states that life is ultimately meaningless",
+                "Nihilism"
+            ],
+            "guid": "phb$r9IAu=",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who is the main philosopher of Nihilism?",
+                "Friedrich Nietzsche."
+            ],
+            "guid": "u&x,*Hb#I<",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who said “God is dead”?",
+                "Friedrich Nietzsche."
+            ],
+            "guid": "sE$g5G!)d?",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does Übermensch mean in Nietzsche’s philosophy?",
+                "a person who creates their own values"
+            ],
+            "guid": "mP<%Fj@wks",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A person who creates their own values",
+                "overman or ubermensch"
+            ],
+            "guid": "Hv4^7<!v[q",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It is the desire of a Human Person to seek meaning in a meaningless universe.",
+                "Absurdism"
+            ],
+            "guid": "M@C`7w}S)3",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who is the key philosopher of Absurdism?",
+                "Albert Camus"
+            ],
+            "guid": "DSD$.|C)lN",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the “Absurd” according to Camus?",
+                "The gap between our search for meaning and the universe’s indifference"
+            ],
+            "guid": "M`af]Fr4y^",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In Absurdism, how should one live despite meaninglessness?",
+                "Live as if life has meaning."
+            ],
+            "guid": "tJiidYa~:P",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who is the man who cheated death?",
+                "Sisyphus"
+            ],
+            "guid": "N?[HZuQ/W0",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Things known by you and others.",
+                "public side"
+            ],
+            "guid": "P8RX0NHnq$",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Things you know about yourself but keep from others. (Johari's window)",
+                "hidden side"
+            ],
+            "guid": "wiemWyU4<)",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Things others know about you but you don’t realize. (johari's window)",
+                "blind side"
+            ],
+            "guid": "KzA4CH&pNw",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Things neither you nor others know about you (johari's window)",
+                "unknown side"
+            ],
+            "guid": "J}3Ti[q&+!",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q2_3rd_Monthly"
+            ]
         }
     ],
     "reviewLimit": null,
