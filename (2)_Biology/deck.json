@@ -42,6 +42,7 @@
                 0.6131964,
                 0.5682403
             ],
+            "fsrsParams6": [],
             "fsrsWeights": [],
             "ignoreRevlogsBeforeDate": "1970-01-01",
             "interdayLearningMix": 0,
@@ -96,6 +97,7 @@
         }
     ],
     "desc": "",
+    "desiredRetention": null,
     "dyn": 0,
     "extendNew": 0,
     "extendRev": 0,
@@ -240,6 +242,7 @@
         "6f87ba054d9e438584590f147a2fd299-ao-6-A.svg",
         "6f87ba054d9e438584590f147a2fd299-ao-6-Q.svg",
         "6f87ba054d9e438584590f147a2fd299-ao-O.svg",
+        "964d6726-ac25-4a24-997d-1399e72d164d.jpg",
         "Osteon-v2-1024x801.jpg",
         "Screenshot 2025-07-23 at 6.56.54 PM.png",
         "Screenshot 2025-07-23 at 7.22.15 PM.png",
@@ -338,6 +341,208 @@
     "newLimit": null,
     "newLimitToday": null,
     "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -5071419168950381657,
+                    "name": "ID (hidden)",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -1416806519625974347,
+                    "name": "Header",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 4231932225184529037,
+                    "name": "Image",
+                    "ord": 2,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 3313230933775286364,
+                    "name": "Question Mask",
+                    "ord": 3,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -246043860508779053,
+                    "name": "Footer",
+                    "ord": 4,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -2696038442157156437,
+                    "name": "Remarks",
+                    "ord": 5,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 6332197848946067322,
+                    "name": "Sources",
+                    "ord": 6,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -5773592870699100629,
+                    "name": "Extra 1",
+                    "ord": 7,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 1036654290722371043,
+                    "name": "Extra 2",
+                    "ord": 8,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -2786803813605736618,
+                    "name": "Answer Mask",
+                    "ord": 9,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 1216228632882940507,
+                    "name": "Original Mask",
+                    "ord": 10,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Image Occlusion Enhanced-dd611",
+            "originalStockKind": 1,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 1,
+            "tmpls": [
+                {
+                    "afmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n\n<script>\n// Toggle answer mask on clicking the image\nvar toggle = function() {\n  var amask = document.getElementById('io-overlay');\n  if (amask.style.display === 'block' || amask.style.display === '')\n    amask.style.display = 'none';\n  else\n    amask.style.display = 'block'\n}\n\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": 475093554666051936,
+                    "name": "IO Card",
+                    "ord": 0,
+                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
+                }
+            ],
+            "type": 0
+        },
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
@@ -744,208 +949,6 @@
         },
         {
             "__type__": "NoteModel",
-            "crowdanki_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
-            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
-            "flds": [
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": -5071419168950381657,
-                    "name": "ID (hidden)",
-                    "ord": 0,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                },
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": -1416806519625974347,
-                    "name": "Header",
-                    "ord": 1,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                },
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": 4231932225184529037,
-                    "name": "Image",
-                    "ord": 2,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                },
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": 3313230933775286364,
-                    "name": "Question Mask",
-                    "ord": 3,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                },
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": -246043860508779053,
-                    "name": "Footer",
-                    "ord": 4,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                },
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": -2696038442157156437,
-                    "name": "Remarks",
-                    "ord": 5,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                },
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": 6332197848946067322,
-                    "name": "Sources",
-                    "ord": 6,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                },
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": -5773592870699100629,
-                    "name": "Extra 1",
-                    "ord": 7,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                },
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": 1036654290722371043,
-                    "name": "Extra 2",
-                    "ord": 8,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                },
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": -2786803813605736618,
-                    "name": "Answer Mask",
-                    "ord": 9,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                },
-                {
-                    "collapsed": false,
-                    "description": "",
-                    "excludeFromSearch": false,
-                    "font": "Arial",
-                    "id": 1216228632882940507,
-                    "name": "Original Mask",
-                    "ord": 10,
-                    "plainText": false,
-                    "preventDeletion": false,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false,
-                    "tag": null
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "latexsvg": false,
-            "name": "Image Occlusion Enhanced-dd611",
-            "originalStockKind": 1,
-            "req": [
-                [
-                    0,
-                    "any",
-                    [
-                        2
-                    ]
-                ]
-            ],
-            "sortf": 1,
-            "tmpls": [
-                {
-                    "afmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n\n<script>\n// Toggle answer mask on clicking the image\nvar toggle = function() {\n  var amask = document.getElementById('io-overlay');\n  if (amask.style.display === 'block' || amask.style.display === '')\n    amask.style.display = 'none';\n  else\n    amask.style.display = 'block'\n}\n\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n",
-                    "bafmt": "",
-                    "bfont": "",
-                    "bqfmt": "",
-                    "bsize": 0,
-                    "did": null,
-                    "id": 475093554666051936,
-                    "name": "IO Card",
-                    "ord": 0,
-                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
-                }
-            ],
-            "type": 0
-        },
-        {
-            "__type__": "NoteModel",
             "crowdanki_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
             "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
             "flds": [
@@ -1145,9 +1148,630 @@
                 }
             ],
             "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "f78a04ae-d986-11f0-9ea1-c6e1af759ff9",
+            "css": "#image-occlusion-canvas {\n    --inactive-shape-color: #ffeba2;\n    --active-shape-color: #ff8e8e;\n    --inactive-shape-border: 1px #212121;\n    --active-shape-border: 1px #212121;\n    --highlight-shape-color: #ff8e8e00;\n    --highlight-shape-border: 1px #ff8e8e;\n}\n\n.card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -6259690715796316848,
+                    "name": "Occlusion",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": true,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": 0
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -9060805614351483204,
+                    "name": "Image",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": true,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": 1
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -6914804880997195489,
+                    "name": "Header",
+                    "ord": 2,
+                    "plainText": false,
+                    "preventDeletion": true,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": 2
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -6934501834800063643,
+                    "name": "Back Extra",
+                    "ord": 3,
+                    "plainText": false,
+                    "preventDeletion": true,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": 3
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 6835134361251242744,
+                    "name": "Comments",
+                    "ord": 4,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": 4
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Image Occlusion",
+            "originalStockKind": 6,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0,
+                        1,
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{#Header}}<div>{{Header}}</div>{{/Header}}\n<div style=\"display: none\">{{cloze:Occlusion}}</div>\n<div id=\"err\"></div>\n<div id=\"image-occlusion-container\">\n    {{Image}}\n    <canvas id=\"image-occlusion-canvas\"></canvas>\n</div>\n<script>\ntry {\n    anki.imageOcclusion.setup();\n} catch (exc) {\n    document.getElementById(\"err\").innerHTML = `Error loading image occlusion. Is your Anki version up to date?<br><br>${exc}`;\n}\n</script>\n\n<div><button id=\"toggle\">Toggle Masks</button></div>\n{{#Back Extra}}<div>{{Back Extra}}</div>{{/Back Extra}}\n",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": -8386849504081429064,
+                    "name": "Image Occlusion",
+                    "ord": 0,
+                    "qfmt": "{{#Header}}<div>{{Header}}</div>{{/Header}}\n<div style=\"display: none\">{{cloze:Occlusion}}</div>\n<div id=\"err\"></div>\n<div id=\"image-occlusion-container\">\n    {{Image}}\n    <canvas id=\"image-occlusion-canvas\"></canvas>\n</div>\n<script>\ntry {\n    anki.imageOcclusion.setup();\n} catch (exc) {\n    document.getElementById(\"err\").innerHTML = `Error loading image occlusion. Is your Anki version up to date?<br><br>${exc}`;\n}\n</script>\n"
+                }
+            ],
+            "type": 1
         }
     ],
     "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "ce5e95e0660147b985b0761f60d8c4c8-ao-1",
+                "",
+                "<img src=\"paste-721913d5185bf8b82b8b3ab5fbacb0322bd4b282.jpg\">",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-1-Q.svg\">",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-1-A.svg\">",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-O.svg\">"
+            ],
+            "guid": "w0Wdd$]rO*",
+            "note_model_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ce5e95e0660147b985b0761f60d8c4c8-ao-2",
+                "",
+                "<img src=\"paste-721913d5185bf8b82b8b3ab5fbacb0322bd4b282.jpg\" />",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-2-A.svg\" />",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-O.svg\">"
+            ],
+            "guid": "CjMWa}c;4}",
+            "note_model_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ce5e95e0660147b985b0761f60d8c4c8-ao-3",
+                "",
+                "<img src=\"paste-721913d5185bf8b82b8b3ab5fbacb0322bd4b282.jpg\" />",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-3-A.svg\" />",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-O.svg\" />"
+            ],
+            "guid": "fC*%PT`7um",
+            "note_model_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ce5e95e0660147b985b0761f60d8c4c8-ao-4",
+                "",
+                "<img src=\"paste-721913d5185bf8b82b8b3ab5fbacb0322bd4b282.jpg\" />",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-4-A.svg\" />",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-O.svg\" />"
+            ],
+            "guid": "sv?j6NgU``",
+            "note_model_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ce5e95e0660147b985b0761f60d8c4c8-ao-5",
+                "",
+                "<img src=\"paste-721913d5185bf8b82b8b3ab5fbacb0322bd4b282.jpg\" />",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-5-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-5-A.svg\" />",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-O.svg\" />"
+            ],
+            "guid": "c3SWIr.Y{>",
+            "note_model_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ce5e95e0660147b985b0761f60d8c4c8-ao-6",
+                "",
+                "<img src=\"paste-721913d5185bf8b82b8b3ab5fbacb0322bd4b282.jpg\" />",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-6-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-6-A.svg\" />",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-O.svg\" />"
+            ],
+            "guid": "eBo6IXf`a0",
+            "note_model_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ce5e95e0660147b985b0761f60d8c4c8-ao-7",
+                "",
+                "<img src=\"paste-721913d5185bf8b82b8b3ab5fbacb0322bd4b282.jpg\" />",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-7-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-7-A.svg\" />",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-O.svg\" />"
+            ],
+            "guid": "P9CH9AEQLv",
+            "note_model_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ce5e95e0660147b985b0761f60d8c4c8-ao-8",
+                "",
+                "<img src=\"paste-721913d5185bf8b82b8b3ab5fbacb0322bd4b282.jpg\" />",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-8-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-8-A.svg\" />",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-O.svg\">"
+            ],
+            "guid": "iH~)She+&Q",
+            "note_model_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ce5e95e0660147b985b0761f60d8c4c8-ao-9",
+                "",
+                "<img src=\"paste-721913d5185bf8b82b8b3ab5fbacb0322bd4b282.jpg\" />",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-9-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-9-A.svg\" />",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-O.svg\" />"
+            ],
+            "guid": "Kx.dS,$=sv",
+            "note_model_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ce5e95e0660147b985b0761f60d8c4c8-ao-10",
+                "",
+                "<img src=\"paste-721913d5185bf8b82b8b3ab5fbacb0322bd4b282.jpg\" />",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-10-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-10-A.svg\" />",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-O.svg\" />"
+            ],
+            "guid": "LOr4;.^UKQ",
+            "note_model_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ce5e95e0660147b985b0761f60d8c4c8-ao-11",
+                "",
+                "<img src=\"paste-721913d5185bf8b82b8b3ab5fbacb0322bd4b282.jpg\" />",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-11-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-11-A.svg\" />",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-O.svg\" />"
+            ],
+            "guid": "J,vsB*z*?Q",
+            "note_model_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ce5e95e0660147b985b0761f60d8c4c8-ao-12",
+                "",
+                "<img src=\"paste-721913d5185bf8b82b8b3ab5fbacb0322bd4b282.jpg\" />",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-12-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-12-A.svg\" />",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-O.svg\" />"
+            ],
+            "guid": "p#4e#{y{_]",
+            "note_model_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ce5e95e0660147b985b0761f60d8c4c8-ao-13",
+                "",
+                "<img src=\"paste-721913d5185bf8b82b8b3ab5fbacb0322bd4b282.jpg\" />",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-13-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-13-A.svg\" />",
+                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-O.svg\" />"
+            ],
+            "guid": "u^0cWT3=@9",
+            "note_model_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The part you look through the specimen; usually magnifies the image 10x.",
+                "Eyepiece (Ocular Lens)"
+            ],
+            "guid": "plzQ@Z.TUF",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Connects the eyepiece to the objective lenses.",
+                "Body Tube"
+            ],
+            "guid": "b#:vT4c*WJ",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Attached to the objective lenses and allows you to switch between magnifications.",
+                "Revolving Nosepiece"
+            ],
+            "guid": "g.eX|$]52-",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Provides different levels of magnification",
+                "Objective lenses"
+            ],
+            "guid": "xj^yabr6+m",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the magnification of the <strong>Scanning Objective Lens</strong>?",
+                "4x"
+            ],
+            "guid": "gJ|Ly:4IIA",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the magnification of the <strong>Low Power Objective Lens</strong>?",
+                "10x"
+            ],
+            "guid": "x*x-A+gZ:.",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the magnification of the <strong>High Power Objective Lens</strong>?",
+                "40x"
+            ],
+            "guid": "j%p|X0LC5M",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the magnification of the <strong>Oil Immersion Objective Lens</strong>, and how is it used?",
+                "<strong>100x</strong>, used with <strong>special oil</strong> for clarity at high magnification"
+            ],
+            "guid": "DbBm)bH@(c",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The flat platform where you place the slide.",
+                "Specimen Stage"
+            ],
+            "guid": "eqYcYeb8kO",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Holds the slide in place.",
+                "Stage Clips"
+            ],
+            "guid": "C9U(V|AqnJ",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Provides light so you can see the specimen clearly.",
+                "Light Source/Mirror"
+            ],
+            "guid": "fDrHCCjsnn",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Brings the specimen into general focus (used with low power only).",
+                "Coarse Focus Knob"
+            ],
+            "guid": "i@wG{eCWe2",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Used to make very small adjustments to the focus of the specimen",
+                "Fine Focus Knob"
+            ],
+            "guid": "HjmSdJaOV}",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Adjust the amount of light that reaches the specimen.",
+                "Diaphragm"
+            ],
+            "guid": "G]UM%=8?87",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Supports the body tube and connects it to the base; used for carrying.",
+                "Arm"
+            ],
+            "guid": "L=;TwlocS@",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The bottom part that supports the microscope.",
+                "Base"
+            ],
+            "guid": "gGU9/:MtH#",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Focuses the light onto the specimen.",
+                "Condenser"
+            ],
+            "guid": "wE&8K%$Cf:",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q1",
+                "Q1_Monthly"
+            ]
+        },
         {
             "__type__": "Note",
             "fields": [
@@ -2981,513 +3605,6 @@
         {
             "__type__": "Note",
             "fields": [
-                "ce5e95e0660147b985b0761f60d8c4c8-ao-1",
-                "",
-                "<img src=\"paste-721913d5185bf8b82b8b3ab5fbacb0322bd4b282.jpg\">",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-1-Q.svg\">",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-1-A.svg\">",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-O.svg\">"
-            ],
-            "guid": "w0Wdd$]rO*",
-            "note_model_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
-            "tags": [
-                "Q1",
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "ce5e95e0660147b985b0761f60d8c4c8-ao-2",
-                "",
-                "<img src=\"paste-721913d5185bf8b82b8b3ab5fbacb0322bd4b282.jpg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-2-Q.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-2-A.svg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-O.svg\">"
-            ],
-            "guid": "CjMWa}c;4}",
-            "note_model_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
-            "tags": [
-                "Q1",
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "ce5e95e0660147b985b0761f60d8c4c8-ao-3",
-                "",
-                "<img src=\"paste-721913d5185bf8b82b8b3ab5fbacb0322bd4b282.jpg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-3-Q.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-3-A.svg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-O.svg\" />"
-            ],
-            "guid": "fC*%PT`7um",
-            "note_model_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
-            "tags": [
-                "Q1",
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "ce5e95e0660147b985b0761f60d8c4c8-ao-4",
-                "",
-                "<img src=\"paste-721913d5185bf8b82b8b3ab5fbacb0322bd4b282.jpg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-4-Q.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-4-A.svg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-O.svg\" />"
-            ],
-            "guid": "sv?j6NgU``",
-            "note_model_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
-            "tags": [
-                "Q1",
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "ce5e95e0660147b985b0761f60d8c4c8-ao-5",
-                "",
-                "<img src=\"paste-721913d5185bf8b82b8b3ab5fbacb0322bd4b282.jpg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-5-Q.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-5-A.svg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-O.svg\" />"
-            ],
-            "guid": "c3SWIr.Y{>",
-            "note_model_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
-            "tags": [
-                "Q1",
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "ce5e95e0660147b985b0761f60d8c4c8-ao-6",
-                "",
-                "<img src=\"paste-721913d5185bf8b82b8b3ab5fbacb0322bd4b282.jpg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-6-Q.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-6-A.svg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-O.svg\" />"
-            ],
-            "guid": "eBo6IXf`a0",
-            "note_model_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
-            "tags": [
-                "Q1",
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "ce5e95e0660147b985b0761f60d8c4c8-ao-7",
-                "",
-                "<img src=\"paste-721913d5185bf8b82b8b3ab5fbacb0322bd4b282.jpg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-7-Q.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-7-A.svg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-O.svg\" />"
-            ],
-            "guid": "P9CH9AEQLv",
-            "note_model_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
-            "tags": [
-                "Q1",
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "ce5e95e0660147b985b0761f60d8c4c8-ao-8",
-                "",
-                "<img src=\"paste-721913d5185bf8b82b8b3ab5fbacb0322bd4b282.jpg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-8-Q.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-8-A.svg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-O.svg\">"
-            ],
-            "guid": "iH~)She+&Q",
-            "note_model_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
-            "tags": [
-                "Q1",
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "ce5e95e0660147b985b0761f60d8c4c8-ao-9",
-                "",
-                "<img src=\"paste-721913d5185bf8b82b8b3ab5fbacb0322bd4b282.jpg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-9-Q.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-9-A.svg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-O.svg\" />"
-            ],
-            "guid": "Kx.dS,$=sv",
-            "note_model_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
-            "tags": [
-                "Q1",
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "ce5e95e0660147b985b0761f60d8c4c8-ao-10",
-                "",
-                "<img src=\"paste-721913d5185bf8b82b8b3ab5fbacb0322bd4b282.jpg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-10-Q.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-10-A.svg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-O.svg\" />"
-            ],
-            "guid": "LOr4;.^UKQ",
-            "note_model_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
-            "tags": [
-                "Q1",
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "ce5e95e0660147b985b0761f60d8c4c8-ao-11",
-                "",
-                "<img src=\"paste-721913d5185bf8b82b8b3ab5fbacb0322bd4b282.jpg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-11-Q.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-11-A.svg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-O.svg\" />"
-            ],
-            "guid": "J,vsB*z*?Q",
-            "note_model_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
-            "tags": [
-                "Q1",
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "ce5e95e0660147b985b0761f60d8c4c8-ao-12",
-                "",
-                "<img src=\"paste-721913d5185bf8b82b8b3ab5fbacb0322bd4b282.jpg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-12-Q.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-12-A.svg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-O.svg\" />"
-            ],
-            "guid": "p#4e#{y{_]",
-            "note_model_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
-            "tags": [
-                "Q1",
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "ce5e95e0660147b985b0761f60d8c4c8-ao-13",
-                "",
-                "<img src=\"paste-721913d5185bf8b82b8b3ab5fbacb0322bd4b282.jpg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-13-Q.svg\" />",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-13-A.svg\" />",
-                "<img src=\"ce5e95e0660147b985b0761f60d8c4c8-ao-O.svg\" />"
-            ],
-            "guid": "u^0cWT3=@9",
-            "note_model_uuid": "b9b0c69a-67b2-11f0-a824-b4a9fc4c5686",
-            "tags": [
-                "Q1",
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "The part you look through the specimen; usually magnifies the image 10x.",
-                "Eyepiece (Ocular Lens)"
-            ],
-            "guid": "plzQ@Z.TUF",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1",
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Connects the eyepiece to the objective lenses.",
-                "Body Tube"
-            ],
-            "guid": "b#:vT4c*WJ",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1",
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Attached to the objective lenses and allows you to switch between magnifications.",
-                "Revolving Nosepiece"
-            ],
-            "guid": "g.eX|$]52-",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1",
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Provides different levels of magnification",
-                "Objective lenses"
-            ],
-            "guid": "xj^yabr6+m",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1",
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "What is the magnification of the <strong>Scanning Objective Lens</strong>?",
-                "4x"
-            ],
-            "guid": "gJ|Ly:4IIA",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1",
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "What is the magnification of the <strong>Low Power Objective Lens</strong>?",
-                "10x"
-            ],
-            "guid": "x*x-A+gZ:.",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1",
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "What is the magnification of the <strong>High Power Objective Lens</strong>?",
-                "40x"
-            ],
-            "guid": "j%p|X0LC5M",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1",
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "What is the magnification of the <strong>Oil Immersion Objective Lens</strong>, and how is it used?",
-                "<strong>100x</strong>, used with <strong>special oil</strong> for clarity at high magnification"
-            ],
-            "guid": "DbBm)bH@(c",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1",
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "The flat platform where you place the slide.",
-                "Specimen Stage"
-            ],
-            "guid": "eqYcYeb8kO",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1",
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Holds the slide in place.",
-                "Stage Clips"
-            ],
-            "guid": "C9U(V|AqnJ",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1",
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Provides light so you can see the specimen clearly.",
-                "Light Source/Mirror"
-            ],
-            "guid": "fDrHCCjsnn",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1",
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Brings the specimen into general focus (used with low power only).",
-                "Coarse Focus Knob"
-            ],
-            "guid": "i@wG{eCWe2",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1",
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Used to make very small adjustments to the focus of the specimen",
-                "Fine Focus Knob"
-            ],
-            "guid": "HjmSdJaOV}",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1",
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Adjust the amount of light that reaches the specimen.",
-                "Diaphragm"
-            ],
-            "guid": "G]UM%=8?87",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1",
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Supports the body tube and connects it to the base; used for carrying.",
-                "Arm"
-            ],
-            "guid": "L=;TwlocS@",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1",
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "The bottom part that supports the microscope.",
-                "Base"
-            ],
-            "guid": "gGU9/:MtH#",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1",
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Focuses the light onto the specimen.",
-                "Condenser"
-            ],
-            "guid": "wE&8K%$Cf:",
-            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
-            "tags": [
-                "Q1",
-                "Q1_Monthly"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
                 "What are the two main types of plant tissues?",
                 "Permanent and meristematic tissues"
             ],
@@ -4338,7 +4455,7 @@
                 "",
                 "",
                 "<img src=\"0b0f43c0c8d946678ca7acbf6016d9e4-ao-2-A.svg\" />",
-                "<img src=\"0b0f43c0c8d946678ca7acbf6016d9e4-ao-O.svg\" />"
+                "<img src=\"0b0f43c0c8d946678ca7acbf6016d9e4-ao-O.svg\">"
             ],
             "guid": "AtHS%4kw/m",
             "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
@@ -5241,7 +5358,7 @@
                 "",
                 "",
                 "<img src=\"4dfb2bec78b54bbb9f83d4c2e532176a-ao-3-A.svg\" />",
-                "<img src=\"4dfb2bec78b54bbb9f83d4c2e532176a-ao-O.svg\" />"
+                "<img src=\"4dfb2bec78b54bbb9f83d4c2e532176a-ao-O.svg\">"
             ],
             "guid": "O_;M;Vn1p(",
             "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
@@ -7487,8 +7604,8 @@
                 "",
                 "",
                 "",
-                "<img src=\"564d0c3a88034956b80cef465c44c80e-ao-1-A.svg\" />",
-                "<img src=\"564d0c3a88034956b80cef465c44c80e-ao-O.svg\" />"
+                "<img src=\"564d0c3a88034956b80cef465c44c80e-ao-1-A.svg\">",
+                "<img src=\"564d0c3a88034956b80cef465c44c80e-ao-O.svg\">"
             ],
             "guid": "P%tUwn^|UF",
             "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
@@ -7526,7 +7643,7 @@
                 "",
                 "",
                 "<img src=\"564d0c3a88034956b80cef465c44c80e-ao-3-A.svg\" />",
-                "<img src=\"564d0c3a88034956b80cef465c44c80e-ao-O.svg\" />"
+                "<img src=\"564d0c3a88034956b80cef465c44c80e-ao-O.svg\">"
             ],
             "guid": "jv[~fCiW9{",
             "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
@@ -8381,6 +8498,559 @@
             "guid": "o50XJ<FPd",
             "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::image-occlusion:rect:left=.3564:top=.113:width=.0859:height=.1616:oi=1}}<br>{{c2::image-occlusion:rect:left=.2316:top=.1738:width=.1019:height=.0944:oi=1}}<br>{{c3::image-occlusion:rect:left=.1469:top=.265:width=.1958:height=.04:oi=1}}<br>{{c4::image-occlusion:rect:left=.1137:top=.3098:width=.2279:height=.0304:oi=1}}<br>{{c5::image-occlusion:rect:left=.1148:top=.3547:width=.2279:height=.0256:oi=1}}<br>{{c6::image-occlusion:rect:left=.0828:top=.3818:width=.2633:height=.0448:oi=1}}<br>{{c7::image-occlusion:rect:left=.053:top=.425:width=.2782:height=.0592:oi=1}}<br>{{c8::image-occlusion:rect:left=.0977:top=.4954:width=.2267:height=.0464:oi=1}}<br>{{c9::image-occlusion:rect:left=.1171:top=.5546:width=.1592:height=.0576:oi=1}}<br>{{c10::image-occlusion:rect:left=.1068:top=.625:width=.1752:height=.0224:oi=1}}<br>{{c11::image-occlusion:rect:left=.1354:top=.6826:width=.1878:height=.0577:oi=1}}<br>{{c12::image-occlusion:rect:left=.0725:top=.737:width=.2759:height=.032:oi=1}}<br>{{c13::image-occlusion:rect:left=.2373:top=.8042:width=.1134:height=.024:oi=1}}<br>{{c14::image-occlusion:rect:left=.14:top=.8458:width=.2118:height=.0352:oi=1}}<br>{{c15::image-occlusion:rect:left=.0622:top=.9002:width=.3298:height=.0304:oi=1}}<br>{{c16::image-occlusion:rect:left=.219:top=.9562:width=.2038:height=.0288:oi=1}}<br>{{c17::image-occlusion:rect:left=.3632:top=.6682:width=.0687:height=.0624:oi=1}}<br>{{c18::image-occlusion:rect:left=.5258:top=.0954:width=.1866:height=.0304:oi=1}}<br>{{c19::image-occlusion:rect:left=.5487:top=.129:width=.1935:height=.0304:oi=1}}<br>{{c20::image-occlusion:rect:left=.5499:top=.1642:width=.1374:height=.0288:oi=1}}<br>{{c21::image-occlusion:rect:left=.5476:top=.2026:width=.0893:height=.024:oi=1}}<br>{{c22::image-occlusion:rect:left=.5499:top=.225:width=.2061:height=.0288:oi=1}}<br>{{c23::image-occlusion:rect:left=.5282:top=.2602:width=.245:height=.0289:oi=1}}<br>{{c24::image-occlusion:rect:left=.6312:top=.2938:width=.2336:height=.0624:oi=1}}<br>{{c25::image-occlusion:rect:left=.6484:top=.3562:width=.213:height=.0592:oi=1}}<br>{{c26::image-occlusion:rect:left=.8865:top=.3802:width=.0572:height=.0768:oi=1}}<br>{{c27::image-occlusion:rect:left=.645:top=.4202:width=.2153:height=.032:oi=1}}<br>{{c28::image-occlusion:rect:left=.6759:top=.4618:width=.1855:height=.0625:oi=1}}<br>{{c29::image-occlusion:rect:left=.7022:top=.5354:width=.1557:height=.032:oi=1}}<br>{{c30::image-occlusion:rect:left=.6427:top=.569:width=.0939:height=.0882:oi=1}}<br>{{c31::image-occlusion:rect:left=.5625:top=.6778:width=.087:height=.0512:oi=1}}<br>{{c32::image-occlusion:rect:left=.5522:top=.7402:width=.0711:height=.0657:oi=1}}<br>{{c33::image-occlusion:rect:left=.5373:top=.8106:width=.1488:height=.0417:oi=1}}<br>{{c34::image-occlusion:rect:left=.535:top=.8922:width=.0653:height=.0896:oi=1}}<br>",
+                "<img src=\"964d6726-ac25-4a24-997d-1399e72d164d.jpg\">",
+                "",
+                "",
+                ""
+            ],
+            "guid": "LOkDWi?RF/",
+            "note_model_uuid": "f78a04ae-d986-11f0-9ea1-c6e1af759ff9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This kind of reproduction&nbsp;<b><span style=\"font-weight: 400;\">requires only </span>one parent</b>",
+                "Asexual reproduction"
+            ],
+            "guid": "ySz%8p?nb>",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q3_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of reproduction is&nbsp;<b><span style=\"font-weight: 400;\">practice by most </span>single-celled organisms<span style=\"font-weight: 400;\"> (bacteria)</span></b>",
+                "Asexual Reproduction"
+            ],
+            "guid": "ud)Q(+jkTo",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q3_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the advantages of asexual reproduction? (3)",
+                "<b><ul><li><div><span style=\"font-weight: 400;\">Rapid population growth</span></div></li><li><div><span style=\"font-weight: 400;\">no mate is needed to found a new population</span></div></li><li><div><span style=\"font-weight: 400;\">lower resource investment</span></div></li></ul></b>"
+            ],
+            "guid": "nD&OSoebL[",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q3_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the disadvantage of asexual reproduction?",
+                "lack of diversity"
+            ],
+            "guid": "dTQTh<S?dT",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q3_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This is how bacteria reproduce",
+                "Binary fission"
+            ],
+            "guid": "q9,g}3(:Ii",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q3_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This is the process of&nbsp;producing a new organism from two parents by using their sex cells or gametes",
+                "Sexual reproduction"
+            ],
+            "guid": "uDok$X>0D2",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q3_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the male sex cells?",
+                "sperm"
+            ],
+            "guid": "Ep,6MKN0+=",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q3_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the female sex cells?",
+                "ova or eggs"
+            ],
+            "guid": "GHi?0oL1~g",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q3_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b>ADVANTAGES OF SEXUAL REPRODUCTION</b>",
+                "provides diversity by providing genetic variation"
+            ],
+            "guid": "}cTxkK3qM",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q3_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">anatomical term for sexual intercourse</span></b>",
+                "coitus"
+            ],
+            "guid": "MiA_&J)g`J",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q3_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b>DISADVANTAGES OF SEXUAL REPRODUCTION</b>",
+                "<b><span style=\"font-weight: 400;\">limited and may become extinct due to its slow nature</span></b>"
+            ],
+            "guid": "B=-%P7}On)",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q3_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the minimum amouunt of offsprings that can be produced via asexual reproduction?",
+                "2 offsprings"
+            ],
+            "guid": "ewu5(utU6y",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q3_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the unit of reproduction of sexual reproduction?",
+                "gamete"
+            ],
+            "guid": "ESx/ghiH+8",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q3_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This structure&nbsp;<b><span style=\"font-weight: 400;\">delivers sperm into female reproductive tract</span></b>",
+                "penis"
+            ],
+            "guid": "d#.eO:Azg0",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q3_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This is a&nbsp;<b><span style=\"font-weight: 400;\">loose pouch-like sac of skin that hangs behind the penis</span></b>",
+                "scrotum"
+            ],
+            "guid": "smX}oPF7;C",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q3_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "These are&nbsp;<b><span style=\"font-weight: 400;\">oval organs about the size of giant olives that lie in the scrotum, secured at either end by </span>a spermatic cord</b>",
+                "Testicles"
+            ],
+            "guid": "ul+q-0(!?X",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q3_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Testicles are&nbsp;<b><span style=\"font-weight: 400;\">oval organs about the size of giant olives that lie in the scrotum, secured at either end by&nbsp;</span>a&nbsp;</b>{{c1::spermatic cord}}",
+                ""
+            ],
+            "guid": "bS)?9a1M[}",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": [
+                "Q3_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This is a&nbsp;<b><span style=\"font-weight: 400;\">long, coiled tube that rests on the backside of each testicle</span></b>",
+                "epididymis"
+            ],
+            "guid": "PgU2y!6hPT",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q3_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the external structures of the male reproductive system?",
+                "Penis<br>scrotum<br>testicles<br>epididymis"
+            ],
+            "guid": "E-kIXntpFZ",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q3_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This is a&nbsp;<b><span style=\"font-weight: 400;\">long, muscular tube that travels from the epididymis into the pelvic cavity, just behind the bladder</span></b>",
+                "Vas deferens"
+            ],
+            "guid": "M#[!|9/X-%",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q3_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "These are f<b><span style=\"font-weight: 400;\">ormed by the fusion of the vas deferens and seminal vesicles</span></b>",
+                "Ejaculatory ducts"
+            ],
+            "guid": "q`#Aty.,Y^",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q3_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This structure&nbsp;<b><span style=\"font-weight: 400;\">extends from base of the urinary bladder to the tip of the penis</span></b>",
+                "urethra"
+            ],
+            "guid": "i3Dd{<Tv3`",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q3_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "These&nbsp;<b><span style=\"font-weight: 400;\">produce a sugar-rich fluid (fructose)</span></b>",
+                "seminal vesicles"
+            ],
+            "guid": "P-v,IwHMnX",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q3_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This&nbsp;<b><span style=\"font-weight: 400;\">helps to activate sperm and secretes a milky fluid, also help nourish the sperm</span></b>",
+                "Prostate glands"
+            ],
+            "guid": "A*)NXsFQWn",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q3_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">aka </span><span style=\"font-style: italic;\">Cowper’s glands</span><span style=\"font-weight: 400;\">, are pea-sized structures located on the sides of the urethra just below the prostate gland</span></b>",
+                "Bulbourethral"
+            ],
+            "guid": "r8F>$X:Jhl",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q3_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This&nbsp;<b><span style=\"font-weight: 400;\">encloses and protects the other external reproductive organs</span></b>",
+                "Labia Majora"
+            ],
+            "guid": "DiDq+LZgwx",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q3_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This structure&nbsp;<b><span style=\"font-weight: 400;\">can have various sizes and shapes</span></b>",
+                "Labia minora"
+            ],
+            "guid": "OiN|JE(rm+",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q3_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This is&nbsp;<b><span style=\"font-weight: 400;\">located next to the vaginal opening and produces natural lubricant for coitus</span></b>",
+                "Bartholin's gland"
+            ],
+            "guid": "g~R{&fq-gt",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q3_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">Two labia minora meet at the&nbsp;</span></b>{{c1::clitoris}}",
+                ""
+            ],
+            "guid": "yd1s6==)<q",
+            "note_model_uuid": "bfb0a3b3-6708-11f0-9827-b4a9fc4c5686",
+            "tags": [
+                "Q3_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This is a&nbsp;<b><span style=\"font-weight: 400;\">canal that joins the cervix outside the body</span></b>",
+                "vagina"
+            ],
+            "guid": "jyh:<]{6U>",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q3_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This is a&nbsp;<b><span style=\"font-weight: 400;\">hollow, pear-shaped organ that is home to a developing fetus</span></b>",
+                "uterus"
+            ],
+            "guid": "r#TX~{<rr#",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q3_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This&nbsp;<b><span style=\"font-weight: 400;\">produce eggs and hormones</span></b>",
+                "Ovaries"
+            ],
+            "guid": "L7E@1NyQNc",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q3_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">These are narrow tubes attached to the upper part of the uterus and serve as pathways for the ova to travel from ovaries to uterus</span></b>",
+                "Fallopian tubes"
+            ],
+            "guid": "lT</tW?KLx",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q3_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This where fertilization occurs",
+                "fallopian tubes"
+            ],
+            "guid": "p`DLJrd&,D",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q3_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This structure&nbsp;<b><span style=\"font-weight: 400;\">connects vagina and uterus</span></b>",
+                "cervix"
+            ],
+            "guid": "O2`uCCP3*v",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q3_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This is what&nbsp;<b><span style=\"font-weight: 400;\">sheds during period</span></b>",
+                "Endometrium"
+            ],
+            "guid": "C(kW0U5~pE",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q3_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The term for first period",
+                "menarche"
+            ],
+            "guid": "ucm?1{0723",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q3_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the three hormones produced by the female reproductive system",
+                "estrogen, prolactin, progresterone"
+            ],
+            "guid": "xmgA;7;h&=",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q3_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the term for the male reproductive part of plants?",
+                "stament or androecium"
+            ],
+            "guid": "OU$D*|Vk:*",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q3_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the term for the female reproductive part of plants",
+                "Gynoecium<br>"
+            ],
+            "guid": "E2OiJB5*]D",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q3_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This is&nbsp;<b><span style=\"font-weight: 400;\">present at the tip of the filament</span></b>",
+                "anther"
+            ],
+            "guid": "CFxDYs8OxB",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q3_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b><span style=\"font-weight: 400;\">A thin stalk-like structure that holds anther</span></b>",
+                "filaments"
+            ],
+            "guid": "NSU8>pW0Hn",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q3_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This is a&nbsp;<b><span style=\"font-weight: 400;\">&nbsp;small and sticky landing structure</span></b>",
+                "stigma"
+            ],
+            "guid": "LjsZ6^WI3+",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q3_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This is a&nbsp;<b><span style=\"font-weight: 400;\">thin stalk-like structure that holds the stigma</span></b>",
+                "style"
+            ],
+            "guid": "JN-8!gCilh",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q3_Monthly"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This is the&nbsp;<b><span style=\"font-weight: 400;\">base of the style and contains the ovules which contain female gametes</span></b>",
+                "Ovary"
+            ],
+            "guid": "r/}Ia6-Ru:",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": [
+                "Q3_Monthly"
+            ]
         }
     ],
     "reviewLimit": null,
