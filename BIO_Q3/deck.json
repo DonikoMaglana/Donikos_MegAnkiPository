@@ -1,0 +1,2640 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "4857ec5c-da68-11f0-9a31-2d46db13f262",
+    "deck_config_uuid": "fc533b6e-6617-11f0-8bc1-f5d300799d77",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "fc533b6e-6617-11f0-8bc1-f5d300799d77",
+            "desiredRetention": 0.9,
+            "dyn": false,
+            "easyDaysPercentages": [
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "fsrsParams5": [],
+            "fsrsWeights": [],
+            "ignoreRevlogsBeforeDate": "1970-01-01",
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    16.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 3,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    16.0,
+                    1440.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    6,
+                    8,
+                    0
+                ],
+                "order": 0,
+                "perDay": 9999
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 2,
+            "questionAction": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.4,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 240,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": true,
+            "weightSearch": ""
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [
+        "47f1eba0cad748f3b85b40cea99092c3-ao-1-A.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-1-Q.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-10-A.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-10-Q.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-11-A.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-11-Q.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-12-A.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-12-Q.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-13-A.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-13-Q.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-14-A.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-14-Q.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-15-A.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-15-Q.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-16-A.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-16-Q.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-17-A.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-17-Q.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-18-A.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-18-Q.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-19-A.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-19-Q.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-2-A.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-2-Q.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-20-A.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-20-Q.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-21-A.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-21-Q.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-22-A.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-22-Q.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-23-A.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-23-Q.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-24-A.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-24-Q.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-25-A.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-25-Q.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-26-A.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-26-Q.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-27-A.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-27-Q.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-28-A.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-28-Q.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-29-A.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-29-Q.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-3-A.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-3-Q.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-30-A.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-30-Q.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-31-A.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-31-Q.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-32-A.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-32-Q.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-33-A.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-33-Q.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-34-A.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-34-Q.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-35-A.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-35-Q.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-4-A.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-4-Q.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-5-A.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-5-Q.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-6-A.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-6-Q.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-7-A.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-7-Q.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-8-A.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-8-Q.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-9-A.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-9-Q.svg",
+        "47f1eba0cad748f3b85b40cea99092c3-ao-O.svg",
+        "52e53265e40d45c6a054a227018ab0c9-ao-1-A.svg",
+        "52e53265e40d45c6a054a227018ab0c9-ao-1-Q.svg",
+        "52e53265e40d45c6a054a227018ab0c9-ao-2-A.svg",
+        "52e53265e40d45c6a054a227018ab0c9-ao-2-Q.svg",
+        "52e53265e40d45c6a054a227018ab0c9-ao-3-A.svg",
+        "52e53265e40d45c6a054a227018ab0c9-ao-3-Q.svg",
+        "52e53265e40d45c6a054a227018ab0c9-ao-4-A.svg",
+        "52e53265e40d45c6a054a227018ab0c9-ao-4-Q.svg",
+        "52e53265e40d45c6a054a227018ab0c9-ao-5-A.svg",
+        "52e53265e40d45c6a054a227018ab0c9-ao-5-Q.svg",
+        "52e53265e40d45c6a054a227018ab0c9-ao-6-A.svg",
+        "52e53265e40d45c6a054a227018ab0c9-ao-6-Q.svg",
+        "52e53265e40d45c6a054a227018ab0c9-ao-7-A.svg",
+        "52e53265e40d45c6a054a227018ab0c9-ao-7-Q.svg",
+        "52e53265e40d45c6a054a227018ab0c9-ao-8-A.svg",
+        "52e53265e40d45c6a054a227018ab0c9-ao-8-Q.svg",
+        "52e53265e40d45c6a054a227018ab0c9-ao-9-A.svg",
+        "52e53265e40d45c6a054a227018ab0c9-ao-9-Q.svg",
+        "52e53265e40d45c6a054a227018ab0c9-ao-O.svg",
+        "545ba7f096764add94bb69096a4d87c6-ao-1-A.svg",
+        "545ba7f096764add94bb69096a4d87c6-ao-1-Q.svg",
+        "545ba7f096764add94bb69096a4d87c6-ao-2-A.svg",
+        "545ba7f096764add94bb69096a4d87c6-ao-2-Q.svg",
+        "545ba7f096764add94bb69096a4d87c6-ao-3-A.svg",
+        "545ba7f096764add94bb69096a4d87c6-ao-3-Q.svg",
+        "545ba7f096764add94bb69096a4d87c6-ao-4-A.svg",
+        "545ba7f096764add94bb69096a4d87c6-ao-4-Q.svg",
+        "545ba7f096764add94bb69096a4d87c6-ao-5-A.svg",
+        "545ba7f096764add94bb69096a4d87c6-ao-5-Q.svg",
+        "545ba7f096764add94bb69096a4d87c6-ao-6-A.svg",
+        "545ba7f096764add94bb69096a4d87c6-ao-6-Q.svg",
+        "545ba7f096764add94bb69096a4d87c6-ao-7-A.svg",
+        "545ba7f096764add94bb69096a4d87c6-ao-7-Q.svg",
+        "545ba7f096764add94bb69096a4d87c6-ao-O.svg",
+        "Screenshot 2025-12-16 at 5.27.25 PM.png",
+        "Screenshot 2025-12-16 at 5.49.44 PM.png",
+        "a52e95f3c2334629a58e09286d5ddc77-ao-1-A.svg",
+        "a52e95f3c2334629a58e09286d5ddc77-ao-1-Q.svg",
+        "a52e95f3c2334629a58e09286d5ddc77-ao-10-A.svg",
+        "a52e95f3c2334629a58e09286d5ddc77-ao-10-Q.svg",
+        "a52e95f3c2334629a58e09286d5ddc77-ao-11-A.svg",
+        "a52e95f3c2334629a58e09286d5ddc77-ao-11-Q.svg",
+        "a52e95f3c2334629a58e09286d5ddc77-ao-12-A.svg",
+        "a52e95f3c2334629a58e09286d5ddc77-ao-12-Q.svg",
+        "a52e95f3c2334629a58e09286d5ddc77-ao-2-A.svg",
+        "a52e95f3c2334629a58e09286d5ddc77-ao-2-Q.svg",
+        "a52e95f3c2334629a58e09286d5ddc77-ao-3-A.svg",
+        "a52e95f3c2334629a58e09286d5ddc77-ao-3-Q.svg",
+        "a52e95f3c2334629a58e09286d5ddc77-ao-4-A.svg",
+        "a52e95f3c2334629a58e09286d5ddc77-ao-4-Q.svg",
+        "a52e95f3c2334629a58e09286d5ddc77-ao-5-A.svg",
+        "a52e95f3c2334629a58e09286d5ddc77-ao-5-Q.svg",
+        "a52e95f3c2334629a58e09286d5ddc77-ao-6-A.svg",
+        "a52e95f3c2334629a58e09286d5ddc77-ao-6-Q.svg",
+        "a52e95f3c2334629a58e09286d5ddc77-ao-7-A.svg",
+        "a52e95f3c2334629a58e09286d5ddc77-ao-7-Q.svg",
+        "a52e95f3c2334629a58e09286d5ddc77-ao-8-A.svg",
+        "a52e95f3c2334629a58e09286d5ddc77-ao-8-Q.svg",
+        "a52e95f3c2334629a58e09286d5ddc77-ao-9-A.svg",
+        "a52e95f3c2334629a58e09286d5ddc77-ao-9-Q.svg",
+        "a52e95f3c2334629a58e09286d5ddc77-ao-O.svg",
+        "fbb183747a94480188f0fbc4304a1a88-ao-1-A.svg",
+        "fbb183747a94480188f0fbc4304a1a88-ao-1-Q.svg",
+        "fbb183747a94480188f0fbc4304a1a88-ao-10-A.svg",
+        "fbb183747a94480188f0fbc4304a1a88-ao-10-Q.svg",
+        "fbb183747a94480188f0fbc4304a1a88-ao-11-A.svg",
+        "fbb183747a94480188f0fbc4304a1a88-ao-11-Q.svg",
+        "fbb183747a94480188f0fbc4304a1a88-ao-12-A.svg",
+        "fbb183747a94480188f0fbc4304a1a88-ao-12-Q.svg",
+        "fbb183747a94480188f0fbc4304a1a88-ao-13-A.svg",
+        "fbb183747a94480188f0fbc4304a1a88-ao-13-Q.svg",
+        "fbb183747a94480188f0fbc4304a1a88-ao-14-A.svg",
+        "fbb183747a94480188f0fbc4304a1a88-ao-14-Q.svg",
+        "fbb183747a94480188f0fbc4304a1a88-ao-2-A.svg",
+        "fbb183747a94480188f0fbc4304a1a88-ao-2-Q.svg",
+        "fbb183747a94480188f0fbc4304a1a88-ao-3-A.svg",
+        "fbb183747a94480188f0fbc4304a1a88-ao-3-Q.svg",
+        "fbb183747a94480188f0fbc4304a1a88-ao-4-A.svg",
+        "fbb183747a94480188f0fbc4304a1a88-ao-4-Q.svg",
+        "fbb183747a94480188f0fbc4304a1a88-ao-5-A.svg",
+        "fbb183747a94480188f0fbc4304a1a88-ao-5-Q.svg",
+        "fbb183747a94480188f0fbc4304a1a88-ao-6-A.svg",
+        "fbb183747a94480188f0fbc4304a1a88-ao-6-Q.svg",
+        "fbb183747a94480188f0fbc4304a1a88-ao-7-A.svg",
+        "fbb183747a94480188f0fbc4304a1a88-ao-7-Q.svg",
+        "fbb183747a94480188f0fbc4304a1a88-ao-8-A.svg",
+        "fbb183747a94480188f0fbc4304a1a88-ao-8-Q.svg",
+        "fbb183747a94480188f0fbc4304a1a88-ao-9-A.svg",
+        "fbb183747a94480188f0fbc4304a1a88-ao-9-Q.svg",
+        "fbb183747a94480188f0fbc4304a1a88-ao-O.svg",
+        "tmp4ou_1si_.jpg",
+        "tmp7am04rz_.jpg",
+        "tmpzpheo00d.jpg"
+    ],
+    "name": "BIO Q3",
+    "newLimit": null,
+    "newLimitToday": null,
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -279344989441727977,
+                    "name": "ID (hidden)",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -8019144233852573474,
+                    "name": "Header",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -5192177934792951139,
+                    "name": "Image",
+                    "ord": 2,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -996507654485675920,
+                    "name": "Question Mask",
+                    "ord": 3,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -2622217631836698292,
+                    "name": "Footer",
+                    "ord": 4,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 6158505670062219761,
+                    "name": "Remarks",
+                    "ord": 5,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -4411387447535134541,
+                    "name": "Sources",
+                    "ord": 6,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -7688410427295178531,
+                    "name": "Extra 1",
+                    "ord": 7,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 326092553592481837,
+                    "name": "Extra 2",
+                    "ord": 8,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -2552522292509077285,
+                    "name": "Answer Mask",
+                    "ord": 9,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 5776824685556938887,
+                    "name": "Original Mask",
+                    "ord": 10,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Image Occlusion Enhanced",
+            "originalStockKind": 1,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 1,
+            "tmpls": [
+                {
+                    "afmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n\n<script>\n// Toggle answer mask on clicking the image\nvar toggle = function() {\n  var amask = document.getElementById('io-overlay');\n  if (amask.style.display === 'block' || amask.style.display === '')\n    amask.style.display = 'none';\n  else\n    amask.style.display = 'block'\n}\n\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": 2322984612947848412,
+                    "name": "IO Card",
+                    "ord": 0,
+                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
+                }
+            ],
+            "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 9205121651523078416,
+                    "name": "Front",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -7001571941991209685,
+                    "name": "Back",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic",
+            "originalStockKind": 1,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": -471929315152782166,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "47f1eba0cad748f3b85b40cea99092c3-ao-1",
+                "",
+                "<img src=\"tmpzpheo00d.jpg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-1-A.svg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-O.svg\" />"
+            ],
+            "guid": "O+^JU`[%kQ",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "47f1eba0cad748f3b85b40cea99092c3-ao-2",
+                "",
+                "<img src=\"tmpzpheo00d.jpg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-2-A.svg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-O.svg\" />"
+            ],
+            "guid": "z)Bwjee=);",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "47f1eba0cad748f3b85b40cea99092c3-ao-3",
+                "",
+                "<img src=\"tmpzpheo00d.jpg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-3-A.svg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-O.svg\" />"
+            ],
+            "guid": "ihw~A.,G{M",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "47f1eba0cad748f3b85b40cea99092c3-ao-4",
+                "",
+                "<img src=\"tmpzpheo00d.jpg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-4-A.svg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-O.svg\" />"
+            ],
+            "guid": "t(kN?].Y/u",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "47f1eba0cad748f3b85b40cea99092c3-ao-5",
+                "",
+                "<img src=\"tmpzpheo00d.jpg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-5-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-5-A.svg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-O.svg\" />"
+            ],
+            "guid": "N~vd79Yb*q",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "47f1eba0cad748f3b85b40cea99092c3-ao-6",
+                "",
+                "<img src=\"tmpzpheo00d.jpg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-6-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-6-A.svg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-O.svg\" />"
+            ],
+            "guid": "wBsu).whIv",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "47f1eba0cad748f3b85b40cea99092c3-ao-7",
+                "",
+                "<img src=\"tmpzpheo00d.jpg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-7-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-7-A.svg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-O.svg\" />"
+            ],
+            "guid": "w.,5H]u_`B",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "47f1eba0cad748f3b85b40cea99092c3-ao-8",
+                "",
+                "<img src=\"tmpzpheo00d.jpg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-8-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-8-A.svg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-O.svg\" />"
+            ],
+            "guid": "O*L/8M(3%X",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "47f1eba0cad748f3b85b40cea99092c3-ao-9",
+                "",
+                "<img src=\"tmpzpheo00d.jpg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-9-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-9-A.svg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-O.svg\" />"
+            ],
+            "guid": "m_!zEugq4.",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "47f1eba0cad748f3b85b40cea99092c3-ao-10",
+                "",
+                "<img src=\"tmpzpheo00d.jpg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-10-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-10-A.svg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-O.svg\" />"
+            ],
+            "guid": "oer7X~`XcF",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "47f1eba0cad748f3b85b40cea99092c3-ao-11",
+                "",
+                "<img src=\"tmpzpheo00d.jpg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-11-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-11-A.svg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-O.svg\" />"
+            ],
+            "guid": "y$_+#E13#:",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "47f1eba0cad748f3b85b40cea99092c3-ao-12",
+                "",
+                "<img src=\"tmpzpheo00d.jpg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-12-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-12-A.svg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-O.svg\" />"
+            ],
+            "guid": "u,vZlA^[hy",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "47f1eba0cad748f3b85b40cea99092c3-ao-13",
+                "",
+                "<img src=\"tmpzpheo00d.jpg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-13-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-13-A.svg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-O.svg\" />"
+            ],
+            "guid": "iqn`W?HQDv",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "47f1eba0cad748f3b85b40cea99092c3-ao-14",
+                "",
+                "<img src=\"tmpzpheo00d.jpg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-14-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-14-A.svg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-O.svg\" />"
+            ],
+            "guid": "rMy[HN8R(q",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "47f1eba0cad748f3b85b40cea99092c3-ao-15",
+                "",
+                "<img src=\"tmpzpheo00d.jpg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-15-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-15-A.svg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-O.svg\" />"
+            ],
+            "guid": "1bPS?}{=?",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "47f1eba0cad748f3b85b40cea99092c3-ao-16",
+                "",
+                "<img src=\"tmpzpheo00d.jpg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-16-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-16-A.svg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-O.svg\" />"
+            ],
+            "guid": "oTNr>na2|a",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "47f1eba0cad748f3b85b40cea99092c3-ao-17",
+                "",
+                "<img src=\"tmpzpheo00d.jpg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-17-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-17-A.svg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-O.svg\" />"
+            ],
+            "guid": "DOjmK3<}3Z",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "47f1eba0cad748f3b85b40cea99092c3-ao-18",
+                "",
+                "<img src=\"tmpzpheo00d.jpg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-18-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-18-A.svg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-O.svg\" />"
+            ],
+            "guid": "LxU@B2pptD",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "47f1eba0cad748f3b85b40cea99092c3-ao-19",
+                "",
+                "<img src=\"tmpzpheo00d.jpg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-19-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-19-A.svg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-O.svg\" />"
+            ],
+            "guid": "Ea],vaG2TK",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "47f1eba0cad748f3b85b40cea99092c3-ao-20",
+                "",
+                "<img src=\"tmpzpheo00d.jpg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-20-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-20-A.svg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-O.svg\" />"
+            ],
+            "guid": "z7lVY}*p%+",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "47f1eba0cad748f3b85b40cea99092c3-ao-21",
+                "",
+                "<img src=\"tmpzpheo00d.jpg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-21-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-21-A.svg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-O.svg\" />"
+            ],
+            "guid": "Fis==7D:PJ",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "47f1eba0cad748f3b85b40cea99092c3-ao-22",
+                "",
+                "<img src=\"tmpzpheo00d.jpg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-22-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-22-A.svg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-O.svg\" />"
+            ],
+            "guid": "t&R}sOQ@B)",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "47f1eba0cad748f3b85b40cea99092c3-ao-23",
+                "",
+                "<img src=\"tmpzpheo00d.jpg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-23-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-23-A.svg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-O.svg\" />"
+            ],
+            "guid": "n4L,yjkD8&",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "47f1eba0cad748f3b85b40cea99092c3-ao-24",
+                "",
+                "<img src=\"tmpzpheo00d.jpg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-24-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-24-A.svg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-O.svg\" />"
+            ],
+            "guid": "C[a8[`(Fhr",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "47f1eba0cad748f3b85b40cea99092c3-ao-25",
+                "",
+                "<img src=\"tmpzpheo00d.jpg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-25-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-25-A.svg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-O.svg\" />"
+            ],
+            "guid": "DaaNRmu2]G",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "47f1eba0cad748f3b85b40cea99092c3-ao-26",
+                "",
+                "<img src=\"tmpzpheo00d.jpg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-26-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-26-A.svg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-O.svg\" />"
+            ],
+            "guid": "cM%(7=utN<",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "47f1eba0cad748f3b85b40cea99092c3-ao-27",
+                "",
+                "<img src=\"tmpzpheo00d.jpg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-27-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-27-A.svg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-O.svg\" />"
+            ],
+            "guid": "C9EQzxQ)XQ",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "47f1eba0cad748f3b85b40cea99092c3-ao-28",
+                "",
+                "<img src=\"tmpzpheo00d.jpg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-28-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-28-A.svg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-O.svg\" />"
+            ],
+            "guid": "N@JM{PW&Zu",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "47f1eba0cad748f3b85b40cea99092c3-ao-29",
+                "",
+                "<img src=\"tmpzpheo00d.jpg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-29-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-29-A.svg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-O.svg\" />"
+            ],
+            "guid": "ofkyX]!hkK",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "47f1eba0cad748f3b85b40cea99092c3-ao-30",
+                "",
+                "<img src=\"tmpzpheo00d.jpg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-30-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-30-A.svg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-O.svg\" />"
+            ],
+            "guid": "Mb}U;7W6^c",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "47f1eba0cad748f3b85b40cea99092c3-ao-31",
+                "",
+                "<img src=\"tmpzpheo00d.jpg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-31-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-31-A.svg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-O.svg\" />"
+            ],
+            "guid": "q=HT9uS.at",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "47f1eba0cad748f3b85b40cea99092c3-ao-32",
+                "",
+                "<img src=\"tmpzpheo00d.jpg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-32-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-32-A.svg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-O.svg\" />"
+            ],
+            "guid": "q:LJ/Fy//Q",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "47f1eba0cad748f3b85b40cea99092c3-ao-33",
+                "",
+                "<img src=\"tmpzpheo00d.jpg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-33-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-33-A.svg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-O.svg\" />"
+            ],
+            "guid": "o9y;US`&:_",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "47f1eba0cad748f3b85b40cea99092c3-ao-34",
+                "",
+                "<img src=\"tmpzpheo00d.jpg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-34-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-34-A.svg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-O.svg\" />"
+            ],
+            "guid": "n9SicDx<+O",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "47f1eba0cad748f3b85b40cea99092c3-ao-35",
+                "",
+                "<img src=\"tmpzpheo00d.jpg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-35-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-35-A.svg\" />",
+                "<img src=\"47f1eba0cad748f3b85b40cea99092c3-ao-O.svg\" />"
+            ],
+            "guid": "i~,Aegh:p`",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "52e53265e40d45c6a054a227018ab0c9-ao-1",
+                "",
+                "<img src=\"Screenshot 2025-12-16 at 5.27.25 PM.png\" />",
+                "<img src=\"52e53265e40d45c6a054a227018ab0c9-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"52e53265e40d45c6a054a227018ab0c9-ao-1-A.svg\" />",
+                "<img src=\"52e53265e40d45c6a054a227018ab0c9-ao-O.svg\" />"
+            ],
+            "guid": "cPS4s)M;M{",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "52e53265e40d45c6a054a227018ab0c9-ao-2",
+                "",
+                "<img src=\"Screenshot 2025-12-16 at 5.27.25 PM.png\" />",
+                "<img src=\"52e53265e40d45c6a054a227018ab0c9-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"52e53265e40d45c6a054a227018ab0c9-ao-2-A.svg\" />",
+                "<img src=\"52e53265e40d45c6a054a227018ab0c9-ao-O.svg\" />"
+            ],
+            "guid": "vGS-rF_%Fz",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "52e53265e40d45c6a054a227018ab0c9-ao-3",
+                "",
+                "<img src=\"Screenshot 2025-12-16 at 5.27.25 PM.png\" />",
+                "<img src=\"52e53265e40d45c6a054a227018ab0c9-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"52e53265e40d45c6a054a227018ab0c9-ao-3-A.svg\" />",
+                "<img src=\"52e53265e40d45c6a054a227018ab0c9-ao-O.svg\" />"
+            ],
+            "guid": "o`4ThT=Lex",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "52e53265e40d45c6a054a227018ab0c9-ao-4",
+                "",
+                "<img src=\"Screenshot 2025-12-16 at 5.27.25 PM.png\" />",
+                "<img src=\"52e53265e40d45c6a054a227018ab0c9-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"52e53265e40d45c6a054a227018ab0c9-ao-4-A.svg\" />",
+                "<img src=\"52e53265e40d45c6a054a227018ab0c9-ao-O.svg\" />"
+            ],
+            "guid": "n)f{j5>ans",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "52e53265e40d45c6a054a227018ab0c9-ao-5",
+                "",
+                "<img src=\"Screenshot 2025-12-16 at 5.27.25 PM.png\" />",
+                "<img src=\"52e53265e40d45c6a054a227018ab0c9-ao-5-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"52e53265e40d45c6a054a227018ab0c9-ao-5-A.svg\" />",
+                "<img src=\"52e53265e40d45c6a054a227018ab0c9-ao-O.svg\" />"
+            ],
+            "guid": "k_@a9tUZht",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "52e53265e40d45c6a054a227018ab0c9-ao-6",
+                "",
+                "<img src=\"Screenshot 2025-12-16 at 5.27.25 PM.png\" />",
+                "<img src=\"52e53265e40d45c6a054a227018ab0c9-ao-6-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"52e53265e40d45c6a054a227018ab0c9-ao-6-A.svg\" />",
+                "<img src=\"52e53265e40d45c6a054a227018ab0c9-ao-O.svg\" />"
+            ],
+            "guid": "O~VcZY(Ji-",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "52e53265e40d45c6a054a227018ab0c9-ao-7",
+                "",
+                "<img src=\"Screenshot 2025-12-16 at 5.27.25 PM.png\" />",
+                "<img src=\"52e53265e40d45c6a054a227018ab0c9-ao-7-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"52e53265e40d45c6a054a227018ab0c9-ao-7-A.svg\" />",
+                "<img src=\"52e53265e40d45c6a054a227018ab0c9-ao-O.svg\" />"
+            ],
+            "guid": "sKgIpkEPq>",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "52e53265e40d45c6a054a227018ab0c9-ao-8",
+                "",
+                "<img src=\"Screenshot 2025-12-16 at 5.27.25 PM.png\" />",
+                "<img src=\"52e53265e40d45c6a054a227018ab0c9-ao-8-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"52e53265e40d45c6a054a227018ab0c9-ao-8-A.svg\" />",
+                "<img src=\"52e53265e40d45c6a054a227018ab0c9-ao-O.svg\" />"
+            ],
+            "guid": "I9A-!(x=-2",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "52e53265e40d45c6a054a227018ab0c9-ao-9",
+                "",
+                "<img src=\"Screenshot 2025-12-16 at 5.27.25 PM.png\" />",
+                "<img src=\"52e53265e40d45c6a054a227018ab0c9-ao-9-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"52e53265e40d45c6a054a227018ab0c9-ao-9-A.svg\" />",
+                "<img src=\"52e53265e40d45c6a054a227018ab0c9-ao-O.svg\" />"
+            ],
+            "guid": "OhvohP{>cJ",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the 3 parts of the Gynoecium",
+                "Stigma<br>Style<br>Ovary"
+            ],
+            "guid": "mE!lT2)z<Q",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Defined as a small and sticky landing structure in the gynoecium",
+                "Stigma"
+            ],
+            "guid": "EUoI-u7o_l",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Defined as a thin stalk like structure in the gynoecium",
+                "Style"
+            ],
+            "guid": "vj.)b=:FP9",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What holds up the stigma?",
+                "The style"
+            ],
+            "guid": "HM$VwrDJ4C",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A part of the gynoecium at the base of the style which contains the ovules",
+                "Ovary"
+            ],
+            "guid": "Iwnt%dG()p",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "545ba7f096764add94bb69096a4d87c6-ao-1",
+                "",
+                "<img src=\"tmp4ou_1si_.jpg\" />",
+                "<img src=\"545ba7f096764add94bb69096a4d87c6-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"545ba7f096764add94bb69096a4d87c6-ao-1-A.svg\" />",
+                "<img src=\"545ba7f096764add94bb69096a4d87c6-ao-O.svg\" />"
+            ],
+            "guid": "cXXs7xJoX1",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "545ba7f096764add94bb69096a4d87c6-ao-2",
+                "",
+                "<img src=\"tmp4ou_1si_.jpg\" />",
+                "<img src=\"545ba7f096764add94bb69096a4d87c6-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"545ba7f096764add94bb69096a4d87c6-ao-2-A.svg\" />",
+                "<img src=\"545ba7f096764add94bb69096a4d87c6-ao-O.svg\" />"
+            ],
+            "guid": "h8%d&^7@&0",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "545ba7f096764add94bb69096a4d87c6-ao-3",
+                "",
+                "<img src=\"tmp4ou_1si_.jpg\" />",
+                "<img src=\"545ba7f096764add94bb69096a4d87c6-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"545ba7f096764add94bb69096a4d87c6-ao-3-A.svg\" />",
+                "<img src=\"545ba7f096764add94bb69096a4d87c6-ao-O.svg\" />"
+            ],
+            "guid": "K:VZ]w%OMK",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "545ba7f096764add94bb69096a4d87c6-ao-4",
+                "",
+                "<img src=\"tmp4ou_1si_.jpg\" />",
+                "<img src=\"545ba7f096764add94bb69096a4d87c6-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"545ba7f096764add94bb69096a4d87c6-ao-4-A.svg\" />",
+                "<img src=\"545ba7f096764add94bb69096a4d87c6-ao-O.svg\" />"
+            ],
+            "guid": "K#!}V6^YY+",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "545ba7f096764add94bb69096a4d87c6-ao-5",
+                "",
+                "<img src=\"tmp4ou_1si_.jpg\" />",
+                "<img src=\"545ba7f096764add94bb69096a4d87c6-ao-5-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"545ba7f096764add94bb69096a4d87c6-ao-5-A.svg\" />",
+                "<img src=\"545ba7f096764add94bb69096a4d87c6-ao-O.svg\" />"
+            ],
+            "guid": "un[4<!fNl8",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "545ba7f096764add94bb69096a4d87c6-ao-6",
+                "",
+                "<img src=\"tmp4ou_1si_.jpg\" />",
+                "<img src=\"545ba7f096764add94bb69096a4d87c6-ao-6-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"545ba7f096764add94bb69096a4d87c6-ao-6-A.svg\" />",
+                "<img src=\"545ba7f096764add94bb69096a4d87c6-ao-O.svg\" />"
+            ],
+            "guid": "/,WY4Xxb_",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "545ba7f096764add94bb69096a4d87c6-ao-7",
+                "",
+                "<img src=\"tmp4ou_1si_.jpg\" />",
+                "<img src=\"545ba7f096764add94bb69096a4d87c6-ao-7-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"545ba7f096764add94bb69096a4d87c6-ao-7-A.svg\" />",
+                "<img src=\"545ba7f096764add94bb69096a4d87c6-ao-O.svg\" />"
+            ],
+            "guid": "c;>n9Bt,LO",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This part of the male reproductive structure produces a sugar-rich fluid",
+                "Seminal vesicles"
+            ],
+            "guid": "n%a+mdB1Po",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This part of the male repro system helps activates sperm",
+                "Prostate gland"
+            ],
+            "guid": "P[bij7vz@z",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This part of the male repro system secretes a milky fluid",
+                "Prostate gland"
+            ],
+            "guid": "Faur%#;2G=",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Cowper's glands are formally known as?",
+                "Bulbourethral glands"
+            ],
+            "guid": "wZHr&e4yb$",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the lcoation of the bulbourethral glands?",
+                "On the sides of the urethra below the prostate gland"
+            ],
+            "guid": "o}Zu8[1I~|",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is found at the tip of the androecium's filament?",
+                "The anther"
+            ],
+            "guid": "EOr!<K]P[T",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A thin stalk like structure in the androecium",
+                "Filament"
+            ],
+            "guid": "rJ&7ua)6m|",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "what holds up the anther in the androecium",
+                "Filament"
+            ],
+            "guid": "Jj&A^7g]?i",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This part of the female repro system encloses and protects the other external repro organs",
+                "Labia Majora"
+            ],
+            "guid": "cKX>mEM)e6",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a52e95f3c2334629a58e09286d5ddc77-ao-1",
+                "",
+                "<img src=\"Screenshot 2025-12-16 at 5.49.44 PM.png\" />",
+                "<img src=\"a52e95f3c2334629a58e09286d5ddc77-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"a52e95f3c2334629a58e09286d5ddc77-ao-1-A.svg\" />",
+                "<img src=\"a52e95f3c2334629a58e09286d5ddc77-ao-O.svg\" />"
+            ],
+            "guid": "L9aTG3^~W<",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a52e95f3c2334629a58e09286d5ddc77-ao-2",
+                "",
+                "<img src=\"Screenshot 2025-12-16 at 5.49.44 PM.png\" />",
+                "<img src=\"a52e95f3c2334629a58e09286d5ddc77-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"a52e95f3c2334629a58e09286d5ddc77-ao-2-A.svg\" />",
+                "<img src=\"a52e95f3c2334629a58e09286d5ddc77-ao-O.svg\" />"
+            ],
+            "guid": "t]Hn0GL`6Y",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a52e95f3c2334629a58e09286d5ddc77-ao-3",
+                "",
+                "<img src=\"Screenshot 2025-12-16 at 5.49.44 PM.png\" />",
+                "<img src=\"a52e95f3c2334629a58e09286d5ddc77-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"a52e95f3c2334629a58e09286d5ddc77-ao-3-A.svg\" />",
+                "<img src=\"a52e95f3c2334629a58e09286d5ddc77-ao-O.svg\" />"
+            ],
+            "guid": "wN,prdz$/$",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a52e95f3c2334629a58e09286d5ddc77-ao-4",
+                "",
+                "<img src=\"Screenshot 2025-12-16 at 5.49.44 PM.png\" />",
+                "<img src=\"a52e95f3c2334629a58e09286d5ddc77-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"a52e95f3c2334629a58e09286d5ddc77-ao-4-A.svg\" />",
+                "<img src=\"a52e95f3c2334629a58e09286d5ddc77-ao-O.svg\" />"
+            ],
+            "guid": "t!+O)=W:-L",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a52e95f3c2334629a58e09286d5ddc77-ao-5",
+                "",
+                "<img src=\"Screenshot 2025-12-16 at 5.49.44 PM.png\" />",
+                "<img src=\"a52e95f3c2334629a58e09286d5ddc77-ao-5-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"a52e95f3c2334629a58e09286d5ddc77-ao-5-A.svg\" />",
+                "<img src=\"a52e95f3c2334629a58e09286d5ddc77-ao-O.svg\" />"
+            ],
+            "guid": "yiQ,QPPL3R",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a52e95f3c2334629a58e09286d5ddc77-ao-6",
+                "",
+                "<img src=\"Screenshot 2025-12-16 at 5.49.44 PM.png\" />",
+                "<img src=\"a52e95f3c2334629a58e09286d5ddc77-ao-6-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"a52e95f3c2334629a58e09286d5ddc77-ao-6-A.svg\" />",
+                "<img src=\"a52e95f3c2334629a58e09286d5ddc77-ao-O.svg\" />"
+            ],
+            "guid": "t<gTeKejPV",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a52e95f3c2334629a58e09286d5ddc77-ao-7",
+                "",
+                "<img src=\"Screenshot 2025-12-16 at 5.49.44 PM.png\" />",
+                "<img src=\"a52e95f3c2334629a58e09286d5ddc77-ao-7-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"a52e95f3c2334629a58e09286d5ddc77-ao-7-A.svg\" />",
+                "<img src=\"a52e95f3c2334629a58e09286d5ddc77-ao-O.svg\" />"
+            ],
+            "guid": "Q-#i5?%[9x",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a52e95f3c2334629a58e09286d5ddc77-ao-8",
+                "",
+                "<img src=\"Screenshot 2025-12-16 at 5.49.44 PM.png\" />",
+                "<img src=\"a52e95f3c2334629a58e09286d5ddc77-ao-8-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"a52e95f3c2334629a58e09286d5ddc77-ao-8-A.svg\" />",
+                "<img src=\"a52e95f3c2334629a58e09286d5ddc77-ao-O.svg\" />"
+            ],
+            "guid": "f|w|+ji~n,",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a52e95f3c2334629a58e09286d5ddc77-ao-9",
+                "",
+                "<img src=\"Screenshot 2025-12-16 at 5.49.44 PM.png\" />",
+                "<img src=\"a52e95f3c2334629a58e09286d5ddc77-ao-9-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"a52e95f3c2334629a58e09286d5ddc77-ao-9-A.svg\" />",
+                "<img src=\"a52e95f3c2334629a58e09286d5ddc77-ao-O.svg\" />"
+            ],
+            "guid": "Hu!$h}|PCi",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a52e95f3c2334629a58e09286d5ddc77-ao-10",
+                "",
+                "<img src=\"Screenshot 2025-12-16 at 5.49.44 PM.png\" />",
+                "<img src=\"a52e95f3c2334629a58e09286d5ddc77-ao-10-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"a52e95f3c2334629a58e09286d5ddc77-ao-10-A.svg\" />",
+                "<img src=\"a52e95f3c2334629a58e09286d5ddc77-ao-O.svg\" />"
+            ],
+            "guid": "IFPRlZ0.uN",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a52e95f3c2334629a58e09286d5ddc77-ao-11",
+                "",
+                "<img src=\"Screenshot 2025-12-16 at 5.49.44 PM.png\" />",
+                "<img src=\"a52e95f3c2334629a58e09286d5ddc77-ao-11-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"a52e95f3c2334629a58e09286d5ddc77-ao-11-A.svg\" />",
+                "<img src=\"a52e95f3c2334629a58e09286d5ddc77-ao-O.svg\" />"
+            ],
+            "guid": "j`V5%&Mu9.",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a52e95f3c2334629a58e09286d5ddc77-ao-12",
+                "",
+                "<img src=\"Screenshot 2025-12-16 at 5.49.44 PM.png\" />",
+                "<img src=\"a52e95f3c2334629a58e09286d5ddc77-ao-12-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"a52e95f3c2334629a58e09286d5ddc77-ao-12-A.svg\" />",
+                "<img src=\"a52e95f3c2334629a58e09286d5ddc77-ao-O.svg\" />"
+            ],
+            "guid": "q5O*E@YS7O",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A canal that joins the cervix outside the body",
+                "Vagina"
+            ],
+            "guid": "Jz-.KZSA7",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A hollow, pear shaped organ that is home to a developing fetus",
+                "Uterus"
+            ],
+            "guid": "Dkf8Q.z$c<",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of asexual reproduction is how bacteria does it",
+                "Binary fission"
+            ],
+            "guid": "btLP>D@~x>",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This type of asexual reproduction starts with an outgrowth",
+                "Budding"
+            ],
+            "guid": "DX4_Wpd|N+",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which creature does budding?",
+                "Hydra"
+            ],
+            "guid": "i>mi)OmR/[",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the order of sperm traveling from testes -&gt; outside?",
+                "1. Testicles<br>2. Epididymis<br>3. Vas deferens<br>4. Ejaculatory ducts<br>5. Urethra<br>6. Outside"
+            ],
+            "guid": "J}LX3jv`Xs",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A type of asexual reproduction where new individuals are formed from a piece of the existing parent organism",
+                "Fragmentation"
+            ],
+            "guid": "jgCJi^Mk}j",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Defined as the first menstruation",
+                "Menarche"
+            ],
+            "guid": "Hzx8R-O)=8",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the 3 female reproductive hormones",
+                "Estrogen<br>Progesterone<br>Prolactin"
+            ],
+            "guid": "h2-WJ*p=T,",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Where do the two labia minora meet?",
+                "Clitoris"
+            ],
+            "guid": "Cj-XV}31v]",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "All organisms that practice asexual reproduction cant exchange genetic info. True or False?",
+                "F, some can"
+            ],
+            "guid": "EidS7@^ON,",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Some life forms can do both sexual and asexual reproduction. T or F?",
+                "True"
+            ],
+            "guid": "oTfIbGLLA",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "These glands are located next to the vaginal opening",
+                "Bartholin's glands"
+            ],
+            "guid": "+GPHj_jxF",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What gland produces a lubricant for coitus",
+                "Bartholin's glands"
+            ],
+            "guid": "E{?+sN{cX^",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the most significant disadvantage of asexual reproduction",
+                "The lack of diversity"
+            ],
+            "guid": "r|0=N3RWrt",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What do you call the structure that secures the testes?",
+                "The spermatic cord"
+            ],
+            "guid": "KtD9Y&SXyy",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A long coiled tube that rests on the back of each testicle",
+                "Epididymis"
+            ],
+            "guid": "jr%!Guy26x",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does the vas deferens connect?",
+                "The epididyms and the pelvic cavity"
+            ],
+            "guid": "inUvg,kjce",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How are the ejaculatory ducts formed?",
+                "Fusion of the vas deferens and seminal vesicles"
+            ],
+            "guid": "l{rL.A[,:f",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "An FIS that produces eggs and hormones",
+                "Ovaries"
+            ],
+            "guid": "B:[SKt]0b1",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Narrow tubes attached to the upper part of the uterus",
+                "Fallopian tubes"
+            ],
+            "guid": "MZlV3{22x-",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Where do the fallopian tubes take the ova?",
+                "From ovaries to uterus"
+            ],
+            "guid": "K!9NoSN$Ay",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What do you call the finger like structures securing the ovaries",
+                "Fimbriae"
+            ],
+            "guid": "QZKxMgw~sR",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "fbb183747a94480188f0fbc4304a1a88-ao-1",
+                "",
+                "<img src=\"tmp7am04rz_.jpg\" />",
+                "<img src=\"fbb183747a94480188f0fbc4304a1a88-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"fbb183747a94480188f0fbc4304a1a88-ao-1-A.svg\" />",
+                "<img src=\"fbb183747a94480188f0fbc4304a1a88-ao-O.svg\" />"
+            ],
+            "guid": "Ceo/&S@An8",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "fbb183747a94480188f0fbc4304a1a88-ao-2",
+                "",
+                "<img src=\"tmp7am04rz_.jpg\" />",
+                "<img src=\"fbb183747a94480188f0fbc4304a1a88-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"fbb183747a94480188f0fbc4304a1a88-ao-2-A.svg\" />",
+                "<img src=\"fbb183747a94480188f0fbc4304a1a88-ao-O.svg\" />"
+            ],
+            "guid": "Iy8g{9OeVz",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "fbb183747a94480188f0fbc4304a1a88-ao-3",
+                "",
+                "<img src=\"tmp7am04rz_.jpg\" />",
+                "<img src=\"fbb183747a94480188f0fbc4304a1a88-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"fbb183747a94480188f0fbc4304a1a88-ao-3-A.svg\" />",
+                "<img src=\"fbb183747a94480188f0fbc4304a1a88-ao-O.svg\" />"
+            ],
+            "guid": "CsKdB:[SYg",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "fbb183747a94480188f0fbc4304a1a88-ao-4",
+                "",
+                "<img src=\"tmp7am04rz_.jpg\" />",
+                "<img src=\"fbb183747a94480188f0fbc4304a1a88-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"fbb183747a94480188f0fbc4304a1a88-ao-4-A.svg\" />",
+                "<img src=\"fbb183747a94480188f0fbc4304a1a88-ao-O.svg\" />"
+            ],
+            "guid": "iD),,$oFs/",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "fbb183747a94480188f0fbc4304a1a88-ao-5",
+                "",
+                "<img src=\"tmp7am04rz_.jpg\" />",
+                "<img src=\"fbb183747a94480188f0fbc4304a1a88-ao-5-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"fbb183747a94480188f0fbc4304a1a88-ao-5-A.svg\" />",
+                "<img src=\"fbb183747a94480188f0fbc4304a1a88-ao-O.svg\" />"
+            ],
+            "guid": "FX8V=X`|gC",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "fbb183747a94480188f0fbc4304a1a88-ao-6",
+                "",
+                "<img src=\"tmp7am04rz_.jpg\" />",
+                "<img src=\"fbb183747a94480188f0fbc4304a1a88-ao-6-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"fbb183747a94480188f0fbc4304a1a88-ao-6-A.svg\" />",
+                "<img src=\"fbb183747a94480188f0fbc4304a1a88-ao-O.svg\" />"
+            ],
+            "guid": "w:TB0Am?GR",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "fbb183747a94480188f0fbc4304a1a88-ao-7",
+                "",
+                "<img src=\"tmp7am04rz_.jpg\" />",
+                "<img src=\"fbb183747a94480188f0fbc4304a1a88-ao-7-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"fbb183747a94480188f0fbc4304a1a88-ao-7-A.svg\" />",
+                "<img src=\"fbb183747a94480188f0fbc4304a1a88-ao-O.svg\" />"
+            ],
+            "guid": "ov(k<K(C5^",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "fbb183747a94480188f0fbc4304a1a88-ao-8",
+                "",
+                "<img src=\"tmp7am04rz_.jpg\" />",
+                "<img src=\"fbb183747a94480188f0fbc4304a1a88-ao-8-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"fbb183747a94480188f0fbc4304a1a88-ao-8-A.svg\" />",
+                "<img src=\"fbb183747a94480188f0fbc4304a1a88-ao-O.svg\" />"
+            ],
+            "guid": "eyo@sXL+}]",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "fbb183747a94480188f0fbc4304a1a88-ao-9",
+                "",
+                "<img src=\"tmp7am04rz_.jpg\" />",
+                "<img src=\"fbb183747a94480188f0fbc4304a1a88-ao-9-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"fbb183747a94480188f0fbc4304a1a88-ao-9-A.svg\" />",
+                "<img src=\"fbb183747a94480188f0fbc4304a1a88-ao-O.svg\" />"
+            ],
+            "guid": "b~:Yju{f6u",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "fbb183747a94480188f0fbc4304a1a88-ao-10",
+                "",
+                "<img src=\"tmp7am04rz_.jpg\" />",
+                "<img src=\"fbb183747a94480188f0fbc4304a1a88-ao-10-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"fbb183747a94480188f0fbc4304a1a88-ao-10-A.svg\" />",
+                "<img src=\"fbb183747a94480188f0fbc4304a1a88-ao-O.svg\" />"
+            ],
+            "guid": "vAjgXD4;/?",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "fbb183747a94480188f0fbc4304a1a88-ao-11",
+                "",
+                "<img src=\"tmp7am04rz_.jpg\" />",
+                "<img src=\"fbb183747a94480188f0fbc4304a1a88-ao-11-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"fbb183747a94480188f0fbc4304a1a88-ao-11-A.svg\" />",
+                "<img src=\"fbb183747a94480188f0fbc4304a1a88-ao-O.svg\" />"
+            ],
+            "guid": "p^r>~Rcw-g",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "fbb183747a94480188f0fbc4304a1a88-ao-12",
+                "",
+                "<img src=\"tmp7am04rz_.jpg\" />",
+                "<img src=\"fbb183747a94480188f0fbc4304a1a88-ao-12-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"fbb183747a94480188f0fbc4304a1a88-ao-12-A.svg\" />",
+                "<img src=\"fbb183747a94480188f0fbc4304a1a88-ao-O.svg\" />"
+            ],
+            "guid": "u=%iEzT3eW",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "fbb183747a94480188f0fbc4304a1a88-ao-13",
+                "",
+                "<img src=\"tmp7am04rz_.jpg\" />",
+                "<img src=\"fbb183747a94480188f0fbc4304a1a88-ao-13-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"fbb183747a94480188f0fbc4304a1a88-ao-13-A.svg\" />",
+                "<img src=\"fbb183747a94480188f0fbc4304a1a88-ao-O.svg\" />"
+            ],
+            "guid": "dlL7|x(d2,",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "fbb183747a94480188f0fbc4304a1a88-ao-14",
+                "",
+                "<img src=\"tmp7am04rz_.jpg\" />",
+                "<img src=\"fbb183747a94480188f0fbc4304a1a88-ao-14-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"fbb183747a94480188f0fbc4304a1a88-ao-14-A.svg\" />",
+                "<img src=\"fbb183747a94480188f0fbc4304a1a88-ao-O.svg\" />"
+            ],
+            "guid": "zHbl0Iu8c.",
+            "note_model_uuid": "f1ad3258-6876-11f0-a072-a9bbaa884159",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Adjective form for skull",
+                "Cranial"
+            ],
+            "guid": "H-&FH;t=Z6",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Adjective form for head",
+                "Cephalic"
+            ],
+            "guid": "k.y,W)E#VV",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Adjective form for chin",
+                "Mental"
+            ],
+            "guid": "J3k}1rLmh-",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Adjective form for armpit",
+                "Axillary"
+            ],
+            "guid": "bGdGuP4-]a",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Adjective form for arm",
+                "brachial"
+            ],
+            "guid": "g!jnoso~o1",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Adjective form for front of elbow",
+                "Antecubital"
+            ],
+            "guid": "N|akzxF$8|",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Adjective form for wrist",
+                "Carpal"
+            ],
+            "guid": "AtJ[i)AC7h",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Adjective form for thumb",
+                "pollex"
+            ],
+            "guid": "pTm~8VD267",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Adjective form for palm",
+                "palmar"
+            ],
+            "guid": "oIMX<yL^[[",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Adjective form for digits/toes",
+                "digital or phalangeal"
+            ],
+            "guid": "zO]e;}v_d1",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Adjective form for kneecap",
+                "Patellar"
+            ],
+            "guid": "Go{_v3>zNV",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Adjective form for leg",
+                "crural"
+            ],
+            "guid": "D}9F%2[tip",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Adjective form for ankle",
+                "Tarsal"
+            ],
+            "guid": "LIW_H`Tu`s",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Adjective form for great toe",
+                "Hallux"
+            ],
+            "guid": "cg0%pD&j`}",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Adjective form for foot",
+                "pedal"
+            ],
+            "guid": "h}Fz~,rzuW",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Adjective form for thigh",
+                "Femoral"
+            ],
+            "guid": "w5]8c%d8+b",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Adjective form for pubis",
+                "Pubic"
+            ],
+            "guid": "NDzT2f2,~/",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Adjective form for groin",
+                "Inguinal"
+            ],
+            "guid": "bR25}T>mfq",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Adjective form for umbilicus",
+                "Umbilical"
+            ],
+            "guid": "v%2D1MjeR)",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Adjective form for abdomen",
+                "Abdominal"
+            ],
+            "guid": "r8&<KNT&4E",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Adjective form for breast",
+                "Mammary"
+            ],
+            "guid": "m^?UAYd5*",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Adjective form for chest",
+                "Thoracic"
+            ],
+            "guid": "Q0~$sSbw7.",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Adjective form for neck",
+                "Cervical"
+            ],
+            "guid": "qM$$(.57p%",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Adjective form for nose",
+                "Nasal"
+            ],
+            "guid": "dP3I[-</Ge",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Adjective form for ear",
+                "otic"
+            ],
+            "guid": "movpx;c1C3",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Adjective form for cheek",
+                "Buccal"
+            ],
+            "guid": "k%hG=tXb(]",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Adjective form for eye",
+                "ocular"
+            ],
+            "guid": "tuu31`jp%Y",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Adjective form for forehead",
+                "Frontal"
+            ],
+            "guid": "E.>lgxonKS",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        }
+    ],
+    "reviewLimit": null,
+    "reviewLimitToday": null
+}
