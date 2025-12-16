@@ -1,0 +1,840 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "e66f5f2a-da71-11f0-9a31-2d46db13f262",
+    "deck_config_uuid": "fc533b6e-6617-11f0-8bc1-f5d300799d77",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "fc533b6e-6617-11f0-8bc1-f5d300799d77",
+            "desiredRetention": 0.9,
+            "dyn": false,
+            "easyDaysPercentages": [
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "fsrsParams5": [],
+            "fsrsWeights": [],
+            "ignoreRevlogsBeforeDate": "1970-01-01",
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    16.0,
+                    1440.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 3,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    16.0,
+                    1440.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    6,
+                    8,
+                    0
+                ],
+                "order": 0,
+                "perDay": 9999
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 2,
+            "questionAction": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.4,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 240,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": true,
+            "weightSearch": ""
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [],
+    "name": "Capstone Q3",
+    "newLimit": null,
+    "newLimitToday": null,
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 9205121651523078416,
+                    "name": "Front",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -7001571941991209685,
+                    "name": "Back",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic",
+            "originalStockKind": 1,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": -471929315152782166,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who defined research as:<br><br>systematic search for pertinent information on a specific topic or problem",
+                "Gaudencio Aquino"
+            ],
+            "guid": "I2[K)sEyI7",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who defined research as:<br><br>an attempt to gain solutions to problems through the collection of data in a rigorously controlled situation for prediction or explanation",
+                "Eleanor &amp; James Treece"
+            ],
+            "guid": "xhgOdi#_d~",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who defined research as:<br><br>purposive, systematic process of gathering, analyzing, classifying, organizing, presenting, and interpreting data for the solution of a problem and improvement of the quality of human life",
+                "Calderon (2004)"
+            ],
+            "guid": "lD}GuhImYg",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Who defined research as:<br><br>careful study done to find and report new knowledge about something",
+                "Merriam webster"
+            ],
+            "guid": "nry-$OZ?ZQ",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the 4 classifications of research",
+                "- purpose<br>- investigation<br>- choice of answers to problem<br>- statistical content"
+            ],
+            "guid": "heiJoDvE!h",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the classifications of research according to purpose",
+                "- Basic or Pure<br>- Applied"
+            ],
+            "guid": "s1KBC9>`!Q",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the classifications of research according to levels of investigation",
+                "- Exploratory/Assessment<br>- Descriptive/Correlation<br>- Experimental"
+            ],
+            "guid": "g)G717Q)O-",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the classifications of researach according to choice of answers to problem",
+                "- Evaluation<br>- Developmental"
+            ],
+            "guid": "e3lYDfji3C",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the classifications of research according to statistical content",
+                "- quantitative<br>- qualitative"
+            ],
+            "guid": "lp[[6t;IKP",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Classification of research defined to be done to understand phenomenon and develop theories",
+                "Basic or pure"
+            ],
+            "guid": "x;{%VPW=F#",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Classification of research defined as to test efficacy of a theory or principle",
+                "Applied"
+            ],
+            "guid": "f-ICa`@J*+",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Classification of research defined to be done to find out pertinent variables",
+                "Exploratory/Assessment"
+            ],
+            "guid": "nk_r`7>6&b",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Classification of research defined to find out the relationship between two variables",
+                "Descriptive/Correlation"
+            ],
+            "guid": "vV^{}Sl.:Q",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Classification of research defined as to find out the effect of one variable to another",
+                "Experimental"
+            ],
+            "guid": "v&SVkv0a:=",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Classification of research defined as to measure the efficacy of one work method",
+                "Evaluation"
+            ],
+            "guid": "JRjJ{T[N%>",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Classification of research defined as to design better work method",
+                "Developmental"
+            ],
+            "guid": "K9ACKnTaY.",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Classification of research defined as to use inferential stats",
+                "Quantitative"
+            ],
+            "guid": "zl~nLNQQ{]",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Classification of research defined as to use descriptive statistics",
+                "Qualitative"
+            ],
+            "guid": "NGD`_5hnGv",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Give me the 10 steps to understanding the research process (SFDDDCADMW)",
+                "<b><ol><li><div><span style=\"font-weight: 400;\">Selecting the Topic/ Constructing the Title</span></div></li><li><div><span style=\"font-weight: 400;\">Formulating the Thesis Statement</span></div></li><li><div><span style=\"font-weight: 400;\">Doing Library Research</span></div></li><li><div><span style=\"font-weight: 400;\">Designing the Study</span></div></li><li><div><span style=\"font-weight: 400;\">Developing Research Instruments</span></div></li><li><div><span style=\"font-weight: 400;\">Collecting Data in the Field/ Laboratory</span></div></li><li><div><span style=\"font-weight: 400;\">Analyzing Data from the Field/ Laboratory</span></div></li><li><div><span style=\"font-weight: 400;\">Determining Implications and Conclusions from the Findings</span></div></li><li><div><span style=\"font-weight: 400;\">Making Recommendations and/ or Interventions</span></div></li><li><div><span style=\"font-weight: 400;\">Writing the Bibliography and References</span></div></li></ol></b>"
+            ],
+            "guid": "bY732&f}Q>",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which tip to choose a research topic is this:<br><b><ul><li><div><span style=\"font-weight: 400;\">Is there enough research?</span></div></li><li><div><span style=\"font-weight: 400;\">Is it unique?</span></div></li><li><div><span style=\"font-weight: 400;\">Is it relevant to your subject?</span></div></li></ul></b>",
+                "Ask important questions"
+            ],
+            "guid": "MSI!zx%^hm",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which tip in choosing a research topic is this:<br><br>Passion improves quality and motivation.",
+                "Pick a topic you love"
+            ],
+            "guid": "y0!ZAkr_zD",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which tip in choosing a research topic is this:<br><br>Make your topic unique even if others have similar ones.",
+                "Stay original"
+            ],
+            "guid": "w*hEXYaN5#",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which tip in choosing a research topic is this:<br><b><ul><li><div><span style=\"font-weight: 400;\">Ask teachers, classmates, or colleagues.</span></div></li></ul></b>",
+                "Get advice"
+            ],
+            "guid": "yn3jp7fSxY",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which tip in choosing a research topic is this:<br><b><ul><li><div><span style=\"font-weight: 400;\">You can revise your topic if it doesn’t work.</span></div></li></ul></b>",
+                "Don't be afraid to change"
+            ],
+            "guid": "tX4&_XfG6b",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the minimum amount of sources to begin research?",
+                "At least 5"
+            ],
+            "guid": "wI0]ss:(_&",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the 3 steps in making an outline in research",
+                "1. Annotate your research<br>2. Organize your notes<br>3. Construct Preliminary biography"
+            ],
+            "guid": "sE~r%Xo@}T",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What should be included in your preliminary bibliography",
+                "Author, title, page numbers, publisher"
+            ],
+            "guid": "OyMSztqmis",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Enumerate the IMRAD format",
+                "Introduction<br>Methods<br>Results<br>And<br>Discussion"
+            ],
+            "guid": "or+&pFn}*D",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Defined as the basic unit of thought",
+                "The paragraph"
+            ],
+            "guid": "r~8u8D=|H}",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A concise description of the core content",
+                "title"
+            ],
+            "guid": "c,&RR>doHy",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Defined as the summary of the entire paper",
+                "Abstract"
+            ],
+            "guid": "2U^u}oe/n",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Defined as the background, rationale, and purpose",
+                "Introduction"
+            ],
+            "guid": "q:Hq}{F]r}",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Defined as the experimental design and materials",
+                "Materials"
+            ],
+            "guid": "w}{NWb&l0",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Defined as the experimental procedures",
+                "Methods"
+            ],
+            "guid": "r>u+jL}}Wn",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Defined as the findings",
+                "Results"
+            ],
+            "guid": "kQ;ccUHh{y",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Defined as the interperetation of results",
+                "Discussion"
+            ],
+            "guid": "oe)N.^3*tN",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Defined as a brief restatement of findings",
+                "Summary"
+            ],
+            "guid": "goZ,;s!gd.",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Defined as credits to contributors",
+                "Acknowledgement"
+            ],
+            "guid": "O8cM[H|h?s",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Defined as all cited sources",
+                "References"
+            ],
+            "guid": "K58sIq@;^]",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Is it acceptable to use abbreviations in the title?",
+                "No"
+            ],
+            "guid": "e9?]:v;23o",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Is it acceptable to put chemical formulas in the title?",
+                "No"
+            ],
+            "guid": "j{EjNHlwt~",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What wording is to be avoided in the title",
+                "using"
+            ],
+            "guid": "c0hm?MZm:S",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The title may not state the conclusion. T or F?",
+                "F, it may"
+            ],
+            "guid": "NyN`;GJx1%",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the contents of an abstract (OMKM)",
+                "1. Objective and scope of the study<br>2. Methods used<br>3. Key results<br>4. Main conclusions"
+            ],
+            "guid": "y->b*B};H^",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the maximum word count for an abstract",
+                "250 words"
+            ],
+            "guid": "p}oE@jwy|#",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What tense is the abstract to be written in",
+                "Past tense"
+            ],
+            "guid": "xYO8HKub1w",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "You shouldn't put references in the abstract. T or F?",
+                "T, you shouldnt"
+            ],
+            "guid": "C4+XBdpYdW",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Give me the 5 questions the introduction should answer",
+                "1. What was studied<br>2. Importance<br>3. The known<br>4. Model/theory tested<br>5. Approach"
+            ],
+            "guid": "J7+6;+x~NM",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In putting related literature in the introduction, what parts of it must you include",
+                "1. method of investigation<br>2. state main results<br>3. state principal conclusions"
+            ],
+            "guid": "MtLo>3N_<L",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What tense to use in referring to published studies?",
+                "Present tense"
+            ],
+            "guid": "e2[lVWA.n8",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Which voice to use in writing a paper?",
+                "Active voice"
+            ],
+            "guid": "NRMuA|RIma",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What do you use to organize your materials and methods section",
+                "Subheadings"
+            ],
+            "guid": "j34w)k}7=2",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "If organisms are mentioned in the materials and methods, how should you identify them?",
+                "Genus, species, and strain"
+            ],
+            "guid": "NV(:yWbWZ:",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What should be stated in the materials section?",
+                "Source<br>Number of subjects<br>Sex, age, weight"
+            ],
+            "guid": "i(<4lz`p-c",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is to be mentioned if humans are parat of the materials",
+                "Selection criteria<br>Consent"
+            ],
+            "guid": "udn`4sK:K5",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is to be mentioned if chemicals are mentioned in the materials",
+                "Technical specifications<br>Source or preparation method"
+            ],
+            "guid": "EC6ym.:;P<",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "If you are going to use new methods, what is required?",
+                "Full details"
+            ],
+            "guid": "vBP`dht)}]",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "If you are going to use published methods, what should you do?",
+                "Cite references"
+            ],
+            "guid": "x1gpfXzt,>",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What questions do the methods answer?",
+                "How and how much"
+            ],
+            "guid": "riG6W7(ZNN",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "If using an advanced statistical method, what should you do?",
+                "Add a citation to your methods section"
+            ],
+            "guid": "v~47bCHHdv",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Defined as the core of the paper",
+                "the results"
+            ],
+            "guid": "LOSvX,7a4i",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "You cannot include a table/figure without mentioning it in text. T or F?",
+                "T, you have to mention it"
+            ],
+            "guid": "g,E@Zx#Tvn",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What method of presenting data is used for large or complex data",
+                "Tables"
+            ],
+            "guid": "z]ltnu[_YN",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What method of presenting data is used for trends, patterns, relationships",
+                "Figures"
+            ],
+            "guid": "v|+TBI`C)e",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A good table/figure must be?",
+                "Understandable even without the main text"
+            ],
+            "guid": "N?@il@e]Hs",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Defined as the most difficult section to write",
+                "Discussion"
+            ],
+            "guid": "QWopF{%Fw0",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the components of the discussion? (EDCDSS)",
+                "<b><ul><li><div><span style=\"font-weight: 400;\">Explain principles and relationships</span></div></li><li><div><span style=\"font-weight: 400;\">Discuss exceptions and inconsistencies</span></div></li><li><div><span style=\"font-weight: 400;\">Compare with previous studies</span></div></li><li><div><span style=\"font-weight: 400;\">Discuss theoretical and practical implications</span></div></li><li><div><span style=\"font-weight: 400;\">State conclusions clearly</span></div></li><li><div><span style=\"font-weight: 400;\">Summarize evidence for each conclusion</span></div></li></ul></b>"
+            ],
+            "guid": "th5+oS0D^y",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Defined as word order in the title",
+                "Syntax"
+            ],
+            "guid": "Abslg)UkIA",
+            "note_model_uuid": "76601c81-6705-11f0-bc4e-b4a9fc4c5686",
+            "tags": []
+        }
+    ],
+    "reviewLimit": null,
+    "reviewLimitToday": null
+}
